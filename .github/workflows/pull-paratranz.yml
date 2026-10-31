@@ -15,6 +15,9 @@ on:
 
 permissions:
   contents: write
+  # A push made with GITHUB_TOKEN does not start other workflows, so the rebuild is dispatched
+  # explicitly instead of relying on build.yml's push trigger.
+  actions: write
 
 jobs:
   pull:
@@ -49,3 +52,9 @@ jobs:
             git commit -m "Pull translations from ParaTranz"
             git push
           fi
+
+      - name: Rebuild the language packs
+        if: ${{ inputs.dry_run != true }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run build.yml --ref master
