@@ -14151,7 +14151,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>适用于 Windows 的 MKLINK 批处理程序，可与 komorebilauncher 一起使用</translation>
     </message>
 </context>
 <context>
