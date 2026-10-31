@@ -3554,7 +3554,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="382"/>
         <source>Open %1 subreddit.</source>
-        <translation>o open e lipu Wesi pi ilo WTF Launcher.</translation>
+        <translation>o open e lipu Wesi pi ilo Komorebi Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="391"/>

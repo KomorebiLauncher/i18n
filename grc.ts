@@ -628,7 +628,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -645,7 +645,7 @@ To delete this lock and proceed select &quot;Ignore&quot; below.</source>
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
         <translation type="unfinished"></translation>
@@ -660,7 +660,7 @@ for details on the last update attempt.</source>
         <source>Update succeeded
 
 You are now running %1 .
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %1
 for details.</source>
         <translation type="unfinished"></translation>
@@ -2346,7 +2346,7 @@ Please try again.</source>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
         <translation type="unfinished"></translation>
     </message>
@@ -4702,7 +4702,7 @@ Reason:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="464"/>
-        <source>WTF Launcher (zip)</source>
+        <source>Komorebi Launcher (zip)</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7059,7 +7059,7 @@ The updater cannot continue until you fix this problem.</source>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="578"/>
-        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of WTF Launcher.</source>
+        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Komorebi Launcher.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7183,7 +7183,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -7997,7 +7997,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="77"/>
-        <source>a batch MKLINK program for windows to be used with wtflauncher</source>
+        <source>a batch MKLINK program for windows to be used with komorebi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8007,7 +8007,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="221"/>
-        <source>An auto-updater for WTF Launcher</source>
+        <source>An auto-updater for Komorebi Launcher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

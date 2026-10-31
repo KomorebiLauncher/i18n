@@ -950,7 +950,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -962,7 +962,7 @@ Atualização da versão %3 para %4
 Caminho de instalação de destino: %5
 Caminho de dados: %6
 Isto significa provavelmente que uma tentativa de atualização falhou. Por favor, verifica se a sua instalação está em ordem de funcionamento antes de prosseguir.
-Verifica o registo do atualizador do WTF Launcher em: 
+Verifica o registo do atualizador do Komorebi Launcher em: 
 %7
 para obter detalhes sobre a última tentativa de atualização.
 
@@ -978,13 +978,13 @@ Para eliminar este bloqueio e prosseguir, carrega em &quot;Ignorar&quot; abaixo.
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
         <translation>Uma tentativa de atualização falhou
 
 Verifica se a sua instalação está funcionando antes de continuar..
-Verifica o registo do atualizador do WTF Launcher em:
+Verifica o registo do atualizador do Komorebi Launcher em:
 %1
 para ver os detalhes sobre a última tentativa de atualização.</translation>
     </message>
@@ -998,7 +998,7 @@ para ver os detalhes sobre a última tentativa de atualização.</translation>
         <source>Update succeeded
 
 You are now running %1 .
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %2
 for details.</source>
         <oldsource>Update succeeded
@@ -1010,7 +1010,7 @@ for details.</oldsource>
         <translation>Atualização bem-sucedida
 
 Estás a executar %1 .
-Verifica o registo do atualizador do WTF Launcher em:
+Verifica o registo do atualizador do Komorebi Launcher em:
 %1
 para detalhes.</translation>
     </message>
@@ -4204,9 +4204,9 @@ Por favor tenta de novo.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Nota: CurseForge permite que criadores bloqueiam o acesso de ferramentas de terceiros como WTF Launcher. Como tal, talvez seja necessário transferir manualmente alguns mods para instalar um pacote de mods.</translation>
+        <translation>Nota: CurseForge permite que criadores bloqueiam o acesso de ferramentas de terceiros como Komorebi Launcher. Como tal, talvez seja necessário transferir manualmente alguns mods para instalar um pacote de mods.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -6141,9 +6141,9 @@ Certifica-te de que o valor máximo de memória é menor.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
-        <source>Please select how much memory to allocate to instances and if WTF Launcher should manage Java automatically or manually.</source>
+        <source>Please select how much memory to allocate to instances and if Komorebi Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Por favor selecione quanta memória se deve alocar às instâncias e se WTF Launcher deve controlar java automaticamente ou manualmente.</translation>
+        <translation>Por favor selecione quanta memória se deve alocar às instâncias e se Komorebi Launcher deve controlar java automaticamente ou manualmente.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6823,8 +6823,8 @@ Talvez tenhas que resolver problemas com os teus mods porque o jogo ainda está 
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
-        <source>Folder where WTF Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>Pasta onde o WTF Launcher guarda as versões do Java transferidas automaticamente. NÃO escolhas a instalação Java do teu sistema.</translation>
+        <source>Folder where Komorebi Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
+        <translation>Pasta onde o Komorebi Launcher guarda as versões do Java transferidas automaticamente. NÃO escolhas a instalação Java do teu sistema.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
@@ -8588,8 +8588,8 @@ Motivo:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
-        <source>WTF Launcher (zip)</source>
-        <translation>WTF Launcher (zip)</translation>
+        <source>Komorebi Launcher (zip)</source>
+        <translation>Komorebi Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -9224,7 +9224,7 @@ Queres proceder na mesma?</numerusform>
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Unsupported Modrinth link.
 
-WTF Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
+Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13132,8 +13132,8 @@ O atualizador não pode continuar até que este problema seja resolvido.</transl
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
-        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of WTF Launcher.</source>
-        <translation>Qualquer ação que não seja verificar se existem atualizações não é suportada na versão flatpak do WTF Launcher.</translation>
+        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Komorebi Launcher.</source>
+        <translation>Qualquer ação que não seja verificar se existem atualizações não é suportada na versão flatpak do Komorebi Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="517"/>
@@ -13254,7 +13254,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -13266,7 +13266,7 @@ Atualizando de versão %3 para %4
 Caminho de instalação selecionado: %5
 Caminho dos dados: %6
 Isto quer dizer que provavelmente uma tentativa de atualização falhou. Por favor, garante que a tua instalação está funcional antes de procederes.
-Verifica o ficheiro de registo de eventos do WTF Launcher em: 
+Verifica o ficheiro de registo de eventos do Komorebi Launcher em: 
 %7
 para obteres detalhes na última tentativa de atualização.
 
@@ -14368,8 +14368,8 @@ Quer remover esses dados como parte da atualização?</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
-        <source>a batch MKLINK program for windows to be used with wtflauncher</source>
-        <translation>Um programa de Lote MKLINK para o Windows a ser usado com o wtflauncher</translation>
+        <source>a batch MKLINK program for windows to be used with komorebi</source>
+        <translation>Um programa de Lote MKLINK para o Windows a ser usado com o komorebi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
@@ -14378,8 +14378,8 @@ Quer remover esses dados como parte da atualização?</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
-        <source>An auto-updater for WTF Launcher</source>
-        <translation>Um Atualizador Automático para o WTF Launcher</translation>
+        <source>An auto-updater for Komorebi Launcher</source>
+        <translation>Um Atualizador Automático para o Komorebi Launcher</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>

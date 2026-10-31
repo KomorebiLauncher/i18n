@@ -914,7 +914,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -926,7 +926,7 @@ Mengemas kini dari versi %3 ke %4
 Laluan pemasangan sasaran: %5
 Laluan data: %6
 Ini berkemungkinan bermakna percubaan kemas kini gagal. Sila pastikan pemasangan anda berfungsi sebelum meneruskan.
-Semak log kemas kini WTF Launcher di:
+Semak log kemas kini Komorebi Launcher di:
 %7
 untuk butiran tentang percubaan kemas kini terakhir.
 
@@ -942,13 +942,13 @@ Untuk menghapus lock ini dan melanjutkan pilih &quot;Abaikan&quot; di bawah.</tr
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
         <translation>Percubaan kemas kini gagal
 
 Sila pastikan pemasangan anda berfungsi sebelum meneruskan.
-Semak log kemas kini WTF Launcher di:
+Semak log kemas kini Komorebi Launcher di:
 %1
 untuk butiran tentang percubaan kemas kini terakhir.</translation>
     </message>
@@ -962,7 +962,7 @@ untuk butiran tentang percubaan kemas kini terakhir.</translation>
         <source>Update succeeded
 
 You are now running %1 .
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %2
 for details.</source>
         <oldsource>Update succeeded
@@ -974,7 +974,7 @@ for details.</oldsource>
         <translation>Kemas kini berjaya
 
 Anda kini menjalankan %1 .
-Semak log pengemas kini WTF Launcher di:
+Semak log pengemas kini Komorebi Launcher di:
 %1
 untuk butiran.</translation>
     </message>
@@ -3989,9 +3989,9 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Catatan: CurseForge membenarkan pencipta untuk menyekat akses kepada alatan pihak ketiga seperti WTF Launcher. Oleh itu, anda mungkin perlu memuat turun beberapa mod secara manual untuk dapat memasang pek mod.</translation>
+        <translation>Catatan: CurseForge membenarkan pencipta untuk menyekat akses kepada alatan pihak ketiga seperti Komorebi Launcher. Oleh itu, anda mungkin perlu memuat turun beberapa mod secara manual untuk dapat memasang pek mod.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -5730,9 +5730,9 @@ Sila pastikan nilai memori maximum rendah.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
-        <source>Please select how much memory to allocate to instances and if WTF Launcher should manage Java automatically or manually.</source>
+        <source>Please select how much memory to allocate to instances and if Komorebi Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Sila pilih jumlah ingatan yang hendak diperuntukkan kepada kesemua pemasangan dan sama ada WTF Launcher harus mengurus Java secara automatik atau manual.</translation>
+        <translation>Sila pilih jumlah ingatan yang hendak diperuntukkan kepada kesemua pemasangan dan sama ada Komorebi Launcher harus mengurus Java secara automatik atau manual.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6433,7 +6433,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
-        <source>Folder where WTF Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
+        <source>Folder where Komorebi Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -7941,8 +7941,8 @@ Sebab:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
-        <source>WTF Launcher (zip)</source>
-        <translation>WTF Launcher (zip)</translation>
+        <source>Komorebi Launcher (zip)</source>
+        <translation>Komorebi Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -8439,7 +8439,7 @@ Adakah anda ingin meneruskan?</numerusform>
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Unsupported Modrinth link.
 
-WTF Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
+Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11716,8 +11716,8 @@ Pengemas kini tidak boleh meneruskan sehingga anda membetulkan masalah ini.</tra
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
-        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of WTF Launcher.</source>
-        <translation>Tindakan di luar menyemak sama ada kemas kini tersedia tidak disokong semasa menjalankan versi flatpak WTF Launcher.</translation>
+        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Komorebi Launcher.</source>
+        <translation>Tindakan di luar menyemak sama ada kemas kini tersedia tidak disokong semasa menjalankan versi flatpak Komorebi Launcher.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="517"/>
@@ -11836,7 +11836,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -11848,7 +11848,7 @@ Mengemas kini daripada versi %3 kepada %4
 Laluan pemasangan sasaran: %5
 Laluan Data: %6
 Ini berkemungkinan bermakna percubaan kemas kini sebelumnya gagal. Sila pastikan pemasangan anda berfungsi sebelum meneruskan.
-Semak log pengemas kini WTF Launcher di: 
+Semak log pengemas kini Komorebi Launcher di: 
 %7
 untuk butiran tentang percubaan kemas kini terakhir.
 
@@ -12807,7 +12807,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
-        <source>a batch MKLINK program for windows to be used with wtflauncher</source>
+        <source>a batch MKLINK program for windows to be used with komorebi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12817,7 +12817,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
-        <source>An auto-updater for WTF Launcher</source>
+        <source>An auto-updater for Komorebi Launcher</source>
         <translation type="unfinished"></translation>
     </message>
     <message>

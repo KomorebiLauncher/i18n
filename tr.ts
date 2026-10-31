@@ -966,7 +966,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -978,7 +978,7 @@ Zaman damgası: %2
 Hedef kurulum yolu: %5
 Veri yolu: %6
 Bu durum, muhtemelen bir güncelleme denemesinin başarısız olduğu anlamına gelir. Devam etmeden önce kurulumunuzun düzgün çalıştığından emin olun.
-Son güncelleme denemesine ilişkin ayrıntılar için WTF Launcher güncelleyici günlüğünü şu konumda kontrol edin:
+Son güncelleme denemesine ilişkin ayrıntılar için Komorebi Launcher güncelleyici günlüğünü şu konumda kontrol edin:
 %7
 
 Bu kilidi silmek ve devam etmek için aşağıdaki “Yoksay” seçeneğini seçin.</translation>
@@ -993,13 +993,13 @@ Bu kilidi silmek ve devam etmek için aşağıdaki “Yoksay” seçeneğini se�
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
         <translation>Güncelleme denemesi başarısız oldu
 
 Devam etmeden önce kurulumunuzun düzgün çalıştığından emin olun.
-Son güncelleme denemesiyle ilgili ayrıntılar için WTF Launcher güncelleyici günlüğünü şu adresten kontrol edin:
+Son güncelleme denemesiyle ilgili ayrıntılar için Komorebi Launcher güncelleyici günlüğünü şu adresten kontrol edin:
 %1</translation>
     </message>
     <message>
@@ -1012,7 +1012,7 @@ Son güncelleme denemesiyle ilgili ayrıntılar için WTF Launcher güncelleyici
         <source>Update succeeded
 
 You are now running %1 .
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %2
 for details.</source>
         <oldsource>Update succeeded
@@ -1024,7 +1024,7 @@ for details.</oldsource>
         <translation>Güncelleme başarıyla tamamlandı
 
 Şu anda %1 programını çalıştırıyorsunuz.
-Ayrıntılar için WTF Launcher güncelleme günlüğünü şu adresten kontrol edin:
+Ayrıntılar için Komorebi Launcher güncelleme günlüğünü şu adresten kontrol edin:
 %2</translation>
     </message>
     <message>
@@ -4265,9 +4265,9 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini aldığ
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Not: CurseForge, içerik oluşturucuların WTF Launcher gibi üçüncü taraf araçlara erişimi engellemesine olanak tanır. Bu nedenle, bir mod paketini yükleyebilmek için bazı modları manuel olarak indirmeniz gerekebilir.</translation>
+        <translation>Not: CurseForge, içerik oluşturucuların Komorebi Launcher gibi üçüncü taraf araçlara erişimi engellemesine olanak tanır. Bu nedenle, bir mod paketini yükleyebilmek için bazı modları manuel olarak indirmeniz gerekebilir.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -6249,9 +6249,9 @@ Lütfen maksimum bellek değerinin daha düşük olduğundan emin olun.</transla
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
-        <source>Please select how much memory to allocate to instances and if WTF Launcher should manage Java automatically or manually.</source>
+        <source>Please select how much memory to allocate to instances and if Komorebi Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Lütfen profillere ne kadar bellek ayrılacağını ve WTF Launcher&apos;ın Java&apos;yı otomatik mi yoksa manuel mi yöneteceğini seçin.</translation>
+        <translation>Lütfen profillere ne kadar bellek ayrılacağını ve Komorebi Launcher&apos;ın Java&apos;yı otomatik mi yoksa manuel mi yöneteceğini seçin.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6492,7 +6492,7 @@ Java sürümünü daha sonra ayarlardan değiştirebilirsiniz.
     </message>
     <message>
         <source>The launcher&apos;s client identification has changed. Please remove &apos;%1&apos; and try again.</source>
-        <translation type="vanished">WTF Launcher&apos;ın kullanıcı kimliği değişti. Lütfen &apos;%1&apos; ifadesini kaldırıp yeniden deneyin.</translation>
+        <translation type="vanished">Komorebi Launcher&apos;ın kullanıcı kimliği değişti. Lütfen &apos;%1&apos; ifadesini kaldırıp yeniden deneyin.</translation>
     </message>
     <message>
         <source>&apos;%1&apos; no longer exists on the servers. It may have been migrated, in which case please add the new account you migrated this one to.</source>
@@ -6943,8 +6943,8 @@ Modlarınızı düzeltmeniz gerekebilir, çünkü oyun hala dosyalara günlük k
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
-        <source>Folder where WTF Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>WTF Launcher tarafından otomatik yüklenen Java dosyalarının depolanacağı klasör. BUNU ASIL SİSTEM JAVA İNDİRME LOKASYONUNA AYARLAMAYINIZ.</translation>
+        <source>Folder where Komorebi Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
+        <translation>Komorebi Launcher tarafından otomatik yüklenen Java dosyalarının depolanacağı klasör. BUNU ASIL SİSTEM JAVA İNDİRME LOKASYONUNA AYARLAMAYINIZ.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
@@ -8785,7 +8785,7 @@ Sebep:
     </message>
     <message>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="vanished">/usr/local/bin&apos;e bir wtflauncher sembolik bağlantısı kur</translation>
+        <translation type="vanished">/usr/local/bin&apos;e bir komorebi sembolik bağlantısı kur</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -8912,7 +8912,7 @@ Sebep:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
-        <source>WTF Launcher (zip)</source>
+        <source>Komorebi Launcher (zip)</source>
         <translation>Prism Başlatıcı (zip)</translation>
     </message>
     <message>
@@ -9489,10 +9489,10 @@ Emin misiniz?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Unsupported Modrinth link.
 
-WTF Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
+Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
         <translation>Desteksiz Modrinth linki.
 
-WTF Launcher şu anda sadece modrinth://modpack/fabulously-optimized gibi mod paketlerini destekler.</translation>
+Komorebi Launcher şu anda sadece modrinth://modpack/fabulously-optimized gibi mod paketlerini destekler.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1091"/>
@@ -13609,8 +13609,8 @@ Siz bu sorunu çözene kadar güncelleyici devam edemez.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
-        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of WTF Launcher.</source>
-        <translation>WTF Launcher&apos;ın Flatpak sürümü çalıştırılırken, güncelleme kontrolü dışındaki eylemler desteklenmez.</translation>
+        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Komorebi Launcher.</source>
+        <translation>Komorebi Launcher&apos;ın Flatpak sürümü çalıştırılırken, güncelleme kontrolü dışındaki eylemler desteklenmez.</translation>
     </message>
     <message>
         <source>Updating Not Supported</source>
@@ -13739,7 +13739,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -13751,7 +13751,7 @@ Sürüm %3&apos;ten %4&apos;e güncelleniyor
 Hedef yükleme yolu: %5
 Veri Yolu: %6
 Bu muhtemelen önceki bir güncelleme girişiminin başarısız olduğu anlamına gelir. Lütfen devam etmeden önce kurulumunuzun çalışır durumda olduğundan emin olun.
-WTF Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
+Komorebi Launcher güncelleyici günlüğünü şu adresten kontrol edin: 
 %7
 son güncelleme girişimiyle ilgili ayrıntılar için.
 
@@ -14873,8 +14873,8 @@ Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translatio
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
-        <source>a batch MKLINK program for windows to be used with wtflauncher</source>
-        <translation>WTF Launcher ile kullanılmak üzere Windows için bir toplu MKLINK programı</translation>
+        <source>a batch MKLINK program for windows to be used with komorebi</source>
+        <translation>Komorebi Launcher ile kullanılmak üzere Windows için bir toplu MKLINK programı</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
@@ -14883,8 +14883,8 @@ Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translatio
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
-        <source>An auto-updater for WTF Launcher</source>
-        <translation>WTF Launcher için otomatik güncelleyici</translation>
+        <source>An auto-updater for Komorebi Launcher</source>
+        <translation>Komorebi Launcher için otomatik güncelleyici</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>

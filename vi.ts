@@ -329,7 +329,7 @@
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="116"/>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A custom launcher that makes managing Minecraft easier by allowing you to have multiple instances of Minecraft at once.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;WTF Launcher là một launcher để giúp quản lí Minecraft dễ dàng hơn bằng cách tạo ra nhiều phiên bản Minecraft khác nhau.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Komorebi Launcher là một launcher để giúp quản lí Minecraft dễ dàng hơn bằng cách tạo ra nhiều phiên bản Minecraft khác nhau.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/dialogs/AboutDialog.ui" line="173"/>
@@ -954,7 +954,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -966,7 +966,7 @@ Mốc thời gian: %2
 Đang cài tại %5
 Chỗ dữ liệu: %6
 Lỗi này có thể là do việc cập nhật đã thất bại. Vui lòng chắc chắn bản cài đặt của bạn vẫn có thể chạy được như bình thường trước khi tiếp tục.
-Kiểm tra tệp log cho việc cập nhật WTF Launcher ở:
+Kiểm tra tệp log cho việc cập nhật Komorebi Launcher ở:
 %7
 để biết thêm về lần thử cập nhật cuối.
 
@@ -982,13 +982,13 @@ Kiểm tra tệp log cho việc cập nhật WTF Launcher ở:
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
         <translation>Lượt thử cập nhật đã thất bại
 
 Hãy kiểm tra bản cài của bạn vẫn có thể dùng được bình thường trước khi tiếp tục.
-Kiểm tra tệp log để cập nhật WTF Launcher ở:
+Kiểm tra tệp log để cập nhật Komorebi Launcher ở:
 %1
 để hiểu thêm về lượt thử cập nhật cuối.</translation>
     </message>
@@ -1002,7 +1002,7 @@ Kiểm tra tệp log để cập nhật WTF Launcher ở:
         <source>Update succeeded
 
 You are now running %1 .
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %2
 for details.</source>
         <oldsource>Update succeeded
@@ -1014,7 +1014,7 @@ for details.</oldsource>
         <translation>Cập nhật thành công
 
 Bạn đang chạy phiên bản %1.
-Kiểm tra tệp log để cập nhật WTF Launcher ở:
+Kiểm tra tệp log để cập nhật Komorebi Launcher ở:
 %2
 để biết thêm.</translation>
     </message>
@@ -4189,9 +4189,9 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Lưu ý: CurseForge cho phép người tạo chặn quyền truy cập vào các công cụ của bên thứ ba như WTF Launcher. Do đó, bạn sẽ cần phải tải một số mod theo cách thủ công khi cài đặt modpack.</translation>
+        <translation>Lưu ý: CurseForge cho phép người tạo chặn quyền truy cập vào các công cụ của bên thứ ba như Komorebi Launcher. Do đó, bạn sẽ cần phải tải một số mod theo cách thủ công khi cài đặt modpack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -5079,7 +5079,7 @@ Bạn muốn làm gì với %2?</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Nếu bật, WTF Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
+        <translation type="vanished">Nếu bật, Komorebi Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
@@ -5179,11 +5179,11 @@ Bạn muốn làm gì với %2?</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="vanished">Đóng WTF Launcher sau khi mở cửa sổ trò chơi</translation>
+        <translation type="vanished">Đóng Komorebi Launcher sau khi mở cửa sổ trò chơi</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="vanished">Thoát WTF Launcher sau khi đóng cửa sổ trò chơi</translation>
+        <translation type="vanished">Thoát Komorebi Launcher sau khi đóng cửa sổ trò chơi</translation>
     </message>
     <message>
         <source>Custom commands</source>
@@ -5769,7 +5769,7 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="vanished">Nếu bật, WTF Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
+        <translation type="vanished">Nếu bật, Komorebi Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
     </message>
     <message>
         <source>&amp;Skip Java compatibility checks</source>
@@ -5958,7 +5958,7 @@ Bạn có thể đổi phiên bản Java ở trong cài đặt sau.
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="130"/>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation>Nếu bật, WTF Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
+        <translation>Nếu bật, Komorebi Launcher sẽ không kiểm tra nếu phiên bản này tương thích với phiên bản Java đã chọn.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/JavaSettingsWidget.ui" line="44"/>
@@ -6134,9 +6134,9 @@ Hãy chắc rằng cài đặt giá trị tối đa của bộ nhớ là nhỏ h
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
-        <source>Please select how much memory to allocate to instances and if WTF Launcher should manage Java automatically or manually.</source>
+        <source>Please select how much memory to allocate to instances and if Komorebi Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Hãy chọn mức bộ nhớ để phân bổ cho các phiên bản và liệu WTF Launcher sẽ quản lý Java tự động hay thủ công.</translation>
+        <translation>Hãy chọn mức bộ nhớ để phân bổ cho các phiên bản và liệu Komorebi Launcher sẽ quản lý Java tự động hay thủ công.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6820,8 +6820,8 @@ Bạn nên cần sửa lại các mod vì game vẫn đang thực hiện việc 
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
-        <source>Folder where WTF Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>Thư mục đựng các bản Java đã tự tải về của WTF Launcher. ĐỪNG đổi cái này sang phiên bản Java cài trên máy.</translation>
+        <source>Folder where Komorebi Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
+        <translation>Thư mục đựng các bản Java đã tự tải về của Komorebi Launcher. ĐỪNG đổi cái này sang phiên bản Java cài trên máy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
@@ -8530,8 +8530,8 @@ Lý do:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
-        <source>WTF Launcher (zip)</source>
-        <translation>WTF Launcher (zip)</translation>
+        <source>Komorebi Launcher (zip)</source>
+        <translation>Komorebi Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -9211,10 +9211,10 @@ Bạn có muốn tiếp tục?</numerusform>
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Unsupported Modrinth link.
 
-WTF Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
+Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
         <translation>Đường dẫn Modrinth không được hỗ trợ.
 
-WTF Launcher hiện chỉ hỗ trợ các đường dẫn modpack tương tự modrinth://modpack/fabulously-optimized.</translation>
+Komorebi Launcher hiện chỉ hỗ trợ các đường dẫn modpack tương tự modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1293"/>
@@ -10043,11 +10043,11 @@ Bạn chắc chắn chứ?</translation>
     </message>
     <message>
         <source>Close the launcher after game window opens</source>
-        <translation type="obsolete">Đóng WTF Launcher sau khi mở cửa sổ trò chơi</translation>
+        <translation type="obsolete">Đóng Komorebi Launcher sau khi mở cửa sổ trò chơi</translation>
     </message>
     <message>
         <source>Quit the launcher after game window closes</source>
-        <translation type="obsolete">Thoát WTF Launcher sau khi đóng cửa sổ trò chơi</translation>
+        <translation type="obsolete">Thoát Komorebi Launcher sau khi đóng cửa sổ trò chơi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/widgets/MinecraftSettingsWidget.ui" line="617"/>
@@ -13028,8 +13028,8 @@ Trình cập nhật không thể tiếp tục cho đến khi bạn khắc phục
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
-        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of WTF Launcher.</source>
-        <translation>Không hỗ trợ việc kiểm tra cập nhật từ nguồn khác khi đang chạy phiên bản flatpak cho WTF Launcher.</translation>
+        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Komorebi Launcher.</source>
+        <translation>Không hỗ trợ việc kiểm tra cập nhật từ nguồn khác khi đang chạy phiên bản flatpak cho Komorebi Launcher.</translation>
     </message>
     <message>
         <source>Updating Not Supported</source>
@@ -13158,7 +13158,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -13170,7 +13170,7 @@ Cập nhật từ phiên bản %3 đến %4
 Thư mục đích: %5
 Đường dẫn đến dữ liệu: %6
 Điều này có nghĩa là lần cập nhật trước đó đã thất bại. Vui lòng đảm bảo việc cài đặt hoạt động theo đúng thứ tự trước khi tiếp tục.
-Kiểm tra nhật ký cập nhật của WTF Launcher tại: 
+Kiểm tra nhật ký cập nhật của Komorebi Launcher tại: 
 %7
 Chi tiết cho lần cập nhật gần đây nhất.
 
@@ -14248,8 +14248,8 @@ Bạn có muốn xoá những tệp lưu trước đó không?</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
-        <source>a batch MKLINK program for windows to be used with wtflauncher</source>
-        <translation>một chương trình batch MKLINK cho windows để dùng với wtflauncher</translation>
+        <source>a batch MKLINK program for windows to be used with komorebi</source>
+        <translation>một chương trình batch MKLINK cho windows để dùng với komorebi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
@@ -14258,8 +14258,8 @@ Bạn có muốn xoá những tệp lưu trước đó không?</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
-        <source>An auto-updater for WTF Launcher</source>
-        <translation>Một trình cập nhật tự động cho WTF Launcher</translation>
+        <source>An auto-updater for Komorebi Launcher</source>
+        <translation>Một trình cập nhật tự động cho Komorebi Launcher</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>

@@ -942,7 +942,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -954,7 +954,7 @@ Aktualizácia z verzie %3 na verziu %4
 Cieľová cesta inštalácie: %5
 Cesta k dátam: %6
 Toto pravdepodobne znamená, že aktualizácia zlyhala. Pred pokračovaním sa, prosím, uistite, že vaša inštalácia je funkčná.
-Podrobnosti nájdete v logu aktualizačného programu WTF Launchera na: 
+Podrobnosti nájdete v logu aktualizačného programu Komorebi Launchera na: 
 %7
 .
 
@@ -970,13 +970,13 @@ Ak chcete tento zámok prepísať a pokračovať v aktualizácii aj tak, vyberte
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
         <translation>Aktualizácia zlyhala.
 
 Pred pokračovaním sa, prosím, uistite, že vaša inštalácia je funkčná.
-Skontrolujte log aktualizačného programu WTF Launchera na:
+Skontrolujte log aktualizačného programu Komorebi Launchera na:
 %1
 pre podrobnosti o poslednom pokuse o aktualizáciu.</translation>
     </message>
@@ -990,7 +990,7 @@ pre podrobnosti o poslednom pokuse o aktualizáciu.</translation>
         <source>Update succeeded
 
 You are now running %1 .
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %2
 for details.</source>
         <oldsource>Update succeeded
@@ -1002,7 +1002,7 @@ for details.</oldsource>
         <translation>Aktualizácia prebehla úspešne
 
 Teraz používate verziu %1.
-V logu aktualizačného programu WTF Launchera na:
+V logu aktualizačného programu Komorebi Launchera na:
 %2
 nájdete podrobnosti.</translation>
     </message>
@@ -4128,9 +4128,9 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Poznámka: CurseForge dovoľuje autorom blokovať prístup pre nástroje tretích strán ako WTF Launcher. Pri inštalácii modpacku možno bude treba manuálne stiahnuť módy.</translation>
+        <translation>Poznámka: CurseForge dovoľuje autorom blokovať prístup pre nástroje tretích strán ako Komorebi Launcher. Pri inštalácii modpacku možno bude treba manuálne stiahnuť módy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -6019,9 +6019,9 @@ Prosím, uistite sa, že maximálne povolené využitie pamäte je menšie.</tra
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
-        <source>Please select how much memory to allocate to instances and if WTF Launcher should manage Java automatically or manually.</source>
+        <source>Please select how much memory to allocate to instances and if Komorebi Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Prosím, vyberte, koľko pamäte chcete prideliť inštanciám, a či chcete, aby WTF Launcher automaticky spravoval Javu.</translation>
+        <translation>Prosím, vyberte, koľko pamäte chcete prideliť inštanciám, a či chcete, aby Komorebi Launcher automaticky spravoval Javu.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6691,8 +6691,8 @@ Možno bude treba opraviť módy, pretože hra stále loguje do súborov a pravd
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
-        <source>Folder where WTF Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>Priečinok, do ktorého WTF Launcher automaticky ukladá stiahnuté verzie Javy. NESMERUJTE toto nastavenie na systémovú inštaláciu Javy.</translation>
+        <source>Folder where Komorebi Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
+        <translation>Priečinok, do ktorého Komorebi Launcher automaticky ukladá stiahnuté verzie Javy. NESMERUJTE toto nastavenie na systémovú inštaláciu Javy.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
@@ -8479,8 +8479,8 @@ Dôvod:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
-        <source>WTF Launcher (zip)</source>
-        <translation>WTF Launcher (zip)</translation>
+        <source>Komorebi Launcher (zip)</source>
+        <translation>Komorebi Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -8849,7 +8849,7 @@ Ste si istí?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Unsupported Modrinth link.
 
-WTF Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
+Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -12508,8 +12508,8 @@ Aktualizátor nemôže pokračovať, kým tento problém neopravíte.</translati
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
-        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of WTF Launcher.</source>
-        <translation>Akcie iné než kontrola dostupnosti aktualizácie nie sú pri spustení Flatpak verzie WTF Launcheru podporované.</translation>
+        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Komorebi Launcher.</source>
+        <translation>Akcie iné než kontrola dostupnosti aktualizácie nie sú pri spustení Flatpak verzie Komorebi Launcheru podporované.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="517"/>
@@ -12630,7 +12630,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -12642,7 +12642,7 @@ Aktualizácia z verzie %3 na verziu %4
 Cieľová cesta inštalácie: %5
 Cesta k dátam: %6
 To pravdepodobne znamená, že predchádzajúci pokus o aktualizáciu zlyhal. Pred pokračovaním sa uistite, že vaša inštalácia funguje správne.
-Podrobnosti o poslednom pokuse o aktualizáciu nájdete v logu aktualizačného programu WTF Launchera na: 
+Podrobnosti o poslednom pokuse o aktualizáciu nájdete v logu aktualizačného programu Komorebi Launchera na: 
 %7
 .
 
@@ -13642,7 +13642,7 @@ Chcete tieto existujúce súbory odstrániť ako súčasť tejto aktualizácie?<
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
-        <source>a batch MKLINK program for windows to be used with wtflauncher</source>
+        <source>a batch MKLINK program for windows to be used with komorebi</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13652,8 +13652,8 @@ Chcete tieto existujúce súbory odstrániť ako súčasť tejto aktualizácie?<
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
-        <source>An auto-updater for WTF Launcher</source>
-        <translation>Automatický aktualizačný program pre WTF Launcher</translation>
+        <source>An auto-updater for Komorebi Launcher</source>
+        <translation>Automatický aktualizačný program pre Komorebi Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="33"/>

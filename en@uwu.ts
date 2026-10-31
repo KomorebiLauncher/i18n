@@ -1817,7 +1817,7 @@ NYOTE: Make suwe you made a backup of youw impowtant instance d-data b-befowe up
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
         <translation>Nyote: CuwseFowge awwows cweatows to bwock access to thiwd-pawty wawty toows wike P-Pwism Waunchew. As s-such, you may n-nyeed to manyuawwy wanyuawwy downwoad some mods to be abwe to instaww a modpack.</translation>
     </message>

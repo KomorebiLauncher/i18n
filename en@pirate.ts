@@ -1769,9 +1769,9 @@ Try again, if ye dare.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Note: CurseForge allows creators to deny access to high-seas ships like WTF Launcher. As such, ye may need to get to stealin&apos; some mods to be able to install such a pack.</translation>
+        <translation>Note: CurseForge allows creators to deny access to high-seas ships like Komorebi Launcher. As such, ye may need to get to stealin&apos; some mods to be able to install such a pack.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>

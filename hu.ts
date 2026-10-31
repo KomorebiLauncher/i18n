@@ -954,7 +954,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -966,7 +966,7 @@ Frissítés a %3 verzióról a %4 verzióra
 Cél telepítési útvonal: %5
 Adatok elérési útvonala: %6
 Ez valószínűleg azt jelenti, hogy a frissítési kísérlet sikertelen volt. A folytatás előtt győződj meg arról, hogy a telepítés rendben van-e.
-Ellenőrizd a WTF Launcher frissítő naplóját a következő címen: 
+Ellenőrizd a Komorebi Launcher frissítő naplóját a következő címen: 
 %7
 a legutóbbi frissítési kísérlet részleteiért.
 
@@ -982,13 +982,13 @@ A zárolás törléséhez és a folytatáshoz válaszd az alábbi „Figyelmen k
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
         <translation>Egy frissítési próbálkozás nem sikerült
 
 Mielőtt folytatnád, bizonyosodj meg arról, hogy a telepítés helyesen működik.
-Tekintsd meg a WTF Launcher frissítési naplóját itt:&#xa0;
+Tekintsd meg a Komorebi Launcher frissítési naplóját itt:&#xa0;
 %1
 hogy részletes leírást kapj az utolsó frissítési próbálkozásról.</translation>
     </message>
@@ -1002,7 +1002,7 @@ hogy részletes leírást kapj az utolsó frissítési próbálkozásról.</tran
         <source>Update succeeded
 
 You are now running %1 .
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %2
 for details.</source>
         <oldsource>Update succeeded
@@ -1014,7 +1014,7 @@ for details.</oldsource>
         <translation>Sikeres frissítés
 
 Jelenleg a(z) %1 verziót futtatod.
-Tekintsd meg a WTF Launcher frissítési naplóját itt:&#xa0;
+Tekintsd meg a Komorebi Launcher frissítési naplóját itt:&#xa0;
 %1
 további részletekért.</translation>
     </message>
@@ -4257,9 +4257,9 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Megjegyzés: A CurseForge lehetővé teszi a készítők számára, hogy blokkolják a hozzáférést olyan harmadik féltől származó programokhoz, mint a WTF Launcher. Így előfordulhat, hogy manuálisan kell letöltened néhány modot, hogy telepíteni tudj egy modcsomagot.</translation>
+        <translation>Megjegyzés: A CurseForge lehetővé teszi a készítők számára, hogy blokkolják a hozzáférést olyan harmadik féltől származó programokhoz, mint a Komorebi Launcher. Így előfordulhat, hogy manuálisan kell letöltened néhány modot, hogy telepíteni tudj egy modcsomagot.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -6235,9 +6235,9 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
-        <source>Please select how much memory to allocate to instances and if WTF Launcher should manage Java automatically or manually.</source>
+        <source>Please select how much memory to allocate to instances and if Komorebi Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Válaszd ki, hogy mennyi memóriát rendeljen a példányokhoz, és hogy a WTF Launcher automatikusan vagy manuálisan kezelje a Javát.</translation>
+        <translation>Válaszd ki, hogy mennyi memóriát rendeljen a példányokhoz, és hogy a Komorebi Launcher automatikusan vagy manuálisan kezelje a Javát.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6927,8 +6927,8 @@ Lehet, hogy ellenőrizned kell a modjaid, mert a játék még mindig naplóz, é
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
-        <source>Folder where WTF Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>Az a mappa, amelybe a WTF Launcher az automatikusan letöltött Java-verziókat tárolja. NE állítsad be erre a rendszer Java-telepítését.</translation>
+        <source>Folder where Komorebi Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
+        <translation>Az a mappa, amelybe a Komorebi Launcher az automatikusan letöltött Java-verziókat tárolja. NE állítsad be erre a rendszer Java-telepítését.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
@@ -8605,7 +8605,7 @@ Indok:
     </message>
     <message>
         <source>Install a prismlauncher symlink to /usr/local/bin</source>
-        <translation type="vanished">Telepítsen egy wtflauncher szimbolikus hivatkozást (symlink) a /usr/local/bin mappába</translation>
+        <translation type="vanished">Telepítsen egy komorebi szimbolikus hivatkozást (symlink) a /usr/local/bin mappába</translation>
     </message>
     <message>
         <source>Report a &amp;Bug...</source>
@@ -8876,8 +8876,8 @@ Indok:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
-        <source>WTF Launcher (zip)</source>
-        <translation>WTF Launcher (zip)</translation>
+        <source>Komorebi Launcher (zip)</source>
+        <translation>Komorebi Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -9448,7 +9448,7 @@ Biztos vagy benne?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Unsupported Modrinth link.
 
-WTF Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
+Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13574,8 +13574,8 @@ A frissítő nem tud tovább haladni, amíg ezt a problémát meg nem oldod.</tr
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
-        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of WTF Launcher.</source>
-        <translation>Frissítések keresésén más akció nem támogatott a WTF Launcher Flatpak verzióján.</translation>
+        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Komorebi Launcher.</source>
+        <translation>Frissítések keresésén más akció nem támogatott a Komorebi Launcher Flatpak verzióján.</translation>
     </message>
     <message>
         <source>Updating Not Supported</source>
@@ -13704,7 +13704,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -13716,7 +13716,7 @@ Frissítés a %3 verzióról a %4 verzióra
 Cél telepítési útvonal: %5
 Adatok elérési útvonala: %6
 Ez valószínűleg azt jelenti, hogy egy korábbi frissítési kísérlet sikertelen volt. A folytatás előtt győződj meg arról, hogy a telepítés rendben van.
-Ellenőrizd a WTF Launcher frissítő naplóját a következő címen: 
+Ellenőrizd a Komorebi Launcher frissítő naplóját a következő címen: 
 %7
 a legutóbbi frissítési kísérlet részleteiért.
 
@@ -14833,7 +14833,7 @@ El szeretnéd távolítani ezeket a meglévő mentéseket a frissítés alatt?</
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
-        <source>a batch MKLINK program for windows to be used with wtflauncher</source>
+        <source>a batch MKLINK program for windows to be used with komorebi</source>
         <translation>kötegelt MKLINK program a Prismlauncherrel használható windowshoz</translation>
     </message>
     <message>
@@ -14843,8 +14843,8 @@ El szeretnéd távolítani ezeket a meglévő mentéseket a frissítés alatt?</
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
-        <source>An auto-updater for WTF Launcher</source>
-        <translation>Automatikus frissítő a WTF Launcherhez</translation>
+        <source>An auto-updater for Komorebi Launcher</source>
+        <translation>Automatikus frissítő a Komorebi Launcherhez</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>

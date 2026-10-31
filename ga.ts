@@ -762,7 +762,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -774,7 +774,7 @@ Ag nuashonrú ó leagan %3 go %4
 Cosán suiteála sprice: %5
 Cosán sonraí: %6
 Is dócha gur theip ar iarracht nuashonraithe. Cinntigh go bhfuil do shuiteáil ag obair go maith sula leanann tú ar aghaidh.
-Seiceáil log nuashonraithe WTF Launcher ag:
+Seiceáil log nuashonraithe Komorebi Launcher ag:
 %7
 le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.
 
@@ -790,13 +790,13 @@ Chun an glasáil seo a scriosadh agus leanúint ar aghaidh, roghnaigh &quot;Neam
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
         <translation>Theip ar iarracht nuashonraithe
 
 Cinntigh go bhfuil do shuiteáil ag obair i gceart sula leanann tú ar aghaidh.
-Seiceáil log nuashonraithe WTF Launcher ag:
+Seiceáil log nuashonraithe Komorebi Launcher ag:
 %1
 le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.</translation>
     </message>
@@ -810,7 +810,7 @@ le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.</translation>
         <source>Update succeeded
 
 You are now running %1 .
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %2
 for details.</source>
         <oldsource>Update succeeded
@@ -822,7 +822,7 @@ for details.</oldsource>
         <translation>D&apos;éirigh leis an nuashonrú
 
 Tá %1 á rith agat anois.
-Seiceáil log nuashonraithe WTF Launcher ag:
+Seiceáil log nuashonraithe Komorebi Launcher ag:
 %2
 le haghaidh sonraí.</translation>
     </message>
@@ -3733,9 +3733,9 @@ Déan iarracht arís.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Nóta: Ligeann CurseForge do chruthaitheoirí rochtain ar uirlisí tríú páirtí ar nós WTF Launcher a bhac. Dá bhrí sin, b’fhéidir go mbeadh ort roinnt mods a íoslódáil de láimh le go mbeidh tú in ann modpack a shuiteáil.</translation>
+        <translation>Nóta: Ligeann CurseForge do chruthaitheoirí rochtain ar uirlisí tríú páirtí ar nós Komorebi Launcher a bhac. Dá bhrí sin, b’fhéidir go mbeadh ort roinnt mods a íoslódáil de láimh le go mbeidh tú in ann modpack a shuiteáil.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -5435,9 +5435,9 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
-        <source>Please select how much memory to allocate to instances and if WTF Launcher should manage Java automatically or manually.</source>
+        <source>Please select how much memory to allocate to instances and if Komorebi Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Roghnaigh cé mhéad cuimhne atá le leithdháileadh ar chásanna agus an gcaithfidh WTF Launcher Java a bhainistiú go huathoibríoch nó de láimh.</translation>
+        <translation>Roghnaigh cé mhéad cuimhne atá le leithdháileadh ar chásanna agus an gcaithfidh Komorebi Launcher Java a bhainistiú go huathoibríoch nó de láimh.</translation>
     </message>
 </context>
 <context>
@@ -6197,8 +6197,8 @@ B’fhéidir go mbeidh ort do mhodhanna a shocrú mar tá an cluiche fós ag log
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
-        <source>Folder where WTF Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>Fillteán ina stórálann WTF Launcher leaganacha Java a íoslódáladh go huathoibríoch. NÁ socraigh é seo ar do shuiteáil Java córais.</translation>
+        <source>Folder where Komorebi Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
+        <translation>Fillteán ina stórálann Komorebi Launcher leaganacha Java a íoslódáladh go huathoibríoch. NÁ socraigh é seo ar do shuiteáil Java córais.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
@@ -7603,7 +7603,7 @@ Cúis:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
-        <source>WTF Launcher (zip)</source>
+        <source>Komorebi Launcher (zip)</source>
         <translation>Tosaitheoir Prism (zip)</translation>
     </message>
     <message>
@@ -7892,10 +7892,10 @@ Cúis:
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Unsupported Modrinth link.
 
-WTF Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
+Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
         <translation>Ní thacaítear leis an nasc Modrinth seo.
 
-Ní thacaíonn WTF Launcher faoi láthair ach le naisc modpack ar nós modrinth://modpack/fabulously-optimized.</translation>
+Ní thacaíonn Komorebi Launcher faoi láthair ach le naisc modpack ar nós modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1037"/>
@@ -11509,8 +11509,8 @@ Ní féidir leis an nuashonraitheoir leanúint ar aghaidh go dtí go réitíonn 
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
-        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of WTF Launcher.</source>
-        <translation>Ní thacaítear le gníomhartha seachas seiceáil an bhfuil nuashonrú ar fáil agus leagan flatpak de WTF Launcher á rith.</translation>
+        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Komorebi Launcher.</source>
+        <translation>Ní thacaítear le gníomhartha seachas seiceáil an bhfuil nuashonrú ar fáil agus leagan flatpak de Komorebi Launcher á rith.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="517"/>
@@ -11631,7 +11631,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -11643,7 +11643,7 @@ Ag nuashonrú ó leagan %3 go %4
 Cosán suiteála sprice: %5
 Cosán sonraí: %6
 Is dócha gur theip ar iarracht nuashonraithe roimhe seo. Cinntigh go bhfuil do shuiteáil ag obair go maith sula leanann tú ar aghaidh.
-Seiceáil log nuashonraithe WTF Launcher ag:
+Seiceáil log nuashonraithe Komorebi Launcher ag:
 %7
 le haghaidh sonraí faoin iarracht nuashonraithe dheireanach.
 
@@ -12588,8 +12588,8 @@ Ar mhaith leat na sábhálacha atá ann cheana a bhaint mar chuid den nuashonrú
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
-        <source>a batch MKLINK program for windows to be used with wtflauncher</source>
-        <translation>clár baisce MKLINK do Windows le húsáid le wtflauncher</translation>
+        <source>a batch MKLINK program for windows to be used with komorebi</source>
+        <translation>clár baisce MKLINK do Windows le húsáid le komorebi</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
@@ -12598,8 +12598,8 @@ Ar mhaith leat na sábhálacha atá ann cheana a bhaint mar chuid den nuashonrú
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
-        <source>An auto-updater for WTF Launcher</source>
-        <translation>Nuashonraitheoir uathoibríoch do WTF Launcher</translation>
+        <source>An auto-updater for Komorebi Launcher</source>
+        <translation>Nuashonraitheoir uathoibríoch do Komorebi Launcher</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/mod/Resource.cpp" line="33"/>

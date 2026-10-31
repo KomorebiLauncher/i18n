@@ -942,7 +942,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -954,7 +954,7 @@ Päivitetään versiosta %3 versioon %4
 Asennuksen kohdetiedostopolku: %5
 Tallennustietojen polku: %6
 Tämä todennäköisesti tarkoittaa, että päivitys epäonnistui. Varmista, että olemassaoleva asennuskerta toimii, ennen kuin jatkat.
-Tutki WTF Launcher -päivityslokia sijainnissa: 
+Tutki Komorebi Launcher -päivityslokia sijainnissa: 
 %7
 saadaksesi tarkempia tietoja viimeisimmästä päivitysyrityksestä.
 
@@ -970,13 +970,13 @@ Poistaaksesi tämän lukituksen ja jatkaaksesi, valitse alempaa &quot;Sivuuta&qu
         <source>An update attempt failed
 
 Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %1
 for details on the last update attempt.</source>
         <translation>Päivitysyritys epäonnistui
 
 Varmista, että olemassaoleva asennuskertasi on kunnossa, ennen kuin jatkat.
-Tutki WTF Launcher -päivityslokia sijainnissa: 
+Tutki Komorebi Launcher -päivityslokia sijainnissa: 
 %1
 saadaksesi tarkempia tietoja viimeisimmästä päivitysyrityksestä.</translation>
     </message>
@@ -990,7 +990,7 @@ saadaksesi tarkempia tietoja viimeisimmästä päivitysyrityksestä.</translatio
         <source>Update succeeded
 
 You are now running %1 .
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %2
 for details.</source>
         <oldsource>Update succeeded
@@ -1002,7 +1002,7 @@ for details.</oldsource>
         <translation>Päivitys onnistui
 
 Ajossa on nyt %1 .
-Tutki WTF Launcher -päivityslokia sijainnissa: 
+Tutki Komorebi Launcher -päivityslokia sijainnissa: 
 %2
 saadaksesi lisätietoja.</translation>
     </message>
@@ -2088,7 +2088,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
         <oldsource>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</oldsource>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käynnistystä edeltävä komento ajetaan ennen peliversion käynnistämistä ja sulkemista seuraava komento ajetaan peliversion sulkeuduttua.&lt;/p&gt;&lt;p&gt;Molemmat ajetaan WTF Launcher:in työhakemistossa erityisillä ympäristömuuttujilla:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Pelipaketin nimi&lt;/li&gt;&lt;li&gt;$INST_ID - Pelipaketin tunniste (kansion nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Pelipaketin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_JAVA - Käynnistyksessä käytettävä Java-asennus&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Käynnistyksessä käytettävät komentoriviargumentit (varoitus: ei toimi oikein jos argumentit sisältävät välejä)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Paketoijakomento mahdollistaa käynnistämisen käyttäen erityistä paketoijaohjelmaa (kuten &apos;optirun&apos; Linuxilla)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Käynnistystä edeltävä komento ajetaan ennen peliversion käynnistämistä ja sulkemista seuraava komento ajetaan peliversion sulkeuduttua.&lt;/p&gt;&lt;p&gt;Molemmat ajetaan Komorebi Launcher:in työhakemistossa erityisillä ympäristömuuttujilla:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Pelipaketin nimi&lt;/li&gt;&lt;li&gt;$INST_ID - Pelipaketin tunniste (kansion nimi)&lt;/li&gt;&lt;li&gt;$INST_DIR - Pelipaketin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - Minecraftin kokonainen hakemistopolku&lt;/li&gt;&lt;li&gt;$INST_JAVA - Käynnistyksessä käytettävä Java-asennus&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - Käynnistyksessä käytettävät komentoriviargumentit (varoitus: ei toimi oikein jos argumentit sisältävät välejä)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Paketoijakomento mahdollistaa käynnistämisen käyttäen erityistä paketoijaohjelmaa (kuten &apos;optirun&apos; Linuxilla)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
 </context>
 <context>
@@ -4104,9 +4104,9 @@ Yritä uudelleen.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="22"/>
-        <source>Note: CurseForge allows creators to block access to third-party tools like WTF Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
+        <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation>Huom: CurseForge sallii tekijöiden estää pääsyn kolmannen osapuolen työkaluilta kuten WTF Launcher:ilta. Sinä saatat joutua manuaalisesti lataamaan joitakin modeja modipaketin asennuksen yhteydessä.</translation>
+        <translation>Huom: CurseForge sallii tekijöiden estää pääsyn kolmannen osapuolen työkaluilta kuten Komorebi Launcher:ilta. Sinä saatat joutua manuaalisesti lataamaan joitakin modeja modipaketin asennuksen yhteydessä.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/modplatform/flame/FlamePage.ui" line="37"/>
@@ -6005,9 +6005,9 @@ Vahvista että enimmäismuistivaraus on alempi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/setupwizard/JavaWizardPage.cpp" line="85"/>
-        <source>Please select how much memory to allocate to instances and if WTF Launcher should manage Java automatically or manually.</source>
+        <source>Please select how much memory to allocate to instances and if Komorebi Launcher should manage Java automatically or manually.</source>
         <oldsource>Please select how much memory to allocate to instances and if Prism Launcher should manage java automatically or manually.</oldsource>
-        <translation>Valitse, kuinka paljon muistia varataan pelipaketeille, ja että pitäisikö WTF Launcher:in hallita Java-versioita automaattisesti tai manuaalisesti.</translation>
+        <translation>Valitse, kuinka paljon muistia varataan pelipaketeille, ja että pitäisikö Komorebi Launcher:in hallita Java-versioita automaattisesti tai manuaalisesti.</translation>
     </message>
     <message>
         <source>You do not have a working Java set up yet or it went missing.
@@ -6912,8 +6912,8 @@ Sinun tarvitsee ehkä korjata modisi, koska peli jatkaa silti lokin kirjoittamis
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="305"/>
-        <source>Folder where WTF Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation>Kansio johon WTF Launcher tallentaa automaattisesti ladatut Java-versiot. ÄLÄ ASETA tätä järjestelmäsi Javaksi.</translation>
+        <source>Folder where Komorebi Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
+        <translation>Kansio johon Komorebi Launcher tallentaa automaattisesti ladatut Java-versiot. ÄLÄ ASETA tätä järjestelmäsi Javaksi.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/LauncherPage.ui" line="89"/>
@@ -8453,8 +8453,8 @@ Syy:
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="466"/>
-        <source>WTF Launcher (zip)</source>
-        <translation>WTF Launcher (zip)</translation>
+        <source>Komorebi Launcher (zip)</source>
+        <translation>Komorebi Launcher (zip)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.ui" line="474"/>
@@ -8847,10 +8847,10 @@ Oletko varma?</translation>
         <location filename="src/launcher/ui/MainWindow.cpp" line="972"/>
         <source>Unsupported Modrinth link.
 
-WTF Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
+Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
         <translation>Tukematon Modrinth-linkki.
 
-WTF Launcher tukee vain modipakkausten linkkejä, kuten modrinth://modpack/fabulously-optimized.</translation>
+Komorebi Launcher tukee vain modipakkausten linkkejä, kuten modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/MainWindow.cpp" line="1037"/>
@@ -12810,8 +12810,8 @@ Päivittäjä ei voi edetä ennen kuin korjaat ongelman.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="458"/>
-        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of WTF Launcher.</source>
-        <translation>Toiminnot päivitysten saatavuuden tarkistamisen ulkopuolella eivät ole saatavilla kun ajetaan WTF Launcher:in Flatpak-versiota.</translation>
+        <source>Actions outside of checking if an update is available are not supported when running the flatpak version of Komorebi Launcher.</source>
+        <translation>Toiminnot päivitysten saatavuuden tarkistamisen ulkopuolella eivät ole saatavilla kun ajetaan Komorebi Launcher:in Flatpak-versiota.</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="517"/>
@@ -12932,7 +12932,7 @@ Updating from version %3 to %4
 Target install path: %5
 Data Path: %6
 This likely means that a previous update attempt failed. Please ensure your installation is in working order before proceeding.
-Check the WTF Launcher updater log at: 
+Check the Komorebi Launcher updater log at: 
 %7
 for details on the last update attempt.
 
@@ -12944,7 +12944,7 @@ Päivitetään versiosta %3 versioon %4
 Kohdeasennuspolku: %5
 Data-polku: %6
 Tämä todennäköisesti tarkoittaa, että viime päivitysyritys epäonnistui. Vahvista että asennuksesi on toimivassa kunnossa ennen kuin jatkat.
-Tarkista WTF Launcherin päivitysloki polussa: 
+Tarkista Komorebi Launcherin päivitysloki polussa: 
 %7
 saadaksesi tietoja viime päivitysyrityksestä.
 
@@ -13983,8 +13983,8 @@ Haluatko poistaa olemassaolevat tallennukst osana päivitystä?</translation>
     </message>
     <message>
         <location filename="src/launcher/filelink/FileLink.cpp" line="49"/>
-        <source>a batch MKLINK program for windows to be used with wtflauncher</source>
-        <translation>Batch MKLINK ohjelma windowsille, jota käytetään WTF Launcher:in kanssa</translation>
+        <source>a batch MKLINK program for windows to be used with komorebi</source>
+        <translation>Batch MKLINK ohjelma windowsille, jota käytetään Komorebi Launcher:in kanssa</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/instanceview/VisualGroup.cpp" line="163"/>
@@ -13993,8 +13993,8 @@ Haluatko poistaa olemassaolevat tallennukst osana päivitystä?</translation>
     </message>
     <message>
         <location filename="src/launcher/updater/prismupdater/PrismUpdater.cpp" line="86"/>
-        <source>An auto-updater for WTF Launcher</source>
-        <translation>Automaattipäivittäjä WTF Launcher:ille</translation>
+        <source>An auto-updater for Komorebi Launcher</source>
+        <translation>Automaattipäivittäjä Komorebi Launcher:ille</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
