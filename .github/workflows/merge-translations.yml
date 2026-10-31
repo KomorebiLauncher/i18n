@@ -1,0 +1,62 @@
+name: Merge translations
+
+# Translations live in KomorebiLauncher/i18n-json, which pulls them from the translation platform.
+# This writes them into the .ts catalogue and rebuilds the language packs the launcher downloads.
+on:
+  schedule:
+    # The JSON repository syncs at 04:30 on Mondays; merge half an hour later.
+    - cron: '0 5 * * 1'
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: Only report what would change
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  # A push made with GITHUB_TOKEN does not start other workflows, so the rebuild is dispatched
+  # explicitly instead of relying on build.yml's push trigger.
+  actions: write
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v7
+
+      - name: Check out the JSON catalogue
+        run: git clone --depth 1 https://github.com/KomorebiLauncher/i18n-json.git json-source
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+
+      - name: Merge
+        run: |
+          if [ "${{ inputs.dry_run }}" = "true" ]; then
+            python tools/from_json.py --json json-source/json --dir . --dry-run
+          else
+            python tools/from_json.py --json json-source/json --dir .
+          fi
+
+      - name: Commit changes
+        if: ${{ inputs.dry_run != true }}
+        run: |
+          rm -rf json-source
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A '*.ts'
+          if git diff --cached --quiet; then
+            echo "nothing to merge"
+          else
+            git commit -m "Merge translations from the JSON catalogue"
+            git push
+          fi
+
+      - name: Rebuild the language packs
+        if: ${{ inputs.dry_run != true }}
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh workflow run build.yml --ref master
