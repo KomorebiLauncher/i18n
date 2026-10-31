@@ -27,7 +27,7 @@ jobs:
       - uses: actions/checkout@v7
 
       - name: Check out the JSON catalogue
-        run: git clone --depth 1 https://github.com/KomorebiLauncher/i18n-json.git json-source
+        run: git clone --depth 1 https://github.com/KomorebiLauncher/i18n-json.git /tmp/json-source
 
       - uses: actions/setup-python@v7
         with:
@@ -36,18 +36,18 @@ jobs:
       - name: Merge
         run: |
           if [ "${{ inputs.dry_run }}" = "true" ]; then
-            python tools/from_json.py --json json-source/json --dir . --dry-run
+            python tools/from_json.py --json /tmp/json-source/json --dir . --dry-run
           else
-            python tools/from_json.py --json json-source/json --dir .
+            python tools/from_json.py --json /tmp/json-source/json --dir .
           fi
 
       - name: Commit changes
         if: ${{ inputs.dry_run != true }}
         run: |
-          rm -rf json-source
+          git status --short | head -20
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A '*.ts'
+          git add -A
           if git diff --cached --quiet; then
             echo "nothing to merge"
           else
