@@ -247,52 +247,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>無法解析模組包資訊：
+        <translation type="vanished">無法解析模組包資訊：
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>無法取得 %1 的本機中繼資料索引</translation>
+        <translation type="vanished">無法取得 %1 的本機中繼資料索引</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>無法取得「%1」v%2 的本機中繼資料索引</translation>
+        <translation type="vanished">無法取得「%1」v%2 的本機中繼資料索引</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>不支援的安裝模式</translation>
+        <translation type="vanished">不支援的安裝模式</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>正在刪除現有的檔案…</translation>
+        <translation type="vanished">正在刪除現有的檔案…</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>未知的模組類型：%1</translation>
+        <translation type="vanished">未知的模組類型：%1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>無法找到 %1 載入器的版本</translation>
+        <translation type="vanished">無法找到 %1 載入器的版本</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>沒有為模組包設定載入器版本！</translation>
+        <translation type="vanished">沒有為模組包設定載入器版本！</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>未知或不支援的下載類型：%1</translation>
+        <translation type="vanished">未知或不支援的下載類型：%1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>正在下載設定檔…</translation>
+        <translation type="vanished">正在下載設定檔…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>下載設定檔</translation>
+        <translation type="vanished">下載設定檔</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>正在解壓縮設定檔…</translation>
+        <translation type="vanished">正在解壓縮設定檔…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -300,15 +300,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>正在選擇可選模組…</translation>
+        <translation type="vanished">正在選擇可選模組…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>正在下載模組…</translation>
+        <translation type="vanished">正在下載模組…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>模組下載</translation>
+        <translation type="vanished">模組下載</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -316,47 +316,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>未知的下載類型：%1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">未知的下載類型：%1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>找到被封鎖的模組</translation>
+        <translation type="vanished">找到被封鎖的模組</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下檔案不開放第三方啟動器下載。&lt;br/&gt;您需要手動下載並將它們新增至實例。</translation>
+        <translation type="vanished">以下檔案不開放第三方啟動器下載。&lt;br/&gt;您需要手動下載並將它們新增至實例。</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>已完成 %1 個，共 %2 個</translation>
+        <translation type="vanished">已完成 %1 個，共 %2 個</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>無法解壓縮模組…</translation>
+        <translation type="vanished">無法解壓縮模組…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>正在解壓縮模組…</translation>
+        <translation type="vanished">正在解壓縮模組…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>正在安裝模組包</translation>
+        <translation type="vanished">正在安裝模組包</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>無法建立程式庫元件</translation>
+        <translation type="vanished">無法建立程式庫元件</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>無效的載入器類型： </translation>
+        <translation type="vanished">無效的載入器類型： </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>無法建立元件包</translation>
+        <translation type="vanished">無法建立元件包</translation>
     </message>
 </context>
 <context>
@@ -1465,7 +1461,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">正在載入本機檔案</translation>
+        <translation>正在載入本機檔案</translation>
     </message>
 </context>
 <context>
@@ -1875,7 +1871,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">無法複製世界。</translation>
+        <translation>無法複製世界。</translation>
     </message>
 </context>
 <context>
@@ -2485,7 +2481,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">無法刪除世界。</translation>
+        <translation>無法刪除世界。</translation>
     </message>
 </context>
 <context>
@@ -3602,7 +3598,7 @@ Please try again.</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4531,7 +4527,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">無法匯入世界。</translation>
+        <translation>無法匯入世界。</translation>
     </message>
 </context>
 <context>
@@ -7382,7 +7378,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9157,7 +9153,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>正在載入本機檔案</translation>
+        <translation type="vanished">正在載入本機檔案</translation>
     </message>
 </context>
 <context>
@@ -12216,104 +12212,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">無法解析封包資訊清單：
+        <translation>無法解析封包資訊清單：
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">不支援的安裝模式</translation>
+        <translation>不支援的安裝模式</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">無法取得「%1」v%2 的本機中繼資料索引</translation>
+        <translation>無法取得「%1」v%2 的本機中繼資料索引</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">正在刪除現有的檔案…</translation>
+        <translation>正在刪除現有的檔案…</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">未知的模組類型：%1</translation>
+        <translation>未知的模組類型：%1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">無法取得 %1 的本機中繼資料索引</translation>
+        <translation>無法取得 %1 的本機中繼資料索引</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">找不到 %1 載入器的版本</translation>
+        <translation>找不到 %1 載入器的版本</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">尚未為模組包設定載入器版本！</translation>
+        <translation>尚未為模組包設定載入器版本！</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">未知或不支援的下載類型：%1</translation>
+        <translation>未知或不支援的下載類型：%1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">正在下載設定檔…</translation>
+        <translation>正在下載設定檔…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">下載設定檔</translation>
+        <translation>下載設定檔</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">正在解壓縮設定檔…</translation>
+        <translation>正在解壓縮設定檔…</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">正在選擇可選模組…</translation>
+        <translation>正在選擇可選模組…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">正在下載模組…</translation>
+        <translation>正在下載模組…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">模組下載</translation>
+        <translation>模組下載</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">未知的下載類型：%1</translation>
+        <translation>未知的下載類型：%1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">找到被封鎖的模組</translation>
+        <translation>找到被封鎖的模組</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">下列檔案無法在第三方啟動器中下載。&lt;br/&gt;您需要手動下載這些檔案，並將其加入實例中。</translation>
+        <translation>下列檔案無法在第三方啟動器中下載。&lt;br/&gt;您需要手動下載這些檔案，並將其加入實例中。</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">已完成 %1 個，共 %2 個</translation>
+        <translation>已完成 %1 個，共 %2 個</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">無法解壓縮模組…</translation>
+        <translation>無法解壓縮模組…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">正在解壓縮模組…</translation>
+        <translation>正在解壓縮模組…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">正在安裝模組包</translation>
+        <translation>正在安裝模組包</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">無法建立程式庫元件</translation>
+        <translation>無法建立程式庫元件</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">無效的載入器類型： </translation>
+        <translation>無效的載入器類型： </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">無法建立元件包</translation>
+        <translation>無法建立元件包</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13704,7 +13704,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>與 Komorebi Launcher 一起使用的 Windows 的 MKLINK 程式</translation>
+        <translation type="vanished">與 Komorebi Launcher 一起使用的 Windows 的 MKLINK 程式</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -14077,6 +14077,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16288,7 +16292,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1：
+        <translation type="vanished">%1：
 已翻譯：%2
 模糊不清：%3
 總計：%4</translation>

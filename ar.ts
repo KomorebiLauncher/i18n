@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>تعذرت معالجة بيانات الحزمة:
+        <translation type="vanished">تعذرت معالجة بيانات الحزمة:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>فشلت محاولة الحصول على فهرس البيانات الوصفية المحلية ل%1</translation>
+        <translation type="vanished">فشلت محاولة الحصول على فهرس البيانات الوصفية المحلية ل%1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>فشلت محاولة الحصول على الفهرس الوصفي لـ &apos;%1&apos; v%2</translation>
+        <translation type="vanished">فشلت محاولة الحصول على الفهرس الوصفي لـ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>وضع تنصيب غير مدعوم</translation>
+        <translation type="vanished">وضع تنصيب غير مدعوم</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>جاري حذف الملفات الموجودة...</translation>
+        <translation type="vanished">جاري حذف الملفات الموجودة...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>نوع إضافة غير معروف: %1</translation>
+        <translation type="vanished">نوع إضافة غير معروف: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>فشلت محاولة إيجاد إصدار للمحمل %1</translation>
+        <translation type="vanished">فشلت محاولة إيجاد إصدار للمحمل %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>لم يتم اختيار نسخة المحمل من اجل حزمة الإضافات!</translation>
+        <translation type="vanished">لم يتم اختيار نسخة المحمل من اجل حزمة الإضافات!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>طرق تنزيل غير مدعومة أو غير معروفة: %1</translation>
+        <translation type="vanished">طرق تنزيل غير مدعومة أو غير معروفة: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>جارِ تنزيل ملفات الإعدادات...</translation>
+        <translation type="vanished">جارِ تنزيل ملفات الإعدادات...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>تنزيل ملفات الإعدادات</translation>
+        <translation type="vanished">تنزيل ملفات الإعدادات</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>جارِ استخراج ملفات الإعدادات...</translation>
+        <translation type="vanished">جارِ استخراج ملفات الإعدادات...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>جار وضع الإضافات الاختيارية...</translation>
+        <translation type="vanished">جار وضع الإضافات الاختيارية...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>جاري تنزيل الإضافات...</translation>
+        <translation type="vanished">جاري تنزيل الإضافات...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>تنزيل الإضافة</translation>
+        <translation type="vanished">تنزيل الإضافة</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>وضع تنزيل غير معروف: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">وضع تنزيل غير معروف: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>تم العثور على إضافات محظورة</translation>
+        <translation type="vanished">تم العثور على إضافات محظورة</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النموذج.</translation>
+        <translation type="vanished">الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النموذج.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>تم %1 من %2</translation>
+        <translation type="vanished">تم %1 من %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>فشل في إستخراج الإضافات...</translation>
+        <translation type="vanished">فشل في إستخراج الإضافات...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>جارِ إستخراج الإضافات...</translation>
+        <translation type="vanished">جارِ إستخراج الإضافات...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>تثبيت حزمة الإضافات</translation>
+        <translation type="vanished">تثبيت حزمة الإضافات</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>فضل انشاء مكون المكاتب</translation>
+        <translation type="vanished">فضل انشاء مكون المكاتب</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>نوعية محمّل مجهولة: </translation>
+        <translation type="vanished">نوعية محمّل مجهولة: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>فشل إنشاء مكون الحزمة</translation>
+        <translation type="vanished">فشل إنشاء مكون الحزمة</translation>
     </message>
 </context>
 <context>
@@ -1392,7 +1388,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">جار تحميل الملفات المحلية</translation>
+        <translation>جار تحميل الملفات المحلية</translation>
     </message>
 </context>
 <context>
@@ -1794,7 +1790,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">فشل نسخ العالم.</translation>
+        <translation>فشل نسخ العالم.</translation>
     </message>
 </context>
 <context>
@@ -2404,7 +2400,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">فشل حذف العالم.</translation>
+        <translation>فشل حذف العالم.</translation>
     </message>
 </context>
 <context>
@@ -3468,7 +3464,7 @@ Please try again.</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>ماين كرافت %1</translation>
+        <translation type="vanished">ماين كرافت %1</translation>
     </message>
 </context>
 <context>
@@ -4308,7 +4304,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">فشل نقل العالم.</translation>
+        <translation>فشل نقل العالم.</translation>
     </message>
 </context>
 <context>
@@ -6904,7 +6900,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">ماين كرافت %1</translation>
+        <translation type="unfinished">ماين كرافت %1</translation>
     </message>
 </context>
 <context>
@@ -8281,7 +8277,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>جار تحميل الملفات المحلية</translation>
+        <translation type="vanished">جار تحميل الملفات المحلية</translation>
     </message>
 </context>
 <context>
@@ -10929,104 +10925,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">تعذر قراءة بيانات الحزمة.
+        <translation>تعذر قراءة بيانات الحزمة.
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">وضع التثبيت غير مدعوم</translation>
+        <translation>وضع التثبيت غير مدعوم</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">فشلت محاولة الحصول على الفهرس الوصفي المحلي لـ &apos;%1&apos; v%2</translation>
+        <translation>فشلت محاولة الحصول على الفهرس الوصفي المحلي لـ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">جاري حذف الملفات الموجودة...</translation>
+        <translation>جاري حذف الملفات الموجودة...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">نوع مود غير معروف: %1</translation>
+        <translation>نوع مود غير معروف: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">تعذر الحصول على فهرس البيانات الوصفية المحلي الخاص بـ 1%</translation>
+        <translation>تعذر الحصول على فهرس البيانات الوصفية المحلي الخاص بـ 1%</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">تعذر ايجاد نسخة من أجل المحمل 1%</translation>
+        <translation>تعذر ايجاد نسخة من أجل المحمل 1%</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">لم يتم تعيين نسخة المحمل من أجل المودباك!</translation>
+        <translation>لم يتم تعيين نسخة المحمل من أجل المودباك!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">طرق تنزيل غير مدعومة أو غير معروفة: %1</translation>
+        <translation>طرق تنزيل غير مدعومة أو غير معروفة: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">جارِ تنزيل ملفات الإعدادات...</translation>
+        <translation>جارِ تنزيل ملفات الإعدادات...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">تنزيل ملف الإعدادات</translation>
+        <translation>تنزيل ملف الإعدادات</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">جارِ استخراج ملفات الإعدادات...</translation>
+        <translation>جارِ استخراج ملفات الإعدادات...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">جار اختيار المودات الاختيارية...</translation>
+        <translation>جار اختيار المودات الاختيارية...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">تحميل المودات...</translation>
+        <translation>تحميل المودات...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">تحميل المود</translation>
+        <translation>تحميل المود</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">وضع تنزيل غير معروف: %1</translation>
+        <translation>وضع تنزيل غير معروف: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">تم العثور على مودات محظورة</translation>
+        <translation>تم العثور على مودات محظورة</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النسخة⁦.</translation>
+        <translation>الملفات التالية غير متاحة للتنزيل في مشغلات الطرف الثالث.&lt;br/&gt;ستحتاج إلى تنزيلها يدويًا وإضافتها إلى النسخة⁦.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">انتهى 1% من أصل 2%</translation>
+        <translation>انتهى 1% من أصل 2%</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">فشل في إستخراج المودات...</translation>
+        <translation>فشل في إستخراج المودات...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">جارِ إستخراج المودات...</translation>
+        <translation>جارِ إستخراج المودات...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">تثبيت حزمة المودات</translation>
+        <translation>تثبيت حزمة المودات</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">فشل إنشاء مكون المكتبات</translation>
+        <translation>فشل إنشاء مكون المكتبات</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">نوعية محمّل مجهولة: </translation>
+        <translation>نوعية محمّل مجهولة: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">تعذر إنشاء مكون الحزمة</translation>
+        <translation>تعذر إنشاء مكون الحزمة</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12273,7 +12273,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>الباتش الخاص ببرنامج MKLINK لويندوز سيُستخدم مع المشغل بريسم</translation>
+        <translation type="vanished">الباتش الخاص ببرنامج MKLINK لويندوز سيُستخدم مع المشغل بريسم</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -12673,6 +12673,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14690,7 +14694,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 كلمة مترجمة
 %3 كلمة مبهمة
 مجموع الكلمات %4</translation>

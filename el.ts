@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Αδυναμία αναγνώρισης του pack manifest:
+        <translation type="vanished">Αδυναμία αναγνώρισης του pack manifest:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για %1</translation>
+        <translation type="vanished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
+        <translation type="vanished">Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Διαγραφή υπαρχόντων αρχείων...</translation>
+        <translation type="vanished">Διαγραφή υπαρχόντων αρχείων...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Άγνωστος τύπος mod: %1</translation>
+        <translation type="vanished">Άγνωστος τύπος mod: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Απέτυχε η εύρεση έκδοσης για %1 loader</translation>
+        <translation type="vanished">Απέτυχε η εύρεση έκδοσης για %1 loader</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Δεν έχει οριστεί έκδοση loader για το modpack!</translation>
+        <translation type="vanished">Δεν έχει οριστεί έκδοση loader για το modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
+        <translation type="vanished">Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Γίνεται λήψη ρυθμίσεων...</translation>
+        <translation type="vanished">Γίνεται λήψη ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Λήψη ρυθμίσεων</translation>
+        <translation type="vanished">Λήψη ρυθμίσεων</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Εξαγωγή ρυθμίσεων...</translation>
+        <translation type="vanished">Εξαγωγή ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Επιλογή προαιρετικών mod...</translation>
+        <translation type="vanished">Επιλογή προαιρετικών mod...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Λήψη mods...</translation>
+        <translation type="vanished">Λήψη mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Λήψη Mod</translation>
+        <translation type="vanished">Λήψη Mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Άγνωστος τύπος λήψης: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Άγνωστος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Μπλοκαρισμένα mods βρέθηκαν</translation>
+        <translation type="vanished">Μπλοκαρισμένα mods βρέθηκαν</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε τρίτους εκκινητές. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην instance.</translation>
+        <translation type="vanished">Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε τρίτους εκκινητές. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>Ολοκληρώθηκε 1% από 2%</translation>
+        <translation type="vanished">Ολοκληρώθηκε 1% από 2%</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Αδυναμία εξαγωγής mods...</translation>
+        <translation type="vanished">Αδυναμία εξαγωγής mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Εξαγωγή mods...</translation>
+        <translation type="vanished">Εξαγωγή mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Εγκατάσταση modpack</translation>
+        <translation type="vanished">Εγκατάσταση modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
+        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Άγνωστος τύπος φορτωτή: </translation>
+        <translation type="vanished">Άγνωστος τύπος φορτωτή: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
+        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
     </message>
 </context>
 <context>
@@ -1405,7 +1401,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Γίνεται φόρτωση τοπικού αρχείου</translation>
+        <translation>Γίνεται φόρτωση τοπικού αρχείου</translation>
     </message>
 </context>
 <context>
@@ -1806,7 +1802,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Αποτυχία αντιγραφής του κόσμου.</translation>
+        <translation>Αποτυχία αντιγραφής του κόσμου.</translation>
     </message>
 </context>
 <context>
@@ -2398,7 +2394,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Αποτυχία διαγραφής του κόσμου.</translation>
+        <translation>Αποτυχία διαγραφής του κόσμου.</translation>
     </message>
 </context>
 <context>
@@ -3373,7 +3369,7 @@ Please try again.</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4204,6 +4200,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6449,7 +6449,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7772,7 +7772,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Γίνεται φόρτωση τοπικού αρχείου</translation>
+        <translation type="obsolete">Γίνεται φόρτωση τοπικού αρχείου</translation>
     </message>
 </context>
 <context>
@@ -9917,91 +9917,108 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
+        <translation type="unfinished">Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Διαγραφή υπαρχόντων αρχείων...</translation>
+        <translation type="unfinished">Διαγραφή υπαρχόντων αρχείων...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Άγνωστος τύπος τροποποιήσης: %1</translation>
+        <translation>Άγνωστος τύπος τροποποιήσης: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Δεν κατέστη δυνατή η απόκτηση τοπικού ευρετηρίου μεταδεδομένων για το %1</translation>
+        <translation>Δεν κατέστη δυνατή η απόκτηση τοπικού ευρετηρίου μεταδεδομένων για το %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Απέτυχε η εύρεση έκδοσης για %1 φορτωτή</translation>
+        <translation>Απέτυχε η εύρεση έκδοσης για %1 φορτωτή</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Δεν έχει οριστεί έκδοση φορτωτή για το πακέτο τροποποιήσεων!</translation>
+        <translation>Δεν έχει οριστεί έκδοση φορτωτή για το πακέτο τροποποιήσεων!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
+        <translation type="unfinished">Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Γίνεται λήψη ρυθμίσεων...</translation>
+        <translation type="unfinished">Γίνεται λήψη ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Λήψη ρυθμίσεων</translation>
+        <translation type="unfinished">Λήψη ρυθμίσεων</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Εξαγωγή ρυθμίσεων...</translation>
+        <translation type="unfinished">Εξαγωγή ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Επιλογή προαιρετικών τροποποιήσεων...</translation>
+        <translation>Επιλογή προαιρετικών τροποποιήσεων...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Λήψη τροποποιήσεων...</translation>
+        <translation>Λήψη τροποποιήσεων...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Λήψη Τροποποίησης</translation>
+        <translation>Λήψη Τροποποίησης</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Άγνωστος τύπος λήψης: %1</translation>
+        <translation type="unfinished">Άγνωστος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Βρέθηκαν μπλοκαρισμένες τροποποιήσεις</translation>
+        <translation>Βρέθηκαν μπλοκαρισμένες τροποποιήσεις</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Η εξαγωγή των τροποποιήσεων απέτυχε...</translation>
+        <translation>Η εξαγωγή των τροποποιήσεων απέτυχε...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Εξαγωγή τροποποιήσεων...</translation>
+        <translation>Εξαγωγή τροποποιήσεων...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Εγκατάσταση πακέτου τροποποιήσεων</translation>
+        <translation>Εγκατάσταση πακέτου τροποποιήσεων</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
+        <translation>Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Άγνωστος τύπος φορτωτή: </translation>
+        <translation type="unfinished">Άγνωστος τύπος φορτωτή: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
+        <translation type="unfinished">Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11147,10 +11164,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11490,6 +11503,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13310,7 +13327,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 μεταφράστηκε
 %3 ασαφής
 %4 συνολικά</translation>

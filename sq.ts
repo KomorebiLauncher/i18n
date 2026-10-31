@@ -234,52 +234,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nuk mund ta kuptoja manifestin e paketës:
+        <translation type="vanished">Nuk mund ta kuptoja manifestin e paketës:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Marrja e indeksit të meta të dhënave lokale për %1 dështoi</translation>
+        <translation type="vanished">Marrja e indeksit të meta të dhënave lokale për %1 dështoi</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Marrja e indeksit të meta të dhënave lokale për &apos;%1&apos; v%2 dështoi</translation>
+        <translation type="vanished">Marrja e indeksit të meta të dhënave lokale për &apos;%1&apos; v%2 dështoi</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Modaliteti i instalimit i pambështetur</translation>
+        <translation type="vanished">Modaliteti i instalimit i pambështetur</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Po fshin skedarët ekzistues...</translation>
+        <translation type="vanished">Po fshin skedarët ekzistues...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Lloji i panjohur i modalitetit: %1</translation>
+        <translation type="vanished">Lloji i panjohur i modalitetit: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Dështoi në gjetjen e versionit për ngarkuesin %1</translation>
+        <translation type="vanished">Dështoi në gjetjen e versionit për ngarkuesin %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Asnjë version i ngarkuesit nuk është vendosur për modpack!</translation>
+        <translation type="vanished">Asnjë version i ngarkuesit nuk është vendosur për modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Lloji i shkarkimit i panjohur ose i pambështetur: %1</translation>
+        <translation type="vanished">Lloji i shkarkimit i panjohur ose i pambështetur: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Po shkarkon konfigurimet...</translation>
+        <translation type="vanished">Po shkarkon konfigurimet...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Shkarkimi i konfigurimit</translation>
+        <translation type="vanished">Shkarkimi i konfigurimit</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Po nxjerr konfigurimet...</translation>
+        <translation type="vanished">Po nxjerr konfigurimet...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -287,59 +287,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Zgjedhja e modaliteteve opsionale...</translation>
+        <translation type="vanished">Zgjedhja e modaliteteve opsionale...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Po shkarkon modalitetet...</translation>
+        <translation type="vanished">Po shkarkon modalitetet...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Shkarkimi i modës</translation>
+        <translation type="vanished">Shkarkimi i modës</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Lloji i panjohur i shkarkimit: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Lloji i panjohur i shkarkimit: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>U gjetën modalitete të bllokuara</translation>
+        <translation type="vanished">U gjetën modalitete të bllokuara</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Skedarët e mëposhtëm nuk disponohen për shkarkim në lëshuesit e palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni manualisht dhe t&apos;i shtoni ato në shembull.</translation>
+        <translation type="vanished">Skedarët e mëposhtëm nuk disponohen për shkarkim në lëshuesit e palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni manualisht dhe t&apos;i shtoni ato në shembull.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 nga %2 ka përfunduar</translation>
+        <translation type="vanished">%1 nga %2 ka përfunduar</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Ekstraktimi i modaliteteve dështoi...</translation>
+        <translation type="vanished">Ekstraktimi i modaliteteve dështoi...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Po nxjerr modalitete...</translation>
+        <translation type="vanished">Po nxjerr modalitete...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Instalimi i modpack</translation>
+        <translation type="vanished">Instalimi i modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Krijimi i komponentit të bibliotekave dështoi</translation>
+        <translation type="vanished">Krijimi i komponentit të bibliotekave dështoi</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Lloji i panjohur i ngarkuesit: </translation>
+        <translation type="vanished">Lloji i panjohur i ngarkuesit: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Krijimi i komponentit të paketës dështoi</translation>
+        <translation type="vanished">Krijimi i komponentit të paketës dështoi</translation>
     </message>
 </context>
 <context>
@@ -1200,7 +1196,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">Duke ngarkuar skedarin lokal</translation>
+        <translation type="unfinished">Duke ngarkuar skedarin lokal</translation>
     </message>
 </context>
 <context>
@@ -1590,7 +1586,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Kopjimi i botës dështoi.</translation>
+        <translation>Kopjimi i botës dështoi.</translation>
     </message>
 </context>
 <context>
@@ -2143,7 +2139,7 @@ Je i sigurt?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Fshirja e botës dështoi.</translation>
+        <translation>Fshirja e botës dështoi.</translation>
     </message>
 </context>
 <context>
@@ -2964,7 +2960,7 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3656,7 +3652,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">Importimi i botës dështoi.</translation>
+        <translation>Importimi i botës dështoi.</translation>
     </message>
 </context>
 <context>
@@ -5274,7 +5270,7 @@ Arsyeja:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6428,7 +6424,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Duke ngarkuar skedarin lokal</translation>
+        <translation type="vanished">Duke ngarkuar skedarin lokal</translation>
     </message>
 </context>
 <context>
@@ -8395,104 +8391,108 @@ Je i sigurt?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Nuk u kuptua manifesti i paketës:
+        <translation>Nuk u kuptua manifesti i paketës:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Mënyrë instalimi e pambështetur</translation>
+        <translation>Mënyrë instalimi e pambështetur</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Marrja e indeksit lokal të metadhënave për &apos;%1&apos; v%2 dështoi</translation>
+        <translation>Marrja e indeksit lokal të metadhënave për &apos;%1&apos; v%2 dështoi</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Po fshihen skedarët ekzistues...</translation>
+        <translation>Po fshihen skedarët ekzistues...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Lloj modi i panjohur: %1</translation>
+        <translation>Lloj modi i panjohur: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Marrja e indeksit lokal të metadhënave për %1 dështoi</translation>
+        <translation>Marrja e indeksit lokal të metadhënave për %1 dështoi</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Gjetja e versionit për ngarkuesin %1 dështoi</translation>
+        <translation>Gjetja e versionit për ngarkuesin %1 dështoi</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Nuk është caktuar version ngarkuesi për modpack-un!</translation>
+        <translation>Nuk është caktuar version ngarkuesi për modpack-un!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Lloj shkarkimi i panjohur ose i pambështetur: %1</translation>
+        <translation>Lloj shkarkimi i panjohur ose i pambështetur: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Po shkarkohen konfigurimet...</translation>
+        <translation>Po shkarkohen konfigurimet...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Shkarkimi i konfigurimeve</translation>
+        <translation>Shkarkimi i konfigurimeve</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Po nxirren konfigurimet...</translation>
+        <translation>Po nxirren konfigurimet...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Po zgjidhen modet opsionale...</translation>
+        <translation>Po zgjidhen modet opsionale...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Po shkarkohen modet...</translation>
+        <translation>Po shkarkohen modet...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Shkarkimi i modeve</translation>
+        <translation>Shkarkimi i modeve</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Lloj shkarkimi i panjohur: %1</translation>
+        <translation>Lloj shkarkimi i panjohur: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">U gjetën mode të bllokuara</translation>
+        <translation>U gjetën mode të bllokuara</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Skedarët e mëposhtëm nuk mund të shkarkohen në lëshues të palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni dorazi dhe t&apos;i shtoni vetë te instanca.</translation>
+        <translation>Skedarët e mëposhtëm nuk mund të shkarkohen në lëshues të palëve të treta.&lt;br/&gt;Do t&apos;ju duhet t&apos;i shkarkoni dorazi dhe t&apos;i shtoni vetë te instanca.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 nga %2 u përfundua</translation>
+        <translation>%1 nga %2 u përfundua</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Nxjerrja e modeve dështoi...</translation>
+        <translation>Nxjerrja e modeve dështoi...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Po nxirren modet...</translation>
+        <translation>Po nxirren modet...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Po instalohet modpack-u</translation>
+        <translation>Po instalohet modpack-u</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Krijimi i përbërësit të librarive dështoi</translation>
+        <translation>Krijimi i përbërësit të librarive dështoi</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Lloj ngarkuesi i panjohur: </translation>
+        <translation>Lloj ngarkuesi i panjohur: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Krijimi i përbërësit të paketës dështoi</translation>
+        <translation>Krijimi i përbërësit të paketës dështoi</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9599,7 +9599,7 @@ Dëshironi t&apos;i hiqni ato skedarë ekzistues si pjesë e këtij përditësim
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>një program me grumbull MKLINK për windows, për t&apos;u përdorur me komorebi</translation>
+        <translation type="vanished">një program me grumbull MKLINK për windows, për t&apos;u përdorur me komorebi</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -9967,6 +9967,10 @@ Mesazhi i gabimit: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11837,7 +11841,7 @@ Jeni i sigurt?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 të përkthyera
 %3 të paqarta
 %4 gjithsej</translation>

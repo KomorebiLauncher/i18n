@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Hindi maintindihan ang manifest ng pack:
+        <translation type="vanished">Hindi maintindihan ang manifest ng pack:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nagkaproblema sa pagkuha ng lokal na metadata index para sa %1</translation>
+        <translation type="vanished">Nagkaproblema sa pagkuha ng lokal na metadata index para sa %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Nagkaproblema sa pagkuha ng lokal na metadata index para sa &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Nagkaproblema sa pagkuha ng lokal na metadata index para sa &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Hindi suportadong mode ng pag-install</translation>
+        <translation type="vanished">Hindi suportadong mode ng pag-install</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Binubura ang mga kasalukuyang file...</translation>
+        <translation type="vanished">Binubura ang mga kasalukuyang file...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Hindi kilalang uri ng mod: %1</translation>
+        <translation type="vanished">Hindi kilalang uri ng mod: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Hindi makita ang bersyon ng %1 loader</translation>
+        <translation type="vanished">Hindi makita ang bersyon ng %1 loader</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Walang bersyon ng loader na naitakda para sa modpack!</translation>
+        <translation type="vanished">Walang bersyon ng loader na naitakda para sa modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Hindi kilala o suportadong uri ng download: %1</translation>
+        <translation type="vanished">Hindi kilala o suportadong uri ng download: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Dina-download ang mga config...</translation>
+        <translation type="vanished">Dina-download ang mga config...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Pag download ng config</translation>
+        <translation type="vanished">Pag download ng config</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Ine-extract ang mga config...</translation>
+        <translation type="vanished">Ine-extract ang mga config...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Pinipili ang mga opsyonal na mod...</translation>
+        <translation type="vanished">Pinipili ang mga opsyonal na mod...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Dina-download ang mga mod…</translation>
+        <translation type="vanished">Dina-download ang mga mod…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Pag-download ng mod</translation>
+        <translation type="vanished">Pag-download ng mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Hindi kilalang uri ng pag-download: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Hindi kilalang uri ng pag-download: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>May nakitang pinagbabawalang mods</translation>
+        <translation type="vanished">May nakitang pinagbabawalang mods</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
+        <translation type="vanished">Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 ng mga %2 ay tapos na</translation>
+        <translation type="vanished">%1 ng mga %2 ay tapos na</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Nabigong i-extract ang mga mod…</translation>
+        <translation type="vanished">Nabigong i-extract ang mga mod…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Ine-extract ang mga mod…</translation>
+        <translation type="vanished">Ine-extract ang mga mod…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Ini-install ang modpack</translation>
+        <translation type="vanished">Ini-install ang modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Nabigong gawin ang mga component ng libraries</translation>
+        <translation type="vanished">Nabigong gawin ang mga component ng libraries</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Hindi kilalang uri ng loader: </translation>
+        <translation type="vanished">Hindi kilalang uri ng loader: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Nabigong gawin ang component ng pack</translation>
+        <translation type="vanished">Nabigong gawin ang component ng pack</translation>
     </message>
 </context>
 <context>
@@ -1407,7 +1403,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Nilo-load ang lokal na file</translation>
+        <translation>Nilo-load ang lokal na file</translation>
     </message>
 </context>
 <context>
@@ -1805,6 +1801,10 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2411,6 +2411,10 @@ Sigurado ka ba?</translation>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3391,7 +3395,7 @@ Subukan muli.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4121,6 +4125,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6541,7 +6549,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7890,7 +7898,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Niloload ang lokal na file</translation>
+        <translation type="vanished">Niloload ang lokal na file</translation>
     </message>
 </context>
 <context>
@@ -9950,88 +9958,108 @@ Sigurado ka ba dito?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">Hindi maintindihan ang manifest ng pack:
+        <translation type="unfinished">Hindi maintindihan ang manifest ng pack:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Hindi suportadong mode ng installation</translation>
+        <translation type="unfinished">Hindi suportadong mode ng installation</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Nagkaproblema sa pagkuha ng lokal na metadata index para sa &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">Nagkaproblema sa pagkuha ng lokal na metadata index para sa &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Binubura ang mga kasalukuyang file...</translation>
+        <translation type="unfinished">Binubura ang mga kasalukuyang file...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Hindi kilalang uri ng mod: %1</translation>
+        <translation type="unfinished">Hindi kilalang uri ng mod: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">Nagkaproblema sa pagkuha ng lokal na metadata index para sa %1</translation>
+        <translation type="unfinished">Nagkaproblema sa pagkuha ng lokal na metadata index para sa %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Hindi kilala o suportadong uri ng download: %1</translation>
+        <translation type="unfinished">Hindi kilala o suportadong uri ng download: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Dina-download ang mga config...</translation>
+        <translation type="unfinished">Dina-download ang mga config...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Pag download ng config</translation>
+        <translation type="unfinished">Pag download ng config</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Ine-extract ang mga config...</translation>
+        <translation type="unfinished">Ine-extract ang mga config...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Pinipili ang mga opsyonal na mod...</translation>
+        <translation type="unfinished">Pinipili ang mga opsyonal na mod...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Pag-download ng mod</translation>
+        <translation type="unfinished">Pag-download ng mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Hindi kilalang uri ng pag-download: %1</translation>
+        <translation type="unfinished">Hindi kilalang uri ng pag-download: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">May nakitang pinagbabawalang mods</translation>
+        <translation type="unfinished">May nakitang pinagbabawalang mods</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
+        <translation type="unfinished">Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Nabigong i-extract ang mga mods...</translation>
+        <translation type="unfinished">Nabigong i-extract ang mga mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Ine-extract ang mga mods...</translation>
+        <translation type="unfinished">Ine-extract ang mga mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">Ini-install ang modpack</translation>
+        <translation type="unfinished">Ini-install ang modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Nabigong gawin ang mga component ng libraries</translation>
+        <translation type="unfinished">Nabigong gawin ang mga component ng libraries</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Hindi kilalang uri ng loader: </translation>
+        <translation type="unfinished">Hindi kilalang uri ng loader: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Nabigong gawin ang component ng pack</translation>
+        <translation type="unfinished">Nabigong gawin ang component ng pack</translation>
+    </message>
+    <message>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11133,10 +11161,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11489,6 +11513,10 @@ Mensahe ng Error: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13247,13 +13275,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation>Wika</translation>

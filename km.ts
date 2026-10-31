@@ -226,108 +226,104 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>មិនអាចស្គាល់ pack manifest
+        <translation type="vanished">មិនអាចស្គាល់ pack manifest
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>មិនអាចទទួលបានលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ %1 បានទេ</translation>
+        <translation type="vanished">មិនអាចទទួលបានលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ %1 បានទេ</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>មិនអាចទាញយកលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ &apos;%1&apos; កំណែ v%2 បានទេ</translation>
+        <translation type="vanished">មិនអាចទាញយកលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ &apos;%1&apos; កំណែ v%2 បានទេ</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>របៀបដំឡើងមិនត្រូវបានគាំទ្រ</translation>
+        <translation type="vanished">របៀបដំឡើងមិនត្រូវបានគាំទ្រ</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>កំពុងនៅលុបឯកសារដែលមានស្រាប់...</translation>
+        <translation type="vanished">កំពុងនៅលុបឯកសារដែលមានស្រាប់...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>ប្រភេទ Mod មិនស្គាល់៖ %1</translation>
+        <translation type="vanished">ប្រភេទ Mod មិនស្គាល់៖ %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
+        <translation type="vanished">មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
+        <translation type="vanished">មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>ប្រភេទនៃការទាញយកមិនស្គាល់ ឬមិនត្រូវបានគាំទ្រ៖ %1</translation>
+        <translation type="vanished">ប្រភេទនៃការទាញយកមិនស្គាល់ ឬមិនត្រូវបានគាំទ្រ៖ %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>កំពុងនៅ download configs...</translation>
+        <translation type="vanished">កំពុងនៅ download configs...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>ការកំណត់ការទាញយក</translation>
+        <translation type="vanished">ការកំណត់ការទាញយក</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>កំពុងទាញយកឯកសារកំណត់ចេញ...</translation>
+        <translation type="vanished">កំពុងទាញយកឯកសារកំណត់ចេញ...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>កំពុងជ្រើសរើស Mod ជម្រើសបន្ថែម...</translation>
+        <translation type="vanished">កំពុងជ្រើសរើស Mod ជម្រើសបន្ថែម...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>កំពុងនៅ download mods...</translation>
+        <translation type="vanished">កំពុងនៅ download mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>ការទាញយក Mod</translation>
+        <translation type="vanished">ការទាញយក Mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>ប្រភេទនៃការទាញយកមិនស្គាល់៖ %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ប្រភេទនៃការទាញយកមិនស្គាល់៖ %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
+        <translation type="vanished">បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
+        <translation type="vanished">ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
+        <translation type="vanished">%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>ការបំបែក Mod ត្រូវបានបរាជ័យ...</translation>
+        <translation type="vanished">ការបំបែក Mod ត្រូវបានបរាជ័យ...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>កំពុងបំបែក Mod...</translation>
+        <translation type="vanished">កំពុងបំបែក Mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>កំពុងនៅ install modpack</translation>
+        <translation type="vanished">កំពុងនៅ install modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>មិនអាចបង្កើតសមាសភាគ Library បានទេ</translation>
+        <translation type="vanished">មិនអាចបង្កើតសមាសភាគ Library បានទេ</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>ប្រភេទ Loader មិនស្គាល់៖ </translation>
+        <translation type="vanished">ប្រភេទ Loader មិនស្គាល់៖ </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>មិនអាចបង្កើតសមាសភាគ Pack បានទេ</translation>
+        <translation type="vanished">មិនអាចបង្កើតសមាសភាគ Pack បានទេ</translation>
     </message>
 </context>
 <context>
@@ -1146,6 +1142,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1528,6 +1531,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2077,6 +2084,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2815,13 +2826,6 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -3489,6 +3493,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4989,6 +4997,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -6016,13 +6031,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7847,104 +7855,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">មិនអាចស្គាល់ pack manifest
+        <translation type="unfinished">មិនអាចស្គាល់ pack manifest
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">របៀបដំឡើងមិនត្រូវបានគាំទ្រ</translation>
+        <translation type="unfinished">របៀបដំឡើងមិនត្រូវបានគាំទ្រ</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">មិនអាចទាញយកលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ &apos;%1&apos; កំណែ v%2 បានទេ</translation>
+        <translation type="unfinished">មិនអាចទាញយកលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ &apos;%1&apos; កំណែ v%2 បានទេ</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">កំពុងនៅលុបឯកសារដែលមានស្រាប់...</translation>
+        <translation type="unfinished">កំពុងនៅលុបឯកសារដែលមានស្រាប់...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">ប្រភេទ Mod មិនស្គាល់៖ %1</translation>
+        <translation type="unfinished">ប្រភេទ Mod មិនស្គាល់៖ %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">បរាជ័យនៃការចាប់យក metadate index សម្រាប់ %1</translation>
+        <translation type="unfinished">បរាជ័យនៃការចាប់យក metadate index សម្រាប់ %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
+        <translation type="unfinished">មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="obsolete">មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
+        <translation type="unfinished">មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">ប្រភេទនៃការទាញយកមិនស្គាល់ ឬមិនត្រូវបានគាំទ្រ៖ %1</translation>
+        <translation type="unfinished">ប្រភេទនៃការទាញយកមិនស្គាល់ ឬមិនត្រូវបានគាំទ្រ៖ %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">កំពុងនៅ download configs...</translation>
+        <translation type="unfinished">កំពុងនៅ download configs...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">ការកំណត់ការទាញយក</translation>
+        <translation type="unfinished">ការកំណត់ការទាញយក</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">កំពុងទាញយកឯកសារកំណត់ចេញ...</translation>
+        <translation type="unfinished">កំពុងទាញយកឯកសារកំណត់ចេញ...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">កំពុងនៅរក mods ដែលជាជម្រើស...</translation>
+        <translation type="unfinished">កំពុងនៅរក mods ដែលជាជម្រើស...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">កំពុងនៅ download mods...</translation>
+        <translation type="unfinished">កំពុងនៅ download mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">ការទាញយក Mod</translation>
+        <translation type="unfinished">ការទាញយក Mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">ប្រភេទនៃការទាញយកមិនស្គាល់៖ %1</translation>
+        <translation type="unfinished">ប្រភេទនៃការទាញយកមិនស្គាល់៖ %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
+        <translation type="unfinished">បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
+        <translation type="unfinished">ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
+        <translation type="unfinished">%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">ការបំបែក Mod ត្រូវបានបរាជ័យ...</translation>
+        <translation type="unfinished">ការបំបែក Mod ត្រូវបានបរាជ័យ...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">កំពុងបំបែក Mod...</translation>
+        <translation type="unfinished">កំពុងបំបែក Mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">កំពុងនៅ install modpack</translation>
+        <translation type="unfinished">កំពុងនៅ install modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">មិនអាចបង្កើតសមាសភាគ Library បានទេ</translation>
+        <translation type="unfinished">មិនអាចបង្កើតសមាសភាគ Library បានទេ</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">ប្រភេទ Loader មិនស្គាល់៖ </translation>
+        <translation type="unfinished">ប្រភេទ Loader មិនស្គាល់៖ </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">មិនអាចបង្កើតសមាសភាគ Pack បានទេ</translation>
+        <translation type="unfinished">មិនអាចបង្កើតសមាសភាគ Pack បានទេ</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8917,10 +8929,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9260,6 +9268,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10872,13 +10884,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished"></translation>

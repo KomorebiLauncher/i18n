@@ -247,52 +247,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Paket manifest dosyası anlaşılamadı:
+        <translation type="vanished">Paket manifest dosyası anlaşılamadı:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 için yerel meta veri dizini alınamadı</translation>
+        <translation type="vanished">%1 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Desteklenmeyen yükleme modu</translation>
+        <translation type="vanished">Desteklenmeyen yükleme modu</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Mevcut dosyalar siliniyor...</translation>
+        <translation type="vanished">Mevcut dosyalar siliniyor...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Bilinmeyen mod türü: %1</translation>
+        <translation type="vanished">Bilinmeyen mod türü: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 yükleyicisi için sürüm bulunamadı</translation>
+        <translation type="vanished">%1 yükleyicisi için sürüm bulunamadı</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Mod paketi için yükleyici sürümü seçilmemiş!</translation>
+        <translation type="vanished">Mod paketi için yükleyici sürümü seçilmemiş!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
+        <translation type="vanished">Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Yapılandırmalar indiriliyor...</translation>
+        <translation type="vanished">Yapılandırmalar indiriliyor...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Yapılandırma indirmesi</translation>
+        <translation type="vanished">Yapılandırma indirmesi</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Yapılandırmalar çıkarılıyor...</translation>
+        <translation type="vanished">Yapılandırmalar çıkarılıyor...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -300,15 +300,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>İsteğe bağlı modlar seçiliyor...</translation>
+        <translation type="vanished">İsteğe bağlı modlar seçiliyor...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modlar indiriliyor...</translation>
+        <translation type="vanished">Modlar indiriliyor...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod indirmesi</translation>
+        <translation type="vanished">Mod indirmesi</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -316,47 +316,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Bilinmeyen indirme türü: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Bilinmeyen indirme türü: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Engellenmiş modlar bulundu</translation>
+        <translation type="vanished">Engellenmiş modlar bulundu</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilemez.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
+        <translation type="vanished">Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilemez.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%2 görevin %1 tanesi tamamlandı</translation>
+        <translation type="vanished">%2 görevin %1 tanesi tamamlandı</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Modları dışarı aktarma başarısız oldu...</translation>
+        <translation type="vanished">Modları dışarı aktarma başarısız oldu...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modlar dışarı aktarılıyor...</translation>
+        <translation type="vanished">Modlar dışarı aktarılıyor...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Mod paketi kuruluyor</translation>
+        <translation type="vanished">Mod paketi kuruluyor</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Kütüphane bileşeni oluşturulamadı</translation>
+        <translation type="vanished">Kütüphane bileşeni oluşturulamadı</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Bilinmeyen yükleyici tipi: </translation>
+        <translation type="vanished">Bilinmeyen yükleyici tipi: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Paket bileşeni oluşturulamadı</translation>
+        <translation type="vanished">Paket bileşeni oluşturulamadı</translation>
     </message>
 </context>
 <context>
@@ -1470,7 +1466,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Yerel dosya yükleniyor</translation>
+        <translation>Yerel dosya yükleniyor</translation>
     </message>
 </context>
 <context>
@@ -1884,7 +1880,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Dünya kopyalaması başarısız oldu.</translation>
+        <translation>Dünya kopyalaması başarısız oldu.</translation>
     </message>
 </context>
 <context>
@@ -2494,7 +2490,7 @@ Emin misiniz?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Dünya silinmesi başarısız oldu.</translation>
+        <translation>Dünya silinmesi başarısız oldu.</translation>
     </message>
 </context>
 <context>
@@ -3611,7 +3607,7 @@ Lütfen tekrar deneyin.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4523,7 +4519,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">Dünya aktarımı başarısız oldu.</translation>
+        <translation>Dünya aktarımı başarısız oldu.</translation>
     </message>
 </context>
 <context>
@@ -7360,7 +7356,7 @@ Sebep:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9119,7 +9115,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Yerel dosya yükleniyor</translation>
+        <translation type="vanished">Yerel dosya yükleniyor</translation>
     </message>
 </context>
 <context>
@@ -12139,104 +12135,108 @@ Emin misiniz?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Paket manifest dosyası anlaşılamadı:
+        <translation>Paket manifest dosyası anlaşılamadı:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Desteklenmeyen yükleme modu</translation>
+        <translation>Desteklenmeyen yükleme modu</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
+        <translation>&apos;%1&apos; v%2 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Mevcut dosyalar siliniyor...</translation>
+        <translation>Mevcut dosyalar siliniyor...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Bilinmeyen mod türü: %1</translation>
+        <translation>Bilinmeyen mod türü: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">%1 için yerel meta veri dizini alınamadı</translation>
+        <translation>%1 için yerel meta veri dizini alınamadı</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">%1 yükleyicisi için sürüm bulunamadı</translation>
+        <translation>%1 yükleyicisi için sürüm bulunamadı</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Mod paketi için yükleyici versiyonu seçilmedi!</translation>
+        <translation>Mod paketi için yükleyici versiyonu seçilmedi!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
+        <translation>Bilinmeyen veya desteklenmeyen indirme türü: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Yapılandırmalar indiriliyor...</translation>
+        <translation>Yapılandırmalar indiriliyor...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Yapılandırma indirmesi</translation>
+        <translation>Yapılandırma indirmesi</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Yapılandırmalar çıkarılıyor...</translation>
+        <translation>Yapılandırmalar çıkarılıyor...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">İsteğe bağlı modlar seçiliyor...</translation>
+        <translation>İsteğe bağlı modlar seçiliyor...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Modlar indiriliyor...</translation>
+        <translation>Modlar indiriliyor...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Mod indir</translation>
+        <translation>Mod indir</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Bilinmeyen indirme türü: %1</translation>
+        <translation>Bilinmeyen indirme türü: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Engellenmiş modlar bulundu</translation>
+        <translation>Engellenmiş modlar bulundu</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilmeye uygun değildir.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
+        <translation>Aşağıdaki dosyalar üçüncü taraf başlatıcılarda indirilmeye uygun değildir.&lt;br/&gt;Bunları manuel olarak indirmeniz ve profile eklemeniz gerekecektir.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%2&apos;nin %1&apos;i tamamlandı</translation>
+        <translation>%2&apos;nin %1&apos;i tamamlandı</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Modları çıkartma başarısız oldu...</translation>
+        <translation>Modları çıkartma başarısız oldu...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Modlar çıkartılıyor...</translation>
+        <translation>Modlar çıkartılıyor...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Mod paketi kuruluyor</translation>
+        <translation>Mod paketi kuruluyor</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Kütüphane bileşeni oluşturulamadı</translation>
+        <translation>Kütüphane bileşeni oluşturulamadı</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Bilinmeyen yükleyici tipi: </translation>
+        <translation>Bilinmeyen yükleyici tipi: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Paket bileşeni oluşturulamadı</translation>
+        <translation>Paket bileşeni oluşturulamadı</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13627,7 +13627,7 @@ Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translatio
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>Komorebi Launcher ile kullanılmak üzere Windows için bir toplu MKLINK programı</translation>
+        <translation type="vanished">Komorebi Launcher ile kullanılmak üzere Windows için bir toplu MKLINK programı</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -13996,6 +13996,10 @@ Hata mesajı: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16207,7 +16211,7 @@ Emin misiniz?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 çevrilmiş
 %3 muhtemelen
 %4 toplam</translation>

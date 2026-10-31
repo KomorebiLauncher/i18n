@@ -247,52 +247,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Impossibile interpretare il manifest del modpack:
+        <translation type="vanished">Impossibile interpretare il manifest del modpack:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Impossibile ottenere l&apos;indice dei metadati locali per %1</translation>
+        <translation type="vanished">Impossibile ottenere l&apos;indice dei metadati locali per %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Impossibile ottenere l&apos;indice dei metadati locali per &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Impossibile ottenere l&apos;indice dei metadati locali per &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Modalità di installazione non supportata</translation>
+        <translation type="vanished">Modalità di installazione non supportata</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Eliminazione dei file esistenti...</translation>
+        <translation type="vanished">Eliminazione dei file esistenti...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tipo mod sconosciuto: %1</translation>
+        <translation type="vanished">Tipo mod sconosciuto: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Impossibile trovare una versione per il loader %1</translation>
+        <translation type="vanished">Impossibile trovare una versione per il loader %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Nessuna versione del modloader impostata per il modpack!</translation>
+        <translation type="vanished">Nessuna versione del modloader impostata per il modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tipo di download sconosciuto o non supportato: %1</translation>
+        <translation type="vanished">Tipo di download sconosciuto o non supportato: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Download dei file di configurazione in corso...</translation>
+        <translation type="vanished">Download dei file di configurazione in corso...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Download dei file di configurazione</translation>
+        <translation type="vanished">Download dei file di configurazione</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Estrazione dei file di configurazione...</translation>
+        <translation type="vanished">Estrazione dei file di configurazione...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -300,15 +300,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Selezionare le mod opzionali...</translation>
+        <translation type="vanished">Selezionare le mod opzionali...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Download delle mod in corso...</translation>
+        <translation type="vanished">Download delle mod in corso...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Download delle mod</translation>
+        <translation type="vanished">Download delle mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -316,47 +316,47 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Tipo di download sconosciuto: %1</translation>
+        <translation type="vanished">Tipo di download sconosciuto: %1</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished">Path traversal bloccato in %1</translation>
+        <translation type="obsolete">Path traversal bloccato in %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Identificate delle mod bloccate</translation>
+        <translation type="vanished">Identificate delle mod bloccate</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>I seguenti file non sono disponibili per il download attraverso launcher di terze parti.&lt;br/&gt;È necessario scaricarli e aggiungerli manualmente all&apos;istanza.</translation>
+        <translation type="vanished">I seguenti file non sono disponibili per il download attraverso launcher di terze parti.&lt;br/&gt;È necessario scaricarli e aggiungerli manualmente all&apos;istanza.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 completati su %2</translation>
+        <translation type="vanished">%1 completati su %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Impossibile estrarre le mod...</translation>
+        <translation type="vanished">Impossibile estrarre le mod...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Estrazione delle mod in corso...</translation>
+        <translation type="vanished">Estrazione delle mod in corso...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installazione del modpack in corso</translation>
+        <translation type="vanished">Installazione del modpack in corso</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Creazione componente librerie fallita</translation>
+        <translation type="vanished">Creazione componente librerie fallita</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Tipo di modloader sconosciuto: </translation>
+        <translation type="vanished">Tipo di modloader sconosciuto: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Creazione componente modpack fallita</translation>
+        <translation type="vanished">Creazione componente modpack fallita</translation>
     </message>
 </context>
 <context>
@@ -1473,7 +1473,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Caricamento del file locale</translation>
+        <translation>Caricamento del file locale</translation>
     </message>
 </context>
 <context>
@@ -1879,7 +1879,7 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Copia del mondo fallita.</translation>
+        <translation>Copia del mondo fallita.</translation>
     </message>
 </context>
 <context>
@@ -2489,7 +2489,7 @@ Sei sicuro/a?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Eliminazione del mondo fallita.</translation>
+        <translation>Eliminazione del mondo fallita.</translation>
     </message>
 </context>
 <context>
@@ -3606,7 +3606,7 @@ Per favore, prova di nuovo.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4527,7 +4527,7 @@ Cosa vorresti fare con %2?</translation>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">Importazione del mondo fallita.</translation>
+        <translation>Importazione del mondo fallita.</translation>
     </message>
 </context>
 <context>
@@ -7324,7 +7324,7 @@ Causa:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9067,7 +9067,7 @@ Sei sicuro?</translation>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Caricamento del file locale</translation>
+        <translation type="vanished">Caricamento del file locale</translation>
     </message>
 </context>
 <context>
@@ -12078,108 +12078,108 @@ Sei sicuro?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Impossibile interpretare il manifesto del pacchetto:
+        <translation>Impossibile interpretare il manifesto del pacchetto:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Modalità di installazione non supportata</translation>
+        <translation>Modalità di installazione non supportata</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Impossibile ottenere l&apos;indice dei metadati locali per &apos;%1&apos; v%2</translation>
+        <translation>Impossibile ottenere l&apos;indice dei metadati locali per &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Eliminazione dei file esistenti...</translation>
+        <translation>Eliminazione dei file esistenti...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Tipo di mod sconosciuto: %1</translation>
+        <translation>Tipo di mod sconosciuto: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Impossibile ottenere l&apos;indice dei metadati locali per %1</translation>
+        <translation>Impossibile ottenere l&apos;indice dei metadati locali per %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Impossibile trovare una versione per il loader %1</translation>
+        <translation>Impossibile trovare una versione per il loader %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Nessuna versione del modloader impostata per il modpack!</translation>
+        <translation>Nessuna versione del modloader impostata per il modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Tipo di download sconosciuto o non supportato: %1</translation>
+        <translation>Tipo di download sconosciuto o non supportato: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Download dei file di configurazione in corso...</translation>
+        <translation>Download dei file di configurazione in corso...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Download dei file di configurazione</translation>
+        <translation>Download dei file di configurazione</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Estrazione dei file di configurazione...</translation>
+        <translation>Estrazione dei file di configurazione...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Selezionare le mod opzionali...</translation>
+        <translation>Selezionare le mod opzionali...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Scaricando le mod…</translation>
+        <translation>Scaricando le mod…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Download mod</translation>
+        <translation>Download mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Tipo di download sconosciuto: %1</translation>
+        <translation>Tipo di download sconosciuto: %1</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="vanished">Path traversal bloccato in %1</translation>
+        <translation>Path traversal bloccato in %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Identificate delle mod bloccate</translation>
+        <translation>Identificate delle mod bloccate</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">I seguenti file non sono disponibili per essere scaricati da launcher di terze parti.&lt;br/&gt;Dovrai scaricarli manualmente e aggiungerli all&apos;istanza.</translation>
+        <translation>I seguenti file non sono disponibili per essere scaricati da launcher di terze parti.&lt;br/&gt;Dovrai scaricarli manualmente e aggiungerli all&apos;istanza.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 completati su %2</translation>
+        <translation>%1 completati su %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Impossibile estrarre le mod...</translation>
+        <translation>Impossibile estrarre le mod...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Estrazione delle mod in corso...</translation>
+        <translation>Estrazione delle mod in corso...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Installando il modpack</translation>
+        <translation>Installando il modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Creazione componente librerie fallita</translation>
+        <translation>Creazione componente librerie fallita</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Tipo di modloader sconosciuto: </translation>
+        <translation>Tipo di modloader sconosciuto: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Creazione componente modpack fallita</translation>
+        <translation>Creazione componente modpack fallita</translation>
     </message>
 </context>
 <context>
@@ -13560,7 +13560,7 @@ Vuoi eliminare quei salvataggi esistenti durante questo aggiornamento?</translat
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>un programma batch MKLINK per Windows da utilizzare con komorebi</translation>
+        <translation type="vanished">un programma batch MKLINK per Windows da utilizzare con komorebi</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -13932,6 +13932,10 @@ Messaggio d&apos;errore: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16139,7 +16143,7 @@ Sei sicuro/a?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 tradotto
 %3 da verificare
 %4 totale</translation>

@@ -243,52 +243,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Không thể hiểu manifest của gói:
+        <translation type="vanished">Không thể hiểu manifest của gói:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Không tải được metadata cục bộ cho %1</translation>
+        <translation type="vanished">Không tải được metadata cục bộ cho %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Không tải được metadata cục bộ cho &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Không tải được metadata cục bộ cho &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Chế độ cài đặt không được hỗ trợ</translation>
+        <translation type="vanished">Chế độ cài đặt không được hỗ trợ</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Đang xoá những tập tin hiện có...</translation>
+        <translation type="vanished">Đang xoá những tập tin hiện có...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Mod không rõ: %1</translation>
+        <translation type="vanished">Mod không rõ: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Không thể tìm thấy phiên bản cho %1</translation>
+        <translation type="vanished">Không thể tìm thấy phiên bản cho %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Không có phiên bản loader nào được đặt cho modpack!</translation>
+        <translation type="vanished">Không có phiên bản loader nào được đặt cho modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Loại tải xuống không xác định hoặc không được hỗ trợ: %1</translation>
+        <translation type="vanished">Loại tải xuống không xác định hoặc không được hỗ trợ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Đang tải xuống config...</translation>
+        <translation type="vanished">Đang tải xuống config...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Tải xuống config</translation>
+        <translation type="vanished">Tải xuống config</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Đang giải nén config...</translation>
+        <translation type="vanished">Đang giải nén config...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -296,15 +296,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Đang chọn các mod tùy chọn...</translation>
+        <translation type="vanished">Đang chọn các mod tùy chọn...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Đang tải xuống mod...</translation>
+        <translation type="vanished">Đang tải xuống mod...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Tải xuống mod</translation>
+        <translation type="vanished">Tải xuống mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -312,47 +312,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Loại tải xuống không xác định: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Loại tải xuống không xác định: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Đã tìm thấy các mod bị chặn</translation>
+        <translation type="vanished">Đã tìm thấy các mod bị chặn</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Các bản mod sau đã bị chặn đối với các trình khởi chạy của bên thứ ba. &lt;br/&gt; Bạn cần tải chúng xuống theo cách thủ công và thêm chúng vào modpack.</translation>
+        <translation type="vanished">Các bản mod sau đã bị chặn đối với các trình khởi chạy của bên thứ ba. &lt;br/&gt; Bạn cần tải chúng xuống theo cách thủ công và thêm chúng vào modpack.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>Đã xong %1 trên %2</translation>
+        <translation type="vanished">Đã xong %1 trên %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Giải nén mod thất bại...</translation>
+        <translation type="vanished">Giải nén mod thất bại...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Đang giải nén mod...</translation>
+        <translation type="vanished">Đang giải nén mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Đang cài đặt modpack</translation>
+        <translation type="vanished">Đang cài đặt modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Không tạo được thành phần thư viện</translation>
+        <translation type="vanished">Không tạo được thành phần thư viện</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Loại loader không xác định: </translation>
+        <translation type="vanished">Loại loader không xác định: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Không tạo được thành phần gói</translation>
+        <translation type="vanished">Không tạo được thành phần gói</translation>
     </message>
 </context>
 <context>
@@ -1461,7 +1457,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Đang tải tệp cục bộ</translation>
+        <translation>Đang tải tệp cục bộ</translation>
     </message>
 </context>
 <context>
@@ -1867,7 +1863,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Sao chép thế giới thất bại.</translation>
+        <translation>Sao chép thế giới thất bại.</translation>
     </message>
 </context>
 <context>
@@ -2477,7 +2473,7 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Xóa thế giới thất bại.</translation>
+        <translation>Xóa thế giới thất bại.</translation>
     </message>
 </context>
 <context>
@@ -3542,7 +3538,7 @@ Vui lòng thử lại.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4436,7 +4432,7 @@ Bạn muốn làm gì với %2?</translation>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">Nhập thế giới không thành công.</translation>
+        <translation>Nhập thế giới không thành công.</translation>
     </message>
 </context>
 <context>
@@ -7181,7 +7177,7 @@ Lý do:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8758,7 +8754,7 @@ Bạn chắc chắn chứ?</translation>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Đang tải tệp cục bộ</translation>
+        <translation type="vanished">Đang tải tệp cục bộ</translation>
     </message>
 </context>
 <context>
@@ -11558,104 +11554,108 @@ Bạn có chắc không?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Không thể hiểu tệp manifest của gói:
+        <translation>Không thể hiểu tệp manifest của gói:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Chế độ cài đặt không được hỗ trợ</translation>
+        <translation>Chế độ cài đặt không được hỗ trợ</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Không thể lấy chỉ mục siêu dữ liệu cục bộ cho &apos;%1&apos; v%2</translation>
+        <translation>Không thể lấy chỉ mục siêu dữ liệu cục bộ cho &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Đang xoá những tập tin hiện có...</translation>
+        <translation>Đang xoá những tập tin hiện có...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">không rõ loại mod : %1</translation>
+        <translation>không rõ loại mod : %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Không tải được chỉ mục metadata cục bộ cho %1</translation>
+        <translation>Không tải được chỉ mục metadata cục bộ cho %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Không tìm thấy phiên bản cho loader %1</translation>
+        <translation>Không tìm thấy phiên bản cho loader %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Chưa thiết lập phiên bản loader cho modpack!</translation>
+        <translation>Chưa thiết lập phiên bản loader cho modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Loại tải xuống không xác định hoặc không được hỗ trợ: %1</translation>
+        <translation>Loại tải xuống không xác định hoặc không được hỗ trợ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Đang tải xuống config...</translation>
+        <translation>Đang tải xuống config...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">cài đặt tải xuống</translation>
+        <translation>cài đặt tải xuống</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Đang giải nén cấu hình...</translation>
+        <translation>Đang giải nén cấu hình...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Đang chọn các mod tùy chọn...</translation>
+        <translation>Đang chọn các mod tùy chọn...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Đang tải mod...</translation>
+        <translation>Đang tải mod...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Tải xuống mod</translation>
+        <translation>Tải xuống mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Loại tải xuống không xác định: %1</translation>
+        <translation>Loại tải xuống không xác định: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Đã tìm thấy các mod bị chặn</translation>
+        <translation>Đã tìm thấy các mod bị chặn</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Các tệp sau đây không có sẵn để tải xuống trên các launcher bên thứ ba.&lt;br/&gt;Bạn sẽ cần phải tải xuống thủ công và thêm chúng vào bản instance.</translation>
+        <translation>Các tệp sau đây không có sẵn để tải xuống trên các launcher bên thứ ba.&lt;br/&gt;Bạn sẽ cần phải tải xuống thủ công và thêm chúng vào bản instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">Đã xong %1 trên %2</translation>
+        <translation>Đã xong %1 trên %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Giải nén các mod thất bại...</translation>
+        <translation>Giải nén các mod thất bại...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Đang giải nén mod...</translation>
+        <translation>Đang giải nén mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Đang cài đặt modpack</translation>
+        <translation>Đang cài đặt modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Không tạo được thành phần thư viện</translation>
+        <translation>Không tạo được thành phần thư viện</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Loại loader không xác định: </translation>
+        <translation>Loại loader không xác định: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Không tạo được thành phần gói</translation>
+        <translation>Không tạo được thành phần gói</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13002,7 +13002,7 @@ Bạn có muốn xoá những tệp lưu trước đó không?</translation>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>một chương trình batch MKLINK cho windows để dùng với komorebi</translation>
+        <translation type="vanished">một chương trình batch MKLINK cho windows để dùng với komorebi</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -13371,6 +13371,10 @@ Tin nhắn báo lỗi: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15515,7 +15519,7 @@ Bạn có chắc?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 đã dịch
 %3 fuzzy
 %4 tổng cộng</translation>

@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Negaliu suprasti paketo manifesto:
+        <translation type="vanished">Negaliu suprasti paketo manifesto:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nepavyko gauti vietinių meta duomenų indekso %1</translation>
+        <translation type="vanished">Nepavyko gauti vietinių meta duomenų indekso %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nepalaikomas diegimo režimas</translation>
+        <translation type="vanished">Nepalaikomas diegimo režimas</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Naikinami esami failai...</translation>
+        <translation type="vanished">Naikinami esami failai...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Nežinomas modifikacijos tipas: %1</translation>
+        <translation type="vanished">Nežinomas modifikacijos tipas: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nepavyko rasti versijos %1 paleidėjui</translation>
+        <translation type="vanished">Nepavyko rasti versijos %1 paleidėjui</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
+        <translation type="vanished">Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation type="vanished">Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Siunčiamas konfigūracijos failas...</translation>
+        <translation type="vanished">Siunčiamas konfigūracijos failas...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Atsisiųsti konfigūraciją</translation>
+        <translation type="vanished">Atsisiųsti konfigūraciją</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Išpakuojamos konfigūracijos...</translation>
+        <translation type="vanished">Išpakuojamos konfigūracijos...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Parenkamos pasirenkamos modifikacijos...</translation>
+        <translation type="vanished">Parenkamos pasirenkamos modifikacijos...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modifikacijas atsisiuntimas...</translation>
+        <translation type="vanished">Modifikacijas atsisiuntimas...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Atsisiųsti modifikaciją</translation>
+        <translation type="vanished">Atsisiųsti modifikaciją</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Nepalaikomas atsisiuntimo tipas: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Rasta užblokuotų modifikacijų</translation>
+        <translation type="vanished">Rasta užblokuotų modifikacijų</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
+        <translation type="vanished">Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>Įdiegta %1 iš %2</translation>
+        <translation type="vanished">Įdiegta %1 iš %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Nepavyko išpakuoti modifikacijas...</translation>
+        <translation type="vanished">Nepavyko išpakuoti modifikacijas...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modifikacijos išpakavimas...</translation>
+        <translation type="vanished">Modifikacijos išpakavimas...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modpack diegimas</translation>
+        <translation type="vanished">Modpack diegimas</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Nepavyko sukurti bibliotekos komponentų</translation>
+        <translation type="vanished">Nepavyko sukurti bibliotekos komponentų</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Neatpažintas krautuvo tipas: </translation>
+        <translation type="vanished">Neatpažintas krautuvo tipas: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Nepavyko sukurti rinkinio komponentų</translation>
+        <translation type="vanished">Nepavyko sukurti rinkinio komponentų</translation>
     </message>
 </context>
 <context>
@@ -1393,6 +1389,13 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1791,7 +1794,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Nepavyko nukopijuoti pasaulio.</translation>
+        <translation>Nepavyko nukopijuoti pasaulio.</translation>
     </message>
 </context>
 <context>
@@ -2397,6 +2400,10 @@ Ar tikrai norite tai padaryti?</translation>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3506,7 +3513,7 @@ Bandykite dar kartą.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4300,6 +4307,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6620,7 +6631,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7829,13 +7840,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9996,87 +10000,108 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Nepalaikomas diegimo režimas</translation>
+        <translation type="unfinished">Nepalaikomas diegimo režimas</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Naikinami esami failai...</translation>
+        <translation type="unfinished">Naikinami esami failai...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Nežinomas modifikacijos tipas: %1</translation>
+        <translation type="unfinished">Nežinomas modifikacijos tipas: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">Nepavyko gauti vietinių meta duomenų indekso %1</translation>
+        <translation type="unfinished">Nepavyko gauti vietinių meta duomenų indekso %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">Nepavyko rasti versijos %1 paleidėjui</translation>
+        <translation type="unfinished">Nepavyko rasti versijos %1 paleidėjui</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="obsolete">Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
+        <translation type="unfinished">Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation type="unfinished">Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Siunčiamas konfigūracijos failas...</translation>
+        <translation type="unfinished">Siunčiamas konfigūracijos failas...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Atsisiųsti konfigūraciją</translation>
+        <translation type="unfinished">Atsisiųsti konfigūraciją</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Išpakuojamos konfigūracijos...</translation>
+        <translation type="unfinished">Išpakuojamos konfigūracijos...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Parenkamos pasirenkamos modifikacijos...</translation>
+        <translation type="unfinished">Parenkamos pasirenkamos modifikacijos...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Atsisiųsti modifikaciją</translation>
+        <translation type="unfinished">Atsisiųsti modifikaciją</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation type="unfinished">Nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">Rasta užblokuotų modifikacijų</translation>
+        <translation type="unfinished">Rasta užblokuotų modifikacijų</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
+        <translation type="unfinished">Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Nepavyko išpakuoti modifikacijas...</translation>
+        <translation type="unfinished">Nepavyko išpakuoti modifikacijas...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Modifikacijos išpakavimas...</translation>
+        <translation type="unfinished">Modifikacijos išpakavimas...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Nepavyko sukurti bibliotekos komponentų</translation>
+        <translation type="unfinished">Nepavyko sukurti bibliotekos komponentų</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Neatpažintas krautuvo tipas: </translation>
+        <translation type="unfinished">Neatpažintas krautuvo tipas: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Nepavyko sukurti rinkinio komponentų</translation>
+        <translation type="unfinished">Nepavyko sukurti rinkinio komponentų</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing modpack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11073,10 +11098,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation>Be grupės</translation>
     </message>
@@ -11421,6 +11442,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13182,13 +13207,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished">Kalba</translation>

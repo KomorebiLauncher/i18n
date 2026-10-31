@@ -234,52 +234,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Forsto ikkje pakkemanifestet:
+        <translation type="vanished">Forsto ikkje pakkemanifestet:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Klarte ikkje henta den lokale metadataindeksen for %1</translation>
+        <translation type="vanished">Klarte ikkje henta den lokale metadataindeksen for %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Klarte ikkje henta den lokale metadataindeksen for «%1» v%2</translation>
+        <translation type="vanished">Klarte ikkje henta den lokale metadataindeksen for «%1» v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Støttar ikkje installasjonsmodus</translation>
+        <translation type="vanished">Støttar ikkje installasjonsmodus</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Slettar eksisterande filer...</translation>
+        <translation type="vanished">Slettar eksisterande filer...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Ukjend moddtype: %1</translation>
+        <translation type="vanished">Ukjend moddtype: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Fann ikkje versjon for %1-lastaren</translation>
+        <translation type="vanished">Fann ikkje versjon for %1-lastaren</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen lastarversjon for moddpakka er angitt!</translation>
+        <translation type="vanished">Ingen lastarversjon for moddpakka er angitt!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nedlastingstype er ukjend eller ustøtta: %1</translation>
+        <translation type="vanished">Nedlastingstype er ukjend eller ustøtta: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Lastar ned konfigurasjonar …</translation>
+        <translation type="vanished">Lastar ned konfigurasjonar …</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Nedlasting av konfigurasjonar</translation>
+        <translation type="vanished">Nedlasting av konfigurasjonar</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Pakkar ut konfigurasjonar …</translation>
+        <translation type="vanished">Pakkar ut konfigurasjonar …</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -287,15 +287,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Vel valfrie moddar...</translation>
+        <translation type="vanished">Vel valfrie moddar...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Lastar ned moddar …</translation>
+        <translation type="vanished">Lastar ned moddar …</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Lastar ned modd</translation>
+        <translation type="vanished">Lastar ned modd</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -303,47 +303,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Ukjend nedlastingstype: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ukjend nedlastingstype: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Blokkerte moddar funne</translation>
+        <translation type="vanished">Blokkerte moddar funne</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Dei følgjande filene er ikkje tilgjengelege for nedlasting i tredjeparts startarar.&lt;br/&gt;Du må laste dei ned manuelt og leggje dei til i instansen.</translation>
+        <translation type="vanished">Dei følgjande filene er ikkje tilgjengelege for nedlasting i tredjeparts startarar.&lt;br/&gt;Du må laste dei ned manuelt og leggje dei til i instansen.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 av %2 fullført</translation>
+        <translation type="vanished">%1 av %2 fullført</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Klarte ikkje pakka ut moddar...</translation>
+        <translation type="vanished">Klarte ikkje pakka ut moddar...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Pakkar ut moddar …</translation>
+        <translation type="vanished">Pakkar ut moddar …</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installerer moddpakka</translation>
+        <translation type="vanished">Installerer moddpakka</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Klarte ikkje laga komponent for bibliotek</translation>
+        <translation type="vanished">Klarte ikkje laga komponent for bibliotek</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Ukjend type lastar: </translation>
+        <translation type="vanished">Ukjend type lastar: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Klarte ikkje å laga pakkekomponent</translation>
+        <translation type="vanished">Klarte ikkje å laga pakkekomponent</translation>
     </message>
 </context>
 <context>
@@ -1373,6 +1369,13 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1750,6 +1753,10 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2308,6 +2315,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3218,13 +3229,6 @@ Prøv igjen.</translation>
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -4039,6 +4043,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6172,6 +6180,13 @@ Grunn:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -7424,13 +7439,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9635,91 +9643,108 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Støttar ikkje installasjonsmodus</translation>
+        <translation type="unfinished">Støttar ikkje installasjonsmodus</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Klarte ikkje henta den lokale metadataindeksen for «%1» v%2</translation>
+        <translation type="unfinished">Klarte ikkje henta den lokale metadataindeksen for «%1» v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Slettar eksisterande filer...</translation>
+        <translation type="unfinished">Slettar eksisterande filer...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Ukjend moddtype: %1</translation>
+        <translation type="unfinished">Ukjend moddtype: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">Klarte ikkje henta den lokale metadataindeksen for %1</translation>
+        <translation type="unfinished">Klarte ikkje henta den lokale metadataindeksen for %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">Fann ikkje versjon for %1-lastaren</translation>
+        <translation type="unfinished">Fann ikkje versjon for %1-lastaren</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="obsolete">Ingen lastarversjon for moddpakka er angitt!</translation>
+        <translation type="unfinished">Ingen lastarversjon for moddpakka er angitt!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Nedlastingstype er ukjend eller ustøtta: %1</translation>
+        <translation type="unfinished">Nedlastingstype er ukjend eller ustøtta: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Lastar ned konfigurasjonar …</translation>
+        <translation type="unfinished">Lastar ned konfigurasjonar …</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Nedlasting av konfigurasjonar</translation>
+        <translation type="unfinished">Nedlasting av konfigurasjonar</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Pakkar ut konfigurasjonar …</translation>
+        <translation type="unfinished">Pakkar ut konfigurasjonar …</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Vel valfrie moddar...</translation>
+        <translation type="unfinished">Vel valfrie moddar...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">Lastar ned moddar …</translation>
+        <translation type="unfinished">Lastar ned moddar …</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Ukjend nedlastingstype: %1</translation>
+        <translation type="unfinished">Ukjend nedlastingstype: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">Blokkerte moddar funne</translation>
+        <translation type="unfinished">Blokkerte moddar funne</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">Dei følgjande filene er ikkje tilgjengelege for nedlasting i tredjeparts startarar.&lt;br/&gt;Du må laste dei ned manuelt og leggje dei til i instansen.</translation>
+        <translation type="unfinished">Dei følgjande filene er ikkje tilgjengelege for nedlasting i tredjeparts startarar.&lt;br/&gt;Du må laste dei ned manuelt og leggje dei til i instansen.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 av %2 fullført</translation>
+        <translation type="unfinished">%1 av %2 fullført</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Klarte ikkje pakka ut moddar...</translation>
+        <translation type="unfinished">Klarte ikkje pakka ut moddar...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Pakkar ut moddar …</translation>
+        <translation type="unfinished">Pakkar ut moddar …</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Klarte ikkje laga komponent for bibliotek</translation>
+        <translation type="unfinished">Klarte ikkje laga komponent for bibliotek</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Ukjend type lastar: </translation>
+        <translation type="unfinished">Ukjend type lastar: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Klarte ikkje å laga pakkekomponent</translation>
+        <translation type="unfinished">Klarte ikkje å laga pakkekomponent</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing modpack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10896,10 +10921,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11243,6 +11264,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13031,7 +13056,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 omsett
 %3 uklare
 %4 til saman</translation>

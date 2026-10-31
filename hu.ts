@@ -243,52 +243,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>A csomagleíró nem értelmezhető:
+        <translation type="vanished">A csomagleíró nem értelmezhető:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: %1</translation>
+        <translation type="vanished">Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: „%1” v%2</translation>
+        <translation type="vanished">Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: „%1” v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nem támogatott telepítési mód</translation>
+        <translation type="vanished">Nem támogatott telepítési mód</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Meglévő fájlok törlése…</translation>
+        <translation type="vanished">Meglévő fájlok törlése…</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Ismeretlen mod típus: %1</translation>
+        <translation type="vanished">Ismeretlen mod típus: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nem sikerült megtalálni a(z) %1 betöltő verzióját</translation>
+        <translation type="vanished">Nem sikerült megtalálni a(z) %1 betöltő verzióját</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Nincs modbetöltő verzió beállítva a modcsomaghoz!</translation>
+        <translation type="vanished">Nincs modbetöltő verzió beállítva a modcsomaghoz!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nem ismert vagy nem támogatott letöltési típus: %1</translation>
+        <translation type="vanished">Nem ismert vagy nem támogatott letöltési típus: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Beállítások letöltése…</translation>
+        <translation type="vanished">Beállítások letöltése…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Beállítások letöltése</translation>
+        <translation type="vanished">Beállítások letöltése</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Beállítások kicsomagolása…</translation>
+        <translation type="vanished">Beállítások kicsomagolása…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -296,15 +296,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Opcionális modok kiválasztása…</translation>
+        <translation type="vanished">Opcionális modok kiválasztása…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modok letöltése…</translation>
+        <translation type="vanished">Modok letöltése…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod letöltés</translation>
+        <translation type="vanished">Mod letöltés</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -312,47 +312,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Ismeretlen letöltési típus: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ismeretlen letöltési típus: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Letiltott modok találhatók</translation>
+        <translation type="vanished">Letiltott modok találhatók</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Ezek a fájlok nem tölthetőek le harmadik féltől származó launcherrel.&lt;br/&gt;Manuálisan kell ezeket letölteni és hozzáadni a példányhoz.</translation>
+        <translation type="vanished">Ezek a fájlok nem tölthetőek le harmadik féltől származó launcherrel.&lt;br/&gt;Manuálisan kell ezeket letölteni és hozzáadni a példányhoz.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1/%2 kész</translation>
+        <translation type="vanished">%1/%2 kész</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Nem sikerült kicsomagolni a modokat…</translation>
+        <translation type="vanished">Nem sikerült kicsomagolni a modokat…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modok kicsomagolása…</translation>
+        <translation type="vanished">Modok kicsomagolása…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modcsomag telepítése</translation>
+        <translation type="vanished">Modcsomag telepítése</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Nem sikerült létrehozni a könyvtárak összetevőt</translation>
+        <translation type="vanished">Nem sikerült létrehozni a könyvtárak összetevőt</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Ismeretlen betöltő típus: </translation>
+        <translation type="vanished">Ismeretlen betöltő típus: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Nem sikerült létrehozni a csomagösszetevőt</translation>
+        <translation type="vanished">Nem sikerült létrehozni a csomagösszetevőt</translation>
     </message>
 </context>
 <context>
@@ -1461,7 +1457,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">Helyi fájl betöltése</translation>
+        <translation type="unfinished">Helyi fájl betöltése</translation>
     </message>
 </context>
 <context>
@@ -1875,7 +1871,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">A világ másolása sikertelen volt.</translation>
+        <translation>A világ másolása sikertelen volt.</translation>
     </message>
 </context>
 <context>
@@ -2485,7 +2481,7 @@ Biztos vagy ebben?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">A világ törlése sikertelen volt.</translation>
+        <translation>A világ törlése sikertelen volt.</translation>
     </message>
 </context>
 <context>
@@ -3602,7 +3598,7 @@ Próbáld újra.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4509,7 +4505,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">A világ importálása sikertelen volt.</translation>
+        <translation>A világ importálása sikertelen volt.</translation>
     </message>
 </context>
 <context>
@@ -7328,7 +7324,7 @@ Indok:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9077,7 +9073,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Helyi fájl betöltése</translation>
+        <translation type="vanished">Helyi fájl betöltése</translation>
     </message>
 </context>
 <context>
@@ -12104,104 +12100,108 @@ Biztos vagy ebben?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Nem sikerült értelmezni a csomagleírót:
+        <translation>Nem sikerült értelmezni a csomagleírót:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Nem támogatott telepítési mód</translation>
+        <translation>Nem támogatott telepítési mód</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: „%1” v%2</translation>
+        <translation>Nem sikerült lekérni a helyi metaadat-indexet a következőhöz: „%1” v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Meglévő fájlok törlése…</translation>
+        <translation>Meglévő fájlok törlése…</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Ismeretlen modtípus: %1</translation>
+        <translation>Ismeretlen modtípus: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Nem sikerült lekérni a helyi metaadatindexet ehhez: %1</translation>
+        <translation>Nem sikerült lekérni a helyi metaadatindexet ehhez: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Nem sikerült megtalálni a(z) %1 betöltő verzióját</translation>
+        <translation>Nem sikerült megtalálni a(z) %1 betöltő verzióját</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Nincs modbetöltő-verzió beállítva a modcsomaghoz!</translation>
+        <translation>Nincs modbetöltő-verzió beállítva a modcsomaghoz!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Nem ismert vagy nem támogatott letöltési típus: %1</translation>
+        <translation>Nem ismert vagy nem támogatott letöltési típus: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Beállítások letöltése…</translation>
+        <translation>Beállítások letöltése…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Beállítások letöltése</translation>
+        <translation>Beállítások letöltése</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Beállítások kicsomagolása…</translation>
+        <translation>Beállítások kicsomagolása…</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Opcionális modok kiválasztása…</translation>
+        <translation>Opcionális modok kiválasztása…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Modok letöltése…</translation>
+        <translation>Modok letöltése…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Mod letöltés</translation>
+        <translation>Mod letöltés</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Ismeretlen letöltési típus: %1</translation>
+        <translation>Ismeretlen letöltési típus: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Letiltott modok találhatók</translation>
+        <translation>Letiltott modok találhatók</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">A következő fájlok nem tölthetők le külső indítókból.&lt;br/&gt;Kézzel kell letöltened őket, majd hozzáadni a példányhoz.</translation>
+        <translation>A következő fájlok nem tölthetők le külső indítókból.&lt;br/&gt;Kézzel kell letöltened őket, majd hozzáadni a példányhoz.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1/%2 kész</translation>
+        <translation>%1/%2 kész</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Nem sikerült kicsomagolni a modokat…</translation>
+        <translation>Nem sikerült kicsomagolni a modokat…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Modok kicsomagolása…</translation>
+        <translation>Modok kicsomagolása…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Modcsomag telepítése</translation>
+        <translation>Modcsomag telepítése</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Nem sikerült létrehozni a könyvtárak összetevőt</translation>
+        <translation>Nem sikerült létrehozni a könyvtárak összetevőt</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Ismeretlen betöltőtípus: </translation>
+        <translation>Ismeretlen betöltőtípus: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Nem sikerült létrehozni a csomagösszetevőt</translation>
+        <translation>Nem sikerült létrehozni a csomagösszetevőt</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13587,7 +13587,7 @@ El szeretnéd távolítani ezeket a meglévő mentéseket a frissítés alatt?</
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>kötegelt MKLINK program a Prismlauncherrel használható windowshoz</translation>
+        <translation type="vanished">kötegelt MKLINK program a Prismlauncherrel használható windowshoz</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -13952,6 +13952,10 @@ Hibaüzenet: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16159,7 +16163,7 @@ Biztos vagy ebben?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 lefordítva
 %3 fuzzy
 %4 összesen</translation>

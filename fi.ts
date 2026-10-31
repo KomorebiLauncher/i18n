@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Ei pystytty käsittelemään paketin manifest-tiedostoa:
+        <translation type="vanished">Ei pystytty käsittelemään paketin manifest-tiedostoa:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
+        <translation type="vanished">Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Paikallista metatiedon indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Tukematon asennustila</translation>
+        <translation type="vanished">Tukematon asennustila</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Poistetaan olemassa olevia tiedostoja...</translation>
+        <translation type="vanished">Poistetaan olemassa olevia tiedostoja...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tuntematon modityyppi: %1</translation>
+        <translation type="vanished">Tuntematon modityyppi: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Versiota ei löytynyt %1-modilataajalle</translation>
+        <translation type="vanished">Versiota ei löytynyt %1-modilataajalle</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Modipaketilla ei ole määritetty modilataajan versiota!</translation>
+        <translation type="vanished">Modipaketilla ei ole määritetty modilataajan versiota!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tuntematon tai ei tuettu lataustyyppi: %1</translation>
+        <translation type="vanished">Tuntematon tai ei tuettu lataustyyppi: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Ladataan konfiguraatioita...</translation>
+        <translation type="vanished">Ladataan konfiguraatioita...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfiguraatioiden lataus</translation>
+        <translation type="vanished">Konfiguraatioiden lataus</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Puretaan konfiguraatioita...</translation>
+        <translation type="vanished">Puretaan konfiguraatioita...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Valitaan valinnaisia modeja...</translation>
+        <translation type="vanished">Valitaan valinnaisia modeja...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Ladataan modeja...</translation>
+        <translation type="vanished">Ladataan modeja...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Modien lataus</translation>
+        <translation type="vanished">Modien lataus</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,47 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Tuntematon lataustyyppi: %1</translation>
+        <translation type="vanished">Tuntematon lataustyyppi: %1</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished">Polun läpikäynti estetty kohteessa %1</translation>
+        <translation type="obsolete">Polun läpikäynti estetty kohteessa %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Estettyjä modeja löydetty</translation>
+        <translation type="vanished">Estettyjä modeja löydetty</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Seuraavia tiedostoja ei voi ladata kolmannen osapuolen käynnistysohjelmissa.&lt;br/&gt;Sinun pitää manuaalisesti ladata ja lisätä ne pelipakettiin.</translation>
+        <translation type="vanished">Seuraavia tiedostoja ei voi ladata kolmannen osapuolen käynnistysohjelmissa.&lt;br/&gt;Sinun pitää manuaalisesti ladata ja lisätä ne pelipakettiin.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1/%2 valmiina</translation>
+        <translation type="vanished">%1/%2 valmiina</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Modien purku epäonnistui...</translation>
+        <translation type="vanished">Modien purku epäonnistui...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Puretaan modeja...</translation>
+        <translation type="vanished">Puretaan modeja...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Asennetaan modipakettia</translation>
+        <translation type="vanished">Asennetaan modipakettia</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Kirjastokomponenttien luonti epäonnistui</translation>
+        <translation type="vanished">Kirjastokomponenttien luonti epäonnistui</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Tuntematon lataajatyyppi: </translation>
+        <translation type="vanished">Tuntematon lataajatyyppi: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Pakettikomponentin luonti epäonnistui</translation>
+        <translation type="vanished">Pakettikomponentin luonti epäonnistui</translation>
     </message>
 </context>
 <context>
@@ -1400,7 +1400,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Ladataan paikallista tiedostoa</translation>
+        <translation>Ladataan paikallista tiedostoa</translation>
     </message>
 </context>
 <context>
@@ -1806,7 +1806,7 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Maailman kopiointi epäonnistui.</translation>
+        <translation>Maailman kopiointi epäonnistui.</translation>
     </message>
 </context>
 <context>
@@ -2416,7 +2416,7 @@ Oletko varma?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Maailman poisto epäonnistui.</translation>
+        <translation>Maailman poisto epäonnistui.</translation>
     </message>
 </context>
 <context>
@@ -3481,7 +3481,7 @@ Yritä uudelleen.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft%1</translation>
+        <translation type="vanished">Minecraft%1</translation>
     </message>
 </context>
 <context>
@@ -4351,7 +4351,7 @@ Mitä haluat tehdä kohteelle %2?</translation>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">Maailman tuonti epäonnistui.</translation>
+        <translation>Maailman tuonti epäonnistui.</translation>
     </message>
 </context>
 <context>
@@ -7018,7 +7018,7 @@ Syy:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8584,7 +8584,7 @@ Oletko varma?</translation>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Ladataan paikallista tiedostoa</translation>
+        <translation type="vanished">Ladataan paikallista tiedostoa</translation>
     </message>
 </context>
 <context>
@@ -11340,108 +11340,108 @@ Oletko varma?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Ei pystytty käsittelemään paketin manifest-tiedostoa:
+        <translation>Ei pystytty käsittelemään paketin manifest-tiedostoa:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Tukematon asennustila</translation>
+        <translation>Tukematon asennustila</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Paikallista metatiedon indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
+        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Poistetaan olemassa olevia tiedostoja...</translation>
+        <translation>Poistetaan olemassa olevia tiedostoja...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Tuntematon modityyppi: %1</translation>
+        <translation>Tuntematon modityyppi: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
+        <translation>Paikallista metatiedon indeksiä ei voitu ladata kohteelle %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Versiota ei löytynyt %1-modilataajalle</translation>
+        <translation>Versiota ei löytynyt %1-modilataajalle</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Modipaketilla ei ole määritetty modilataajan versiota!</translation>
+        <translation>Modipaketilla ei ole määritetty modilataajan versiota!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Tuntematon tai ei tuettu lataustyyppi: %1</translation>
+        <translation>Tuntematon tai ei tuettu lataustyyppi: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Ladataan konfiguraatioita...</translation>
+        <translation>Ladataan konfiguraatioita...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Konfiguraatioiden lataus</translation>
+        <translation>Konfiguraatioiden lataus</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Puretaan konfiguraatioita...</translation>
+        <translation>Puretaan konfiguraatioita...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Valitaan valinnaisia modeja...</translation>
+        <translation>Valitaan valinnaisia modeja...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Ladataan modeja...</translation>
+        <translation>Ladataan modeja...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Modien lataus</translation>
+        <translation>Modien lataus</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Tuntematon lataustyyppi: %1</translation>
+        <translation>Tuntematon lataustyyppi: %1</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="vanished">Polun läpikäynti estetty kohteessa %1</translation>
+        <translation>Polun läpikäynti estetty kohteessa %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Estettyjä modeja löydetty</translation>
+        <translation>Estettyjä modeja löydetty</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Seuraavia tiedostoja ei voi ladata kolmannen osapuolen käynnistysohjelmissa.&lt;br/&gt;Sinun pitää manuaalisesti ladata ja lisätä ne pelipakettiin.</translation>
+        <translation>Seuraavia tiedostoja ei voi ladata kolmannen osapuolen käynnistysohjelmissa.&lt;br/&gt;Sinun pitää manuaalisesti ladata ja lisätä ne pelipakettiin.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1/%2 valmiina</translation>
+        <translation>%1/%2 valmiina</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Modien purku epäonnistui...</translation>
+        <translation>Modien purku epäonnistui...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Puretaan modeja...</translation>
+        <translation>Puretaan modeja...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Asennetaan modipakettia</translation>
+        <translation>Asennetaan modipakettia</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Kirjastokomponenttien luonti epäonnistui</translation>
+        <translation>Kirjastokomponenttien luonti epäonnistui</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Tuntematon lataajatyyppi: </translation>
+        <translation>Tuntematon lataajatyyppi: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Pakettikomponentin luonti epäonnistui</translation>
+        <translation>Pakettikomponentin luonti epäonnistui</translation>
     </message>
 </context>
 <context>
@@ -12741,7 +12741,7 @@ Haluatko poistaa olemassaolevat tallennukst osana päivitystä?</translation>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>Batch MKLINK ohjelma windowsille, jota käytetään Komorebi Launcher:in kanssa</translation>
+        <translation type="vanished">Batch MKLINK ohjelma windowsille, jota käytetään Komorebi Launcher:in kanssa</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -13113,6 +13113,10 @@ Virheilmoitus: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15240,7 +15244,7 @@ Oletko varma?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 käännetty
 %3 epäselvää
 %4 yhteensä</translation>

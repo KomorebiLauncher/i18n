@@ -235,52 +235,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>לא ניתן היה להבין את המניפסט של החבילה:
+        <translation type="vanished">לא ניתן היה להבין את המניפסט של החבילה:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>נכשלה קבלת מפתח נתוני העל עבור %1</translation>
+        <translation type="vanished">נכשלה קבלת מפתח נתוני העל עבור %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>לא ניתן היה להשיג את אינדקס המטא נתונים המקומי עבור &apos;%1&apos; v%2</translation>
+        <translation type="vanished">לא ניתן היה להשיג את אינדקס המטא נתונים המקומי עבור &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>מצב ההתקנה לא נתמך</translation>
+        <translation type="vanished">מצב ההתקנה לא נתמך</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>הקבצים הקיימים נמחקים...</translation>
+        <translation type="vanished">הקבצים הקיימים נמחקים...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>סוג מוד לא מוכר: %1</translation>
+        <translation type="vanished">סוג מוד לא מוכר: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>לא ניתן היה למצוא גרסה עבור הטוען %1</translation>
+        <translation type="vanished">לא ניתן היה למצוא גרסה עבור הטוען %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>לא הוגדרה גרסת מטען עבור חבילת המודים!</translation>
+        <translation type="vanished">לא הוגדרה גרסת מטען עבור חבילת המודים!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>סוג הורדה לא מוכר או לא נתמך: %1</translation>
+        <translation type="vanished">סוג הורדה לא מוכר או לא נתמך: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>הגדרות התצורה מתקבלות...</translation>
+        <translation type="vanished">הגדרות התצורה מתקבלות...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>הורדת הגדרות התצורה</translation>
+        <translation type="vanished">הורדת הגדרות התצורה</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>הגדרות התצורה מחולצות...</translation>
+        <translation type="vanished">הגדרות התצורה מחולצות...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -288,15 +288,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>מודים רשותיים נבחרים...</translation>
+        <translation type="vanished">מודים רשותיים נבחרים...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>המודים מתקבלים...</translation>
+        <translation type="vanished">המודים מתקבלים...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>הורדת מוד</translation>
+        <translation type="vanished">הורדת מוד</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -304,47 +304,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>סוג הורדה לא מוכר: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">סוג הורדה לא מוכר: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>מודים חסומים נמצאו</translation>
+        <translation type="vanished">מודים חסומים נמצאו</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>הקבצים הבאים אינם זמינים להורדה במשגרי משחק של צד שלישי.&lt;br/&gt;יהיה עליך להוריד אותם ולהוסיף אותם לעותק.</translation>
+        <translation type="vanished">הקבצים הבאים אינם זמינים להורדה במשגרי משחק של צד שלישי.&lt;br/&gt;יהיה עליך להוריד אותם ולהוסיף אותם לעותק.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>הושלמו %1 מתוך %2</translation>
+        <translation type="vanished">הושלמו %1 מתוך %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>חילוץ המודים נכשל...</translation>
+        <translation type="vanished">חילוץ המודים נכשל...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>המודים מחולצים...</translation>
+        <translation type="vanished">המודים מחולצים...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>חבילת המודים בהתקנה</translation>
+        <translation type="vanished">חבילת המודים בהתקנה</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>יצירת רכיב ספריות נכשלה</translation>
+        <translation type="vanished">יצירת רכיב ספריות נכשלה</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>סוג טוען מודים לא ידוע: </translation>
+        <translation type="vanished">סוג טוען מודים לא ידוע: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>נכשלה יצירת רכיב החבילה</translation>
+        <translation type="vanished">נכשלה יצירת רכיב החבילה</translation>
     </message>
 </context>
 <context>
@@ -1449,7 +1445,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">הקובץ המקומי נטען</translation>
+        <translation type="unfinished">הקובץ המקומי נטען</translation>
     </message>
 </context>
 <context>
@@ -1847,7 +1843,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">העתקת העולם נכשלה.</translation>
+        <translation>העתקת העולם נכשלה.</translation>
     </message>
 </context>
 <context>
@@ -2457,7 +2453,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">מחיקת העולם נכשלה.</translation>
+        <translation>מחיקת העולם נכשלה.</translation>
     </message>
 </context>
 <context>
@@ -3529,7 +3525,7 @@ Please try again.</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>‎Minecraft %1</translation>
+        <translation type="vanished">‎Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4385,7 +4381,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">ייבוא העולם נכשל.</translation>
+        <translation>ייבוא העולם נכשל.</translation>
     </message>
 </context>
 <context>
@@ -6599,7 +6595,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">‎Minecraft %1</translation>
+        <translation type="unfinished">‎Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7940,7 +7936,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>הקובץ המקומי נטען</translation>
+        <translation type="vanished">הקובץ המקומי נטען</translation>
     </message>
 </context>
 <context>
@@ -10208,83 +10204,108 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">מצב ההתקנה לא נתמך</translation>
+        <translation>מצב ההתקנה לא נתמך</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">נכשלה קבלת נתוני העל המקומיים עבור גרסה %2 של ‚%1’</translation>
+        <translation>נכשלה קבלת נתוני העל המקומיים עבור גרסה %2 של ‚%1’</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">הקבצים הקיימים נמחקים...</translation>
+        <translation>הקבצים הקיימים נמחקים...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">סוג מוד לא מוכר: %1</translation>
+        <translation>סוג מוד לא מוכר: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">סוג הורדה לא מוכר או לא נתמך: %1</translation>
+        <translation>סוג הורדה לא מוכר או לא נתמך: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">הגדרות התצורה מתקבלות...</translation>
+        <translation>הגדרות התצורה מתקבלות...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">הורדת הגדרות התצורה</translation>
+        <translation>הורדת הגדרות התצורה</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">הגדרות התצורה מחולצות...</translation>
+        <translation>הגדרות התצורה מחולצות...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">מודים אופציונליים נבחרים...</translation>
+        <translation type="unfinished">מודים אופציונליים נבחרים...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">המודים בהורדה...</translation>
+        <translation>המודים בהורדה...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">הורדת מוד</translation>
+        <translation>הורדת מוד</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">סוג הורדה לא מוכר: %1</translation>
+        <translation>סוג הורדה לא מוכר: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">נמצאו מודים חסומים</translation>
+        <translation>נמצאו מודים חסומים</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">הושלמו %1 מתוך %2</translation>
+        <translation>הושלמו %1 מתוך %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">חילוץ המודים נכשל...</translation>
+        <translation>חילוץ המודים נכשל...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">המודים מחולצים...</translation>
+        <translation>המודים מחולצים...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">ערכת המודים בתהליך התקנה</translation>
+        <translation>ערכת המודים בתהליך התקנה</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">נכשלה יצירת רכיב הספריות</translation>
+        <translation>נכשלה יצירת רכיב הספריות</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">סוג טוען מודים לא ידוע: </translation>
+        <translation type="unfinished">סוג טוען מודים לא ידוע: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">נכשלה יצירת רכיב החבילה</translation>
+        <translation type="unfinished">נכשלה יצירת רכיב החבילה</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11325,10 +11346,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation>מיון לפי החדש ביותר</translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation>לא בקבוצה</translation>
     </message>
@@ -11672,6 +11689,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13522,13 +13543,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation>שפה</translation>

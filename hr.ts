@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nije moguće razumjeti manifest paketa:
+        <translation type="vanished">Nije moguće razumjeti manifest paketa:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Neuspješno dohvaćivanje lokalnih indeksa metadate za %1</translation>
+        <translation type="vanished">Neuspješno dohvaćivanje lokalnih indeksa metadate za %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Neuspješno dohvaćanje lokalnog indeksa metapodataka za &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Neuspješno dohvaćanje lokalnog indeksa metapodataka za &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nepodržani instalacijski način</translation>
+        <translation type="vanished">Nepodržani instalacijski način</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Brisanje postojećih datoteka...</translation>
+        <translation type="vanished">Brisanje postojećih datoteka...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Nepoznata vrsta moda: %1</translation>
+        <translation type="vanished">Nepoznata vrsta moda: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Neuspješno pronalaženje verzije za %1 učitavača</translation>
+        <translation type="vanished">Neuspješno pronalaženje verzije za %1 učitavača</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Nije postavljena verzija učitavača za modpack!</translation>
+        <translation type="vanished">Nije postavljena verzija učitavača za modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nepoznata ili nepodržana vrsta preuzimanja: %1</translation>
+        <translation type="vanished">Nepoznata ili nepodržana vrsta preuzimanja: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Preuzimanje konfiguracija...</translation>
+        <translation type="vanished">Preuzimanje konfiguracija...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Preuzimanje konfiguracije</translation>
+        <translation type="vanished">Preuzimanje konfiguracije</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Izdvajanje konfiguracija...</translation>
+        <translation type="vanished">Izdvajanje konfiguracija...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Odabiranje opcionalnih modova...</translation>
+        <translation type="vanished">Odabiranje opcionalnih modova...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Preuzimanje modova...</translation>
+        <translation type="vanished">Preuzimanje modova...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Preuzmi mod</translation>
+        <translation type="vanished">Preuzmi mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Nepoznata vrsta preuzimanja: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nepoznata vrsta preuzimanja: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Pronađeni su blokirani modovi</translation>
+        <translation type="vanished">Pronađeni su blokirani modovi</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Sljedeće datoteke nisu dostupne za preuzimanje u launcherima trećih strana.&lt;br/&gt;Morat ćete ih ručno preuzeti te dodati u instancu.</translation>
+        <translation type="vanished">Sljedeće datoteke nisu dostupne za preuzimanje u launcherima trećih strana.&lt;br/&gt;Morat ćete ih ručno preuzeti te dodati u instancu.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 od %2 dovršeno</translation>
+        <translation type="vanished">%1 od %2 dovršeno</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Neuspješno izdvajanje modova...</translation>
+        <translation type="vanished">Neuspješno izdvajanje modova...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Izdvajanje modova...</translation>
+        <translation type="vanished">Izdvajanje modova...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Instalacija paketa modova</translation>
+        <translation type="vanished">Instalacija paketa modova</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Neuspješna izrada libraries komponente</translation>
+        <translation type="vanished">Neuspješna izrada libraries komponente</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Nepoznata vrsta učitavača: </translation>
+        <translation type="vanished">Nepoznata vrsta učitavača: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Izrada komponente paketa nije uspjela</translation>
+        <translation type="vanished">Izrada komponente paketa nije uspjela</translation>
     </message>
 </context>
 <context>
@@ -1370,7 +1366,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Učitavanje lokalne datoteke</translation>
+        <translation>Učitavanje lokalne datoteke</translation>
     </message>
 </context>
 <context>
@@ -1772,7 +1768,7 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Kopiranje svijeta nije uspjelo.</translation>
+        <translation>Kopiranje svijeta nije uspjelo.</translation>
     </message>
 </context>
 <context>
@@ -2378,7 +2374,7 @@ Jeste li sigurni?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Brisanje svijeta nije uspjelo.</translation>
+        <translation>Brisanje svijeta nije uspjelo.</translation>
     </message>
 </context>
 <context>
@@ -3339,7 +3335,7 @@ Jeste li sigurni da to želite napraviti?</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4068,7 +4064,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">Uvoz svijeta nije uspio.</translation>
+        <translation>Uvoz svijeta nije uspio.</translation>
     </message>
 </context>
 <context>
@@ -5755,7 +5751,7 @@ razlog:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6982,7 +6978,7 @@ Jeste li sigurni?</translation>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Učitavanje lokalne datoteke</translation>
+        <translation type="vanished">Učitavanje lokalne datoteke</translation>
     </message>
 </context>
 <context>
@@ -9188,104 +9184,108 @@ Jeste li sigurni?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Nije moguće razumjeti manifest paketa:
+        <translation>Nije moguće razumjeti manifest paketa:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Nepodržani instalacijski način</translation>
+        <translation>Nepodržani instalacijski način</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Neuspješno dohvaćanje lokalnog indeksa metapodataka za &apos;%1&apos; v%2</translation>
+        <translation>Neuspješno dohvaćanje lokalnog indeksa metapodataka za &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Brisanje postojećih datoteka...</translation>
+        <translation>Brisanje postojećih datoteka...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Nepoznata vrsta moda: %1</translation>
+        <translation>Nepoznata vrsta moda: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Dohvaćanje lokalnog indeksa metapodataka za %1 nije uspjelo</translation>
+        <translation>Dohvaćanje lokalnog indeksa metapodataka za %1 nije uspjelo</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Neuspješno pronalaženje verzije za %1 učitavač</translation>
+        <translation>Neuspješno pronalaženje verzije za %1 učitavač</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Nije postavljena verzija učitavača za modpack!</translation>
+        <translation>Nije postavljena verzija učitavača za modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Nepoznata ili nepodržana vrsta preuzimanja: %1</translation>
+        <translation>Nepoznata ili nepodržana vrsta preuzimanja: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Preuzimanje konfiguracija...</translation>
+        <translation>Preuzimanje konfiguracija...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Preuzimanje konfiguracije</translation>
+        <translation>Preuzimanje konfiguracije</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Izdvajanje konfiguracija...</translation>
+        <translation>Izdvajanje konfiguracija...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Odabiranje opcionalnih modova...</translation>
+        <translation>Odabiranje opcionalnih modova...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Preuzimanje modova...</translation>
+        <translation>Preuzimanje modova...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Mod preuzimanje</translation>
+        <translation>Mod preuzimanje</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Nepoznata vrsta preuzimanja: %1</translation>
+        <translation>Nepoznata vrsta preuzimanja: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Pronađeni su blokirani modovi</translation>
+        <translation>Pronađeni su blokirani modovi</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Sljedeće datoteke nisu dostupne za preuzimanje u pokretačima trećih strana.&lt;br/&gt;Morat ćete ih ručno preuzeti i dodati u instancu.</translation>
+        <translation>Sljedeće datoteke nisu dostupne za preuzimanje u pokretačima trećih strana.&lt;br/&gt;Morat ćete ih ručno preuzeti i dodati u instancu.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 od %2 dovršeno</translation>
+        <translation>%1 od %2 dovršeno</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Neuspješno izdvajanje modova...</translation>
+        <translation>Neuspješno izdvajanje modova...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Izdvajanje modova...</translation>
+        <translation>Izdvajanje modova...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Instalacija paketa modova</translation>
+        <translation>Instalacija paketa modova</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Neuspješna izrada libraries komponente</translation>
+        <translation>Neuspješna izrada libraries komponente</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Nepoznata vrsta učitavača: </translation>
+        <translation>Nepoznata vrsta učitavača: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Izrada komponente paketa nije uspjela</translation>
+        <translation>Izrada komponente paketa nije uspjela</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10401,7 +10401,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>skupni MKLINK program za Windows koji se koristi s komorebiom</translation>
+        <translation type="vanished">skupni MKLINK program za Windows koji se koristi s komorebiom</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -10770,6 +10770,10 @@ Poruka o pogrešci: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12700,7 +12704,7 @@ Jeste li sigurni?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 prevedeno
 %3 nejasno
 %4 ukupno</translation>

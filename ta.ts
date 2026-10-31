@@ -235,52 +235,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:
+        <translation type="vanished">பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
+        <translation type="vanished">%1 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; V%2 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
+        <translation type="vanished">&apos;%1&apos; V%2 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>ஆதரிக்கப்படாத நிறுவல் முறை</translation>
+        <translation type="vanished">ஆதரிக்கப்படாத நிறுவல் முறை</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>இருக்கும் கோப்புகளை நீக்குதல் ...</translation>
+        <translation type="vanished">இருக்கும் கோப்புகளை நீக்குதல் ...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>தெரியாத மோட் வகை: %1</translation>
+        <translation type="vanished">தெரியாத மோட் வகை: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 ஏற்றிக்கு பதிப்பைக் கண்டுபிடிக்கத் தவறிவிட்டது</translation>
+        <translation type="vanished">%1 ஏற்றிக்கு பதிப்பைக் கண்டுபிடிக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!</translation>
+        <translation type="vanished">மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
+        <translation type="vanished">அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>உள்ளமைவுகளைப் பதிவிறக்குகிறது ...</translation>
+        <translation type="vanished">உள்ளமைவுகளைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>கட்டமைப்பு பதிவிறக்கம்</translation>
+        <translation type="vanished">கட்டமைப்பு பதிவிறக்கம்</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...</translation>
+        <translation type="vanished">உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -288,59 +288,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...</translation>
+        <translation type="vanished">விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>மோட்சைப் பதிவிறக்குகிறது ...</translation>
+        <translation type="vanished">மோட்சைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>மோட் பதிவிறக்கம்</translation>
+        <translation type="vanished">மோட் பதிவிறக்கம்</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>தெரியாத பதிவிறக்க வகை: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">தெரியாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>தடுக்கப்பட்ட மோட்ச் காணப்பட்டது</translation>
+        <translation type="vanished">தடுக்கப்பட்ட மோட்ச் காணப்பட்டது</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
+        <translation type="vanished">மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%2 இல் %1 முடிந்தது</translation>
+        <translation type="vanished">%2 இல் %1 முடிந்தது</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...</translation>
+        <translation type="vanished">மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>மோட்சைப் பிரித்தெடுக்கும் ...</translation>
+        <translation type="vanished">மோட்சைப் பிரித்தெடுக்கும் ...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>மோட்பேக்கை நிறுவுதல்</translation>
+        <translation type="vanished">மோட்பேக்கை நிறுவுதல்</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
+        <translation type="vanished">நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>அறியப்படாத ஏற்றி வகை: </translation>
+        <translation type="vanished">அறியப்படாத ஏற்றி வகை: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>பேக் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
+        <translation type="vanished">பேக் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>
 </context>
 <context>
@@ -1201,7 +1197,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">உள்ளக கோப்பை ஏற்றுகிறது</translation>
+        <translation type="unfinished">உள்ளக கோப்பை ஏற்றுகிறது</translation>
     </message>
 </context>
 <context>
@@ -1599,6 +1595,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2201,6 +2201,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3173,7 +3177,7 @@ Please try again.</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3882,6 +3886,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6278,7 +6286,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7593,7 +7601,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>உள்ளக கோப்பை ஏற்றுகிறது</translation>
+        <translation type="vanished">உள்ளக கோப்பை ஏற்றுகிறது</translation>
     </message>
 </context>
 <context>
@@ -9960,104 +9968,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:
+        <translation type="unfinished">பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">ஆதரிக்கப்படாத நிறுவல் முறை</translation>
+        <translation type="unfinished">ஆதரிக்கப்படாத நிறுவல் முறை</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">&apos;%1&apos; V%2 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
+        <translation type="unfinished">&apos;%1&apos; V%2 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">இருக்கும் கோப்புகளை நீக்குதல் ...</translation>
+        <translation type="unfinished">இருக்கும் கோப்புகளை நீக்குதல் ...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">தெரியாத மோட் வகை: %1</translation>
+        <translation type="unfinished">தெரியாத மோட் வகை: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">%1 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
+        <translation type="unfinished">%1 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">%1 ஏற்றிக்கு பதிப்பைக் கண்டுபிடிக்கத் தவறிவிட்டது</translation>
+        <translation type="unfinished">%1 ஏற்றிக்கு பதிப்பைக் கண்டுபிடிக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="obsolete">மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!</translation>
+        <translation type="unfinished">மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
+        <translation type="unfinished">அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">உள்ளமைவுகளைப் பதிவிறக்குகிறது ...</translation>
+        <translation type="unfinished">உள்ளமைவுகளைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">கட்டமைப்பு பதிவிறக்கம்</translation>
+        <translation type="unfinished">கட்டமைப்பு பதிவிறக்கம்</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...</translation>
+        <translation type="unfinished">உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...</translation>
+        <translation type="unfinished">விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">மோட்சைப் பதிவிறக்குகிறது ...</translation>
+        <translation type="unfinished">மோட்சைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">மோட் பதிவிறக்கம்</translation>
+        <translation type="unfinished">மோட் பதிவிறக்கம்</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">தெரியாத பதிவிறக்க வகை: %1</translation>
+        <translation type="unfinished">தெரியாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">தடுக்கப்பட்ட மோட்ச் காணப்பட்டது</translation>
+        <translation type="unfinished">தடுக்கப்பட்ட மோட்ச் காணப்பட்டது</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
+        <translation type="unfinished">மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%2 இல் %1 முடிந்தது</translation>
+        <translation type="unfinished">%2 இல் %1 முடிந்தது</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...</translation>
+        <translation type="unfinished">மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">மோட்சைப் பிரித்தெடுக்கும் ...</translation>
+        <translation type="unfinished">மோட்சைப் பிரித்தெடுக்கும் ...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">மோட்பேக்கை நிறுவுதல்</translation>
+        <translation type="unfinished">மோட்பேக்கை நிறுவுதல்</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
+        <translation type="unfinished">நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">அறியப்படாத ஏற்றி வகை: </translation>
+        <translation type="unfinished">அறியப்படாத ஏற்றி வகை: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">பேக் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
+        <translation type="unfinished">பேக் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11282,7 +11294,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>விண்டோசிற்கான ஒரு தொகுதி MKLink நிரல் ப்ரிச்ம்லாஞ்சருடன் பயன்படுத்தப்பட வேண்டும்</translation>
+        <translation type="vanished">விண்டோசிற்கான ஒரு தொகுதி MKLink நிரல் ப்ரிச்ம்லாஞ்சருடன் பயன்படுத்தப்பட வேண்டும்</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -11652,6 +11664,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13650,7 +13666,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
  %2 மொழிபெயர்க்கப்பட்டுள்ளது
  %3 தெளிவில்லாமல்
  மொத்தம் 4 மொத்தம்</translation>

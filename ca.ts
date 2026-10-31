@@ -243,52 +243,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>No s&apos;entén el manifest del paquet:
+        <translation type="vanished">No s&apos;entén el manifest del paquet:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per %1</translation>
+        <translation type="vanished">No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per &apos;%1&apos; v%2</translation>
+        <translation type="vanished">No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mode d&apos;instal·lació no admès</translation>
+        <translation type="vanished">Mode d&apos;instal·lació no admès</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Eliminant fitxers existents...</translation>
+        <translation type="vanished">Eliminant fitxers existents...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tipus de mod desconegut: %1</translation>
+        <translation type="vanished">Tipus de mod desconegut: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>No s&apos;ha pogut trobar la versió pel carregador de %1</translation>
+        <translation type="vanished">No s&apos;ha pogut trobar la versió pel carregador de %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>No s&apos;ha seleccionat cap versió per al carregador del paquet de mods!</translation>
+        <translation type="vanished">No s&apos;ha seleccionat cap versió per al carregador del paquet de mods!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tipus de baixada desconeguda o no admesa: %1</translation>
+        <translation type="vanished">Tipus de baixada desconeguda o no admesa: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Baixant configuracions...</translation>
+        <translation type="vanished">Baixant configuracions...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Baixada de configuracions</translation>
+        <translation type="vanished">Baixada de configuracions</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Extraient configuracions...</translation>
+        <translation type="vanished">Extraient configuracions...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -296,15 +296,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Triant mods opcionals...</translation>
+        <translation type="vanished">Triant mods opcionals...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Baixant mods...</translation>
+        <translation type="vanished">Baixant mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Baixada de mods</translation>
+        <translation type="vanished">Baixada de mods</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -312,47 +312,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Tipus de baixada desconeguda: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Tipus de baixada desconeguda: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>S&apos;han trobat mods bloquejats</translation>
+        <translation type="vanished">S&apos;han trobat mods bloquejats</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Els fitxers següents no estan disponibles per descarregar en llançadors de tercers.&lt;br/&gt;Hauràs de descarregar-los manualment i afegir-los a la instància.</translation>
+        <translation type="vanished">Els fitxers següents no estan disponibles per descarregar en llançadors de tercers.&lt;br/&gt;Hauràs de descarregar-los manualment i afegir-los a la instància.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 de %2 completat</translation>
+        <translation type="vanished">%1 de %2 completat</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>No s&apos;han pogut extreure els mods...</translation>
+        <translation type="vanished">No s&apos;han pogut extreure els mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Extraient els mods...</translation>
+        <translation type="vanished">Extraient els mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Instal·lant el paquet de mods</translation>
+        <translation type="vanished">Instal·lant el paquet de mods</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Error al crear component de les llibreries</translation>
+        <translation type="vanished">Error al crear component de les llibreries</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Tipus de carregador desconegut: </translation>
+        <translation type="vanished">Tipus de carregador desconegut: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Fallida en crear un component del paquet</translation>
+        <translation type="vanished">Fallida en crear un component del paquet</translation>
     </message>
 </context>
 <context>
@@ -1412,7 +1408,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">Localitzant fitxer local</translation>
+        <translation type="unfinished">Localitzant fitxer local</translation>
     </message>
 </context>
 <context>
@@ -1810,6 +1806,10 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2416,6 +2416,10 @@ Vols continuar?</translation>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3469,7 +3473,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4309,6 +4313,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6968,7 +6976,7 @@ Motiu:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8587,7 +8595,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Localitzant fitxer local</translation>
+        <translation type="vanished">Localitzant fitxer local</translation>
     </message>
 </context>
 <context>
@@ -11356,75 +11364,108 @@ Vols continuar?</translation>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Mode d&apos;instal·lació no admès</translation>
+        <translation type="unfinished">Mode d&apos;instal·lació no admès</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Eliminant fitxers existents...</translation>
+        <translation type="unfinished">Eliminant fitxers existents...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Tipus de mod desconegut: %1</translation>
+        <translation type="unfinished">Tipus de mod desconegut: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Tipus de baixada desconeguda o no admesa: %1</translation>
+        <translation type="unfinished">Tipus de baixada desconeguda o no admesa: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Baixant configuracions...</translation>
+        <translation type="unfinished">Baixant configuracions...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Baixada de configuracions</translation>
+        <translation type="unfinished">Baixada de configuracions</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Extraient configuracions...</translation>
+        <translation type="unfinished">Extraient configuracions...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Triant mods opcionals...</translation>
+        <translation type="unfinished">Triant mods opcionals...</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Tipus de baixada desconeguda: %1</translation>
+        <translation type="unfinished">Tipus de baixada desconeguda: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">S&apos;han trobat mods bloquejats</translation>
+        <translation type="unfinished">S&apos;han trobat mods bloquejats</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 de %2 completat</translation>
+        <translation type="unfinished">%1 de %2 completat</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">No s&apos;han pogut extreure els mods...</translation>
+        <translation type="unfinished">No s&apos;han pogut extreure els mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Extraient els mods...</translation>
+        <translation type="unfinished">Extraient els mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">Instal·lant el paquet de mods</translation>
+        <translation type="unfinished">Instal·lant el paquet de mods</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Error al crear component de les llibreries</translation>
+        <translation type="unfinished">Error al crear component de les llibreries</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Tipus de carregador desconegut: </translation>
+        <translation type="unfinished">Tipus de carregador desconegut: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Fallida en crear un component del paquet</translation>
+        <translation type="unfinished">Fallida en crear un component del paquet</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12693,10 +12734,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished">Ordenar per novetat</translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation>Sense grup</translation>
     </message>
@@ -13045,6 +13082,10 @@ Missatge de l&apos;error: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14925,7 +14966,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 traduït
 %3 difús
 %4 total</translation>

@@ -231,108 +231,104 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Paket manifestini tushunib bo&apos;lmadi.
+        <translation type="vanished">Paket manifestini tushunib bo&apos;lmadi.
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
+        <translation type="vanished">%1 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo&apos;lmadi</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Qo&apos;llab-quvvatlanmagan o&apos;rnatish usuli</translation>
+        <translation type="vanished">Qo&apos;llab-quvvatlanmagan o&apos;rnatish usuli</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Bor bo&apos;lgan fayllar o&apos;chirilyapti...</translation>
+        <translation type="vanished">Bor bo&apos;lgan fayllar o&apos;chirilyapti...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Nomaʼlum mod turi: %1</translation>
+        <translation type="vanished">Nomaʼlum mod turi: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 yuklovchi uchun versiyani topib bo&apos;lmadi</translation>
+        <translation type="vanished">%1 yuklovchi uchun versiyani topib bo&apos;lmadi</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Modpak uchun yuklovchi versiyasi o&apos;rnatilmagan!</translation>
+        <translation type="vanished">Modpak uchun yuklovchi versiyasi o&apos;rnatilmagan!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Noma&apos;lum yoki qo&apos;llab-quvvatlanmaydigan yuklab olish turi: %1</translation>
+        <translation type="vanished">Noma&apos;lum yoki qo&apos;llab-quvvatlanmaydigan yuklab olish turi: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Konfiguratsiyalar yuklanmoqda...</translation>
+        <translation type="vanished">Konfiguratsiyalar yuklanmoqda...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfiguratsiya yuklandi</translation>
+        <translation type="vanished">Konfiguratsiya yuklandi</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Konfiguratsiyalar chiqarilmoqda...</translation>
+        <translation type="vanished">Konfiguratsiyalar chiqarilmoqda...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Ixtiyoriy modlarni tanlash...</translation>
+        <translation type="vanished">Ixtiyoriy modlarni tanlash...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modlar yuklanmoqda...</translation>
+        <translation type="vanished">Modlar yuklanmoqda...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod yuklab olish</translation>
+        <translation type="vanished">Mod yuklab olish</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Noma&apos;lum yuklab olish turi: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Noma&apos;lum yuklab olish turi: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Bloklangan modlar topildi</translation>
+        <translation type="vanished">Bloklangan modlar topildi</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Quyidagi fayllarni uchinchi tomon ishga tushiruvchilarida yuklab bo&apos;lmaydi.&lt;br/&gt;Ularni qo&apos;lda yuklab olib, instansiyaga qo&apos;shishingiz kerak bo&apos;ladi.</translation>
+        <translation type="vanished">Quyidagi fayllarni uchinchi tomon ishga tushiruvchilarida yuklab bo&apos;lmaydi.&lt;br/&gt;Ularni qo&apos;lda yuklab olib, instansiyaga qo&apos;shishingiz kerak bo&apos;ladi.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%2 dan %1 bajarildi</translation>
+        <translation type="vanished">%2 dan %1 bajarildi</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Modlarni chiqarib bo&apos;lmadi...</translation>
+        <translation type="vanished">Modlarni chiqarib bo&apos;lmadi...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modlar ajratilmoqda...</translation>
+        <translation type="vanished">Modlar ajratilmoqda...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modpack o&apos;rnatilmoqda</translation>
+        <translation type="vanished">Modpack o&apos;rnatilmoqda</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Kutubxonalar komponentini yaratib bo‘lmadi</translation>
+        <translation type="vanished">Kutubxonalar komponentini yaratib bo‘lmadi</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Noma&apos;lum yuklovchi turi: </translation>
+        <translation type="vanished">Noma&apos;lum yuklovchi turi: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Paket komponentini yaratib bo‘lmadi</translation>
+        <translation type="vanished">Paket komponentini yaratib bo‘lmadi</translation>
     </message>
 </context>
 <context>
@@ -1237,7 +1233,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Mahalliy fayl yuklanmoqda</translation>
+        <translation>Mahalliy fayl yuklanmoqda</translation>
     </message>
 </context>
 <context>
@@ -1627,7 +1623,7 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Olamni nusxalab boʻlmadi.</translation>
+        <translation>Olamni nusxalab boʻlmadi.</translation>
     </message>
 </context>
 <context>
@@ -2184,7 +2180,7 @@ Ishonchingiz komilmi?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Olamni oʻchirib boʻlmadi.</translation>
+        <translation>Olamni oʻchirib boʻlmadi.</translation>
     </message>
 </context>
 <context>
@@ -3019,7 +3015,7 @@ Haqiqatan ham buni qilmoqchimisiz?</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3713,7 +3709,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">Olamni import qilib boʻlmadi.</translation>
+        <translation>Olamni import qilib boʻlmadi.</translation>
     </message>
 </context>
 <context>
@@ -5326,7 +5322,7 @@ Sabab:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6482,7 +6478,7 @@ Ishonchingiz komilmi?</translation>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Lokal fayl yuklanmoqda</translation>
+        <translation type="vanished">Lokal fayl yuklanmoqda</translation>
     </message>
 </context>
 <context>
@@ -8462,108 +8458,108 @@ Ishonchingiz komilmi?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Toʻplam manifestini tushunib boʻlmadi.
+        <translation>Toʻplam manifestini tushunib boʻlmadi.
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Qo‘llab-quvvatlanmaydigan o&apos;rnatma rejimi</translation>
+        <translation>Qo‘llab-quvvatlanmaydigan o&apos;rnatma rejimi</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo‘lmadi</translation>
+        <translation>&apos;%1&apos; v%2 uchun mahalliy metadata indeksini olib bo‘lmadi</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Mavjud fayllar yoʻq qilinmoqda...</translation>
+        <translation>Mavjud fayllar yoʻq qilinmoqda...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Mod turi nomaʼlum: %1</translation>
+        <translation>Mod turi nomaʼlum: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">%1 uchun mahalliy metadata indeksi olinmadi</translation>
+        <translation>%1 uchun mahalliy metadata indeksi olinmadi</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">%1 loader uchun versiya topilmadi</translation>
+        <translation>%1 loader uchun versiya topilmadi</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Modlar toʻplami uchun yuklagich versiyasi oʻrnatilmagan!</translation>
+        <translation>Modlar toʻplami uchun yuklagich versiyasi oʻrnatilmagan!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Yuklab olish turi nomaʼlum yoki qoʻllab-quvvatlanmagan: %1</translation>
+        <translation>Yuklab olish turi nomaʼlum yoki qoʻllab-quvvatlanmagan: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Konfiguratsiyalar yuklab olinmoqda...</translation>
+        <translation>Konfiguratsiyalar yuklab olinmoqda...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Konfiguratsiya yuklab olindi</translation>
+        <translation>Konfiguratsiya yuklab olindi</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Konfiguratsiyalar chiqarilmoqda...</translation>
+        <translation>Konfiguratsiyalar chiqarilmoqda...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Ixtiyoriy modlarni tanlash...</translation>
+        <translation>Ixtiyoriy modlarni tanlash...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Modlar yuklab olinmoqda...</translation>
+        <translation>Modlar yuklab olinmoqda...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Modni yuklab olish</translation>
+        <translation>Modni yuklab olish</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Yuklab olish turi nomaʼlum: %1</translation>
+        <translation>Yuklab olish turi nomaʼlum: %1</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="vanished">%1 ichida yoʻl boʻylab oʻtish bloklandi</translation>
+        <translation>%1 ichida yoʻl boʻylab oʻtish bloklandi</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Bloklangan modlar topildi</translation>
+        <translation>Bloklangan modlar topildi</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Quyidagi fayllarni uchinchi tomon launcherlarida yuklab olib boʻlmaydi.&lt;br/&gt;Ularni qoʻlda yuklab olib, nusxaga qoʻshishingiz kerak boʻladi.</translation>
+        <translation>Quyidagi fayllarni uchinchi tomon launcherlarida yuklab olib boʻlmaydi.&lt;br/&gt;Ularni qoʻlda yuklab olib, nusxaga qoʻshishingiz kerak boʻladi.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1/%2 bajarildi</translation>
+        <translation>%1/%2 bajarildi</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Modlarni chiqarib boʻlmadi...</translation>
+        <translation>Modlarni chiqarib boʻlmadi...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Modlar chiqarilmoqda...</translation>
+        <translation>Modlar chiqarilmoqda...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Modlar toʻplami oʻrnatilmoqda</translation>
+        <translation>Modlar toʻplami oʻrnatilmoqda</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Kutubxona komponentini yaratib boʻlmadi</translation>
+        <translation>Kutubxona komponentini yaratib boʻlmadi</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Yuklovchi turi nomaʼlum: </translation>
+        <translation>Yuklovchi turi nomaʼlum: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Toʻplam komponentini yaratib boʻlmadi</translation>
+        <translation>Toʻplam komponentini yaratib boʻlmadi</translation>
     </message>
 </context>
 <context>
@@ -9665,7 +9661,7 @@ Ushbu yangilanishning bir qismi sifatida mavjud saqlashlarni yoʻq qilishni xohl
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>komorebi bilan ishlatish uchun windowsdagi MKLINK dasturlar to&apos;plami</translation>
+        <translation type="vanished">komorebi bilan ishlatish uchun windowsdagi MKLINK dasturlar to&apos;plami</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -10033,6 +10029,10 @@ Xatolik xabari: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11885,13 +11885,6 @@ Ishonchingiz komilmi?</translation>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation>Til</translation>

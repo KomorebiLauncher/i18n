@@ -221,52 +221,44 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>整合包の Mod 声明文件の解析に失敗しました: 
+        <translation type="vanished">整合包の Mod 声明文件の解析に失敗しました: 
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>これらの本機の上位数元の索引の取得に失敗しました: %1</translation>
+        <translation type="vanished">これらの本機の上位数元の索引の取得に失敗しました: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>これらの本機の上位数元の索引の取得に失敗しました: &apos;%1&apos; v%2</translation>
-    </message>
-    <message>
-        <source>Unsupported installation mode</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Deleting existing files...</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">これらの本機の上位数元の索引の取得に失敗しました: &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>不明なmodの種類: %1</translation>
+        <translation type="vanished">不明なmodの種類: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Mod 装載器 %1 の指定した版次が見つかりませんでした</translation>
+        <translation type="vanished">Mod 装載器 %1 の指定した版次が見つかりませんでした</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Mod 装載器の版次がまだ設定していません!</translation>
+        <translation type="vanished">Mod 装載器の版次がまだ設定していません!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>不明または非対応な受信形式です: %1</translation>
+        <translation type="vanished">不明または非対応な受信形式です: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>配置情報を受信しています…</translation>
+        <translation type="vanished">配置情報を受信しています…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>配置情報の受信</translation>
+        <translation type="vanished">配置情報の受信</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>配置情報を展開しています…</translation>
+        <translation type="vanished">配置情報を展開しています…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -274,15 +266,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>追加の Mod を選択してください…</translation>
+        <translation type="vanished">追加の Mod を選択してください…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Mod を受信しています...</translation>
+        <translation type="vanished">Mod を受信しています...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod の受信</translation>
+        <translation type="vanished">Mod の受信</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -290,47 +282,31 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>不明な受信形式です: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">不明な受信形式です: %1</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Mod の展開に失敗しました…</translation>
+        <translation type="vanished">Mod の展開に失敗しました…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Mod を展開しています…</translation>
+        <translation type="vanished">Mod を展開しています…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Mod 整合包を装入中</translation>
+        <translation type="vanished">Mod 整合包を装入中</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>庫部品の作成に失敗しました</translation>
+        <translation type="vanished">庫部品の作成に失敗しました</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>不明な Mod 装載器種類です: </translation>
+        <translation type="vanished">不明な Mod 装載器種類です: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>整合包部品の作成に失敗しました</translation>
+        <translation type="vanished">整合包部品の作成に失敗しました</translation>
     </message>
 </context>
 <context>
@@ -1310,6 +1286,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1687,6 +1670,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2249,6 +2236,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3135,13 +3126,6 @@ Please try again.</source>
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -3943,6 +3927,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6064,6 +6052,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -7286,13 +7281,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9398,67 +9386,108 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">これらの本機の上位数元の索引の取得に失敗しました: &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">これらの本機の上位数元の索引の取得に失敗しました: &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">不明なmodの種類: %1</translation>
+        <translation type="unfinished">不明なmodの種類: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">これらの本機の上位数元の索引の取得に失敗しました: %1</translation>
+        <translation type="unfinished">これらの本機の上位数元の索引の取得に失敗しました: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">Mod 装載器 %1 の指定した版次が見つかりませんでした</translation>
+        <translation type="unfinished">Mod 装載器 %1 の指定した版次が見つかりませんでした</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="obsolete">Mod 装載器の版次がまだ設定していません!</translation>
+        <translation type="unfinished">Mod 装載器の版次がまだ設定していません!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">不明または非対応な受信形式です: %1</translation>
+        <translation type="unfinished">不明または非対応な受信形式です: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">配置情報を受信しています…</translation>
+        <translation type="unfinished">配置情報を受信しています…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">配置情報の受信</translation>
+        <translation type="unfinished">配置情報の受信</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">配置情報を展開しています…</translation>
+        <translation type="unfinished">配置情報を展開しています…</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">追加の Mod を選択してください…</translation>
+        <translation type="unfinished">追加の Mod を選択してください…</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">不明な受信形式です: %1</translation>
+        <translation type="unfinished">不明な受信形式です: %1</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Mod の展開に失敗しました…</translation>
+        <translation type="unfinished">Mod の展開に失敗しました…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Mod を展開しています…</translation>
+        <translation type="unfinished">Mod を展開しています…</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">庫部品の作成に失敗しました</translation>
+        <translation type="unfinished">庫部品の作成に失敗しました</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">不明な Mod 装載器種類です: </translation>
+        <translation type="unfinished">不明な Mod 装載器種類です: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">整合包部品の作成に失敗しました</translation>
+        <translation type="unfinished">整合包部品の作成に失敗しました</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unsupported installation mode</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Deleting existing files...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing modpack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10600,10 +10629,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -10942,6 +10967,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12702,7 +12731,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 翻訳済み %2
 要確認 %3
 全体 %4</translation>

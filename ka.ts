@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
+        <translation type="vanished">პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
+        <translation type="vanished">ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>ვწრ მოხერხდა ადგილობრივი მეტამონაცემების ინდექსის პოვნა &apos;%1&apos; v%2 - ისთვის</translation>
+        <translation type="vanished">ვწრ მოხერხდა ადგილობრივი მეტამონაცემების ინდექსის პოვნა &apos;%1&apos; v%2 - ისთვის</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>მხარდაუჭერელი ინსტალაციის რეჟიმი</translation>
+        <translation type="vanished">მხარდაუჭერელი ინსტალაციის რეჟიმი</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>მიმდინარეობს არსებული ფაილების წაშლა...</translation>
+        <translation type="vanished">მიმდინარეობს არსებული ფაილების წაშლა...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>უცნობი mod -ის ტიპი: %1</translation>
+        <translation type="vanished">უცნობი mod -ის ტიპი: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
+        <translation type="vanished">ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
+        <translation type="vanished">არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>უცნობი ან არამხარდაჭერილი download -ის ტიპი: %1</translation>
+        <translation type="vanished">უცნობი ან არამხარდაჭერილი download -ის ტიპი: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>მიმდინარეობს კონფიგურაციის გადმოწერა...</translation>
+        <translation type="vanished">მიმდინარეობს კონფიგურაციის გადმოწერა...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>კონფიგურაციის გადმოწერა</translation>
+        <translation type="vanished">კონფიგურაციის გადმოწერა</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>მიმდინარეობს კონფიგურაციის ექსტრაქცია...</translation>
+        <translation type="vanished">მიმდინარეობს კონფიგურაციის ექსტრაქცია...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,59 +292,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
+        <translation type="vanished">მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>მიმდინარეობს მოდების გადმოწერა...</translation>
+        <translation type="vanished">მიმდინარეობს მოდების გადმოწერა...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>მოდის გადმოწერა</translation>
+        <translation type="vanished">მოდის გადმოწერა</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>უცნობი გადმოწერის ტიპი: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">უცნობი გადმოწერის ტიპი: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>ნაპოვნია დაბლოკილი მოდები</translation>
+        <translation type="vanished">ნაპოვნია დაბლოკილი მოდები</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
+        <translation type="vanished">ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 -იდან %2 -ია დასრულებული</translation>
+        <translation type="vanished">%1 -იდან %2 -ია დასრულებული</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
+        <translation type="vanished">ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>მიმდინარეობს მოდების ექსტრაქცია...</translation>
+        <translation type="vanished">მიმდინარეობს მოდების ექსტრაქცია...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>მიმდინარეობს modpack-ის ინსტალაცია</translation>
+        <translation type="vanished">მიმდინარეობს modpack-ის ინსტალაცია</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
+        <translation type="vanished">ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">უცნობი მტვირთავის ტიპი: </translation>
+        <translation type="obsolete">უცნობი მტვირთავის ტიპი: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
+        <translation type="vanished">ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
     </message>
 </context>
 <context>
@@ -1256,6 +1252,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1638,6 +1641,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2184,6 +2191,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2990,13 +3001,6 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -3683,6 +3687,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5287,6 +5295,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -6342,13 +6357,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8301,104 +8309,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
+        <translation type="unfinished">პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">მხარდაუჭერელი ინსტალაციის რეჟიმი</translation>
+        <translation type="unfinished">მხარდაუჭერელი ინსტალაციის რეჟიმი</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">ვწრ მოხერხდა ადგილობრივი მეტამონაცემების ინდექსის პოვნა &apos;%1&apos; v%2 - ისთვის</translation>
+        <translation type="unfinished">ვწრ მოხერხდა ადგილობრივი მეტამონაცემების ინდექსის პოვნა &apos;%1&apos; v%2 - ისთვის</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">მიმდინარეობს არსებული ფაილების წაშლა...</translation>
+        <translation type="unfinished">მიმდინარეობს არსებული ფაილების წაშლა...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">უცნობი mod -ის ტიპი: %1</translation>
+        <translation type="unfinished">უცნობი mod -ის ტიპი: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
+        <translation type="unfinished">ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
+        <translation type="unfinished">ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="obsolete">არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
+        <translation type="unfinished">არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">უცნობი ან არამხარდაჭერილი download -ის ტიპი: %1</translation>
+        <translation type="unfinished">უცნობი ან არამხარდაჭერილი download -ის ტიპი: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">მიმდინარეობს კონფიგურაციის გადმოწერა...</translation>
+        <translation type="unfinished">მიმდინარეობს კონფიგურაციის გადმოწერა...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">კონფიგურაციის გადმოწერა</translation>
+        <translation type="unfinished">კონფიგურაციის გადმოწერა</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">მიმდინარეობს კონფიგურაციის ექსტრაქცია...</translation>
+        <translation type="unfinished">მიმდინარეობს კონფიგურაციის ექსტრაქცია...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
+        <translation type="unfinished">მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">მიმდინარეობს მოდების გადმოწერა...</translation>
+        <translation type="unfinished">მიმდინარეობს მოდების გადმოწერა...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">მოდის გადმოწერა</translation>
+        <translation type="unfinished">მოდის გადმოწერა</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">უცნობი გადმოწერის ტიპი: %1</translation>
+        <translation type="unfinished">უცნობი გადმოწერის ტიპი: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">ნაპოვნია დაბლოკილი მოდები</translation>
+        <translation type="unfinished">ნაპოვნია დაბლოკილი მოდები</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
+        <translation type="unfinished">ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 -იდან %2 -ია დასრულებული</translation>
+        <translation type="unfinished">%1 -იდან %2 -ია დასრულებული</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
+        <translation type="unfinished">ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">მიმდინარეობს მოდების ექსტრაქცია...</translation>
+        <translation type="unfinished">მიმდინარეობს მოდების ექსტრაქცია...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">მიმდინარეობს modpack-ის ინსტალაცია</translation>
+        <translation type="unfinished">მიმდინარეობს modpack-ის ინსტალაცია</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
+        <translation type="unfinished">ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">უცნობი მტვირთავის ტიპი: </translation>
+        <translation type="unfinished">უცნობი მტვირთავის ტიპი: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
+        <translation type="unfinished">ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9394,10 +9406,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation>დაჯგუფება მოხსნილია</translation>
     </message>
@@ -9741,6 +9749,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11428,13 +11440,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation>ენა</translation>

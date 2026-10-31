@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Ne povis kompreni pakan manifeston:
+        <translation type="vanished">Ne povis kompreni pakan manifeston:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Malsukcesis akiri lokan metadatuman indekson por %1</translation>
+        <translation type="vanished">Malsukcesis akiri lokan metadatuman indekson por %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Malsukcesis akiri lokan metadatuman indekson por &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Malsukcesis akiri lokan metadatuman indekson por &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nesubtenata instala reĝimo</translation>
+        <translation type="vanished">Nesubtenata instala reĝimo</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Forigante jamajn dosierojn...</translation>
+        <translation type="vanished">Forigante jamajn dosierojn...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Nekonata moda speco: %1</translation>
+        <translation type="vanished">Nekonata moda speco: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Malsukcesis trovi version por %1 ŝargilo</translation>
+        <translation type="vanished">Malsukcesis trovi version por %1 ŝargilo</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Neniu ŝargilan version fiksitis por modpako!</translation>
+        <translation type="vanished">Neniu ŝargilan version fiksitis por modpako!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nekonata aŭ malsubtenata elŝutaĵa speco: %1</translation>
+        <translation type="vanished">Nekonata aŭ malsubtenata elŝutaĵa speco: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Elŝutas agordojn...</translation>
+        <translation type="vanished">Elŝutas agordojn...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Agorda elŝutaĵo</translation>
+        <translation type="vanished">Agorda elŝutaĵo</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Ĉerpi agordojn...</translation>
+        <translation type="vanished">Ĉerpi agordojn...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Elektante nedevigajn modifaĵojn...</translation>
+        <translation type="vanished">Elektante nedevigajn modifaĵojn...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Elŝutante modifaĵojn...</translation>
+        <translation type="vanished">Elŝutante modifaĵojn...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Moda elŝutaĵo</translation>
+        <translation type="vanished">Moda elŝutaĵo</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Nekonata elŝutaĵa speco: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nekonata elŝutaĵa speco: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Blokitaj modifaĵoj trovitaj</translation>
+        <translation type="vanished">Blokitaj modifaĵoj trovitaj</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>La jenaj dosieroj ne estas disponeblaj por elŝuti en triaj lanĉiloj, &lt;br/&gt; Vi devos elŝuti ilin permane kaj aldoni ilin al la petskribo.</translation>
+        <translation type="vanished">La jenaj dosieroj ne estas disponeblaj por elŝuti en triaj lanĉiloj, &lt;br/&gt; Vi devos elŝuti ilin permane kaj aldoni ilin al la petskribo.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 el %2 kompleta</translation>
+        <translation type="vanished">%1 el %2 kompleta</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Malsukcesis malkompaktigi modifaĵojn...</translation>
+        <translation type="vanished">Malsukcesis malkompaktigi modifaĵojn...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Malkompaktigante modifaĵojn...</translation>
+        <translation type="vanished">Malkompaktigante modifaĵojn...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Instalante modifaĵaron</translation>
+        <translation type="vanished">Instalante modifaĵaron</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Malsukcesis krei bibliotekan komponanton</translation>
+        <translation type="vanished">Malsukcesis krei bibliotekan komponanton</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Nekonata ŝargilan specan: </translation>
+        <translation type="vanished">Nekonata ŝargilan specan: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Malsukcesis krei modpakan komponanton</translation>
+        <translation type="vanished">Malsukcesis krei modpakan komponanton</translation>
     </message>
 </context>
 <context>
@@ -1396,7 +1392,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Ŝargas lokan dosieron</translation>
+        <translation>Ŝargas lokan dosieron</translation>
     </message>
 </context>
 <context>
@@ -1802,7 +1798,7 @@ Vi povas solvi ĉi tiun problemon remuntante /tmp kiel &apos;exec&apos; aŭ agor
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Malsuckesis kopii mondon.</translation>
+        <translation>Malsuckesis kopii mondon.</translation>
     </message>
 </context>
 <context>
@@ -2379,6 +2375,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3388,7 +3388,7 @@ Bonvolu reprovi.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation type="obsolete">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4145,6 +4145,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5952,7 +5956,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7190,7 +7194,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Ŝargas lokan dosieron</translation>
+        <translation type="obsolete">Ŝargas lokan dosieron</translation>
     </message>
 </context>
 <context>
@@ -9303,87 +9307,108 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Nesubtenata instala reĝimo</translation>
+        <translation type="unfinished">Nesubtenata instala reĝimo</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Malsukcesis akiri lokan metadatuman indekson por &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">Malsukcesis akiri lokan metadatuman indekson por &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Forigante jamajn dosierojn...</translation>
+        <translation type="unfinished">Forigante jamajn dosierojn...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Nekonata moda speco: %1</translation>
+        <translation type="unfinished">Nekonata moda speco: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">Malsukcesis akiri lokan metadatuman indekson por %1</translation>
+        <translation type="unfinished">Malsukcesis akiri lokan metadatuman indekson por %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">Malsukcesis trovi version por %1 ŝargilo</translation>
+        <translation type="unfinished">Malsukcesis trovi version por %1 ŝargilo</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Nekonata aŭ malsubtenata elŝutaĵa speco: %1</translation>
+        <translation type="unfinished">Nekonata aŭ malsubtenata elŝutaĵa speco: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Elŝutas agordojn...</translation>
+        <translation type="unfinished">Elŝutas agordojn...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Agorda elŝutaĵo</translation>
+        <translation type="unfinished">Agorda elŝutaĵo</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Ĉerpi agordojn...</translation>
+        <translation type="unfinished">Ĉerpi agordojn...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Elektante nedevigajn modifaĵojn...</translation>
+        <translation type="unfinished">Elektante nedevigajn modifaĵojn...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Moda elŝutaĵo</translation>
+        <translation type="unfinished">Moda elŝutaĵo</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Nekonata elŝutaĵa speco: %1</translation>
+        <translation type="unfinished">Nekonata elŝutaĵa speco: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">Blokitaj modifaĵoj trovitaj</translation>
+        <translation type="unfinished">Blokitaj modifaĵoj trovitaj</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">La jenaj dosieroj ne estas disponeblaj por elŝuti en triaj lanĉiloj, &lt;br/&gt; Vi devos elŝuti ilin permane kaj aldoni ilin al la petskribo.</translation>
+        <translation type="unfinished">La jenaj dosieroj ne estas disponeblaj por elŝuti en triaj lanĉiloj, &lt;br/&gt; Vi devos elŝuti ilin permane kaj aldoni ilin al la petskribo.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 el %2 kompleta</translation>
+        <translation type="unfinished">%1 el %2 kompleta</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Malsukcesis malkompaktigi modifaĵojn...</translation>
+        <translation type="unfinished">Malsukcesis malkompaktigi modifaĵojn...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Malkompaktigante modifaĵojn...</translation>
+        <translation type="unfinished">Malkompaktigante modifaĵojn...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Malsukcesis krei bibliotekan komponanton</translation>
+        <translation type="unfinished">Malsukcesis krei bibliotekan komponanton</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Nekonata ŝargilan specan: </translation>
+        <translation type="unfinished">Nekonata ŝargilan specan: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Malsukcesis krei modpakan komponanton</translation>
+        <translation type="unfinished">Malsukcesis krei modpakan komponanton</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing modpack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10400,10 +10425,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation>Negrupigita</translation>
     </message>
@@ -10743,6 +10764,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12594,13 +12619,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished">Lingvo</translation>

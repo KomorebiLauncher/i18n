@@ -198,109 +198,45 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Ma stajtx nifhem il-manifest tal-pakkett:
+        <translation type="vanished">Ma stajtx nifhem il-manifest tal-pakkett:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mod ta&apos; installazjoni mhux appoġjata</translation>
-    </message>
-    <message>
-        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Mod ta&apos; installazjoni mhux appoġjata</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Jitħassru fajls eżistenti...</translation>
+        <translation type="vanished">Jitħassru fajls eżistenti...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tip ta&apos; mod mhux magħruf: %1</translation>
-    </message>
-    <message>
-        <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Tip ta&apos; mod mhux magħruf: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Falla biex jinsab verżjoni għall-%1 loader</translation>
-    </message>
-    <message>
-        <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Downloading configs...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Config download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Extracting configs...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Selecting optional mods...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Downloading mods...</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mod download</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Falla biex jinsab verżjoni għall-%1 loader</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.
+        <translation type="vanished">Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.
 Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 minn %2 lesti</translation>
+        <translation type="vanished">%1 minn %2 lesti</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Ma rnexxilniex nestrattaw il-mods...</translation>
+        <translation type="vanished">Ma rnexxilniex nestrattaw il-mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Qedhin nestrattaw il-mods...</translation>
+        <translation type="vanished">Qedhin nestrattaw il-mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installazjoni ta&apos; modpack</translation>
-    </message>
-    <message>
-        <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Installazjoni ta&apos; modpack</translation>
     </message>
 </context>
 <context>
@@ -1062,6 +998,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1427,6 +1370,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -1937,6 +1884,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2668,13 +2619,6 @@ Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translatio
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -3339,6 +3283,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4886,6 +4834,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -5907,13 +5862,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7718,45 +7666,109 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">Ma stajtx nifhem il-manifest tal-pakkett:
+        <translation type="unfinished">Ma stajtx nifhem il-manifest tal-pakkett:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Mod ta&apos; installazjoni mhux appoġjata</translation>
+        <translation type="unfinished">Mod ta&apos; installazjoni mhux appoġjata</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Jitħassru fajls eżistenti...</translation>
+        <translation type="unfinished">Jitħassru fajls eżistenti...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Tip ta&apos; mod mhux magħruf: %1</translation>
+        <translation type="unfinished">Tip ta&apos; mod mhux magħruf: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">Falla biex jinsab verżjoni għall-%1 loader</translation>
+        <translation type="unfinished">Falla biex jinsab verżjoni għall-%1 loader</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.
+        <translation type="unfinished">Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.
 Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 minn %2 lesti</translation>
+        <translation type="unfinished">%1 minn %2 lesti</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Ma rnexxilniex nestrattaw il-mods...</translation>
+        <translation type="unfinished">Ma rnexxilniex nestrattaw il-mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Qedhin nestrattaw il-mods...</translation>
+        <translation type="unfinished">Qedhin nestrattaw il-mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">Installazjoni ta&apos; modpack</translation>
+        <translation type="unfinished">Installazjoni ta&apos; modpack</translation>
+    </message>
+    <message>
+        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown or unsupported download type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading configs...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Config download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Extracting configs...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Selecting optional mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown download type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create libraries component</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown loader type: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create pack component</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8733,10 +8745,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9078,6 +9086,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10630,13 +10642,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished"></translation>

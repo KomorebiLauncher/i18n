@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Ezin izan da paketearen manifest paketea ulertu:
+        <translation type="vanished">Ezin izan da paketearen manifest paketea ulertu:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Ezin izan da lortu % 1eko metadatuen indizea</translation>
+        <translation type="vanished">Ezin izan da lortu % 1eko metadatuen indizea</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Ezin izan da lortu metadatuen indizea % 1 eta % 2 artean</translation>
+        <translation type="vanished">Ezin izan da lortu metadatuen indizea % 1 eta % 2 artean</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Instalazio Modua ez dago onartuta</translation>
+        <translation type="vanished">Instalazio Modua ez dago onartuta</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Dauden artxiboak ezabatzen...</translation>
+        <translation type="vanished">Dauden artxiboak ezabatzen...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Ezezaguna den mod mota: %1</translation>
+        <translation type="vanished">Ezezaguna den mod mota: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Ezin izan da %1 kargatzailearentzat bertsioa aurkitu</translation>
+        <translation type="vanished">Ezin izan da %1 kargatzailearentzat bertsioa aurkitu</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Ez da modpack-arentzat vertsioa ezarri!</translation>
+        <translation type="vanished">Ez da modpack-arentzat vertsioa ezarri!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Ezezaguna edo onartezina den download mota: %1</translation>
+        <translation type="vanished">Ezezaguna edo onartezina den download mota: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Konfigurazioak deskargatzen...</translation>
+        <translation type="vanished">Konfigurazioak deskargatzen...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfigurazioak deskargatuta</translation>
+        <translation type="vanished">Konfigurazioak deskargatuta</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Konfigurazioak erauzten...</translation>
+        <translation type="vanished">Konfigurazioak erauzten...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,59 +292,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Aukerako moda -ak hautatzen...</translation>
+        <translation type="vanished">Aukerako moda -ak hautatzen...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Mod-ak deskargatzen...</translation>
+        <translation type="vanished">Mod-ak deskargatzen...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Deskargatu mod-a</translation>
+        <translation type="vanished">Deskargatu mod-a</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Ezezaguna den download mota: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ezezaguna den download mota: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Blokeatutako modak aurkitu dira</translation>
+        <translation type="vanished">Blokeatutako modak aurkitu dira</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.&lt;br/&gt; Eskuz deskargatu behar dituzu eta instanziari gehitu.</translation>
+        <translation type="vanished">Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.&lt;br/&gt; Eskuz deskargatu behar dituzu eta instanziari gehitu.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 /%2 tik osatuta</translation>
+        <translation type="vanished">%1 /%2 tik osatuta</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Arazoa Mod-ak erauzten...</translation>
+        <translation type="vanished">Arazoa Mod-ak erauzten...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Mod-ak erauzten...</translation>
+        <translation type="vanished">Mod-ak erauzten...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Mod-paketea instalatzen</translation>
+        <translation type="vanished">Mod-paketea instalatzen</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Errorea liburutegien osagaia sortzean</translation>
+        <translation type="vanished">Errorea liburutegien osagaia sortzean</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Ezezaguna den loader-a: </translation>
+        <translation type="vanished">Ezezaguna den loader-a: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Ez da sortu pakete-osagairik</translation>
+        <translation type="vanished">Ez da sortu pakete-osagairik</translation>
     </message>
 </context>
 <context>
@@ -1262,6 +1258,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1642,6 +1645,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2160,6 +2167,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3019,13 +3030,6 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -3725,6 +3729,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5325,6 +5333,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -6395,13 +6410,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8375,100 +8383,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">Ezin izan da paketearen manifest paketea ulertu:
+        <translation type="unfinished">Ezin izan da paketearen manifest paketea ulertu:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Instalazio Modua ez dago onartuta</translation>
+        <translation type="unfinished">Instalazio Modua ez dago onartuta</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Ezin izan da lortu metadatuen indizea % 1 eta % 2 artean</translation>
+        <translation type="unfinished">Ezin izan da lortu metadatuen indizea % 1 eta % 2 artean</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Dauden artxiboak ezabatzen...</translation>
+        <translation type="unfinished">Dauden artxiboak ezabatzen...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Ezezaguna den mod mota: %1</translation>
+        <translation type="unfinished">Ezezaguna den mod mota: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">Ezin izan da lortu % 1eko metadatuen indizea</translation>
+        <translation type="unfinished">Ezin izan da lortu % 1eko metadatuen indizea</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">Ezin izan da %1 kargatzailearentzat bertsioa aurkitu</translation>
+        <translation type="unfinished">Ezin izan da %1 kargatzailearentzat bertsioa aurkitu</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="obsolete">Ez da modpack-arentzat vertsioa ezarri!</translation>
+        <translation type="unfinished">Ez da modpack-arentzat vertsioa ezarri!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Ezezaguna edo onartezina den download mota: %1</translation>
+        <translation type="unfinished">Ezezaguna edo onartezina den download mota: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Konfigurazioak deskargatzen...</translation>
+        <translation type="unfinished">Konfigurazioak deskargatzen...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Konfigurazioak deskargatuta</translation>
+        <translation type="unfinished">Konfigurazioak deskargatuta</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Konfigurazioak erauzten...</translation>
+        <translation type="unfinished">Konfigurazioak erauzten...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Aukerako moda -ak hautatzen...</translation>
+        <translation type="unfinished">Aukerako moda -ak hautatzen...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">Mod-ak deskargatzen...</translation>
+        <translation type="unfinished">Mod-ak deskargatzen...</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Ezezaguna den download mota: %1</translation>
+        <translation type="unfinished">Ezezaguna den download mota: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">Blokeatutako modak aurkitu dira</translation>
+        <translation type="unfinished">Blokeatutako modak aurkitu dira</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.&lt;br/&gt; Eskuz deskargatu behar dituzu eta instanziari gehitu.</translation>
+        <translation type="unfinished">Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.&lt;br/&gt; Eskuz deskargatu behar dituzu eta instanziari gehitu.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 /%2 tik osatuta</translation>
+        <translation type="unfinished">%1 /%2 tik osatuta</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Arazoa Mod-ak erauzten...</translation>
+        <translation type="unfinished">Arazoa Mod-ak erauzten...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Mod-ak erauzten...</translation>
+        <translation type="unfinished">Mod-ak erauzten...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">Mod-paketea instalatzen</translation>
+        <translation type="unfinished">Mod-paketea instalatzen</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Errorea liburutegien osagaia sortzean</translation>
+        <translation type="unfinished">Errorea liburutegien osagaia sortzean</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Ezezaguna den loader-a: </translation>
+        <translation type="unfinished">Ezezaguna den loader-a: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Ez da sortu pakete-osagairik</translation>
+        <translation type="unfinished">Ez da sortu pakete-osagairik</translation>
+    </message>
+    <message>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9461,10 +9477,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9804,6 +9816,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11431,13 +11447,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation>Hizkuntza</translation>

@@ -180,108 +180,104 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>ບໍ່ສາມາດອ່ານ pack manifest ໄດ້:
+        <translation type="vanished">ບໍ່ສາມາດອ່ານ pack manifest ໄດ້:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ %1</translation>
+        <translation type="vanished">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
+        <translation type="vanished">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
+        <translation type="vanished">ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
+        <translation type="vanished">ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
+        <translation type="vanished">ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>ບໍ່ພົບເວີຊັນສຳລັບຕົວໂຫຼດ %1</translation>
+        <translation type="vanished">ບໍ່ພົບເວີຊັນສຳລັບຕົວໂຫຼດ %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>ບໍ່ມີການຕັ້ງຄ່າເວີຊັນຕົວໂຫຼດສຳລັບມອດແພັກ!</translation>
+        <translation type="vanished">ບໍ່ມີການຕັ້ງຄ່າເວີຊັນຕົວໂຫຼດສຳລັບມອດແພັກ!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
+        <translation type="vanished">ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
+        <translation type="vanished">ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>ດາວໂຫຼດ Config</translation>
+        <translation type="vanished">ດາວໂຫຼດ Config</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
+        <translation type="vanished">ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>ກຳລັງເລືອກມອດເສີມ...</translation>
+        <translation type="vanished">ກຳລັງເລືອກມອດເສີມ...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>ກຳລັງດາວໂຫຼດມອດ...</translation>
+        <translation type="vanished">ກຳລັງດາວໂຫຼດມອດ...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>ດາວໂຫຼດມອດ</translation>
+        <translation type="vanished">ດາວໂຫຼດມອດ</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>ພົບມອດທີ່ຖືກບລັອກ</translation>
+        <translation type="vanished">ພົບມອດທີ່ຖືກບລັອກ</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>ໄຟລ໌ຕໍ່ໄປນີ້ບໍ່ມີໃຫ້ດາວໂຫຼດໃນຕົວເປີດເກມພາຍນອກ.&lt;br/&gt;ເຈົ້າຈຳເປັນຕ້ອງດາວໂຫຼດດ້ວຍຕົນເອງ ແລະ ເພີ່ມພວກມັນເຂົ້າໃນຊຸດເກມ (instance).</translation>
+        <translation type="vanished">ໄຟລ໌ຕໍ່ໄປນີ້ບໍ່ມີໃຫ້ດາວໂຫຼດໃນຕົວເປີດເກມພາຍນອກ.&lt;br/&gt;ເຈົ້າຈຳເປັນຕ້ອງດາວໂຫຼດດ້ວຍຕົນເອງ ແລະ ເພີ່ມພວກມັນເຂົ້າໃນຊຸດເກມ (instance).</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>ສຳເລັດ %1 ຈາກ %2</translation>
+        <translation type="vanished">ສຳເລັດ %1 ຈາກ %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
+        <translation type="vanished">ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
+        <translation type="vanished">ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
+        <translation type="vanished">ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
+        <translation type="vanished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
+        <translation type="vanished">ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
+        <translation type="vanished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
     </message>
 </context>
 <context>
@@ -1073,7 +1069,7 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">ກຳລັງໂຫຼດໄຟລ໌ໃນເຄື່ອງ</translation>
+        <translation type="unfinished">ກຳລັງໂຫຼດໄຟລ໌ໃນເຄື່ອງ</translation>
     </message>
 </context>
 <context>
@@ -1459,6 +1455,10 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2008,6 +2008,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2829,7 +2833,7 @@ Are you sure you want to do this?</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3517,6 +3521,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5119,7 +5127,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6273,7 +6281,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>ກຳລັງໂຫຼດໄຟລ໌ໃນເຄື່ອງ</translation>
+        <translation type="vanished">ກຳລັງໂຫຼດໄຟລ໌ໃນເຄື່ອງ</translation>
     </message>
 </context>
 <context>
@@ -8216,75 +8224,108 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
+        <translation type="unfinished">ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
+        <translation type="unfinished">ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
+        <translation type="unfinished">ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
+        <translation type="unfinished">ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
+        <translation type="unfinished">ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">ດາວໂຫຼດ Config</translation>
+        <translation type="unfinished">ດາວໂຫຼດ Config</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
+        <translation type="unfinished">ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">ກຳລັງເລືອກມອດເສີມ...</translation>
+        <translation type="unfinished">ກຳລັງເລືອກມອດເສີມ...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">ດາວໂຫຼດມອດ</translation>
+        <translation type="unfinished">ດາວໂຫຼດມອດ</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
+        <translation type="unfinished">ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">ພົບມອດທີ່ຖືກບລັອກ</translation>
+        <translation type="unfinished">ພົບມອດທີ່ຖືກບລັອກ</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
+        <translation type="unfinished">ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
+        <translation type="unfinished">ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
+        <translation type="unfinished">ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
+        <translation type="unfinished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
+        <translation type="unfinished">ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
+        <translation type="unfinished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9387,7 +9428,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>ໂປຣແກຣມ MKLINK ແບບ batch ສຳລັບ windows ເພື່ອໃຊ້ກັບ komorebi</translation>
+        <translation type="vanished">ໂປຣແກຣມ MKLINK ແບບ batch ສຳລັບ windows ເພື່ອໃຊ້ກັບ komorebi</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -9753,6 +9794,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11608,7 +11653,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 ແປແລ້ວ %2
 ຄຸມເຄືອ %3
 ທັງໝົດ %4</translation>

@@ -234,52 +234,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Kon nie pakmanifes verstaan nie:
+        <translation type="vanished">Kon nie pakmanifes verstaan nie:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Kon slegs nie plaaslike metadata-indeks vir %1 kry nie</translation>
+        <translation type="vanished">Kon slegs nie plaaslike metadata-indeks vir %1 kry nie</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Kon nie plaaslike metadata-indeks vir &apos;%1&apos; v%2 kry nie</translation>
+        <translation type="vanished">Kon nie plaaslike metadata-indeks vir &apos;%1&apos; v%2 kry nie</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nie-ondersteunde installasie mode</translation>
+        <translation type="vanished">Nie-ondersteunde installasie mode</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Verwyder bestaande lêers...</translation>
+        <translation type="vanished">Verwyder bestaande lêers...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Onbekende mod tipe %1</translation>
+        <translation type="vanished">Onbekende mod tipe %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Kon nie weergawe vir %1 loader vind nie</translation>
+        <translation type="vanished">Kon nie weergawe vir %1 loader vind nie</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Geen laaier weergawe gestel vir wysigings-pak!</translation>
+        <translation type="vanished">Geen laaier weergawe gestel vir wysigings-pak!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Onbekende of nie-ondersteunde aflaai tipe %1</translation>
+        <translation type="vanished">Onbekende of nie-ondersteunde aflaai tipe %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Laai konfigurasies af...</translation>
+        <translation type="vanished">Laai konfigurasies af...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfigurasie aflaai</translation>
+        <translation type="vanished">Konfigurasie aflaai</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Onttrek konfigurasies...</translation>
+        <translation type="vanished">Onttrek konfigurasies...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -287,59 +287,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Kies tans opsionele mod&apos;s...</translation>
+        <translation type="vanished">Kies tans opsionele mod&apos;s...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Laai tans mod&apos;s af...</translation>
+        <translation type="vanished">Laai tans mod&apos;s af...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod afgelaai</translation>
+        <translation type="vanished">Mod afgelaai</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Unbekende aflaai tipe %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Unbekende aflaai tipe %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Geblokkeerde mod&apos;s gevind</translation>
+        <translation type="vanished">Geblokkeerde mod&apos;s gevind</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
+        <translation type="vanished">Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 uit %2 is klaar</translation>
+        <translation type="vanished">%1 uit %2 is klaar</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Kon nie mod&apos;s uittrek nie...</translation>
+        <translation type="vanished">Kon nie mod&apos;s uittrek nie...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Onttrek mod&apos;s...</translation>
+        <translation type="vanished">Onttrek mod&apos;s...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installeer tans modpak</translation>
+        <translation type="vanished">Installeer tans modpak</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Kon nie biblioteek komponent maak nie</translation>
+        <translation type="vanished">Kon nie biblioteek komponent maak nie</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Onbekende laaier tipe: </translation>
+        <translation type="vanished">Onbekende laaier tipe: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Kon nie pakkomponent maak nie</translation>
+        <translation type="vanished">Kon nie pakkomponent maak nie</translation>
     </message>
 </context>
 <context>
@@ -1189,6 +1185,13 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1558,6 +1561,10 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2076,6 +2083,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2809,13 +2820,6 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -3479,6 +3483,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4975,6 +4983,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -5994,13 +6009,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7827,100 +7835,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">Kon nie pakmanifes verstaan nie:
+        <translation type="unfinished">Kon nie pakmanifes verstaan nie:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Nie-ondersteunde installasie mode</translation>
+        <translation type="unfinished">Nie-ondersteunde installasie mode</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Kon nie plaaslike metadata-indeks vir &apos;%1&apos; v%2 kry nie</translation>
+        <translation type="unfinished">Kon nie plaaslike metadata-indeks vir &apos;%1&apos; v%2 kry nie</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Verwyder bestaande lêers...</translation>
+        <translation type="unfinished">Verwyder bestaande lêers...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Onbekende wysiging tipe %1</translation>
+        <translation type="unfinished">Onbekende wysiging tipe %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">Kon nie plaaslike metadata-indeks vir %1 kry nie</translation>
+        <translation type="unfinished">Kon nie plaaslike metadata-indeks vir %1 kry nie</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">Kon nie weergawe vir %1 loader vind nie</translation>
+        <translation type="unfinished">Kon nie weergawe vir %1 loader vind nie</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Onbekende of nie-ondersteunde aflaai tipe %1</translation>
+        <translation type="unfinished">Onbekende of nie-ondersteunde aflaai tipe %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Laai konfigurasies af...</translation>
+        <translation type="unfinished">Laai konfigurasies af...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Konfigurasie aflaai</translation>
+        <translation type="unfinished">Konfigurasie aflaai</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Onttrek konfigurasies...</translation>
+        <translation type="unfinished">Onttrek konfigurasies...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Kies tans opsionele mod&apos;s...</translation>
+        <translation type="unfinished">Kies tans opsionele mod&apos;s...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">Laai tans mod&apos;s af...</translation>
+        <translation type="unfinished">Laai tans mod&apos;s af...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Mod afgelaai</translation>
+        <translation type="unfinished">Mod afgelaai</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Unbekende aflaai tipe %1</translation>
+        <translation type="unfinished">Unbekende aflaai tipe %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">Geblokkeerde mod&apos;s gevind</translation>
+        <translation type="unfinished">Geblokkeerde mod&apos;s gevind</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
+        <translation type="unfinished">Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 uit %2 is klaar</translation>
+        <translation type="unfinished">%1 uit %2 is klaar</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Kon nie mod&apos;s uittrek nie...</translation>
+        <translation type="unfinished">Kon nie mod&apos;s uittrek nie...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Onttrek mod&apos;s...</translation>
+        <translation type="unfinished">Onttrek mod&apos;s...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">Installeer tans modpak</translation>
+        <translation type="unfinished">Installeer tans modpak</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Kon nie biblioteek komponent maak nie</translation>
+        <translation type="unfinished">Kon nie biblioteek komponent maak nie</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Onbekende laaier tipe: </translation>
+        <translation type="unfinished">Onbekende laaier tipe: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Kon nie pakkomponent maak nie</translation>
+        <translation type="unfinished">Kon nie pakkomponent maak nie</translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8893,10 +8909,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9236,6 +9248,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10819,13 +10835,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished"></translation>

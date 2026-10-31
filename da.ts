@@ -235,52 +235,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Forstod ikke pakkemanifest:
+        <translation type="vanished">Forstod ikke pakkemanifest:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Kunne ikke hente det lokale metadataindeks for %1</translation>
+        <translation type="vanished">Kunne ikke hente det lokale metadataindeks for %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Kunne ikke hente det lokale metadataindeks for &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Kunne ikke hente det lokale metadataindeks for &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Ikke-understøttet installationstilstand</translation>
+        <translation type="vanished">Ikke-understøttet installationstilstand</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Sletter eksisterende filer...</translation>
+        <translation type="vanished">Sletter eksisterende filer...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Ukendt mod-type: %1</translation>
+        <translation type="vanished">Ukendt mod-type: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Kunne ikke finde version for %1 loader</translation>
+        <translation type="vanished">Kunne ikke finde version for %1 loader</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen loader version angivet for modpack!</translation>
+        <translation type="vanished">Ingen loader version angivet for modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Ukendt eller ikke-understøttet downloadtype: %1</translation>
+        <translation type="vanished">Ukendt eller ikke-understøttet downloadtype: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Henter konfigurationer...</translation>
+        <translation type="vanished">Henter konfigurationer...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfigurationsdownload</translation>
+        <translation type="vanished">Konfigurationsdownload</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Udpakker konfigurationer...</translation>
+        <translation type="vanished">Udpakker konfigurationer...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -288,15 +288,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Vælger valgfrie mods...</translation>
+        <translation type="vanished">Vælger valgfrie mods...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Henter mods...</translation>
+        <translation type="vanished">Henter mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod-download</translation>
+        <translation type="vanished">Mod-download</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -304,47 +304,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Ukendt downloadtype: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Ukendt downloadtype: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Blokerede mods fundet</translation>
+        <translation type="vanished">Blokerede mods fundet</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Følgende filer er ikke tilgængelige til hentning i tredjeparts launchers.&lt;br/&gt;Du skal hente dem manuelt og føje dem til instansen.</translation>
+        <translation type="vanished">Følgende filer er ikke tilgængelige til hentning i tredjeparts launchers.&lt;br/&gt;Du skal hente dem manuelt og føje dem til instansen.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 ud af %2 fuldført</translation>
+        <translation type="vanished">%1 ud af %2 fuldført</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Kunne ikke udpakke mods...</translation>
+        <translation type="vanished">Kunne ikke udpakke mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Udpakker mods...</translation>
+        <translation type="vanished">Udpakker mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installerer modpack</translation>
+        <translation type="vanished">Installerer modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Kunne ikke oprette bibliotekskomponent</translation>
+        <translation type="vanished">Kunne ikke oprette bibliotekskomponent</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Ukendt loader type: </translation>
+        <translation type="vanished">Ukendt loader type: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Kunne ikke oprette pakkekomponent</translation>
+        <translation type="vanished">Kunne ikke oprette pakkekomponent</translation>
     </message>
 </context>
 <context>
@@ -1431,7 +1427,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">Indlæser lokal fil</translation>
+        <translation type="unfinished">Indlæser lokal fil</translation>
     </message>
 </context>
 <context>
@@ -1833,6 +1829,10 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2439,6 +2439,10 @@ Er du sikker?</translation>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3467,7 +3471,7 @@ Prøv venligst igen.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4348,6 +4352,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7008,7 +7016,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8555,7 +8563,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Indlæser lokal fil</translation>
+        <translation type="vanished">Indlæser lokal fil</translation>
     </message>
 </context>
 <context>
@@ -11250,83 +11258,108 @@ Er du sikker?</translation>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Ikke-understøttet installationstilstand</translation>
+        <translation type="unfinished">Ikke-understøttet installationstilstand</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Kunne ikke hente det lokale metadataindeks for &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">Kunne ikke hente det lokale metadataindeks for &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Sletter eksisterende filer...</translation>
+        <translation type="unfinished">Sletter eksisterende filer...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Ukendt mod-type: %1</translation>
+        <translation type="unfinished">Ukendt mod-type: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">Kunne ikke hente det lokale metadataindeks for %1</translation>
+        <translation type="unfinished">Kunne ikke hente det lokale metadataindeks for %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">Kunne ikke finde version for %1 loader</translation>
+        <translation type="unfinished">Kunne ikke finde version for %1 loader</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Ukendt eller ikke-understøttet downloadtype: %1</translation>
+        <translation type="unfinished">Ukendt eller ikke-understøttet downloadtype: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Henter konfigurationer...</translation>
+        <translation type="unfinished">Henter konfigurationer...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Konfigurationsdownload</translation>
+        <translation type="unfinished">Konfigurationsdownload</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Udpakker konfigurationer...</translation>
+        <translation type="unfinished">Udpakker konfigurationer...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Vælger valgfrie mods...</translation>
+        <translation type="unfinished">Vælger valgfrie mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Mod-download</translation>
+        <translation type="unfinished">Mod-download</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Ukendt downloadtype: %1</translation>
+        <translation type="unfinished">Ukendt downloadtype: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">Blokerede mods fundet</translation>
+        <translation type="unfinished">Blokerede mods fundet</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Kunne ikke udpakke mods...</translation>
+        <translation type="unfinished">Kunne ikke udpakke mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Udpakker mods...</translation>
+        <translation type="unfinished">Udpakker mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">Installerer modpack</translation>
+        <translation type="unfinished">Installerer modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Kunne ikke oprette bibliotekskomponent</translation>
+        <translation type="unfinished">Kunne ikke oprette bibliotekskomponent</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Ukendt loader type: </translation>
+        <translation type="unfinished">Ukendt loader type: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Kunne ikke oprette pakkekomponent</translation>
+        <translation type="unfinished">Kunne ikke oprette pakkekomponent</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12601,7 +12634,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>et batch MKLINK program til windows der skal bruges med komorebi</translation>
+        <translation type="vanished">et batch MKLINK program til windows der skal bruges med komorebi</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -12971,6 +13004,10 @@ Fejlmeddelelse: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15004,7 +15041,7 @@ Er du sikker?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 oversat
 %3 uklar
 %4 i alt</translation>

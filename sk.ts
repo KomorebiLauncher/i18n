@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nerozumiem manifestu balíčka:
+        <translation type="vanished">Nerozumiem manifestu balíčka:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Nepodarilo sa získať index lokálnych metadát pre %1</translation>
+        <translation type="vanished">Nepodarilo sa získať index lokálnych metadát pre %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Nepodarilo sa získať index lokálnych metadát pre &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Nepodarilo sa získať index lokálnych metadát pre &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Nepodporovaný režim inštalácie</translation>
+        <translation type="vanished">Nepodporovaný režim inštalácie</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Mažú sa existujúce súbory...</translation>
+        <translation type="vanished">Mažú sa existujúce súbory...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Neznámy typ módu: %1</translation>
+        <translation type="vanished">Neznámy typ módu: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Nepodarilo sa získať verziu pre loader %1</translation>
+        <translation type="vanished">Nepodarilo sa získať verziu pre loader %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Pre modpack nie je nastavená verzia loadera!</translation>
+        <translation type="vanished">Pre modpack nie je nastavená verzia loadera!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Neznámy alebo nepodporovaný typ sťahovania: %1</translation>
+        <translation type="vanished">Neznámy alebo nepodporovaný typ sťahovania: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Sťahuje sa konfigurácia...</translation>
+        <translation type="vanished">Sťahuje sa konfigurácia...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Sťahovanie konfigurácie</translation>
+        <translation type="vanished">Sťahovanie konfigurácie</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Rozbaľuje sa konfigurácia...</translation>
+        <translation type="vanished">Rozbaľuje sa konfigurácia...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Vyberajú sa voliteľné módy...</translation>
+        <translation type="vanished">Vyberajú sa voliteľné módy...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Sťahujú sa módy...</translation>
+        <translation type="vanished">Sťahujú sa módy...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Sťahovanie módov</translation>
+        <translation type="vanished">Sťahovanie módov</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Neznámy typ sťahovania: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Neznámy typ sťahovania: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Boli nájdené blokované módy</translation>
+        <translation type="vanished">Boli nájdené blokované módy</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Nasledujúce módy nie sú dostupné na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť manuálne stiahnuť a pridať do inštancie.</translation>
+        <translation type="vanished">Nasledujúce módy nie sú dostupné na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť manuálne stiahnuť a pridať do inštancie.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>Hotovo %1 z %2</translation>
+        <translation type="vanished">Hotovo %1 z %2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Nepodarilo sa rozbaliť módy...</translation>
+        <translation type="vanished">Nepodarilo sa rozbaliť módy...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Rozbaľujú sa módy...</translation>
+        <translation type="vanished">Rozbaľujú sa módy...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Inštaluje sa modpack</translation>
+        <translation type="vanished">Inštaluje sa modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Nepodarilo sa vytvoriť komponent knižníc</translation>
+        <translation type="vanished">Nepodarilo sa vytvoriť komponent knižníc</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Neznámy typ loadera: </translation>
+        <translation type="vanished">Neznámy typ loadera: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Nepodarilo sa vytvoriť komponent balíčka</translation>
+        <translation type="vanished">Nepodarilo sa vytvoriť komponent balíčka</translation>
     </message>
 </context>
 <context>
@@ -1445,7 +1441,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">Načítava sa miestny súbor</translation>
+        <translation type="unfinished">Načítava sa miestny súbor</translation>
     </message>
 </context>
 <context>
@@ -1847,7 +1843,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Pri kopírovaní sveta nastalo zlyhanie.</translation>
+        <translation>Pri kopírovaní sveta nastalo zlyhanie.</translation>
     </message>
 </context>
 <context>
@@ -2457,7 +2453,7 @@ Naozaj chcete vykonať túto akciu?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Vymazávanie sveta zlyhalo.</translation>
+        <translation>Vymazávanie sveta zlyhalo.</translation>
     </message>
 </context>
 <context>
@@ -3522,7 +3518,7 @@ Prosím skúste to znova.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4369,6 +4365,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7032,7 +7032,7 @@ Dôvod:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8576,7 +8576,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Načítava sa miestny súbor</translation>
+        <translation type="vanished">Načítava sa miestny súbor</translation>
     </message>
 </context>
 <context>
@@ -11066,104 +11066,108 @@ Naozaj to chcete odstrániť?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Nepodarilo sa pochopiť manifest balíka:
+        <translation>Nepodarilo sa pochopiť manifest balíka:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Nepodporovaný režim inštalácie</translation>
+        <translation>Nepodporovaný režim inštalácie</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Nepodarilo sa získať index lokálnych metadát pre &apos;%1&apos; v%2</translation>
+        <translation>Nepodarilo sa získať index lokálnych metadát pre &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Vymazávanie existujúcich súborov...</translation>
+        <translation>Vymazávanie existujúcich súborov...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Neznámy typ módu: %1</translation>
+        <translation>Neznámy typ módu: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Nepodarilo sa získať index lokálnych metadát pre %1</translation>
+        <translation>Nepodarilo sa získať index lokálnych metadát pre %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Nepodarilo sa nájsť verziu pre %1 loader</translation>
+        <translation>Nepodarilo sa nájsť verziu pre %1 loader</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Pre modpack nebola nastavená verzia loaderu!</translation>
+        <translation>Pre modpack nebola nastavená verzia loaderu!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Neznámy alebo nepodporovaný typ sťahovania: %1</translation>
+        <translation>Neznámy alebo nepodporovaný typ sťahovania: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Sťahovanie konfigurácií...</translation>
+        <translation>Sťahovanie konfigurácií...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Stiahnutie konfigurácie</translation>
+        <translation>Stiahnutie konfigurácie</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Rozbaľujú sa konfigurácie...</translation>
+        <translation>Rozbaľujú sa konfigurácie...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Vyberajú sa voliteľné módy...</translation>
+        <translation>Vyberajú sa voliteľné módy...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Sťahovanie módov...</translation>
+        <translation>Sťahovanie módov...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Stiahnutie módu</translation>
+        <translation>Stiahnutie módu</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Neznámy typ sťahovania: %1</translation>
+        <translation>Neznámy typ sťahovania: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Boli nájdené blokované módy</translation>
+        <translation>Boli nájdené blokované módy</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Nasledujúce súbory nie sú k dispozícii na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť stiahnuť ručne a pridať do inštancie.</translation>
+        <translation>Nasledujúce súbory nie sú k dispozícii na stiahnutie v launcheroch tretích strán.&lt;br/&gt;Budete si ich musieť stiahnuť ručne a pridať do inštancie.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 z %2 dokončené</translation>
+        <translation>%1 z %2 dokončené</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Nepodarilo sa rozbaliť módy...</translation>
+        <translation>Nepodarilo sa rozbaliť módy...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Rozbaľovanie módov...</translation>
+        <translation>Rozbaľovanie módov...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Inštalujem modpacku</translation>
+        <translation>Inštalujem modpacku</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Nepodarilo sa vytvoriť komponent knižníc</translation>
+        <translation>Nepodarilo sa vytvoriť komponent knižníc</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Neznámy typ loadera: </translation>
+        <translation>Neznámy typ loadera: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Nepodarilo sa vytvoriť komponent balíčka</translation>
+        <translation>Nepodarilo sa vytvoriť komponent balíčka</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12380,10 +12384,6 @@ Chcete tieto existujúce súbory odstrániť ako súčasť tejto aktualizácie?<
         <translation>Zoradiť podľa najnovších</translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation>Nezoskupené</translation>
     </message>
@@ -12727,6 +12727,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -14667,7 +14671,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 preložené
 %3 fuzzy
 %4 celkovo</translation>

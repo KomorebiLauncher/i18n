@@ -211,109 +211,44 @@
 <context>
     <name>ATLauncher::PackInstallTask</name>
     <message>
-        <source>Could not understand pack manifest:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Unsupported installation mode</source>
-        <translation>Мэдэхгүй татах горим</translation>
-    </message>
-    <message>
-        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Мэдэхгүй татах горим</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Байгаа файлуудыг устгаж байна…</translation>
-    </message>
-    <message>
-        <source>Unknown mod type: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>No loader version set for modpack!</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Байгаа файлуудыг устгаж байна…</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Тохиргоонуудыг татаж байна…</translation>
+        <translation type="vanished">Тохиргоонуудыг татаж байна…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Тохиргоонуудыг татах</translation>
+        <translation type="vanished">Тохиргоонуудыг татах</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Тохиргоонуудыг задлаж байна...</translation>
+        <translation type="vanished">Тохиргоонуудыг задлаж байна...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Сонголттой модуудыг сонгож байна...</translation>
+        <translation type="vanished">Сонголттой модуудыг сонгож байна...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Модуудыг татаж байна...</translation>
+        <translation type="vanished">Модуудыг татаж байна...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Мод татах</translation>
-    </message>
-    <message>
-        <source>Unknown download type: %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to extract mods...</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Мод татах</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Модуудыг задлаж байна...</translation>
+        <translation type="vanished">Модуудыг задлаж байна...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Модын багцыг суулгаж байна</translation>
-    </message>
-    <message>
-        <source>Failed to create libraries component</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Unknown loader type: </source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Failed to create pack component</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Модын багцыг суулгаж байна</translation>
     </message>
 </context>
 <context>
@@ -1095,6 +1030,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1461,6 +1403,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2010,6 +1956,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2765,7 +2715,7 @@ Are you sure you want to do this?</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3443,6 +3393,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -4998,6 +4952,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalModUpdateTask</name>
     <message>
         <source>Invalid metadata</source>
@@ -6056,13 +6017,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7935,43 +7889,108 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Мэдэхгүй татах горим</translation>
+        <translation type="unfinished">Мэдэхгүй татах горим</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Байгаа файлуудыг устгаж байна…</translation>
+        <translation type="unfinished">Байгаа файлуудыг устгаж байна…</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Тохиргоонуудыг татаж байна…</translation>
+        <translation type="unfinished">Тохиргоонуудыг татаж байна…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Тохиргоонуудыг татах</translation>
+        <translation type="unfinished">Тохиргоонуудыг татах</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Тохиргоонуудыг задлаж байна...</translation>
+        <translation type="unfinished">Тохиргоонуудыг задлаж байна...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Сонголттой модуудыг сонгож байна...</translation>
+        <translation type="unfinished">Сонголттой модуудыг сонгож байна...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">Модуудыг татаж байна...</translation>
+        <translation type="unfinished">Модуудыг татаж байна...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Мод татах</translation>
+        <translation type="unfinished">Мод татах</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Модуудыг задлаж байна...</translation>
+        <translation type="unfinished">Модуудыг задлаж байна...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">Модын багцыг суулгаж байна</translation>
+        <translation type="unfinished">Модын багцыг суулгаж байна</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown mod type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown or unsupported download type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown download type: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to extract mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create libraries component</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unknown loader type: </source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to create pack component</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8948,10 +8967,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9291,6 +9306,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10920,13 +10939,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished">Хэл</translation>

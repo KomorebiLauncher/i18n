@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Paki manifestist ei saadud aru:
+        <translation type="vanished">Paki manifestist ei saadud aru:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Ei saanud kohalikkude andmete indeksit %1</translation>
+        <translation type="vanished">Ei saanud kohalikkude andmete indeksit %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Ei saanud kohalikkude andmete indeksit %1 ja v%2</translation>
+        <translation type="vanished">Ei saanud kohalikkude andmete indeksit %1 ja v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mittetoetatud paigaldusmeetod</translation>
+        <translation type="vanished">Mittetoetatud paigaldusmeetod</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Olemasolevate failide kustutamine...</translation>
+        <translation type="vanished">Olemasolevate failide kustutamine...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tundmatu modi tüüp: %1</translation>
+        <translation type="vanished">Tundmatu modi tüüp: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Ei leidnud %1 laadjale versiooni</translation>
+        <translation type="vanished">Ei leidnud %1 laadjale versiooni</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Modipaki laaduri versioon pole määratud!</translation>
+        <translation type="vanished">Modipaki laaduri versioon pole määratud!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tundmatu või mittetoetatud allalaadimise tüüp: %1</translation>
+        <translation type="vanished">Tundmatu või mittetoetatud allalaadimise tüüp: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Seadistuste allalaadimine...</translation>
+        <translation type="vanished">Seadistuste allalaadimine...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Seadistuse allalaadimine</translation>
+        <translation type="vanished">Seadistuse allalaadimine</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Seadistuste ekstraktimine...</translation>
+        <translation type="vanished">Seadistuste ekstraktimine...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Valikuliste modifikatsioonide valimine...</translation>
+        <translation type="vanished">Valikuliste modifikatsioonide valimine...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modide allalaadimine...</translation>
+        <translation type="vanished">Modide allalaadimine...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Modi allalaadimine</translation>
+        <translation type="vanished">Modi allalaadimine</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Tundmatu allalaadimise tüüp: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Tundmatu allalaadimise tüüp: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Leiti blokeeritud modid</translation>
+        <translation type="vanished">Leiti blokeeritud modid</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Järgnevad failid ei ole kolmanda osapoole käivitajatele allalaaditavad.&lt;br/&gt;Sa pead need käsitsi alla laadima ning eksemplari lisama.</translation>
+        <translation type="vanished">Järgnevad failid ei ole kolmanda osapoole käivitajatele allalaaditavad.&lt;br/&gt;Sa pead need käsitsi alla laadima ning eksemplari lisama.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1/%2 tehtud</translation>
+        <translation type="vanished">%1/%2 tehtud</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Modide ekstraktimine ebaõnnestus...</translation>
+        <translation type="vanished">Modide ekstraktimine ebaõnnestus...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modide ekstraktimine...</translation>
+        <translation type="vanished">Modide ekstraktimine...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modipaki paigaldamine</translation>
+        <translation type="vanished">Modipaki paigaldamine</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Teekide komponendi loomine ebaõnnestus</translation>
+        <translation type="vanished">Teekide komponendi loomine ebaõnnestus</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Tundmatu laaduritüüp: </translation>
+        <translation type="vanished">Tundmatu laaduritüüp: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Paki komponentide loomine ebaõnnestus</translation>
+        <translation type="vanished">Paki komponentide loomine ebaõnnestus</translation>
     </message>
 </context>
 <context>
@@ -1420,7 +1416,7 @@ Te saate selle probleem lahendada sellega, et te paigaldate uuesti /tmp &apos;ex
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">Kohaliku faili allalaadimine</translation>
+        <translation type="unfinished">Kohaliku faili allalaadimine</translation>
     </message>
 </context>
 <context>
@@ -1822,6 +1818,10 @@ Te saate selle probleem lahendada sellega, et te paigaldate uuesti /tmp &apos;ex
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2411,6 +2411,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3498,7 +3502,7 @@ Palun proovi uuesti.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4382,6 +4386,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6984,7 +6992,7 @@ Põhjus:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8587,7 +8595,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Kohaliku faili allalaadimine</translation>
+        <translation type="vanished">Kohaliku faili allalaadimine</translation>
     </message>
 </context>
 <context>
@@ -11394,88 +11402,108 @@ Kas oled kindel?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">Paki manifestist ei saadud aru:
+        <translation type="unfinished">Paki manifestist ei saadud aru:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Mittetoetatud paigaldusmeetod</translation>
+        <translation type="unfinished">Mittetoetatud paigaldusmeetod</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Ei saanud kohalikkude andmete indeksit %1 ja v%2</translation>
+        <translation type="unfinished">Ei saanud kohalikkude andmete indeksit %1 ja v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Olemasolevate failide kustutamine...</translation>
+        <translation type="unfinished">Olemasolevate failide kustutamine...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Tundmatu modi tüüp: %1</translation>
+        <translation type="unfinished">Tundmatu modi tüüp: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Tundmatu või mittetoetatud allalaadimise tüüp: %1</translation>
+        <translation type="unfinished">Tundmatu või mittetoetatud allalaadimise tüüp: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Seadistuste allalaadimine...</translation>
+        <translation type="unfinished">Seadistuste allalaadimine...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Seadistuse allalaadimine</translation>
+        <translation type="unfinished">Seadistuse allalaadimine</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Seadistuste ekstraktimine...</translation>
+        <translation type="unfinished">Seadistuste ekstraktimine...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Valikuliste modifikatsioonide valimine...</translation>
+        <translation type="unfinished">Valikuliste modifikatsioonide valimine...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">Modide allalaadimine...</translation>
+        <translation type="unfinished">Modide allalaadimine...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Modi allalaadimine</translation>
+        <translation type="unfinished">Modi allalaadimine</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Tundmatu allalaadimise tüüp: %1</translation>
+        <translation type="unfinished">Tundmatu allalaadimise tüüp: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">Leiti blokeeritud modid</translation>
+        <translation type="unfinished">Leiti blokeeritud modid</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1/%2 tehtud</translation>
+        <translation type="unfinished">%1/%2 tehtud</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Modide ekstraktimine ebaõnnestus...</translation>
+        <translation type="unfinished">Modide ekstraktimine ebaõnnestus...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Modide ekstraktimine...</translation>
+        <translation type="unfinished">Modide ekstraktimine...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">Modipaki paigaldamine</translation>
+        <translation type="unfinished">Modipaki paigaldamine</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Teekide komponendi loomine ebaõnnestus</translation>
+        <translation type="unfinished">Teekide komponendi loomine ebaõnnestus</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Tundmatu laaduritüüp: </translation>
+        <translation type="unfinished">Tundmatu laaduritüüp: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Paki komponentide loomine ebaõnnestus</translation>
+        <translation type="unfinished">Paki komponentide loomine ebaõnnestus</translation>
+    </message>
+    <message>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12718,10 +12746,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation>Sorteeri uusima järgi</translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation>Grupeerimata</translation>
     </message>
@@ -13077,6 +13101,10 @@ Veateade: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15106,7 +15134,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 tõlgitud
 %3 ebamäärast
 %4 kokku</translation>

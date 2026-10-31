@@ -234,52 +234,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>প্যাক ম্যানিফেস্ট বুঝতে পারিনি:
+        <translation type="vanished">প্যাক ম্যানিফেস্ট বুঝতে পারিনি:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
+        <translation type="vanished">%1 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>অসমর্থিত ইনস্টলেশন ধরন</translation>
+        <translation type="vanished">অসমর্থিত ইনস্টলেশন ধরন</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>বিদ্যমান ফাইলগুলি মুছে ফেলা হচ্ছে..।</translation>
+        <translation type="vanished">বিদ্যমান ফাইলগুলি মুছে ফেলা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>অজানা মোড টাইপ: %1</translation>
+        <translation type="vanished">অজানা মোড টাইপ: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 লোডার এর সংস্করণ খুঁজে পাওয়া যায়নি</translation>
+        <translation type="vanished">%1 লোডার এর সংস্করণ খুঁজে পাওয়া যায়নি</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>মডপ্যাকের জন্য কোনও লোডার সংস্করণ সেট করা নেই!</translation>
+        <translation type="vanished">মডপ্যাকের জন্য কোনও লোডার সংস্করণ সেট করা নেই!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>অজানা বা অসমর্থিত ডাউনলোডের ধরণ: %1</translation>
+        <translation type="vanished">অজানা বা অসমর্থিত ডাউনলোডের ধরণ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>কন্ফিগস ডাউনলোড করা হচ্ছে..।</translation>
+        <translation type="vanished">কন্ফিগস ডাউনলোড করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>কন্ফিগস ডাউনলোড</translation>
+        <translation type="vanished">কন্ফিগস ডাউনলোড</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>কনফিগারেশনগুলি বের করা হচ্ছে..।</translation>
+        <translation type="vanished">কনফিগারেশনগুলি বের করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -287,59 +287,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>ঐচ্ছিক মোড নির্বাচন করা হচ্ছে..।</translation>
+        <translation type="vanished">ঐচ্ছিক মোড নির্বাচন করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>মোড ডাউনলোড করা হচ্ছে..।</translation>
+        <translation type="vanished">মোড ডাউনলোড করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>মোড ডাউনলোড</translation>
+        <translation type="vanished">মোড ডাউনলোড</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>অজানা ডাউনলোডের ধরণ: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">অজানা ডাউনলোডের ধরণ: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>ব্লক করা মোডগুলি পাওয়া গেছে</translation>
+        <translation type="vanished">ব্লক করা মোডগুলি পাওয়া গেছে</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>নিম্নলিখিত ফাইলগুলি তৃতীয় পক্ষের লঞ্চারগুলিতে ডাউনলোডের জন্য উপলব্ধ নয়।&lt;br/&gt;আপনাকে সেগুলি ম্যানুয়ালি ডাউনলোড করতে হবে এবং ইনস্ট্যান্সে যুক্ত করতে হবে।</translation>
+        <translation type="vanished">নিম্নলিখিত ফাইলগুলি তৃতীয় পক্ষের লঞ্চারগুলিতে ডাউনলোডের জন্য উপলব্ধ নয়।&lt;br/&gt;আপনাকে সেগুলি ম্যানুয়ালি ডাউনলোড করতে হবে এবং ইনস্ট্যান্সে যুক্ত করতে হবে।</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>% 2 এর মধ্যে % 1 সম্পন্ন হয়েছে</translation>
+        <translation type="vanished">% 2 এর মধ্যে % 1 সম্পন্ন হয়েছে</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>মোডগুলি বের করতে ব্যর্থ হয়েছে..।</translation>
+        <translation type="vanished">মোডগুলি বের করতে ব্যর্থ হয়েছে..।</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>মোডগুলি বের করা হচ্ছে..।</translation>
+        <translation type="vanished">মোডগুলি বের করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>মডপ্যাক ইনস্টল করা হচ্ছে</translation>
+        <translation type="vanished">মডপ্যাক ইনস্টল করা হচ্ছে</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>লাইব্রেরি কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
+        <translation type="vanished">লাইব্রেরি কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>অজানা লোডার প্রকার: </translation>
+        <translation type="vanished">অজানা লোডার প্রকার: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>প্যাক কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
+        <translation type="vanished">প্যাক কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
     </message>
 </context>
 <context>
@@ -1193,6 +1189,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1579,7 +1582,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">ওয়ার্ল্ড কপি করা সম্ভব হয়নি।</translation>
+        <translation>ওয়ার্ল্ড কপি করা সম্ভব হয়নি।</translation>
     </message>
 </context>
 <context>
@@ -2131,7 +2134,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">ওয়ার্ল্ডটি ডিলিট করতে ব্যর্থ হয়েছে।</translation>
+        <translation>ওয়ার্ল্ডটি ডিলিট করতে ব্যর্থ হয়েছে।</translation>
     </message>
 </context>
 <context>
@@ -2885,13 +2888,6 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -3559,6 +3555,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5067,6 +5067,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -6094,13 +6101,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7935,75 +7935,108 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">অসমর্থিত ইনস্টলেশন ধরন</translation>
+        <translation type="unfinished">অসমর্থিত ইনস্টলেশন ধরন</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">&apos;%1&apos; v%2 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
+        <translation type="unfinished">&apos;%1&apos; v%2 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">বিদ্যমান ফাইলগুলি মুছে ফেলা হচ্ছে..।</translation>
+        <translation type="unfinished">বিদ্যমান ফাইলগুলি মুছে ফেলা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">অজানা মোড টাইপ: %1</translation>
+        <translation type="unfinished">অজানা মোড টাইপ: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">%1 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
+        <translation type="unfinished">%1 এর জন্য স্থানীয় মেটাডেটা সূচক পেতে ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">%1 লোডার এর সংস্করণ খুঁজে পাওয়া যায়নি</translation>
+        <translation type="unfinished">%1 লোডার এর সংস্করণ খুঁজে পাওয়া যায়নি</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">অজানা বা অসমর্থিত ডাউনলোডের ধরণ: %1</translation>
+        <translation type="unfinished">অজানা বা অসমর্থিত ডাউনলোডের ধরণ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">কন্ফিগস ডাউনলোড করা হচ্ছে..।</translation>
+        <translation type="unfinished">কন্ফিগস ডাউনলোড করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">কন্ফিগস ডাউনলোড</translation>
+        <translation type="unfinished">কন্ফিগস ডাউনলোড</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">কনফিগারেশনগুলি বের করা হচ্ছে..।</translation>
+        <translation type="unfinished">কনফিগারেশনগুলি বের করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">ঐচ্ছিক মোড নির্বাচন করা হচ্ছে..।</translation>
+        <translation type="unfinished">ঐচ্ছিক মোড নির্বাচন করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">মোড ডাউনলোড</translation>
+        <translation type="unfinished">মোড ডাউনলোড</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">অজানা ডাউনলোডের ধরণ: %1</translation>
+        <translation type="unfinished">অজানা ডাউনলোডের ধরণ: %1</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">মোডগুলি বের করতে ব্যর্থ হয়েছে..।</translation>
+        <translation type="unfinished">মোডগুলি বের করতে ব্যর্থ হয়েছে..।</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">মোডগুলি বের করা হচ্ছে..।</translation>
+        <translation type="unfinished">মোডগুলি বের করা হচ্ছে..।</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">লাইব্রেরি কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
+        <translation type="unfinished">লাইব্রেরি কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">অজানা লোডার প্রকার: </translation>
+        <translation type="unfinished">অজানা লোডার প্রকার: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">প্যাক কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
+        <translation type="unfinished">প্যাক কম্পোনেন্ট তৈরি করতে ব্যর্থ হয়েছে</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 out of %2 complete</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing modpack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8980,10 +9013,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9323,6 +9352,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10947,13 +10980,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished"></translation>

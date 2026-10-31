@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Немагчыма зразумець маніфест версіі:
+        <translation type="vanished">Немагчыма зразумець маніфест версіі:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Не ўдалося атрымаць лакальны індэкс метаданых для %1</translation>
+        <translation type="vanished">Не ўдалося атрымаць лакальны індэкс метаданых для %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Не ўдалося атрымаць лакальны індэкс метаданых для &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Не ўдалося атрымаць лакальны індэкс метаданых для &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Непадтрымліваемы рэжым устаноўкі</translation>
+        <translation type="vanished">Непадтрымліваемы рэжым устаноўкі</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Выдаленне існуючых файлаў...</translation>
+        <translation type="vanished">Выдаленне існуючых файлаў...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Незразумелы тып мода: %1</translation>
+        <translation type="vanished">Незразумелы тып мода: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Не атрымалася знайсці версію для загрузчыка %1</translation>
+        <translation type="vanished">Не атрымалася знайсці версію для загрузчыка %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Для зборкі не выбрана версія загрузчыка!</translation>
+        <translation type="vanished">Для зборкі не выбрана версія загрузчыка!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Невядомы альбо непадтрымліваемы рэжым спампоўвання: %1</translation>
+        <translation type="vanished">Невядомы альбо непадтрымліваемы рэжым спампоўвання: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Спампоўка канфігурацый…</translation>
+        <translation type="vanished">Спампоўка канфігурацый…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Спампоўванне налад</translation>
+        <translation type="vanished">Спампоўванне налад</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Распакоўка налад...</translation>
+        <translation type="vanished">Распакоўка налад...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Выбар неабавязковых модаў...</translation>
+        <translation type="vanished">Выбар неабавязковых модаў...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Спампоўваюцца моды...</translation>
+        <translation type="vanished">Спампоўваюцца моды...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Спампаваць мод</translation>
+        <translation type="vanished">Спампаваць мод</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Незразумелы тып спампоўкі: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Незразумелы тып спампоўкі: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Знойдзены заблакіраваныя моды</translation>
+        <translation type="vanished">Знойдзены заблакіраваныя моды</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Наступныя файлы недаступны для спампоўцы ў невядомых лаўнчарах.&lt;br/&gt;Вам патрэбна спампаваць іх уручную і дадаць іх да рахунка.</translation>
+        <translation type="vanished">Наступныя файлы недаступны для спампоўцы ў невядомых лаўнчарах.&lt;br/&gt;Вам патрэбна спампаваць іх уручную і дадаць іх да рахунка.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 з %2 гатова</translation>
+        <translation type="vanished">%1 з %2 гатова</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Не атрымалася распакаваць моды...</translation>
+        <translation type="vanished">Не атрымалася распакаваць моды...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Выманне модаў...</translation>
+        <translation type="vanished">Выманне модаў...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Устаноўка зборкі</translation>
+        <translation type="vanished">Устаноўка зборкі</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Не атрымалася стварыць кампанент бібліятэк</translation>
+        <translation type="vanished">Не атрымалася стварыць кампанент бібліятэк</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Незразумелы тып загрузчыка: </translation>
+        <translation type="vanished">Незразумелы тып загрузчыка: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Памылка стварэння кампанент зборкі</translation>
+        <translation type="vanished">Памылка стварэння кампанент зборкі</translation>
     </message>
 </context>
 <context>
@@ -1397,7 +1393,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">Загрузка лакальнага файла</translation>
+        <translation type="unfinished">Загрузка лакальнага файла</translation>
     </message>
 </context>
 <context>
@@ -1799,7 +1795,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Не ўдалося скапіяваць свет.</translation>
+        <translation>Не ўдалося скапіяваць свет.</translation>
     </message>
 </context>
 <context>
@@ -2409,7 +2405,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Не ўдалося выдаліць свет.</translation>
+        <translation>Не ўдалося выдаліць свет.</translation>
     </message>
 </context>
 <context>
@@ -3453,7 +3449,7 @@ Please try again.</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4198,7 +4194,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">Не ўдалося імпартаваць свет.</translation>
+        <translation>Не ўдалося імпартаваць свет.</translation>
     </message>
 </context>
 <context>
@@ -6627,7 +6623,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7864,7 +7860,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Загрузка лакальнага файла</translation>
+        <translation type="vanished">Загрузка лакальнага файла</translation>
     </message>
 </context>
 <context>
@@ -9986,96 +9982,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Не ўдалося зразумець маніфест пакета:
+        <translation>Не ўдалося зразумець маніфест пакета:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Рэжым усталявання не падтрымліваецца</translation>
+        <translation>Рэжым усталявання не падтрымліваецца</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Не ўдалося атрымаць лакальны індэкс метаданых для &apos;%1&apos; v%2</translation>
+        <translation>Не ўдалося атрымаць лакальны індэкс метаданых для &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Выдаленне наяўных файлаў...</translation>
+        <translation>Выдаленне наяўных файлаў...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Невядомы тып мода: %1</translation>
+        <translation>Невядомы тып мода: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Не ўдалося атрымаць лакальны індэкс метаданых для %1</translation>
+        <translation>Не ўдалося атрымаць лакальны індэкс метаданых для %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Не ўдалося знайсці версію загрузчыка для %1</translation>
+        <translation>Не ўдалося знайсці версію загрузчыка для %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Рэжым спампоўвання невядомы або не падтрымліваецца : %1</translation>
+        <translation>Рэжым спампоўвання невядомы або не падтрымліваецца : %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Спампоўванне канфігурацый...</translation>
+        <translation>Спампоўванне канфігурацый...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Спампоўванне канфігурацыі</translation>
+        <translation>Спампоўванне канфігурацыі</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Распакоўка налад...</translation>
+        <translation type="unfinished">Распакоўка налад...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Выбар неабавязковых модаў...</translation>
+        <translation>Выбар неабавязковых модаў...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Спампоўванне модаў...</translation>
+        <translation>Спампоўванне модаў...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Спампаваць мод</translation>
+        <translation type="unfinished">Спампаваць мод</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Незразумелы тып спампоўкі: %1</translation>
+        <translation type="unfinished">Незразумелы тып спампоўкі: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Знойдзены заблакіраваныя моды</translation>
+        <translation>Знойдзены заблакіраваныя моды</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 з %2 гатова</translation>
+        <translation type="unfinished">%1 з %2 гатова</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Не ўдалося распакаваць моды...</translation>
+        <translation>Не ўдалося распакаваць моды...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Распакоўка модаў...</translation>
+        <translation>Распакоўка модаў...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Усталяванне зборкі</translation>
+        <translation>Усталяванне зборкі</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Не ўдалося стварыць кампанент бібліятэкі</translation>
+        <translation>Не ўдалося стварыць кампанент бібліятэкі</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Незразумелы тып загрузчыка: </translation>
+        <translation type="unfinished">Незразумелы тып загрузчыка: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Не ўдалося стварыць кампанент зборкі</translation>
+        <translation>Не ўдалося стварыць кампанент зборкі</translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11068,10 +11076,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation>Сартаваць па навізне</translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11420,6 +11424,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13174,13 +13182,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation>Мова</translation>

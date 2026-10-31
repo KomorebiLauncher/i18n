@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Nevarēja saprast pakas manifestu:
+        <translation type="vanished">Nevarēja saprast pakas manifestu:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Neizdevās iegūt lokālo metadatu indeksu priekš %1</translation>
+        <translation type="vanished">Neizdevās iegūt lokālo metadatu indeksu priekš %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Neizdevās iegūt lokālo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Neizdevās iegūt lokālo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Neatbalstīts instalācijas režīms</translation>
+        <translation type="vanished">Neatbalstīts instalācijas režīms</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Dzēš eksistējošos failus...</translation>
+        <translation type="vanished">Dzēš eksistējošos failus...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Nezināms modifikācijas veids: %1</translation>
+        <translation type="vanished">Nezināms modifikācijas veids: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Neizdevās atrast versiju %1 ielādētājam</translation>
+        <translation type="vanished">Neizdevās atrast versiju %1 ielādētājam</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Modifikācijas pakotnei nav iestatīta ielādētāja versija!</translation>
+        <translation type="vanished">Modifikācijas pakotnei nav iestatīta ielādētāja versija!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Nezināms vai neatbalstīts lejupielādes veids: %1</translation>
+        <translation type="vanished">Nezināms vai neatbalstīts lejupielādes veids: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Lejupielādē konfigurācijas...</translation>
+        <translation type="vanished">Lejupielādē konfigurācijas...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Lejupielādes Konfigurācija</translation>
+        <translation type="vanished">Lejupielādes Konfigurācija</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Konfigurāciju izvilkšana...</translation>
+        <translation type="vanished">Konfigurāciju izvilkšana...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Izvēlas neobligātās modifikācijas...</translation>
+        <translation type="vanished">Izvēlas neobligātās modifikācijas...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Lejupielādē modifikācijas...</translation>
+        <translation type="vanished">Lejupielādē modifikācijas...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Modifikāciju lejupielāde</translation>
+        <translation type="vanished">Modifikāciju lejupielāde</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Nezināms lejupielādes veids: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Nezināms lejupielādes veids: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Tika atrastas bloķētas modifikācijas</translation>
+        <translation type="vanished">Tika atrastas bloķētas modifikācijas</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
+        <translation type="vanished">Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 no %2 pabeigts</translation>
+        <translation type="vanished">%1 no %2 pabeigts</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Neizdevās izrakstīt modifikācijas...</translation>
+        <translation type="vanished">Neizdevās izrakstīt modifikācijas...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Izraksta modifikācijas...</translation>
+        <translation type="vanished">Izraksta modifikācijas...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Lejupielādē modifikācijas pakotni</translation>
+        <translation type="vanished">Lejupielādē modifikācijas pakotni</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Neizdevās izveidot bibliotēkas komponentu</translation>
+        <translation type="vanished">Neizdevās izveidot bibliotēkas komponentu</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Nezināms ielādētāja veids: </translation>
+        <translation type="vanished">Nezināms ielādētāja veids: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Neizdevās izveidot pakotnes komponentu</translation>
+        <translation type="vanished">Neizdevās izveidot pakotnes komponentu</translation>
     </message>
 </context>
 <context>
@@ -1430,6 +1426,13 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1828,7 +1831,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Neizdevās kopēt pasauli.</translation>
+        <translation>Neizdevās kopēt pasauli.</translation>
     </message>
 </context>
 <context>
@@ -2405,6 +2408,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3369,7 +3376,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4183,6 +4190,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -6316,7 +6327,7 @@ Iemesls:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7576,13 +7587,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -9765,75 +9769,108 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Neatbalstīts instalācijas režīms</translation>
+        <translation type="unfinished">Neatbalstīts instalācijas režīms</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Neizdevās iegūt lokālo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">Neizdevās iegūt lokālo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Dzēš eksistējošos failus...</translation>
+        <translation type="unfinished">Dzēš eksistējošos failus...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Nezināms modifikācijas veids: %1</translation>
+        <translation type="unfinished">Nezināms modifikācijas veids: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Nezināms vai neatbalstīts lejupielādes veids: %1</translation>
+        <translation type="unfinished">Nezināms vai neatbalstīts lejupielādes veids: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Lejupielādē konfigurācijas...</translation>
+        <translation type="unfinished">Lejupielādē konfigurācijas...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Lejupielādes Konfigurācija</translation>
+        <translation type="unfinished">Lejupielādes Konfigurācija</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Konfigurāciju izvilkšana...</translation>
+        <translation type="unfinished">Konfigurāciju izvilkšana...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Izvēlas neobligātās modifikācijas...</translation>
+        <translation type="unfinished">Izvēlas neobligātās modifikācijas...</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Nezināms lejupielādes veids: %1</translation>
+        <translation type="unfinished">Nezināms lejupielādes veids: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">Tika atrastas bloķētas modifikācijas</translation>
+        <translation type="unfinished">Tika atrastas bloķētas modifikācijas</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
+        <translation type="unfinished">Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 no %2 pabeigts</translation>
+        <translation type="unfinished">%1 no %2 pabeigts</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Neizdevās izrakstīt modifikācijas...</translation>
+        <translation type="unfinished">Neizdevās izrakstīt modifikācijas...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Izraksta modifikācijas...</translation>
+        <translation type="unfinished">Izraksta modifikācijas...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Neizdevās izveidot bibliotēkas komponentu</translation>
+        <translation type="unfinished">Neizdevās izveidot bibliotēkas komponentu</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Nezināms ielādētāja veids: </translation>
+        <translation type="unfinished">Nezināms ielādētāja veids: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Neizdevās izveidot pakotnes komponentu</translation>
+        <translation type="unfinished">Neizdevās izveidot pakotnes komponentu</translation>
+    </message>
+    <message>
+        <source>Could not understand pack manifest:
+</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to get local metadata index for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to find version for %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No loader version set for modpack!</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Mod download</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing modpack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -10899,10 +10936,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -11247,6 +11280,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -12950,13 +12987,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished">Valoda</translation>

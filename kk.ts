@@ -234,52 +234,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Пакет манифестін түсіну мүмкін болмады:
+        <translation type="vanished">Пакет манифестін түсіну мүмкін болмады:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>% 1 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
+        <translation type="vanished">% 1 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&quot;% 1&quot; v% 2 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
+        <translation type="vanished">&quot;% 1&quot; v% 2 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Қолдау көрсетілмейтін орнату режимі</translation>
+        <translation type="vanished">Қолдау көрсетілмейтін орнату режимі</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Бар файлдар жойылуда...</translation>
+        <translation type="vanished">Бар файлдар жойылуда...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Неизвестный тип мода: %1</translation>
+        <translation type="vanished">Неизвестный тип мода: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 жүктегіш нұсқасы табылмады</translation>
+        <translation type="vanished">%1 жүктегіш нұсқасы табылмады</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Modpack үшін жүктеуші нұсқасы орнатылмаған!</translation>
+        <translation type="vanished">Modpack үшін жүктеуші нұсқасы орнатылмаған!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Белгісіз немесе келіспейтін жүктеуші нұсқасы: %1</translation>
+        <translation type="vanished">Белгісіз немесе келіспейтін жүктеуші нұсқасы: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Конфигурациялар жүктеліп жатыр...</translation>
+        <translation type="vanished">Конфигурациялар жүктеліп жатыр...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Конфигурацияны жүктеу</translation>
+        <translation type="vanished">Конфигурацияны жүктеу</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Конфигурациялар шығарылуда...</translation>
+        <translation type="vanished">Конфигурациялар шығарылуда...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -287,59 +287,55 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Қосымша модтарды таңдау...</translation>
+        <translation type="vanished">Қосымша модтарды таңдау...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Модтар жүктеліп жатыр...</translation>
+        <translation type="vanished">Модтар жүктеліп жатыр...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod жүктеу</translation>
+        <translation type="vanished">Mod жүктеу</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Белгісіз жүктеу нұсқасы: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Белгісіз жүктеу нұсқасы: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Бұғатталған модтар табылды</translation>
+        <translation type="vanished">Бұғатталған модтар табылды</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. &lt;br/&gt;Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.</translation>
+        <translation type="vanished">Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. &lt;br/&gt;Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%2 ішінен %1 аяқталды</translation>
+        <translation type="vanished">%2 ішінен %1 аяқталды</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Модтарды шығару сәтсіз аяқталды...</translation>
+        <translation type="vanished">Модтарды шығару сәтсіз аяқталды...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Модтарды шығару...</translation>
+        <translation type="vanished">Модтарды шығару...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Модтар жинағын орнату</translation>
+        <translation type="vanished">Модтар жинағын орнату</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Кітапхана бөлігін шығаруда қате кетті</translation>
+        <translation type="vanished">Кітапхана бөлігін шығаруда қате кетті</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Белгісіз жүкітегіш түрі: </translation>
+        <translation type="vanished">Белгісіз жүкітегіш түрі: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Пак бөлігін құру сәтсіз аяқталды</translation>
+        <translation type="vanished">Пак бөлігін құру сәтсіз аяқталды</translation>
     </message>
 </context>
 <context>
@@ -1197,6 +1193,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1590,6 +1593,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2123,6 +2130,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2860,13 +2871,6 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -3530,6 +3534,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5034,6 +5042,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -6057,13 +6072,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -7908,96 +7916,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">Пакет манифестін түсіну мүмкін болмады:
+        <translation type="unfinished">Пакет манифестін түсіну мүмкін болмады:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Қолдау көрсетілмейтін орнату режимі</translation>
+        <translation type="unfinished">Қолдау көрсетілмейтін орнату режимі</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">&quot;% 1&quot; v% 2 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
+        <translation type="unfinished">&quot;% 1&quot; v% 2 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Бар файлдар жойылуда...</translation>
+        <translation type="unfinished">Бар файлдар жойылуда...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Неизвестный тип мода: %1</translation>
+        <translation type="unfinished">Неизвестный тип мода: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">% 1 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
+        <translation type="unfinished">% 1 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">%1 жүктегіш нұсқасы табылмады</translation>
+        <translation type="unfinished">%1 жүктегіш нұсқасы табылмады</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="obsolete">Modpack үшін жүктеуші нұсқасы орнатылмаған!</translation>
+        <translation type="unfinished">Modpack үшін жүктеуші нұсқасы орнатылмаған!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Белгісіз немесе келіспейтін жүктеуші нұсқасы: %1</translation>
+        <translation type="unfinished">Белгісіз немесе келіспейтін жүктеуші нұсқасы: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Конфигурациялар жүктеліп жатыр...</translation>
+        <translation type="unfinished">Конфигурациялар жүктеліп жатыр...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Конфигурацияны жүктеу</translation>
+        <translation type="unfinished">Конфигурацияны жүктеу</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Конфигурациялар шығарылуда...</translation>
+        <translation type="unfinished">Конфигурациялар шығарылуда...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Қосымша модтарды таңдау...</translation>
+        <translation type="unfinished">Қосымша модтарды таңдау...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Mod жүктеу</translation>
+        <translation type="unfinished">Mod жүктеу</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Белгісіз жүктеу нұсқасы: %1</translation>
+        <translation type="unfinished">Белгісіз жүктеу нұсқасы: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">Бұғатталған модтар табылды</translation>
+        <translation type="unfinished">Бұғатталған модтар табылды</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. &lt;br/&gt;Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.</translation>
+        <translation type="unfinished">Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. &lt;br/&gt;Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%2 ішінен %1 аяқталды</translation>
+        <translation type="unfinished">%2 ішінен %1 аяқталды</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Модтарды шығару сәтсіз аяқталды...</translation>
+        <translation type="unfinished">Модтарды шығару сәтсіз аяқталды...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Модтарды шығару...</translation>
+        <translation type="unfinished">Модтарды шығару...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Кітапхана бөлігін шығаруда қате кетті</translation>
+        <translation type="unfinished">Кітапхана бөлігін шығаруда қате кетті</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Белгісіз жүкітегіш түрі: </translation>
+        <translation type="unfinished">Белгісіз жүкітегіш түрі: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Пак бөлігін құру сәтсіз аяқталды</translation>
+        <translation type="unfinished">Пак бөлігін құру сәтсіз аяқталды</translation>
+    </message>
+    <message>
+        <source>Downloading mods...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing modpack</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -8974,10 +8994,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9317,6 +9333,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10893,13 +10913,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished"></translation>

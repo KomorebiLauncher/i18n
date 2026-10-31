@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Tidak dapat memahami manifest paket:
+        <translation type="vanished">Tidak dapat memahami manifest paket:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Gagal mendapatkan indeks metadata lokal untuk %1</translation>
+        <translation type="vanished">Gagal mendapatkan indeks metadata lokal untuk %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mode instalasi tidak didukung</translation>
+        <translation type="vanished">Mode instalasi tidak didukung</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Menghapus file yang ada...</translation>
+        <translation type="vanished">Menghapus file yang ada...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Jenis mod tidak diketahui: %1</translation>
+        <translation type="vanished">Jenis mod tidak diketahui: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Gagal menemukan versi untuk pemuat %1</translation>
+        <translation type="vanished">Gagal menemukan versi untuk pemuat %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Versi pemuat tidak terpilih untuk modpack!</translation>
+        <translation type="vanished">Versi pemuat tidak terpilih untuk modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Jenis unduhan yang tidak diketahui atau tidak didukung: %1</translation>
+        <translation type="vanished">Jenis unduhan yang tidak diketahui atau tidak didukung: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Mengunduh konfigurasi...</translation>
+        <translation type="vanished">Mengunduh konfigurasi...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Pengunduhan konfigurasi</translation>
+        <translation type="vanished">Pengunduhan konfigurasi</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Mengekstrak konfigurasi...</translation>
+        <translation type="vanished">Mengekstrak konfigurasi...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Memilih mod opsional...</translation>
+        <translation type="vanished">Memilih mod opsional...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Mengunduh mod...</translation>
+        <translation type="vanished">Mengunduh mod...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Unduhan Mod</translation>
+        <translation type="vanished">Unduhan Mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Jenis unduhan tidak diketahui: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Jenis unduhan tidak diketahui: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Mod yang diblokir ditemukan</translation>
+        <translation type="vanished">Mod yang diblokir ditemukan</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka secara manual dan menambahkan ke dalam instansi.</translation>
+        <translation type="vanished">Berkas-berkas berikut tidak tersedia untuk diunduh peluncur pihak ketiga.&lt;br/&gt;Anda harus mengunduh mereka secara manual dan menambahkan ke dalam instansi.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 dari %2 selesai</translation>
+        <translation type="vanished">%1 dari %2 selesai</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Gagal mengekstrak mod...</translation>
+        <translation type="vanished">Gagal mengekstrak mod...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Mengekstrak mod...</translation>
+        <translation type="vanished">Mengekstrak mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Memasang modpack</translation>
+        <translation type="vanished">Memasang modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Gagal membuat komponen pustaka</translation>
+        <translation type="vanished">Gagal membuat komponen pustaka</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Jenis pemuat tidak diketahui: </translation>
+        <translation type="vanished">Jenis pemuat tidak diketahui: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Gagal membuat komponen paket</translation>
+        <translation type="vanished">Gagal membuat komponen paket</translation>
     </message>
 </context>
 <context>
@@ -1453,7 +1449,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Memuat file lokal</translation>
+        <translation>Memuat file lokal</translation>
     </message>
 </context>
 <context>
@@ -1859,7 +1855,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Gagal menyalin dunia.</translation>
+        <translation>Gagal menyalin dunia.</translation>
     </message>
 </context>
 <context>
@@ -2469,7 +2465,7 @@ Apakah kamu yakin?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Gagal menghapus dunia.</translation>
+        <translation>Gagal menghapus dunia.</translation>
     </message>
 </context>
 <context>
@@ -3562,7 +3558,7 @@ Coba ulang lagi.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4435,7 +4431,7 @@ Apa yang ingin Anda lakukan terhadap %2?</translation>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">Gagal mengimpor dunia.</translation>
+        <translation>Gagal mengimpor dunia.</translation>
     </message>
 </context>
 <context>
@@ -7156,7 +7152,7 @@ Alasan:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8769,7 +8765,7 @@ Apakah Anda yakin?</translation>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Memuat berkas lokal</translation>
+        <translation type="vanished">Memuat berkas lokal</translation>
     </message>
 </context>
 <context>
@@ -11573,104 +11569,108 @@ Apakah Anda yakin?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Tidak dapat memahami manifest pack:
+        <translation>Tidak dapat memahami manifest pack:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Mode instalasi tidak didukung</translation>
+        <translation>Mode instalasi tidak didukung</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
+        <translation>Gagal mendapatkan indeks metadata lokal untuk &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Menghapus file yang sudah ada...</translation>
+        <translation>Menghapus file yang sudah ada...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Jenis mod tidak dikenal: %1</translation>
+        <translation>Jenis mod tidak dikenal: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Gagal mendapatkan indeks metadata lokal untuk %1</translation>
+        <translation>Gagal mendapatkan indeks metadata lokal untuk %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Gagal menemukan versi untuk loader %1</translation>
+        <translation>Gagal menemukan versi untuk loader %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Tidak ada versi loader yang ditetapkan untuk modpack!</translation>
+        <translation>Tidak ada versi loader yang ditetapkan untuk modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Jenis unduhan tidak dikenal atau tidak didukung: %1</translation>
+        <translation>Jenis unduhan tidak dikenal atau tidak didukung: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Mengunduh konfigurasi...</translation>
+        <translation>Mengunduh konfigurasi...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Unduhan konfigurasi</translation>
+        <translation>Unduhan konfigurasi</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Mengekstrak konfigurasi...</translation>
+        <translation>Mengekstrak konfigurasi...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Memilih mod opsional...</translation>
+        <translation>Memilih mod opsional...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Mengunduh mod...</translation>
+        <translation>Mengunduh mod...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Unduhan mod</translation>
+        <translation>Unduhan mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Jenis unduhan tidak dikenal: %1</translation>
+        <translation>Jenis unduhan tidak dikenal: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Mod yang diblokir ditemukan</translation>
+        <translation>Mod yang diblokir ditemukan</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">File berikut tidak tersedia untuk diunduh di launcher pihak ketiga.&lt;br/&gt;Anda perlu mengunduhnya secara manual dan menambahkannya ke instans.</translation>
+        <translation>File berikut tidak tersedia untuk diunduh di launcher pihak ketiga.&lt;br/&gt;Anda perlu mengunduhnya secara manual dan menambahkannya ke instans.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 dari %2 selesai</translation>
+        <translation>%1 dari %2 selesai</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Gagal mengekstrak mod...</translation>
+        <translation>Gagal mengekstrak mod...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Mengekstrak mod...</translation>
+        <translation>Mengekstrak mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Memasang modpack</translation>
+        <translation>Memasang modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Gagal membuat komponen library</translation>
+        <translation>Gagal membuat komponen library</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Jenis loader tidak dikenal: </translation>
+        <translation>Jenis loader tidak dikenal: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Gagal membuat komponen pack</translation>
+        <translation>Gagal membuat komponen pack</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12997,7 +12997,7 @@ Apakah Anda ingin menghapus berkas penyimpanan yang sudah ada sebagai bagian dar
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>Sebuah program batch windows MKLINK untuk digunakan dengan komorebi</translation>
+        <translation type="vanished">Sebuah program batch windows MKLINK untuk digunakan dengan komorebi</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -13366,6 +13366,10 @@ Pesan kesalahan: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15545,7 +15549,7 @@ Apakah Anda yakin?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 diterjemahkan
 %3 kabur
 %4 jumlah</translation>

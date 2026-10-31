@@ -231,52 +231,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Не може да се разбере манифестот на пакетот:
+        <translation type="vanished">Не може да се разбере манифестот на пакетот:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Неуспешно собирање на локална метадата индекс за %1</translation>
+        <translation type="vanished">Неуспешно собирање на локална метадата индекс за %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Неуспешно собирање на локална метадата индекс за &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Неуспешно собирање на локална метадата индекс за &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Неподржам инсталирачни мод</translation>
+        <translation type="vanished">Неподржам инсталирачни мод</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Бришење постоечки документи...</translation>
+        <translation type="vanished">Бришење постоечки документи...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Незнаен мод тип: %1</translation>
+        <translation type="vanished">Незнаен мод тип: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Не успеа да најде верзиа за не %1 лоадер</translation>
+        <translation type="vanished">Не успеа да најде верзиа за не %1 лоадер</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Нема поставена верзија на подигнувач за модпак!</translation>
+        <translation type="vanished">Нема поставена верзија на подигнувач за модпак!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Непознат или неподдржан тип на преземање: %1</translation>
+        <translation type="vanished">Непознат или неподдржан тип на преземање: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Се преземаат конфигурации...</translation>
+        <translation type="vanished">Се преземаат конфигурации...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Преземање конфигурации</translation>
+        <translation type="vanished">Преземање конфигурации</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Се извлекуваат конфигурациите...</translation>
+        <translation type="vanished">Се извлекуваат конфигурациите...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -284,15 +284,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Одбери оптимал мод...</translation>
+        <translation type="vanished">Одбери оптимал мод...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Се преземаат модови...</translation>
+        <translation type="vanished">Се преземаат модови...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Преземање на мод</translation>
+        <translation type="vanished">Преземање на мод</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -300,47 +300,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Непознат тип на преземање: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Непознат тип на преземање: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Блокирани модови се пронајдени</translation>
+        <translation type="vanished">Блокирани модови се пронајдени</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Овие фајлови не се достапни за превземање во други лаунчери.&lt;br/&gt;Вие ќе морате мануелно да ги превземете и да ги додадете во инстансата.</translation>
+        <translation type="vanished">Овие фајлови не се достапни за превземање во други лаунчери.&lt;br/&gt;Вие ќе морате мануелно да ги превземете и да ги додадете во инстансата.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 од %2 завршено</translation>
+        <translation type="vanished">%1 од %2 завршено</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Не успеа да се извлечат модови...</translation>
+        <translation type="vanished">Не успеа да се извлечат модови...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Се извлекуваат модовите...</translation>
+        <translation type="vanished">Се извлекуваат модовите...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Се инсталираат повеќе модови</translation>
+        <translation type="vanished">Се инсталираат повеќе модови</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Неуспеа да направе библиотеки за компонент</translation>
+        <translation type="vanished">Неуспеа да направе библиотеки за компонент</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Непознат тип на вчитувач: </translation>
+        <translation type="vanished">Непознат тип на вчитувач: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Неуспешно направи пак компонент</translation>
+        <translation type="vanished">Неуспешно направи пак компонент</translation>
     </message>
 </context>
 <context>
@@ -1352,6 +1348,13 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1745,6 +1748,10 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2299,6 +2306,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -3122,13 +3133,6 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -3825,6 +3829,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5361,6 +5369,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -6401,13 +6416,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8307,104 +8315,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">Не може да се разбере манифестот на пакетот:
+        <translation type="unfinished">Не може да се разбере манифестот на пакетот:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Неподржам инсталирачни мод</translation>
+        <translation type="unfinished">Неподржам инсталирачни мод</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Неуспешно собирање на локална метадата индекс за &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">Неуспешно собирање на локална метадата индекс за &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Бришење постоечки документи...</translation>
+        <translation type="unfinished">Бришење постоечки документи...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Незнаен мод тип: %1</translation>
+        <translation type="unfinished">Незнаен мод тип: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">Неуспешно собирање на локална метадата индекс за %1</translation>
+        <translation type="unfinished">Неуспешно собирање на локална метадата индекс за %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">Не успеа да најде верзиа за не %1 лоадер</translation>
+        <translation type="unfinished">Не успеа да најде верзиа за не %1 лоадер</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="obsolete">Нема поставена верзија на подигнувач за модпак!</translation>
+        <translation type="unfinished">Нема поставена верзија на подигнувач за модпак!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Непознат или неподдржан тип на преземање: %1</translation>
+        <translation type="unfinished">Непознат или неподдржан тип на преземање: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Се преземаат конфигурации...</translation>
+        <translation type="unfinished">Се преземаат конфигурации...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Преземање конфигурации</translation>
+        <translation type="unfinished">Преземање конфигурации</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Се извлекуваат конфигурациите...</translation>
+        <translation type="unfinished">Се извлекуваат конфигурациите...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Одбери оптимал мод...</translation>
+        <translation type="unfinished">Одбери оптимал мод...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">Се преземаат модови...</translation>
+        <translation type="unfinished">Се преземаат модови...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Преземање на мод</translation>
+        <translation type="unfinished">Преземање на мод</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Непознат тип на преземање: %1</translation>
+        <translation type="unfinished">Непознат тип на преземање: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="obsolete">Блокирани модови се пронајдени</translation>
+        <translation type="unfinished">Блокирани модови се пронајдени</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="obsolete">Овие фајлови не се достапни за превземање во други лаунчери.&lt;br/&gt;Вие ќе морате мануелно да ги превземете и да ги додадете во инстансата.</translation>
+        <translation type="unfinished">Овие фајлови не се достапни за превземање во други лаунчери.&lt;br/&gt;Вие ќе морате мануелно да ги превземете и да ги додадете во инстансата.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 од %2 завршено</translation>
+        <translation type="unfinished">%1 од %2 завршено</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Не успеа да се извлечат модови...</translation>
+        <translation type="unfinished">Не успеа да се извлечат модови...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Се извлекуваат модовите...</translation>
+        <translation type="unfinished">Се извлекуваат модовите...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">Се инсталираат повеќе модови</translation>
+        <translation type="unfinished">Се инсталираат повеќе модови</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Неуспеа да направе библиотеки за компонент</translation>
+        <translation type="unfinished">Неуспеа да направе библиотеки за компонент</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Непознат тип на вчитувач: </translation>
+        <translation type="unfinished">Непознат тип на вчитувач: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Неуспешно направи пак компонент</translation>
+        <translation type="unfinished">Неуспешно направи пак компонент</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9381,10 +9393,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9725,6 +9733,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11296,13 +11308,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished"></translation>

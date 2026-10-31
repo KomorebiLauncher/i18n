@@ -251,52 +251,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>팩 매니페스트를 해석할 수 없음:
+        <translation type="vanished">팩 매니페스트를 해석할 수 없음:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못함: %1</translation>
+        <translation type="vanished">다음 로컬 메타데이터 인덱스를 가져오지 못함: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못함: &apos;%1&apos; v%2</translation>
+        <translation type="vanished">다음 로컬 메타데이터 인덱스를 가져오지 못함: &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>지원하지 않는 설치 모드</translation>
+        <translation type="vanished">지원하지 않는 설치 모드</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>기존 파일을 삭제하는 중...</translation>
+        <translation type="vanished">기존 파일을 삭제하는 중...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>알 수 없는 모드 유형: %1</translation>
+        <translation type="vanished">알 수 없는 모드 유형: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1 로더에 대한 버전을 찾지 못함</translation>
+        <translation type="vanished">%1 로더에 대한 버전을 찾지 못함</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>모드 팩 로더 버전이 설정되지 않았습니다!</translation>
+        <translation type="vanished">모드 팩 로더 버전이 설정되지 않았습니다!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
+        <translation type="vanished">알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>설정을 다운로드하는 중...</translation>
+        <translation type="vanished">설정을 다운로드하는 중...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>설정 다운로드</translation>
+        <translation type="vanished">설정 다운로드</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>설정 내보내는 중...</translation>
+        <translation type="vanished">설정 내보내는 중...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -304,15 +304,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>선택적 모드 선택 중...</translation>
+        <translation type="vanished">선택적 모드 선택 중...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>모드를 다운로드하는 중...</translation>
+        <translation type="vanished">모드를 다운로드하는 중...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>모드 다운로드</translation>
+        <translation type="vanished">모드 다운로드</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -320,47 +320,47 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>알 수 없는 다운로드 유형: %1</translation>
+        <translation type="vanished">알 수 없는 다운로드 유형: %1</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished">%1에서의 경로 탐색이 차단됨</translation>
+        <translation type="obsolete">%1에서의 경로 탐색이 차단됨</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>차단된 모드 발견</translation>
+        <translation type="vanished">차단된 모드 발견</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>해당 파일은 제삼자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
+        <translation type="vanished">해당 파일은 제삼자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1/&amp;2 완료</translation>
+        <translation type="vanished">%1/&amp;2 완료</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>모드 추출에 실패하였습니다...</translation>
+        <translation type="vanished">모드 추출에 실패하였습니다...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>모드 추출 중...</translation>
+        <translation type="vanished">모드 추출 중...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>모드 팩 설치 중</translation>
+        <translation type="vanished">모드 팩 설치 중</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>라이브러리 구성 요소를 만들지 못함</translation>
+        <translation type="vanished">라이브러리 구성 요소를 만들지 못함</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>알 수 없는 로더 종류: </translation>
+        <translation type="vanished">알 수 없는 로더 종류: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>팩 구성 요소를 만들지 못함</translation>
+        <translation type="vanished">팩 구성 요소를 만들지 못함</translation>
     </message>
 </context>
 <context>
@@ -1469,7 +1469,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">로컬 파일을 불러오는 중</translation>
+        <translation>로컬 파일을 불러오는 중</translation>
     </message>
 </context>
 <context>
@@ -1879,7 +1879,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">세계를 복사하지 못하였습니다.</translation>
+        <translation>세계를 복사하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -2489,7 +2489,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">세계를 삭제하지 못하였습니다.</translation>
+        <translation>세계를 삭제하지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -3606,7 +3606,7 @@ Please try again.</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>마인크래프트 %1</translation>
+        <translation type="vanished">마인크래프트 %1</translation>
     </message>
 </context>
 <context>
@@ -4516,7 +4516,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">세계를 가져오지 못하였습니다.</translation>
+        <translation>세계를 가져오지 못하였습니다.</translation>
     </message>
 </context>
 <context>
@@ -7333,7 +7333,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">마인크래프트 %1</translation>
+        <translation>마인크래프트 %1</translation>
     </message>
 </context>
 <context>
@@ -9092,7 +9092,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>로컬 파일을 불러오는 중</translation>
+        <translation type="vanished">로컬 파일을 불러오는 중</translation>
     </message>
 </context>
 <context>
@@ -12107,108 +12107,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">팩 매니페스트를 해석할 수 없음:
+        <translation>팩 매니페스트를 해석할 수 없음:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">지원하지 않는 설치 모드</translation>
+        <translation>지원하지 않는 설치 모드</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">다음 로컬 메타데이터 인덱스를 가져오지 못함: &apos;%1&apos; v%2</translation>
+        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못함: &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">기존 파일을 삭제하는 중...</translation>
+        <translation>기존 파일을 삭제하는 중...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">알 수 없는 모드 유형: %1</translation>
+        <translation>알 수 없는 모드 유형: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">다음 로컬 메타데이터 인덱스를 가져오지 못함: %1</translation>
+        <translation>다음 로컬 메타데이터 인덱스를 가져오지 못함: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">%1 로더에 대한 버전을 찾지 못함</translation>
+        <translation>%1 로더에 대한 버전을 찾지 못함</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">모드 팩 로더 버전이 설정되지 않았습니다!</translation>
+        <translation>모드 팩 로더 버전이 설정되지 않았습니다!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
+        <translation>알 수 없거나 지원하지 않는 다운로드 유형: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">설정을 다운로드하는 중...</translation>
+        <translation>설정을 다운로드하는 중...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">설정 다운로드</translation>
+        <translation>설정 다운로드</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">설정 내보내는 중...</translation>
+        <translation>설정 내보내는 중...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">선택적 모드 선택 중...</translation>
+        <translation>선택적 모드 선택 중...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">모드를 다운로드하는 중...</translation>
+        <translation>모드를 다운로드하는 중...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">모드 다운로드</translation>
+        <translation>모드 다운로드</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">알 수 없는 다운로드 유형: %1</translation>
+        <translation>알 수 없는 다운로드 유형: %1</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="vanished">%1에서의 경로 탐색이 차단됨</translation>
+        <translation>%1에서의 경로 탐색이 차단됨</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">차단된 모드 발견</translation>
+        <translation>차단된 모드 발견</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">해당 파일은 제삼자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
+        <translation>해당 파일은 제삼자 런처에서 다운로드할 수 없습니다.&lt;br/&gt;직접 다운로드하여 인스턴스에 추가하여야 합니다.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1/&amp;2 완료</translation>
+        <translation>%1/&amp;2 완료</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">모드를 압축 해제하지 못하였습니다...</translation>
+        <translation>모드를 압축 해제하지 못하였습니다...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">모드를 압축 해제하는 중...</translation>
+        <translation>모드를 압축 해제하는 중...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">모드 팩을 설치하는 중</translation>
+        <translation>모드 팩을 설치하는 중</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">라이브러리 구성 요소를 만들지 못함</translation>
+        <translation>라이브러리 구성 요소를 만들지 못함</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">알 수 없는 로더 종류: </translation>
+        <translation>알 수 없는 로더 종류: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">팩 구성 요소를 만들지 못함</translation>
+        <translation>팩 구성 요소를 만들지 못함</translation>
     </message>
 </context>
 <context>
@@ -13599,7 +13599,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>Komorebi Launcher와 함께 사용할 수 있는 Windows용 배치 MKLINK 프로그램</translation>
+        <translation type="vanished">Komorebi Launcher와 함께 사용할 수 있는 Windows용 배치 MKLINK 프로그램</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -13972,6 +13972,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -16185,7 +16189,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 번역됨: %2
 정확하지 않음: %3
 전체: %4</translation>

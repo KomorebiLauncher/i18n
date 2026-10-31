@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Não foi possível entender o manifesto do pacote:
+        <translation type="vanished">Não foi possível entender o manifesto do pacote:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Não foi possível obter o índice de metadados local para %1</translation>
+        <translation type="vanished">Não foi possível obter o índice de metadados local para %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Não foi possível obter o índice de metadados local para &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Não foi possível obter o índice de metadados local para &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Modo de instalação não suportado</translation>
+        <translation type="vanished">Modo de instalação não suportado</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>A apagar ficheiros existentes...</translation>
+        <translation type="vanished">A apagar ficheiros existentes...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Tipo de mod desconhecido: %1</translation>
+        <translation type="vanished">Tipo de mod desconhecido: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Não foi possível localizar a versão do loader %1</translation>
+        <translation type="vanished">Não foi possível localizar a versão do loader %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Nenhuma versão do loader definida para o modpack!</translation>
+        <translation type="vanished">Nenhuma versão do loader definida para o modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Tipo de descarregamento desconhecido ou não suportado: %1</translation>
+        <translation type="vanished">Tipo de descarregamento desconhecido ou não suportado: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>A transferir configs...</translation>
+        <translation type="vanished">A transferir configs...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Config transferida</translation>
+        <translation type="vanished">Config transferida</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>A extrair configs...</translation>
+        <translation type="vanished">A extrair configs...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>A selecionar mods opcionais...</translation>
+        <translation type="vanished">A selecionar mods opcionais...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>A transferir mods...</translation>
+        <translation type="vanished">A transferir mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Transferência do mod</translation>
+        <translation type="vanished">Transferência do mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,43 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Tipo de descarregamento desconhecido: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Tipo de descarregamento desconhecido: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Mods bloqueados encontrados</translation>
+        <translation type="vanished">Mods bloqueados encontrados</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Os ficheiros que se seguem indisponíveis para transferência com launchers de terceiros.&lt;br/&gt;Vais ter de os descarregar manualmente e adicioná-los à instância.</translation>
+        <translation type="vanished">Os ficheiros que se seguem indisponíveis para transferência com launchers de terceiros.&lt;br/&gt;Vais ter de os descarregar manualmente e adicioná-los à instância.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 de %2 completos</translation>
+        <translation type="vanished">%1 de %2 completos</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Não foi possível extrair os mods...</translation>
+        <translation type="vanished">Não foi possível extrair os mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>A extrair mods...</translation>
+        <translation type="vanished">A extrair mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>A instalar modpack</translation>
+        <translation type="vanished">A instalar modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Não foi possível criar o componente de bibliotecas</translation>
+        <translation type="vanished">Não foi possível criar o componente de bibliotecas</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Tipo de loader desconhecido: </translation>
+        <translation type="vanished">Tipo de loader desconhecido: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Não foi possível criar o componente de pacote</translation>
+        <translation type="vanished">Não foi possível criar o componente de pacote</translation>
     </message>
 </context>
 <context>
@@ -1453,7 +1449,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">A carregar ficheiro local</translation>
+        <translation>A carregar ficheiro local</translation>
     </message>
 </context>
 <context>
@@ -1855,7 +1851,7 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation type="vanished">Não foi possível copiar o mundo.</translation>
+        <translation>Não foi possível copiar o mundo.</translation>
     </message>
 </context>
 <context>
@@ -2465,7 +2461,7 @@ Tens a certeza?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation type="vanished">Não foi possível apagar o mundo.</translation>
+        <translation>Não foi possível apagar o mundo.</translation>
     </message>
 </context>
 <context>
@@ -3582,7 +3578,7 @@ Por favor tenta de novo.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4451,7 +4447,7 @@ O que gostarias de fazer com %2?</translation>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation type="vanished">Não foi possível importar o mundo.</translation>
+        <translation>Não foi possível importar o mundo.</translation>
     </message>
 </context>
 <context>
@@ -7200,7 +7196,7 @@ Motivo:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="obsolete">Minecraft %1</translation>
+        <translation type="unfinished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8823,7 +8819,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Carregando ficheiro local</translation>
+        <translation type="vanished">Carregando ficheiro local</translation>
     </message>
 </context>
 <context>
@@ -11662,104 +11658,108 @@ Tens a certeza de que queres prosseguir?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Não foi possível perceber o manifesto do pacote:
+        <translation>Não foi possível perceber o manifesto do pacote:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Modo de instalação não suportado</translation>
+        <translation>Modo de instalação não suportado</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Erro ao obter o índice local de metadados em &apos;%1&apos; v%2</translation>
+        <translation>Erro ao obter o índice local de metadados em &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">A apagar ficheiros existentes...</translation>
+        <translation>A apagar ficheiros existentes...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Tipo de mod desconhecido: %1</translation>
+        <translation>Tipo de mod desconhecido: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Não foi possível obter o índice do metadados local para %1</translation>
+        <translation>Não foi possível obter o índice do metadados local para %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Não foi possível encontrar a versão do carregador %1</translation>
+        <translation>Não foi possível encontrar a versão do carregador %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Nenhuma versão do loader definida para o pacote de mods!</translation>
+        <translation>Nenhuma versão do loader definida para o pacote de mods!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Tipo de descarga desconhecido ou não suportado: %1</translation>
+        <translation>Tipo de descarga desconhecido ou não suportado: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">A descarregar configurações...</translation>
+        <translation>A descarregar configurações...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Descarregar configuração</translation>
+        <translation>Descarregar configuração</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">A extrair configurações...</translation>
+        <translation>A extrair configurações...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">A escolher mods opcionais...</translation>
+        <translation>A escolher mods opcionais...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">A descarregar mods...</translation>
+        <translation>A descarregar mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Descarga de mod</translation>
+        <translation>Descarga de mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Tipo de descarga desconhecida: %1</translation>
+        <translation>Tipo de descarga desconhecida: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Mods bloqueados encontrados</translation>
+        <translation>Mods bloqueados encontrados</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Os ficheiros a seguir não estão disponíveis para descargas em launchers de terceiros.&lt;br/&gt;Precisará descarregá-los manualmente e adicioná-los à instância.</translation>
+        <translation>Os ficheiros a seguir não estão disponíveis para descargas em launchers de terceiros.&lt;br/&gt;Precisará descarregá-los manualmente e adicioná-los à instância.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 de %2 completo</translation>
+        <translation>%1 de %2 completo</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Não foi possível extrair mods...</translation>
+        <translation>Não foi possível extrair mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">A extrair mods...</translation>
+        <translation>A extrair mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">A instalar o pacote de mods</translation>
+        <translation>A instalar o pacote de mods</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Erro ao criar o componente de bibliotecas</translation>
+        <translation>Erro ao criar o componente de bibliotecas</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Tipo de carregador desconhecido: </translation>
+        <translation>Tipo de carregador desconhecido: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Erro ao criar o componente do pacote</translation>
+        <translation>Erro ao criar o componente do pacote</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13122,7 +13122,7 @@ Quer remover esses dados como parte da atualização?</translation>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation>Um programa de Lote MKLINK para o Windows a ser usado com o komorebi</translation>
+        <translation type="vanished">Um programa de Lote MKLINK para o Windows a ser usado com o komorebi</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -13494,6 +13494,10 @@ Mensagem de erro: %3</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -15689,7 +15693,7 @@ Tens a certeza?</translation>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation>%1:
+        <translation type="vanished">%1:
 %2 traduzidos
 %3 imprecisos
 %4 total</translation>

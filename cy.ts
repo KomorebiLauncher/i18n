@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Methu deall maniffesto&apos;r pecyn:
+        <translation type="vanished">Methu deall maniffesto&apos;r pecyn:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Wedi methu cael mynegai metadata lleol ar gyfer %1</translation>
+        <translation type="vanished">Wedi methu cael mynegai metadata lleol ar gyfer %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Wedi methu cael mynegai metadata lleol ar gyfer &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Wedi methu cael mynegai metadata lleol ar gyfer &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Mod gosod heb ei gefnogi</translation>
+        <translation type="vanished">Mod gosod heb ei gefnogi</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Dileu ffeiliau presennol...</translation>
+        <translation type="vanished">Dileu ffeiliau presennol...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Math mod anhysbys: %1</translation>
+        <translation type="vanished">Math mod anhysbys: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd</translation>
+        <translation type="vanished">Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Dim fersiwn llwyth wedi&apos;i osod ar gyfer modpack!</translation>
+        <translation type="vanished">Dim fersiwn llwyth wedi&apos;i osod ar gyfer modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Math lawrlwytho anhysbys neu heb gymorth: %1</translation>
+        <translation type="vanished">Math lawrlwytho anhysbys neu heb gymorth: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Lawrlwytho ffurfweddiad...</translation>
+        <translation type="vanished">Lawrlwytho ffurfweddiad...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Llwytho i lawr cyfluniad</translation>
+        <translation type="vanished">Llwytho i lawr cyfluniad</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Wrthi&apos;n echdynnu configs...</translation>
+        <translation type="vanished">Wrthi&apos;n echdynnu configs...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Dewis modau dewisol...</translation>
+        <translation type="vanished">Dewis modau dewisol...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Wrthi&apos;n lawrlwytho mods...</translation>
+        <translation type="vanished">Wrthi&apos;n lawrlwytho mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod i lawr</translation>
+        <translation type="vanished">Mod i lawr</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,35 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Math llwytho i lawr heb gymorth: %1</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blocked mods found</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Math llwytho i lawr heb gymorth: %1</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 allan o %2 gorffenedig</translation>
+        <translation type="vanished">%1 allan o %2 gorffenedig</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Wedi methu echdynnu mods...</translation>
+        <translation type="vanished">Wedi methu echdynnu mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Wrthi&apos;n echdynnu mods...</translation>
+        <translation type="vanished">Wrthi&apos;n echdynnu mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Gosod modpack</translation>
+        <translation type="vanished">Gosod modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Wedi methu creu cydran llyfrgelloedd</translation>
+        <translation type="vanished">Wedi methu creu cydran llyfrgelloedd</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Math o lwyth anhysbys: </translation>
+        <translation type="vanished">Math o lwyth anhysbys: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Wedi methu creu cydran pecyn</translation>
+        <translation type="vanished">Wedi methu creu cydran pecyn</translation>
     </message>
 </context>
 <context>
@@ -1356,6 +1344,13 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     </message>
 </context>
 <context>
+    <name>BaseEntityLoadTask</name>
+    <message>
+        <source>Loading local file</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>BaseProfiler</name>
     <message>
         <source>Profiler aborted</source>
@@ -1721,6 +1716,10 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     <name>CopyWorldTask</name>
     <message>
         <source>Copying world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to copy world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2231,6 +2230,10 @@ Are you sure?</source>
     <name>DeleteWorldTask</name>
     <message>
         <source>Deleting world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to delete world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -2972,13 +2975,6 @@ Are you sure you want to do this?</source>
     </message>
 </context>
 <context>
-    <name>FTBImportAPP::ListModel</name>
-    <message>
-        <source>Minecraft %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
     <name>FTBImportAPP::PackInstallTask</name>
     <message>
         <source>Copying files...</source>
@@ -3668,6 +3664,10 @@ What would you like to do with %2?</source>
     <name>InstallWorldTask</name>
     <message>
         <source>Importing world...</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Failed to import world.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -5171,6 +5171,13 @@ Reason:
     </message>
 </context>
 <context>
+    <name>ListModel</name>
+    <message>
+        <source>Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LocalResourceUpdateTask</name>
     <message>
         <source>Updating index for resource:
@@ -6198,13 +6205,6 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
-    </message>
-</context>
-<context>
-    <name>Meta::BaseEntityLoadTask</name>
-    <message>
-        <source>Loading local file</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -8088,96 +8088,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="obsolete">Methu deall maniffesto&apos;r pecyn:
+        <translation type="unfinished">Methu deall maniffesto&apos;r pecyn:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="obsolete">Mod gosod heb ei gefnogi</translation>
+        <translation type="unfinished">Mod gosod heb ei gefnogi</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="obsolete">Wedi methu cael mynegai metadata lleol ar gyfer &apos;%1&apos; v%2</translation>
+        <translation type="unfinished">Wedi methu cael mynegai metadata lleol ar gyfer &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="obsolete">Dileu ffeiliau presennol...</translation>
+        <translation type="unfinished">Dileu ffeiliau presennol...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="obsolete">Math mod anhysbys: %1</translation>
+        <translation type="unfinished">Math mod anhysbys: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="obsolete">Wedi methu cael mynegai metadata lleol ar gyfer %1</translation>
+        <translation type="unfinished">Wedi methu cael mynegai metadata lleol ar gyfer %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="obsolete">Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd</translation>
+        <translation type="unfinished">Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="obsolete">Dim fersiwn llwyth wedi&apos;i osod ar gyfer modpack!</translation>
+        <translation type="unfinished">Dim fersiwn llwyth wedi&apos;i osod ar gyfer modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="obsolete">Math lawrlwytho anhysbys neu heb gymorth: %1</translation>
+        <translation type="unfinished">Math lawrlwytho anhysbys neu heb gymorth: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="obsolete">Lawrlwytho ffurfweddiad...</translation>
+        <translation type="unfinished">Lawrlwytho ffurfweddiad...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="obsolete">Llwytho i lawr cyfluniad</translation>
+        <translation type="unfinished">Llwytho i lawr cyfluniad</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="obsolete">Wrthi&apos;n echdynnu configs...</translation>
+        <translation type="unfinished">Wrthi&apos;n echdynnu configs...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="obsolete">Dewis modau dewisol...</translation>
+        <translation type="unfinished">Dewis modau dewisol...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="obsolete">Wrthi&apos;n lawrlwytho mods...</translation>
+        <translation type="unfinished">Wrthi&apos;n lawrlwytho mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="obsolete">Mod i lawr</translation>
+        <translation type="unfinished">Mod i lawr</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="obsolete">Math llwytho i lawr heb gymorth: %1</translation>
+        <translation type="unfinished">Math llwytho i lawr heb gymorth: %1</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="obsolete">%1 allan o %2 gorffenedig</translation>
+        <translation type="unfinished">%1 allan o %2 gorffenedig</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="obsolete">Wedi methu echdynnu mods...</translation>
+        <translation type="unfinished">Wedi methu echdynnu mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="obsolete">Wrthi&apos;n echdynnu mods...</translation>
+        <translation type="unfinished">Wrthi&apos;n echdynnu mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="obsolete">Gosod modpack</translation>
+        <translation type="unfinished">Gosod modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="obsolete">Wedi methu creu cydran llyfrgelloedd</translation>
+        <translation type="unfinished">Wedi methu creu cydran llyfrgelloedd</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="obsolete">Math o lwyth anhysbys: </translation>
+        <translation type="unfinished">Math o lwyth anhysbys: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="obsolete">Wedi methu creu cydran pecyn</translation>
+        <translation type="unfinished">Wedi methu creu cydran pecyn</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Blocked mods found</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -9150,10 +9162,6 @@ Would you like to remove those existing saves as part of this update?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>a batch MKLINK program for windows to be used with komorebi</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Ungrouped</source>
         <translation type="unfinished"></translation>
     </message>
@@ -9496,6 +9504,10 @@ Error message: %3</source>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -11056,13 +11068,6 @@ Are you sure?</source>
 </context>
 <context>
     <name>TranslationsModel</name>
-    <message>
-        <source>%1:
-%2 translated
-%3 fuzzy
-%4 total</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>Language</source>
         <translation type="unfinished">Iaith</translation>
