@@ -1329,7 +1329,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installér</translation>
+        <translation>Installér</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1427,7 +1427,7 @@ Nogle versioner af Minecraft starter muligvis ikke.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Indlæser lokal fil</translation>
+        <translation>Indlæser lokal fil</translation>
     </message>
 </context>
 <context>
@@ -2292,11 +2292,11 @@ Nogle versioner af Minecraft starter muligvis ikke.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Opdatér</translation>
+        <translation>Opdatér</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -3163,15 +3163,15 @@ Er du sikker på at du fortsætte?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Tilføj</translation>
+        <translation>&amp;Tilføj</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Fjern</translation>
+        <translation>&amp;Fjern</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Navn</translation>
+        <translation>Navn</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3394,7 +3394,7 @@ Prøv venligst igen.</translation>
     </message>
     <message>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished">Ugyldigt manifest: Der er ingen oplysninger til rådighed for at hente filen &apos;%1&apos;!</translation>
+        <translation>Ugyldigt manifest: Der er ingen oplysninger til rådighed for at hente filen &apos;%1&apos;!</translation>
     </message>
     <message>
         <source>Blocked files found</source>
@@ -3414,7 +3414,7 @@ Prøv venligst igen.</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod-download</translation>
+        <translation>Mod-download</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -3422,11 +3422,11 @@ Prøv venligst igen.</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Kopierer blokerede mods...</translation>
+        <translation>Kopierer blokerede mods...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Kopierer blokkerede mods (%1 af %2 er færdig(e))</translation>
+        <translation>Kopierer blokkerede mods (%1 af %2 er færdig(e))</translation>
     </message>
 </context>
 <context>
@@ -3662,11 +3662,11 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Fjerner gamle modstridende filer...</translation>
+        <translation>Fjerner gamle modstridende filer...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Kunne ikke fjerne gamle modstridende filer.</translation>
+        <translation>Kunne ikke fjerne gamle modstridende filer.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4102,7 +4102,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished">Legacy</translation>
+        <translation>Legacy</translation>
     </message>
     <message>
         <source>Modpacks</source>
@@ -4288,7 +4288,7 @@ Obs: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4845,11 +4845,11 @@ Sørg for at den maksimale hukommelsesværdi er lavere.</translation>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Spring Over</translation>
+        <translation>Spring Over</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -6486,7 +6486,7 @@ Du skal muligvis rette dine mods fordi spillet stadig logger til filer og sandsy
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -6732,11 +6732,11 @@ Det anbefales at give %1 adgang til det via Flatseal.</translation>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Kontrollerer FML-biblioteker...</translation>
+        <translation>Kontrollerer FML-biblioteker...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Henter FML-biblioteker...</translation>
+        <translation>Henter FML-biblioteker...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6744,15 +6744,15 @@ Det anbefales at give %1 adgang til det via Flatseal.</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopierer FML-biblioteker ind i instansen...</translation>
+        <translation>Kopierer FML-biblioteker ind i instansen...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Det lykkedes ikke at oprette en mappe til FML-biblioteker i instansen.</translation>
+        <translation>Det lykkedes ikke at oprette en mappe til FML-biblioteker i instansen.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Kopiering af Forge/FML-bibliotek mislykkedes: %1.</translation>
+        <translation>Kopiering af Forge/FML-bibliotek mislykkedes: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6760,11 +6760,7 @@ Det anbefales at give %1 adgang til det via Flatseal.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Det lykkedes ikke at hente følgende filer:
-%1
-
-Årsag:%2
-Prøv venligst igen.</translation>
+        <translation>Det lykkedes ikke at hente følgende filer:</translation>
     </message>
 </context>
 <context>
@@ -7016,7 +7012,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8309,7 +8305,7 @@ For at rydde metadatacachen manuelt, skal du trykke på Mapper -&gt; Vis Launche
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> og dens registrerede genvej %n</numerusform>
+            <numerusform>og dens registrerede genvej %n</numerusform>
             <numerusform> og dens %n registrerede genveje</numerusform>
         </translation>
     </message>
@@ -8534,7 +8530,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Bekræft Opdatering</translation>
+        <translation>Bekræft Opdatering</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -9139,23 +9135,23 @@ Du skal sandsynligvis ændre stien - se mod’ets hjemmeside for vejledning.</tr
     </message>
     <message>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Legacy Fabric</translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <source>Rift</source>
-        <translation type="unfinished">Rift</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <source>Always use the latest minecraft version</source>
@@ -9163,7 +9159,7 @@ Du skal sandsynligvis ændre stien - se mod’ets hjemmeside for vejledning.</tr
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Udgivelse</translation>
+        <translation>Udgivelse</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9301,7 +9297,7 @@ Du skal sandsynligvis ændre stien - se mod’ets hjemmeside for vejledning.</tr
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9622,7 +9618,7 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Opdatér</translation>
+        <translation>Opdatér</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -9682,7 +9678,7 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     </message>
     <message>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Bekræft skift</translation>
+        <translation>Bekræft skift</translation>
     </message>
     <message>
         <source>Toggling these mod(s) will cause changes to other mods.
@@ -10395,11 +10391,11 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Fjerner gamle modstridende filer...</translation>
+        <translation>Fjerner gamle modstridende filer...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Kunne ikke fjerne gamle modstridende filer.</translation>
+        <translation>Kunne ikke fjerne gamle modstridende filer.</translation>
     </message>
     <message>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
@@ -10608,26 +10604,26 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">Anmoder %1</translation>
+        <translation>Anmoder %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">Ukendt</translation>
+        <translation>Ukendt</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -10677,11 +10673,11 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fejl</translation>
+        <translation>Fejl</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -11038,7 +11034,7 @@ OBS: Sørg for at du har lavet en sikkerhedskopi af din vigtige instansdata inde
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installér</translation>
+        <translation>Installér</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11247,7 +11243,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Ryd</translation>
+        <translation>Ryd</translation>
     </message>
     <message>
         <source>Other logs</source>
@@ -11258,83 +11254,83 @@ Er du sikker?</translation>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Ikke-understøttet installationstilstand</translation>
+        <translation>Ikke-understøttet installationstilstand</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Kunne ikke hente det lokale metadataindeks for &apos;%1&apos; v%2</translation>
+        <translation>Kunne ikke hente det lokale metadataindeks for &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Sletter eksisterende filer...</translation>
+        <translation>Sletter eksisterende filer...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Ukendt mod-type: %1</translation>
+        <translation>Ukendt mod-type: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Kunne ikke hente det lokale metadataindeks for %1</translation>
+        <translation>Kunne ikke hente det lokale metadataindeks for %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Kunne ikke finde version for %1 loader</translation>
+        <translation>Kunne ikke finde version for %1 loader</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Ukendt eller ikke-understøttet downloadtype: %1</translation>
+        <translation>Ukendt eller ikke-understøttet downloadtype: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Henter konfigurationer...</translation>
+        <translation>Henter konfigurationer...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Konfigurationsdownload</translation>
+        <translation>Konfigurationsdownload</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Udpakker konfigurationer...</translation>
+        <translation>Udpakker konfigurationer...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Vælger valgfrie mods...</translation>
+        <translation>Vælger valgfrie mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod-download</translation>
+        <translation>Mod-download</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Ukendt downloadtype: %1</translation>
+        <translation>Ukendt downloadtype: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blokerede mods fundet</translation>
+        <translation>Blokerede mods fundet</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Kunne ikke udpakke mods...</translation>
+        <translation>Kunne ikke udpakke mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Udpakker mods...</translation>
+        <translation>Udpakker mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installerer modpack</translation>
+        <translation>Installerer modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Kunne ikke oprette bibliotekskomponent</translation>
+        <translation>Kunne ikke oprette bibliotekskomponent</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Ukendt loader type: </translation>
+        <translation>Ukendt loader type:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Kunne ikke oprette pakkekomponent</translation>
+        <translation>Kunne ikke oprette pakkekomponent</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -12005,7 +12001,7 @@ HTTP Status: %2</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Afbryd</translation>
+        <translation>Afbryd</translation>
     </message>
 </context>
 <context>
@@ -12658,7 +12654,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ukendt</translation>
+        <translation>Ukendt</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -12790,20 +12786,14 @@ Nyt navn: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Følgende instans kan referere til filer i denne instans:&apos;
-
-%1
-
-%2 det kan ødelægge de andre instanser, 
-
-Ønsker du at fortsætte?</numerusform>
-            <numerusform>Følgende instanser kan referere til filer i denne instans:&apos;
-
-%1
-
-%2 det kan ødelægge de andre instanser, 
-
-Ønsker du at fortsætte?</numerusform>
+            <numerusform>Følgende instans kan referere til filer i denne instans:&apos;</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 det kan ødelægge de andre instanser, </numerusform>
+            <numerusform>Ønsker du at fortsætte?</numerusform>
+            <numerusform>Følgende instanser kan referere til filer i denne instans:&apos;</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 det kan ødelægge de andre instanser, </numerusform>
+            <numerusform>Ønsker du at fortsætte?</numerusform>
         </translation>
     </message>
     <message>
@@ -12959,40 +12949,40 @@ Fejlmeddelelse: %3</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Ikke genkendt</translation>
+        <translation>Ikke genkendt</translation>
     </message>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">datapakker</translation>
+        <translation>datapakker</translation>
     </message>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">mods</translation>
+        <translation>mods</translation>
     </message>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">ressource pakker</translation>
+        <translation>ressource pakker</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">ressource</translation>
+        <translation>ressource</translation>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">ressourcer</translation>
+        <translation>ressourcer</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">shader packs</translation>
+        <translation>shader packs</translation>
     </message>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">texture packs</translation>
+        <translation>texture packs</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
@@ -13118,23 +13108,23 @@ Er du sikker på at du vil lukke denne dialog?</translation>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">mods</translation>
+        <translation>mods</translation>
     </message>
     <message>
         <source>resource packs</source>
-        <translation type="unfinished">ressource pakker</translation>
+        <translation>ressource pakker</translation>
     </message>
     <message>
         <source>texture packs</source>
-        <translation type="unfinished">texture packs</translation>
+        <translation>texture packs</translation>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">shader packs</translation>
+        <translation>shader packs</translation>
     </message>
     <message>
         <source>data packs</source>
-        <translation type="unfinished">datapakker</translation>
+        <translation>datapakker</translation>
     </message>
     <message>
         <source>resources</source>
@@ -13395,7 +13385,7 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13411,7 +13401,7 @@ Advarsel: Denne resource er hårdt forbundet andre steder. Redigering vil også 
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Opdatér</translation>
+        <translation>Opdatér</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -13466,7 +13456,7 @@ Er du sikker på at du vil gøre dette?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Billede</translation>
+        <translation>Billede</translation>
     </message>
 </context>
 <context>
@@ -13485,7 +13475,7 @@ Er du sikker på at du vil gøre dette?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13501,7 +13491,7 @@ Er du sikker på at du vil gøre dette?</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Opdatér</translation>
+        <translation>Opdatér</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -14106,7 +14096,7 @@ Aktuelt installeret version: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14114,7 +14104,7 @@ Aktuelt installeret version: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -14614,7 +14604,7 @@ Er du sikker?</translation>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Afbrudt</translation>
+        <translation>Afbrudt</translation>
     </message>
 </context>
 <context>
@@ -14818,7 +14808,7 @@ inheritsFrom mangler</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Opdatér</translation>
+        <translation>Opdatér</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -15538,7 +15528,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installér</translation>
+        <translation>Installér</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -15684,7 +15674,7 @@ Er du sikker?</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -15859,7 +15849,7 @@ Canonical Sti: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Værktøjer</translation>
+        <translation>Værktøjer</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -16184,11 +16174,11 @@ Indstil din konto i henhold til %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Brugernavn</translation>
+        <translation>Brugernavn</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Adgangskode</translation>
+        <translation>Adgangskode</translation>
     </message>
     <message>
         <source>Sign in</source>

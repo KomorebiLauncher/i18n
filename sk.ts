@@ -1343,11 +1343,11 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Inštalovať</translation>
+        <translation>Inštalovať</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
 </context>
 <context>
@@ -1441,7 +1441,7 @@ Niektoré verzie Minecraftu sa nemusia spustiť.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Načítava sa miestny súbor</translation>
+        <translation>Načítava sa miestny súbor</translation>
     </message>
 </context>
 <context>
@@ -3076,7 +3076,7 @@ Túto inštanciu nie je možné spustiť, pretože niektoré knižnice chýbajú
     </message>
     <message>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation type="unfinished">Odomknite zdroj, aby bolo možné ho aktualizovať</translation>
+        <translation>Odomknite zdroj, aby bolo možné ho aktualizovať</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3685,11 +3685,11 @@ Prosím skúste to znova.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Odstraňovanie konfliktných starých súborov...</translation>
+        <translation>Odstraňovanie konfliktných starých súborov...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Nepodarilo sa odstrániť konfliktné staré súbory.</translation>
+        <translation>Nepodarilo sa odstrániť konfliktné staré súbory.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4870,15 +4870,15 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Nepodarilo sa stiahnuť súbory hry: %1</translation>
+        <translation>Nepodarilo sa stiahnuť súbory hry: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">Sťahujú sa súbory hry</translation>
+        <translation>Sťahujú sa súbory hry</translation>
     </message>
 </context>
 <context>
@@ -7032,7 +7032,7 @@ Dôvod:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8329,7 +8329,7 @@ Naozaj chcete pokračovať?</numerusform>
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> a jej %n registrovanú skratku</numerusform>
+            <numerusform>a jej %n registrovanú skratku</numerusform>
             <numerusform> a jej %n registrované skratky</numerusform>
             <numerusform> a jej %n registrovaných skratiek</numerusform>
         </translation>
@@ -9156,7 +9156,7 @@ Je pravdepodobné, že budete musieť zmeniť jeho cestu - prosím obráťte sa 
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Vydanie</translation>
+        <translation>Vydanie</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9567,7 +9567,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Vylepšenie</translation>
+        <translation>Vylepšenie</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -9639,12 +9639,9 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mód bude povolený
-</numerusform>
-            <numerusform>%n módy budú povolené
-</numerusform>
-            <numerusform>%n módov bude povolených
-</numerusform>
+            <numerusform>%n mód bude povolený</numerusform>
+            <numerusform>%n módy budú povolené</numerusform>
+            <numerusform>%n módov bude povolených</numerusform>
         </translation>
     </message>
     <message>
@@ -9655,12 +9652,9 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mód bude zakázaný
-</numerusform>
-            <numerusform>%n módy budú zakázané
-</numerusform>
-            <numerusform>%n módov bude zakázaných
-</numerusform>
+            <numerusform>%n mód bude zakázaný</numerusform>
+            <numerusform>%n módy budú zakázané</numerusform>
+            <numerusform>%n módov bude zakázaných</numerusform>
         </translation>
     </message>
     <message>
@@ -10184,11 +10178,11 @@ Prosím aktualizujte %1!</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Odstraňovanie konfliktných starých súborov...</translation>
+        <translation>Odstraňovanie konfliktných starých súborov...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Nepodarilo sa odstrániť konfliktné staré súbory.</translation>
+        <translation>Nepodarilo sa odstrániť konfliktné staré súbory.</translation>
     </message>
 </context>
 <context>
@@ -10389,26 +10383,26 @@ Prosím aktualizujte %1!</translation>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">Žiadanie o %1</translation>
+        <translation>Žiadanie o %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">neznáme</translation>
+        <translation>neznáme</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -10421,7 +10415,7 @@ Prosím aktualizujte %1!</translation>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Počet požiadaviek je obmedzený na %n sekundu: Opakovať po %1</numerusform>
             <numerusform>Počet požiadaviek je obmedzený na %n sekundy: Opakovať po %1</numerusform>
             <numerusform>Počet požiadaviek je obmedzený na %n sekúnd: Opakovať po %1</numerusform>
@@ -10430,7 +10424,7 @@ Prosím aktualizujte %1!</translation>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Obmedzenie rýchlosti: Čakanie %n sekundu</numerusform>
             <numerusform>Obmedzenie rýchlosti: Čakanie %n sekundy</numerusform>
             <numerusform>Obmedzenie rýchlosti: Čakanie %n sekúnd</numerusform>
@@ -10827,11 +10821,11 @@ Prosím aktualizujte %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Inštalovať</translation>
+        <translation>Inštalovať</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
 </context>
 <context>
@@ -11976,12 +11970,12 @@ Chcete pokračovať so skráteným logom?</translation>
     <message>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Špecifikovaná java binárka nenaštartovala správne.&lt;br /&gt;</translation>
+        <translation>Špecifikovaná java binárka nenaštartovala správne.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Špecifikovaná java binárka vrátila neočakávaný výsledok:&lt;br /&gt;</translation>
+        <translation>Špecifikovaná java binárka vrátila neočakávaný výsledok:&lt;br /&gt;</translation>
     </message>
     <message>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
@@ -12174,7 +12168,7 @@ Táto správa sa bude zobrazovať, kým to neodstránite z argumentov JVM.</tran
     <message>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Špecifikovaná java binárka nebude pracovať s argumentami, ktoré ste zadali:&lt;br /&gt;</translation>
+        <translation>Špecifikovaná java binárka nebude pracovať s argumentami, ktoré ste zadali:&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -12188,7 +12182,7 @@ Táto správa sa bude zobrazovať, kým to neodstránite z argumentov JVM.</tran
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Knižnica na kontrolu Java nebola nájdená. Skontrolujte prosím svoju inštaláciu.</translation>
+        <translation>Knižnica na kontrolu Java nebola nájdená. Skontrolujte prosím svoju inštaláciu.</translation>
     </message>
     <message>
         <source>Download of meta file %1</source>
@@ -12401,7 +12395,7 @@ Chcete tieto existujúce súbory odstrániť ako súčasť tejto aktualizácie?<
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Neznámy</translation>
+        <translation>Neznámy</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -12564,7 +12558,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">Launcher je v priečinku, z ktorého bol extrahovaný a preto nemôže vytvárať skratky.</translation>
+        <translation>Launcher je v priečinku, z ktorého bol extrahovaný a preto nemôže vytvárať skratky.</translation>
     </message>
     <message>
         <source>Failed to create icon for application: %1</source>
@@ -12576,7 +12570,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Launcher je spustený ako zle nakonfigurovaný AppImage? (Chýba premenná prostredia $APPIMAGE)</translation>
+        <translation>Launcher je spustený ako zle nakonfigurovaný AppImage? (Chýba premenná prostredia $APPIMAGE)</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut: %1</source>
@@ -12616,7 +12610,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Položky na ploche</translation>
+        <translation>Položky na ploche</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1!</source>
@@ -12682,7 +12676,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Nerozpoznané</translation>
+        <translation>Nerozpoznané</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -12692,7 +12686,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">módy</translation>
+        <translation>módy</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -12719,7 +12713,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Nebolo možné otvoriť súbor %1 na čítanie: %2</translation>
+        <translation>Nebolo možné otvoriť súbor %1 na čítanie: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -12828,7 +12822,7 @@ Naozaj chcete toto dialógové okno zavrieť?</translation>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">módy</translation>
+        <translation>módy</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -12910,7 +12904,7 @@ Prosím aktualizujte %1!</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;Tento projekt bol archivovaný. Nebude dostávať žiadne aktualizácie, pokiaľ sa autor nerozhodne archiváciu zrušiť.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;Tento projekt bol archivovaný. Nebude dostávať žiadne aktualizácie, pokiaľ sa autor nerozhodne archiváciu zrušiť.&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Donate information: </source>
@@ -12981,7 +12975,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13030,15 +13024,12 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Upozornenie: Tento prostriedok je symbolicky prevzatý z iného miesta. Jeho modifikovanie ovplyvní aj originál.
-Kanonická cesta: %1</translation>
+        <translation>Upozornenie: Tento prostriedok je symbolicky prevzatý z iného miesta. Jeho modifikovanie ovplyvní aj originál.</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovplyvnia originál.</translation>
+        <translation>Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovplyvnia originál.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -13054,15 +13045,15 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzia</translation>
+        <translation>Verzia</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Veľkosť</translation>
+        <translation>Veľkosť</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Poskytovateľ</translation>
+        <translation>Poskytovateľ</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -13070,11 +13061,11 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Vylepšenie</translation>
+        <translation>Vylepšenie</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Potvrdiť prepnutie</translation>
+        <translation>Potvrdiť prepnutie</translation>
     </message>
     <message>
         <source>If you enable/disable this resource while the game is running it may crash your game.
@@ -13139,19 +13130,19 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Posledne upravené</translation>
+        <translation>Posledne upravené</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzia</translation>
+        <translation>Verzia</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Veľkosť</translation>
+        <translation>Veľkosť</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Poskytovateľ</translation>
+        <translation>Poskytovateľ</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -13159,7 +13150,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Vylepšenie</translation>
+        <translation>Vylepšenie</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -13210,11 +13201,11 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Názov</translation>
+        <translation>Názov</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Formát balíka</translation>
+        <translation>Formát balíka</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -13237,7 +13228,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Stiahnuť balíky</translation>
+        <translation>Stiahnuť balíky</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -13249,11 +13240,11 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Zmeniť verziu módu.</translation>
+        <translation>Zmeniť verziu módu.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -13265,7 +13256,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Upozornenia</translation>
+        <translation>Upozornenia</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13277,7 +13268,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potvrdiť Aktualizáciu</translation>
+        <translation>Potvrdiť Aktualizáciu</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -13291,7 +13282,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">„%1“ je aktuálny! :)</translation>
+        <translation>„%1“ je aktuálny! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -13303,11 +13294,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Kontrola aktualizácií</translation>
+        <translation>Kontrola aktualizácií</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potvrdiť odstránenie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -13327,11 +13318,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Zvolená verzia:</translation>
+        <translation>Zvolená verzia:</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Možnosti filtra</translation>
+        <translation>Možnosti filtra</translation>
     </message>
 </context>
 <context>
@@ -13366,11 +13357,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Upozornenia</translation>
+        <translation>Upozornenia</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13378,7 +13369,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Vyhľadávajú sa aktualizácie...</translation>
+        <translation>Vyhľadávajú sa aktualizácie...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
@@ -13407,11 +13398,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Kontrolovanie závislostí...</translation>
+        <translation>Kontrolovanie závislostí...</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Nenainštalované</translation>
+        <translation>Nenainštalované</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -13629,7 +13620,7 @@ Naozaj ju chcete odstrániť?</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potvrdiť odstránenie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -13644,18 +13635,18 @@ Naozaj ju chcete odstrániť?</translation>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzia</translation>
+        <translation>Verzia</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -13678,7 +13669,7 @@ Naozaj ju chcete odstrániť?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzia</translation>
+        <translation>Verzia</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -13692,11 +13683,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -13729,7 +13720,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzia</translation>
+        <translation>Verzia</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -13737,7 +13728,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -13800,7 +13791,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Obnoviť</translation>
+        <translation>Obnoviť</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -13818,7 +13809,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potvrdiť odstránenie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -13869,7 +13860,7 @@ Naozaj to chcete urobiť?</translation>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Stiahnuť balíky</translation>
+        <translation>Stiahnuť balíky</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -13885,7 +13876,7 @@ Naozaj to chcete urobiť?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -13897,7 +13888,7 @@ Naozaj to chcete urobiť?</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Upozornenia</translation>
+        <translation>Upozornenia</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13909,7 +13900,7 @@ Naozaj to chcete urobiť?</translation>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potvrdiť Aktualizáciu</translation>
+        <translation>Potvrdiť Aktualizáciu</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -13923,7 +13914,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">„%1“ je aktuálny! :)</translation>
+        <translation>„%1“ je aktuálny! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -13935,11 +13926,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Kontrola aktualizácií</translation>
+        <translation>Kontrola aktualizácií</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potvrdiť odstránenie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -13989,7 +13980,7 @@ Are you sure?</source>
     <name>SkinManageDialog</name>
     <message>
         <source>Skin Upload</source>
-        <translation type="unfinished">Odoslať skin</translation>
+        <translation>Odoslať skin</translation>
     </message>
     <message>
         <source>Model</source>
@@ -14005,7 +13996,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cape</source>
-        <translation type="unfinished">Plášť</translation>
+        <translation>Plášť</translation>
     </message>
     <message>
         <source>Preview Elytra</source>
@@ -14013,7 +14004,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Otvoriť priečinok</translation>
+        <translation>Otvoriť priečinok</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -14033,7 +14024,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Odstrániť skin</translation>
+        <translation>&amp;Odstrániť skin</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -14057,15 +14048,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">Zvoľte textúru skinu</translation>
+        <translation>Zvoľte textúru skinu</translation>
     </message>
     <message>
         <source>Selected file is not a valid skin</source>
@@ -14073,7 +14064,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>No Cape</source>
-        <translation type="unfinished">Žiaden plášť</translation>
+        <translation>Žiaden plášť</translation>
     </message>
     <message>
         <source>Download capes</source>
@@ -14085,11 +14076,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">Súbor skinu neexistuje!</translation>
+        <translation>Súbor skinu neexistuje!</translation>
     </message>
     <message>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">Zlyhalo odoslanie skinu!</translation>
+        <translation>Zlyhalo odoslanie skinu!</translation>
     </message>
     <message>
         <source>Reset skin</source>
@@ -14097,15 +14088,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Odstránenie skinu</translation>
+        <translation>Odstránenie skinu</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Nepodarilo sa odstrániť aktuálny skin!</translation>
+        <translation>Nepodarilo sa odstrániť aktuálny skin!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontextové menu</translation>
+        <translation>Kontextové menu</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -14117,7 +14108,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potvrdiť odstránenie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -14249,7 +14240,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulár</translation>
+        <translation>Formulár</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -14264,7 +14255,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Prerušené</translation>
+        <translation>Prerušené</translation>
     </message>
 </context>
 <context>
@@ -14277,9 +14268,7 @@ Are you sure?</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Vylepšenie inštancie sa nepodarilo z dôvodu: %1
-
-</translation>
+        <translation>Vylepšenie inštancie sa nepodarilo z dôvodu: %1</translation>
     </message>
 </context>
 <context>
@@ -14400,7 +14389,7 @@ Are you sure?</source>
     <message>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">Nepodarilo sa nájsť &quot;version.json&quot; vnútri &quot;bin/modpack.jar&quot;, ale verzia Minecraftu je neznámá</translation>
+        <translation>Nepodarilo sa nájsť &quot;version.json&quot; vnútri &quot;bin/modpack.jar&quot;, ale verzia Minecraftu je neznámá</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
@@ -14439,12 +14428,12 @@ chýba inheritsFrom</translation>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Zvolená verzia:</translation>
+        <translation>Zvolená verzia:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Hľadať a filtrovať ...</translation>
+        <translation>Hľadať a filtrovať ...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -14452,7 +14441,7 @@ chýba inheritsFrom</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <source> by </source>
@@ -14475,19 +14464,19 @@ chýba inheritsFrom</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Názov</translation>
+        <translation>Názov</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Posledne upravené</translation>
+        <translation>Posledne upravené</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Veľkosť</translation>
+        <translation>Veľkosť</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Poskytovateľ</translation>
+        <translation>Poskytovateľ</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -14495,7 +14484,7 @@ chýba inheritsFrom</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Vylepšenie</translation>
+        <translation>Vylepšenie</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -14548,7 +14537,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Stiahnuť balíky</translation>
+        <translation>Stiahnuť balíky</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -14568,7 +14557,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Chyba</translation>
+        <translation>Chyba</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -14580,7 +14569,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Upozornenia</translation>
+        <translation>Upozornenia</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -14592,7 +14581,7 @@ Upozornenie: Tento prostriedok je trvalo priradený inde. Jeho modifikácie ovpl
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potvrdiť Aktualizáciu</translation>
+        <translation>Potvrdiť Aktualizáciu</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -14606,7 +14595,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">„%1“ je aktuálny! :)</translation>
+        <translation>„%1“ je aktuálny! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -14618,11 +14607,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Kontrola aktualizácií</translation>
+        <translation>Kontrola aktualizácií</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potvrdiť odstránenie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -14657,7 +14646,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Vzhľad</translation>
+        <translation>Vzhľad</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -15036,11 +15025,11 @@ Pre túto inštanciu prosím prejdite na jednu z nasledujúcich verzií Javy:</t
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Hľadať</translation>
+        <translation>Hľadať</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Zmeniť Verziu</translation>
+        <translation>Zmeniť Verziu</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -15048,7 +15037,7 @@ Pre túto inštanciu prosím prejdite na jednu z nasledujúcich verzií Javy:</t
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Presunúť nahor</translation>
+        <translation>Presunúť nahor</translation>
     </message>
     <message>
         <source>Make the selected component apply sooner.</source>
@@ -15056,7 +15045,7 @@ Pre túto inštanciu prosím prejdite na jednu z nasledujúcich verzií Javy:</t
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Presunúť nadol</translation>
+        <translation>Presunúť nadol</translation>
     </message>
     <message>
         <source>Make the selected component apply later.</source>
@@ -15080,7 +15069,7 @@ Pre túto inštanciu prosím prejdite na jednu z nasledujúcich verzií Javy:</t
     </message>
     <message>
         <source>Install Loader</source>
-        <translation type="unfinished">Nainštalovať Loader</translation>
+        <translation>Nainštalovať Loader</translation>
     </message>
     <message>
         <source>Install a mod loader.</source>
@@ -15172,7 +15161,7 @@ Pre túto inštanciu prosím prejdite na jednu z nasledujúcich verzií Javy:</t
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potvrdiť odstránenie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -15259,7 +15248,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Inštalovať</translation>
+        <translation>Inštalovať</translation>
     </message>
     <message>
         <source>Confirm Reversion</source>
@@ -15422,11 +15411,11 @@ Prosím pridajte Mojang alebo Minecraft účet.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -15445,7 +15434,7 @@ Prosím pridajte Mojang alebo Minecraft účet.</translation>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Hľadať</translation>
+        <translation>Hľadať</translation>
     </message>
     <message>
         <source>Error</source>
@@ -15504,12 +15493,12 @@ Canonical Path: %1</source>
     <message>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">Veľkosť</translation>
+        <translation>Veľkosť</translation>
     </message>
     <message>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished">Informácie</translation>
+        <translation>Informácie</translation>
     </message>
     <message>
         <source>The name of the world.</source>
@@ -15544,7 +15533,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Pripojiť</translation>
+        <translation>Pripojiť</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -15588,7 +15577,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Nástroje</translation>
+        <translation>Nástroje</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -15672,7 +15661,7 @@ Chcete pokračovať?</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potvrdiť odstránenie</translation>
+        <translation>Potvrdiť odstránenie</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -15717,7 +15706,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Invalid command</source>
-        <translation type="unfinished">Neplatný príkaz</translation>
+        <translation>Neplatný príkaz</translation>
     </message>
     <message>
         <source>The tool command is empty.</source>
@@ -15908,11 +15897,11 @@ Prosím nastavte si účet podľa %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Používateľské meno</translation>
+        <translation>Používateľské meno</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Heslo</translation>
+        <translation>Heslo</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -15920,7 +15909,7 @@ Prosím nastavte si účet podľa %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušiť</translation>
+        <translation>Zrušiť</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

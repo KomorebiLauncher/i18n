@@ -23,7 +23,7 @@
     </message>
     <message>
         <source>Note: you probably want to change or clear the Base URL after changing the paste service type.</source>
-        <translation type="unfinished">نوٹ: آپ کو یقیناً پیسٹ ٹائپ سروس کو تبدیل کرنے کے بعد بیس یو آر ایل کو تبدیل یا صاف کرنا ہوگا-</translation>
+        <translation>نوٹ: آپ کو یقیناً پیسٹ ٹائپ سروس کو تبدیل کرنے کے بعد بیس یو آر ایل کو تبدیل یا صاف کرنا ہوگا-</translation>
     </message>
     <message>
         <source>Refresh on launch</source>
@@ -35,7 +35,7 @@
     </message>
     <message>
         <source>You can set this to another server if you have problems with downloading assets.</source>
-        <translation type="unfinished">آپ اس کو دوسرے سرور پر لگا سکتے ہیں اگر آپ کو ڈاؤنلوڈانگ اسیٹس (assets) سے مسئلہ ہو-</translation>
+        <translation>آپ اس کو دوسرے سرور پر لگا سکتے ہیں اگر آپ کو ڈاؤنلوڈانگ اسیٹس (assets) سے مسئلہ ہو-</translation>
     </message>
     <message>
         <source>Download Mirrors</source>
@@ -100,7 +100,7 @@
     </message>
     <message>
         <source>Use None</source>
-        <translation type="unfinished">کوئی بھی استعمال نہ کریں</translation>
+        <translation>کوئی بھی استعمال نہ کریں</translation>
     </message>
     <message>
         <source>&amp;CurseForge</source>
@@ -112,7 +112,7 @@
     </message>
     <message>
         <source>Note: you probably don&apos;t need to set this if logging in via Microsoft Authentication already works.</source>
-        <translation type="unfinished">نوٹ: آپ کو یقینا اس کو لگانے کی ضرورت نہیں اگر مائکروسوفٹ کے ذریعے لاگ ان کام کر رہا ہے-</translation>
+        <translation>نوٹ: آپ کو یقینا اس کو لگانے کی ضرورت نہیں اگر مائکروسوفٹ کے ذریعے لاگ ان کام کر رہا ہے-</translation>
     </message>
     <message>
         <source>Look blocked mods up on Modrinth</source>

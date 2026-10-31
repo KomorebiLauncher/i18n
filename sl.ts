@@ -421,7 +421,7 @@
     <message>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">Brez povezave</translation>
+        <translation>Brez povezave</translation>
     </message>
     <message>
         <source>Third-party</source>
@@ -1009,7 +1009,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     <message>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Pridobivanje datotek sredstev iz %1...</translation>
+        <translation>Pridobivanje datotek sredstev iz %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1155,7 +1155,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Opravilo overjanja je bilo uspešno.</translation>
+        <translation>Opravilo overjanja je bilo uspešno.</translation>
     </message>
     <message>
         <source>Failed to contact the authentication server.</source>
@@ -1163,7 +1163,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Client ID se je spremenil. Potrebno je ustvariti novo sejo.</translation>
+        <translation>Client ID se je spremenil. Potrebno je ustvariti novo sejo.</translation>
     </message>
     <message>
         <source>Encountered an error during authentication.</source>
@@ -1183,7 +1183,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Neznano opravilo stanja računa: %1</translation>
+        <translation>Neznano opravilo stanja računa: %1</translation>
     </message>
 </context>
 <context>
@@ -1253,11 +1253,11 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Namesti</translation>
+        <translation>Namesti</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
@@ -1385,7 +1385,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -1462,7 +1462,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Uporabniško ime</translation>
+        <translation>Uporabniško ime</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1474,11 +1474,11 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
 </context>
 <context>
@@ -1746,7 +1746,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
 </context>
 <context>
@@ -1933,7 +1933,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -2103,7 +2103,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
     <message>
         <source>Mod Loader</source>
@@ -2147,7 +2147,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Trenutno ni na voljo nobene različice za Minecraft %1</translation>
+        <translation>Trenutno ni na voljo nobene različice za Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2192,7 +2192,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -2216,7 +2216,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2280,7 +2280,7 @@ Težavo lahko rešite tako, da ponovno vpnete /tmp z zastavico &apos;exec&apos; 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2501,19 +2501,19 @@ Te instance ni mogoče zagnati ker nekatere knjižnice manjkajo ali niso še bil
     <name>EnvironmentVariables</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Obrazec</translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Vrednost</translation>
+        <translation>Vrednost</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Dodaj</translation>
+        <translation>&amp;Dodaj</translation>
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
@@ -2521,7 +2521,7 @@ Te instance ni mogoče zagnati ker nekatere knjižnice manjkajo ali niso še bil
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Odstrani</translation>
+        <translation>&amp;Odstrani</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -2540,7 +2540,7 @@ Te instance ni mogoče zagnati ker nekatere knjižnice manjkajo ali niso še bil
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2548,7 +2548,7 @@ Te instance ni mogoče zagnati ker nekatere knjižnice manjkajo ali niso še bil
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Unable to export instance</source>
@@ -2651,11 +2651,11 @@ Te instance ni mogoče zagnati ker nekatere knjižnice manjkajo ali niso še bil
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2671,7 +2671,7 @@ Te instance ni mogoče zagnati ker nekatere knjižnice manjkajo ali niso še bil
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -2694,7 +2694,7 @@ Te instance ni mogoče zagnati ker nekatere knjižnice manjkajo ali niso še bil
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Nastavitve</translation>
+        <translation>Nastavitve</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -2776,7 +2776,7 @@ Te instance ni mogoče zagnati ker nekatere knjižnice manjkajo ali niso še bil
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2832,11 +2832,11 @@ Te instance ni mogoče zagnati ker nekatere knjižnice manjkajo ali niso še bil
     <message>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished">Onemogoči izbrani element</translation>
+        <translation>Onemogoči izbrani element</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Iskanje</translation>
+        <translation>Iskanje</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2940,7 +2940,7 @@ Te instance ni mogoče zagnati ker nekatere knjižnice manjkajo ali niso še bil
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Vsebinski meni</translation>
+        <translation>Vsebinski meni</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -2969,7 +2969,7 @@ Ali ste prepričani?</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potrdi odstranitev</translation>
+        <translation>Potrdi odstranitev</translation>
     </message>
     <message>
         <source>Confirm Delete</source>
@@ -3036,15 +3036,15 @@ Ali ste prepričani, da želite to storiti?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Dodaj</translation>
+        <translation>&amp;Dodaj</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Odstrani</translation>
+        <translation>&amp;Odstrani</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3060,11 +3060,11 @@ Ali ste prepričani, da želite to storiti?</translation>
     </message>
     <message>
         <source>&amp;Profilers</source>
-        <translation type="unfinished">&amp;Profilerji</translation>
+        <translation>&amp;Profilerji</translation>
     </message>
     <message>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished">Do profilerjev lahko dostopate iz spustnega menija &quot;Zagon&quot;.</translation>
+        <translation>Do profilerjev lahko dostopate iz spustnega menija &quot;Zagon&quot;.</translation>
     </message>
     <message>
         <source>J&amp;Profiler</source>
@@ -3334,7 +3334,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Select FTBApp instances directory</source>
-        <translation type="unfinished">Izberi direktorij namestitev FTBApp</translation>
+        <translation>Izberi direktorij namestitev FTBApp</translation>
     </message>
     <message>
         <source>Note: If your FTB instances are not in the default location, select it using the button next to search.</source>
@@ -3371,7 +3371,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Razčlenjevanje odziva API-ja CurseForge za &apos;%1&apos;...</translation>
+        <translation>Razčlenjevanje odziva API-ja CurseForge za &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Some mod ID resolving tasks failed.</source>
@@ -3392,7 +3392,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Razčlenjevanje odziva API-ja CurseForge za &apos;%1&apos;...</translation>
+        <translation>Razčlenjevanje odziva API-ja CurseForge za &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3404,7 +3404,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Razčlenjevanje odziva API-ja CurseForge za &apos;%1&apos;...</translation>
+        <translation>Razčlenjevanje odziva API-ja CurseForge za &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
@@ -3416,7 +3416,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Neznano</translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -3436,8 +3436,7 @@ Prosimo, poskusite znova.</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Manifesta paketa ni bilo možno razumeti:
-</translation>
+        <translation>Manifesta paketa ni bilo možno razumeti:</translation>
     </message>
     <message>
         <source> (version %1)</source>
@@ -3457,7 +3456,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>No index file.</source>
-        <translation type="unfinished">Ni indeksne datoteke.</translation>
+        <translation>Ni indeksne datoteke.</translation>
     </message>
     <message>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
@@ -3465,15 +3464,15 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Pridobitev lokalnega kazala metapodatkov za %1 ni bila uspešna</translation>
+        <translation>Pridobitev lokalnega kazala metapodatkov za %1 ni bila uspešna</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Iskanje različice za %1 nalagalnik ni bilo uspešno</translation>
+        <translation>Iskanje različice za %1 nalagalnik ni bilo uspešno</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Nobena različica nalagalnika ni nastavljena za paket modifikacij!</translation>
+        <translation>Nobena različica nalagalnika ni nastavljena za paket modifikacij!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3509,12 +3508,12 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blokirani modi zaznani</translation>
+        <translation>Blokirani modi zaznani</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Sledeče datoteke niso na voljo za prenos v tretjih zaganjalnikih. Potrebujete jih lastnoročno prenesiti jih dodati v ta</translation>
+        <translation>Sledeče datoteke niso na voljo za prenos v tretjih zaganjalnikih. Potrebujete jih lastnoročno prenesiti jih dodati v ta</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -3526,23 +3525,23 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 od %2 opravljen</translation>
+        <translation>%1 od %2 opravljen</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Kopiranje Blokiranjih Modifikacij...</translation>
+        <translation>Kopiranje Blokiranjih Modifikacij...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Kopiranje Blokiranjih Modifikacij... (trenutno na %1 od %2)</translation>
+        <translation>Kopiranje Blokiranjih Modifikacij... (trenutno na %1 od %2)</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Odstranitev starih neskladnih datotek...</translation>
+        <translation>Odstranitev starih neskladnih datotek...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Ni bilo mogoče odstraniti starih neskladnih datotek.</translation>
+        <translation>Ni bilo mogoče odstraniti starih neskladnih datotek.</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -3550,7 +3549,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Prenašanje modov...</translation>
+        <translation>Prenašanje modov...</translation>
     </message>
 </context>
 <context>
@@ -3569,7 +3568,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>CurseForge pack</source>
-        <translation type="unfinished">CurseForge Paket</translation>
+        <translation>CurseForge Paket</translation>
     </message>
 </context>
 <context>
@@ -3637,7 +3636,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Razčlenjevanje odziva API-ja CurseForge za &apos;%1&apos; ...</translation>
+        <translation>Razčlenjevanje odziva API-ja CurseForge za &apos;%1&apos; ...</translation>
     </message>
     <message>
         <source>Finding project info from CurseForge...</source>
@@ -3670,7 +3669,7 @@ Prosimo, poskusite znova.</translation>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Iskanje in filtriranje...</translation>
+        <translation>Iskanje in filtriranje...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3683,32 +3682,32 @@ Prosimo, poskusite znova.</translation>
     <message>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Razvrsti po izpostavljenim</translation>
+        <translation>Razvrsti po izpostavljenim</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Razvrsti po priljubljenosti</translation>
+        <translation>Razvrsti po priljubljenosti</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Razvrsti po nazadnje posodobljenem</translation>
+        <translation>Razvrsti po nazadnje posodobljenem</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Razvrsti po imenu</translation>
+        <translation>Razvrsti po imenu</translation>
     </message>
     <message>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">Razvrsti po avtorju</translation>
+        <translation>Razvrsti po avtorju</translation>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">Razvrsti po skupnem številu prenosov</translation>
+        <translation>Razvrsti po skupnem številu prenosov</translation>
     </message>
     <message>
         <source>No version is available!</source>
@@ -3716,7 +3715,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source> by </source>
@@ -3744,7 +3743,7 @@ Prosimo, poskusite znova.</translation>
     <message>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Izdelava mape za minecraft binarne datoteke je bila neuspešna.</translation>
+        <translation>Izdelava mape za minecraft binarne datoteke je bila neuspešna.</translation>
     </message>
 </context>
 <context>
@@ -3752,17 +3751,17 @@ Prosimo, poskusite znova.</translation>
     <message>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Razvrsti po številu igranj</translation>
+        <translation>Razvrsti po številu igranj</translation>
     </message>
     <message>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Razvrsti po številu namestitev</translation>
+        <translation>Razvrsti po številu namestitev</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Razvrsti po imenu</translation>
+        <translation>Razvrsti po imenu</translation>
     </message>
 </context>
 <context>
@@ -3774,7 +3773,7 @@ Prosimo, poskusite znova.</translation>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Iskanje in filtriranje...</translation>
+        <translation>Iskanje in filtriranje...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3896,7 +3895,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Po meri</translation>
+        <translation>Po meri</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3908,15 +3907,15 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Odpri mapo</translation>
+        <translation>Odpri mapo</translation>
     </message>
     <message>
         <source>Select Icons</source>
@@ -3939,7 +3938,7 @@ Prosimo, poskusite znova.</translation>
     <name>ImportPage</name>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Prebrskaj</translation>
+        <translation>Prebrskaj</translation>
     </message>
     <message>
         <source>The following file types are implemented (both for local files and URLs):</source>
@@ -3974,7 +3973,7 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -3995,7 +3994,7 @@ Prosimo, poskusite znova.</translation>
     <message>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">Modrinth Paket</translation>
+        <translation>Modrinth Paket</translation>
     </message>
     <message>
         <source>Choose modpack</source>
@@ -4022,11 +4021,11 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
 </context>
 <context>
@@ -4069,7 +4068,7 @@ Prosimo, poskusite znova.</translation>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -4077,31 +4076,31 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Kovati</translation>
+        <translation>Kovati</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Tkanina</translation>
+        <translation>Tkanina</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Odeja</translation>
+        <translation>Odeja</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Install Loader</source>
@@ -4134,7 +4133,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Trenutno ni na voljo nobene različice za Minecraft %1</translation>
+        <translation>Trenutno ni na voljo nobene različice za Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4379,7 +4378,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Nastavitve</translation>
+        <translation>Nastavitve</translation>
     </message>
 </context>
 <context>
@@ -4397,19 +4396,19 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Preskoči</translation>
+        <translation>Preskoči</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Ni bilo mogoče prenesti datotek igre: %1</translation>
+        <translation>Ni bilo mogoče prenesti datotek igre: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">Prenašanje datotek igre</translation>
+        <translation>Prenašanje datotek igre</translation>
     </message>
 </context>
 <context>
@@ -4431,7 +4430,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Pomoč</translation>
+        <translation>Pomoč</translation>
     </message>
     <message>
         <source>&amp;Launch</source>
@@ -4455,7 +4454,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zapri</translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Kill the running instance</source>
@@ -4474,7 +4473,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiler prekinjen</translation>
+        <translation>Profiler prekinjen</translation>
     </message>
 </context>
 <context>
@@ -4485,7 +4484,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiler prekinjen</translation>
+        <translation>Profiler prekinjen</translation>
     </message>
 </context>
 <context>
@@ -4515,7 +4514,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
     <message>
         <source>Download</source>
@@ -4523,11 +4522,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -4539,19 +4538,19 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>IBM Semeru Open</source>
-        <translation type="unfinished">IBM Semeru Open</translation>
+        <translation>IBM Semeru Open</translation>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Namesti Javo</translation>
+        <translation>Namesti Javo</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Tipa prenosa Jave ni bilo mogoče določiti!</translation>
+        <translation>Tipa prenosa Jave ni bilo mogoče določiti!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4643,15 +4642,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished">Prenos</translation>
+        <translation>Prenos</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Odstrani</translation>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
     <message>
         <source>&amp;Auto-detect...</source>
@@ -4700,7 +4699,7 @@ Ali ste prepričani?</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Največja količina spomina, ki ga lahko uporabi Minecraft.</translation>
+        <translation>Največja količina spomina, ki ga lahko uporabi Minecraft.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -4708,7 +4707,7 @@ Ali ste prepričani?</translation>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Obrazec</translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -4792,7 +4791,7 @@ Ali ste prepričani?</translation>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Spomin</translation>
+        <translation>Spomin</translation>
     </message>
     <message>
         <source>Memory suggestion</source>
@@ -4828,7 +4827,7 @@ Ali ste prepričani?</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Količina spomina s katerim je Minecraft zagnan.</translation>
+        <translation>Količina spomina s katerim je Minecraft zagnan.</translation>
     </message>
     <message>
         <source>&amp;PermGen Size:</source>
@@ -4856,7 +4855,7 @@ Ali ste prepričani?</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Količina spomina, na voljo za shranjevanje naloženih Java razredov.</translation>
+        <translation>Količina spomina, na voljo za shranjevanje naloženih Java razredov.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -4917,7 +4916,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaWizardPage</name>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Please select how much memory to allocate to instances and if Komorebi Launcher should manage Java automatically or manually.</source>
@@ -4959,7 +4958,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Poišči Java izvedljivo datoteko</translation>
+        <translation>Poišči Java izvedljivo datoteko</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -4967,27 +4966,27 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Največja količina spomina, ki ga lahko uporabi Minecraft.</translation>
+        <translation>Največja količina spomina, ki ga lahko uporabi Minecraft.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Najmanjša dodelitev spomina:</translation>
+        <translation>Najmanjša dodelitev spomina:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Največja dodelitev spomina:</translation>
+        <translation>Največja dodelitev spomina:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Količina spomina s katerim je Minecraft zagnan.</translation>
+        <translation>Količina spomina s katerim je Minecraft zagnan.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Količina spomina, na voljo za shranjevanje naloženih Java razredov.</translation>
+        <translation>Količina spomina, na voljo za shranjevanje naloženih Java razredov.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Prebrskaj</translation>
+        <translation>Prebrskaj</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -5106,7 +5105,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Auth servers offline</source>
@@ -5172,7 +5171,7 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Zaženi</translation>
+        <translation>&amp;Zaženi</translation>
     </message>
     <message>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
@@ -5190,7 +5189,7 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -5316,7 +5315,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Prebrskaj</translation>
+        <translation>Prebrskaj</translation>
     </message>
     <message>
         <source>Ask what to do</source>
@@ -5388,11 +5387,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Odstrani</translation>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -5694,11 +5693,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Preverjanje za FML knjižnice...</translation>
+        <translation>Preverjanje za FML knjižnice...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Prenašanje FML knjižnic...</translation>
+        <translation>Prenašanje FML knjižnic...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -5706,15 +5705,15 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopiranje FML knjižnic v instanco...</translation>
+        <translation>Kopiranje FML knjižnic v instanco...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Izdelava mape FML knjižnice v instanci je bila neuspešna.</translation>
+        <translation>Izdelava mape FML knjižnice v instanci je bila neuspešna.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Kopiranje Forge/FML knjižnice je bilo neuspešno: %1.</translation>
+        <translation>Kopiranje Forge/FML knjižnice je bilo neuspešno: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -5722,11 +5721,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Prenos naslednjih datotek je bil neuspešen:
-%1
-
-Razlog:%2
-Prosimo, poskusite znova.</translation>
+        <translation>Prenos naslednjih datotek je bil neuspešen:</translation>
     </message>
 </context>
 <context>
@@ -5734,12 +5729,12 @@ Prosimo, poskusite znova.</translation>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Razvrsti po imenu</translation>
+        <translation>Razvrsti po imenu</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Razvrsti po verziji igre</translation>
+        <translation>Razvrsti po verziji igre</translation>
     </message>
 </context>
 <context>
@@ -5780,11 +5775,11 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Izpisovanje modpacka</translation>
+        <translation>Izpisovanje modpacka</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Nameščanje paketa modov</translation>
+        <translation>Nameščanje paketa modov</translation>
     </message>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
@@ -5800,7 +5795,7 @@ Prosimo, poskusite znova.</translation>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Iskanje in filtriranje...</translation>
+        <translation>Iskanje in filtriranje...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -5828,11 +5823,11 @@ Prosimo, poskusite znova.</translation>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Izbrana verzija:</translation>
+        <translation>Izbrana verzija:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -5913,7 +5908,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -5969,7 +5964,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Iskanje</translation>
+        <translation>Iskanje</translation>
     </message>
     <message>
         <source>Find</source>
@@ -6029,7 +6024,7 @@ Reason:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Obrazec</translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6121,11 +6116,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Prosim počakajte...</translation>
+        <translation>Prosim počakajte...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Stanje</translation>
+        <translation>Stanje</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -6153,7 +6148,7 @@ Reason:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -6263,7 +6258,7 @@ Reason:
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Pomoč</translation>
+        <translation>Pomoč</translation>
     </message>
     <message>
         <source>Get help with %1 or Minecraft.</source>
@@ -6295,11 +6290,11 @@ Reason:
     </message>
     <message>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Ubij</translation>
+        <translation>&amp;Ubij</translation>
     </message>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Zaženi</translation>
+        <translation>&amp;Zaženi</translation>
     </message>
     <message>
         <source>Add Instanc&amp;e...</source>
@@ -6535,7 +6530,7 @@ Reason:
     </message>
     <message>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Ctrl+I</source>
@@ -6559,7 +6554,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Računi</translation>
+        <translation>Računi</translation>
     </message>
     <message>
         <source>&amp;Undo Last Instance Deletion</source>
@@ -6654,7 +6649,7 @@ Reason:
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Opozorila</translation>
+        <translation>Opozorila</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6700,7 +6695,7 @@ URL:
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Prenos modpacka</translation>
+        <translation>Prenos modpacka</translation>
     </message>
     <message>
         <source>No instance!</source>
@@ -6781,7 +6776,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potrdi Brisanje</translation>
+        <translation>Potrdi Brisanje</translation>
     </message>
     <message>
         <source>&amp;Rename group</source>
@@ -6844,7 +6839,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Open %1 Discord guild.</source>
@@ -6899,11 +6894,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Opozorila</translation>
+        <translation>Opozorila</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6955,7 +6950,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Posodobitev neuspešna</translation>
+        <translation>Posodobitev neuspešna</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -6971,7 +6966,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potrdi posodobitev</translation>
+        <translation>Potrdi posodobitev</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -6993,7 +6988,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -7013,14 +7008,14 @@ Are you sure?</source>
     <name>MinecraftAccount</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Prekinjeno</translation>
+        <translation>Prekinjeno</translation>
     </message>
 </context>
 <context>
     <name>MinecraftInstance</name>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Zaženi</translation>
+        <translation>&amp;Zaženi</translation>
     </message>
     <message>
         <source>Launch &amp;Offline</source>
@@ -7068,7 +7063,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <source>, last played on %1 for %2</source>
@@ -7149,7 +7144,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Te nastavitve so prepisi za globalne nastavitve.</translation>
+        <translation>Te nastavitve so prepisi za globalne nastavitve.</translation>
     </message>
     <message>
         <source>General</source>
@@ -7165,7 +7160,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Zaženi Minecraft maksimirano</translation>
+        <translation>Zaženi Minecraft maksimirano</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -7213,7 +7208,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -7298,7 +7293,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Prebrskaj</translation>
+        <translation>Prebrskaj</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -7322,23 +7317,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Kovati</translation>
+        <translation>Kovati</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Tkanina</translation>
+        <translation>Tkanina</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Odeja</translation>
+        <translation>Odeja</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -7434,7 +7429,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Poljubni ukazi</translation>
+        <translation>Poljubni ukazi</translation>
     </message>
     <message>
         <source>Environment Variables</source>
@@ -7481,7 +7476,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Odstrani</translation>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -7489,7 +7484,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -7507,7 +7502,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>ModFilterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Obrazec</translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -7519,19 +7514,19 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Kovati</translation>
+        <translation>Kovati</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Tkanina</translation>
+        <translation>Tkanina</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Odeja</translation>
+        <translation>Odeja</translation>
     </message>
     <message>
         <source>Show More</source>
@@ -7539,7 +7534,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -7607,7 +7602,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Neznano</translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -7675,14 +7670,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Vse verzije</translation>
+        <translation>Vse verzije</translation>
     </message>
 </context>
 <context>
     <name>ModFolderModel</name>
     <message>
         <source>File</source>
-        <translation type="unfinished">Datoteka</translation>
+        <translation>Datoteka</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -7691,11 +7686,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -7711,11 +7706,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Nazadnje urejeno</translation>
+        <translation>Nazadnje urejeno</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Side</source>
@@ -7743,7 +7738,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Ime Datoteke</translation>
+        <translation>Ime Datoteke</translation>
     </message>
     <message>
         <source>Update</source>
@@ -7898,7 +7893,7 @@ Ignoring them may break the game.</source>
     </message>
     <message>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Potrdi izbris</translation>
+        <translation>Potrdi izbris</translation>
     </message>
     <message>
         <source>If you remove mods while the game is running it may crash your game.
@@ -7920,7 +7915,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -7932,7 +7927,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Opozorila</translation>
+        <translation>Opozorila</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -7944,7 +7939,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potrdi posodobitev</translation>
+        <translation>Potrdi posodobitev</translation>
     </message>
     <message>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
@@ -7961,11 +7956,11 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Preverjevalnik posodobitev</translation>
+        <translation>Preverjevalnik posodobitev</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potrdi odstranitev</translation>
+        <translation>Potrdi odstranitev</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 mods.
@@ -7996,7 +7991,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; je posodobljen na najnovejšo različico! :3</translation>
+        <translation>&apos;%1&apos; je posodobljen na najnovejšo različico! :3</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -8117,7 +8112,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -8142,19 +8137,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Ni nameščeno</translation>
+        <translation>Ni nameščeno</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Neznano</translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Najdena ni bila nobena ustrezna različica tega vira. Za trenutno različico igre / nalagalnik modifikacij verjetno ne obstaja.</translation>
+        <translation>Najdena ni bila nobena ustrezna različica tega vira. Za trenutno različico igre / nalagalnik modifikacij verjetno ne obstaja.</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Najdena ni bila nobena ustrezna različica tega vira. Za trenutno različico igre verjetno ne obstaja.</translation>
+        <translation>Najdena ni bila nobena ustrezna različica tega vira. Za trenutno različico igre verjetno ne obstaja.</translation>
     </message>
     <message>
         <source>Waiting for the API response from Modrinth...</source>
@@ -8169,21 +8164,20 @@ Please update %1!</source>
     <name>ModrinthCreationTask</name>
     <message>
         <source> (version %1)</source>
-        <translation type="unfinished"> (različica %1)</translation>
+        <translation>(različica %1)</translation>
     </message>
     <message>
         <source>No index file.</source>
-        <translation type="unfinished">Ni indeksne datoteke.</translation>
+        <translation>Ni indeksne datoteke.</translation>
     </message>
     <message>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Nismo mogli najti primerne indeks datoteke za starejšo verzijo. Pri tem lahko pride do podvojitev nekaterih datotek. Ali hočete nadaljevati?</translation>
+        <translation>Nismo mogli najti primerne indeks datoteke za starejšo verzijo. Pri tem lahko pride do podvojitev nekaterih datotek. Ali hočete nadaljevati?</translation>
     </message>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Ni bilo mogoče preimenovati mape za prepise:
-</translation>
+        <translation>Ni bilo mogoče preimenovati mape za prepise:</translation>
     </message>
     <message>
         <source>Could not rename the client overrides folder:
@@ -8208,11 +8202,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 od %2 opravljen</translation>
+        <translation>%1 od %2 opravljen</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Prenašanje modov...</translation>
+        <translation>Prenašanje modov...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -8225,18 +8219,18 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Odstranitev starih neskladnih datotek...</translation>
+        <translation>Odstranitev starih neskladnih datotek...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Ni bilo mogoče odstraniti starih neskladnih datotek.</translation>
+        <translation>Ni bilo mogoče odstraniti starih neskladnih datotek.</translation>
     </message>
 </context>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Trenutno)</translation>
+        <translation>%1 (Trenutno)</translation>
     </message>
     <message>
         <source>Fetching changelogs...</source>
@@ -8244,11 +8238,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Choose update file</source>
-        <translation type="unfinished">Izberi posodobitveno datoteko</translation>
+        <translation>Izberi posodobitveno datoteko</translation>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth Paket</translation>
+        <translation>Modrinth Paket</translation>
     </message>
 </context>
 <context>
@@ -8262,19 +8256,19 @@ Please update %1!</source>
     <name>ModrinthPackExportTask</name>
     <message>
         <source>Searching for files...</source>
-        <translation type="unfinished">Iskanje datotek...</translation>
+        <translation>Iskanje datotek...</translation>
     </message>
     <message>
         <source>Could not search for files</source>
-        <translation type="unfinished">Ni bilo mogoče iskati datotek</translation>
+        <translation>Ni bilo mogoče iskati datotek</translation>
     </message>
     <message>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Iskanje hashov datotek...</translation>
+        <translation>Iskanje hashov datotek...</translation>
     </message>
     <message>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Iskanje verzij hashov...</translation>
+        <translation>Iskanje verzij hashov...</translation>
     </message>
     <message>
         <source>Failed to parse versions response: %1</source>
@@ -8282,7 +8276,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Adding files...</source>
-        <translation type="unfinished">Dodajanje datotek...</translation>
+        <translation>Dodajanje datotek...</translation>
     </message>
 </context>
 <context>
@@ -8293,12 +8287,12 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Možnosti filtra</translation>
+        <translation>Možnosti filtra</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Iskanje in filtriranje...</translation>
+        <translation>Iskanje in filtriranje...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -8306,7 +8300,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Izbrana verzija:</translation>
+        <translation>Izbrana verzija:</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -8320,11 +8314,11 @@ Please update %1!</source>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Razvrsti po nazadnje posodobljenem</translation>
+        <translation>Razvrsti po nazadnje posodobljenem</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -8336,19 +8330,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Zunanje povezave:</translation>
+        <translation>Zunanje povezave:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Težave: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Težave: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Izvorna koda: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Izvorna koda: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -8361,11 +8355,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Razvrsti po skupnem številu prenosov</translation>
+        <translation>Razvrsti po skupnem številu prenosov</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> od </translation>
+        <translation>od</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -8445,7 +8439,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Izvaja se %1 opravilo(-a) (%2 od %3 je opravljenih)</translation>
+        <translation>Izvaja se %1 opravilo(-a) (%2 od %3 je opravljenih)</translation>
     </message>
 </context>
 <context>
@@ -8460,11 +8454,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -8495,7 +8489,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>uid</source>
@@ -8503,11 +8497,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
 </context>
 <context>
@@ -8526,23 +8520,23 @@ Please update %1!</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Ime:</translation>
+        <translation>&amp;Ime:</translation>
     </message>
     <message>
         <source>No group</source>
-        <translation type="unfinished">Brez skupine</translation>
+        <translation>Brez skupine</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Pomoč</translation>
+        <translation>Pomoč</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -8573,7 +8567,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zapri</translation>
+        <translation>Zapri</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -8801,11 +8795,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Namesti</translation>
+        <translation>Namesti</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
 </context>
 <context>
@@ -8828,11 +8822,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
 </context>
 <context>
@@ -8903,11 +8897,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Iskanje</translation>
+        <translation>Iskanje</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Unable to open %1 for reading: %2</source>
@@ -8919,7 +8913,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potrdi Brisanje</translation>
+        <translation>Potrdi Brisanje</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -8955,7 +8949,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Ta dnevnik ne more biti prikazan, saj je dolžina dnevnika presegla &amp;1 vrstic.</translation>
+        <translation>Ta dnevnik ne more biti prikazan, saj je dolžina dnevnika presegla &amp;1 vrstic.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -8979,95 +8973,95 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Nepodprt način namestitve</translation>
+        <translation>Nepodprt način namestitve</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Pridobitev lokalnega kazala metapodatkov za &apos;%1&apos; v%2 ni bila uspešna</translation>
+        <translation>Pridobitev lokalnega kazala metapodatkov za &apos;%1&apos; v%2 ni bila uspešna</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Brisanje obstoječih datotek...</translation>
+        <translation>Brisanje obstoječih datotek...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Neznan tip modifikacije: %1</translation>
+        <translation>Neznan tip modifikacije: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Pridobitev lokalnega kazala metapodatkov za %1 ni bila uspešna</translation>
+        <translation>Pridobitev lokalnega kazala metapodatkov za %1 ni bila uspešna</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Iskanje različice za %1 nalagalnik ni bilo uspešno</translation>
+        <translation>Iskanje različice za %1 nalagalnik ni bilo uspešno</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Nobena različica nalagalnika ni nastavljena za paket modifikacij!</translation>
+        <translation>Nobena različica nalagalnika ni nastavljena za paket modifikacij!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Neznan ali nepodprt tip prenosa: %1</translation>
+        <translation>Neznan ali nepodprt tip prenosa: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Prenašanje konfiguracij...</translation>
+        <translation>Prenašanje konfiguracij...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Prenos konfiguracije</translation>
+        <translation>Prenos konfiguracije</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Pridobivanje konfiguracij...</translation>
+        <translation>Pridobivanje konfiguracij...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Izbiram neobvezne mode...</translation>
+        <translation>Izbiram neobvezne mode...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Prenašanje modov...</translation>
+        <translation>Prenašanje modov...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Prenos modov</translation>
+        <translation>Prenos modov</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Neznan tip prenosa: %1</translation>
+        <translation>Neznan tip prenosa: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blokirani modi zaznani</translation>
+        <translation>Blokirani modi zaznani</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Sledeče datoteke niso na voljo za prenos v tretjih zaganjalnikih. Potrebujete jih lastnoročno prenesiti jih dodati v ta</translation>
+        <translation>Sledeče datoteke niso na voljo za prenos v tretjih zaganjalnikih. Potrebujete jih lastnoročno prenesiti jih dodati v ta</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 od %2 opravljen</translation>
+        <translation>%1 od %2 opravljen</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Pridobivanje modifikacij ni bilo uspešno...</translation>
+        <translation>Pridobivanje modifikacij ni bilo uspešno...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Pridobivanje modifikacij...</translation>
+        <translation>Pridobivanje modifikacij...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Komponente knjižnic ni bilo mogoče ustvariti</translation>
+        <translation>Komponente knjižnic ni bilo mogoče ustvariti</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Neznana vrsta nalagalnika: </translation>
+        <translation>Neznana vrsta nalagalnika:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Izdelava komponente paketa ni bila uspešna</translation>
+        <translation>Izdelava komponente paketa ni bila uspešna</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -9087,15 +9081,15 @@ Are you sure?</source>
     <name>PackProfile</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Prekinjeno</translation>
+        <translation>Prekinjeno</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
 </context>
 <context>
@@ -9114,14 +9108,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Pomoč</translation>
+        <translation>Pomoč</translation>
     </message>
 </context>
 <context>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Obrazec</translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -9494,11 +9488,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
 </context>
 <context>
@@ -9515,11 +9509,11 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -9555,7 +9549,7 @@ HTTP Status: %2</source>
     <name>ProgressDialog</name>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Prosim počakajte...</translation>
+        <translation>Prosim počakajte...</translation>
     </message>
     <message>
         <source>Global Task Status...</source>
@@ -9567,11 +9561,11 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Preskoči</translation>
+        <translation>Preskoči</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Prekini</translation>
+        <translation>Prekini</translation>
     </message>
 </context>
 <context>
@@ -9589,7 +9583,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Vrsta</translation>
+        <translation>Vrsta</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -9690,7 +9684,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (v uporabi)</translation>
+        <translation>%1 (v uporabi)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -9911,7 +9905,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Knjižnice preverjanja Jave ni bilo mogoče najti. Prosimo preverite namestitev.</translation>
+        <translation>Knjižnice preverjanja Jave ni bilo mogoče najti. Prosimo preverite namestitev.</translation>
     </message>
     <message>
         <source>Download of meta file %1</source>
@@ -10022,7 +10016,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Razvrsti po izpostavljenim</translation>
+        <translation>Razvrsti po izpostavljenim</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
@@ -10030,15 +10024,15 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Razvrsti po nazadnje posodobljenem</translation>
+        <translation>Razvrsti po nazadnje posodobljenem</translation>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Razvrsti po imenu</translation>
+        <translation>Razvrsti po imenu</translation>
     </message>
     <message>
         <source>Sort by Author</source>
-        <translation type="unfinished">Razvrsti po avtorju</translation>
+        <translation>Razvrsti po avtorju</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -10050,7 +10044,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Razvrsti po verziji igre</translation>
+        <translation>Razvrsti po verziji igre</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -10082,7 +10076,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Neznano</translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -10115,47 +10109,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Nepreverjeno</translation>
+        <translation>Nepreverjeno</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Brez povezave</translation>
+        <translation>Brez povezave</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Pripravljen</translation>
+        <translation>Pripravljen</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Deluje</translation>
+        <translation>Deluje</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Potekel</translation>
+        <translation>Potekel</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Onemogočen</translation>
+        <translation>Onemogočen</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Odšel</translation>
+        <translation>Odšel</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Neznano</translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -10361,7 +10355,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Neznano</translation>
+        <translation>Neznano</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -10398,7 +10392,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Ni bilo mogoče odpreti datoteke %1 za branje: %2</translation>
+        <translation>Ni bilo mogoče odpreti datoteke %1 za branje: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -10453,11 +10447,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Opozorila</translation>
+        <translation>Opozorila</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10504,7 +10498,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -10542,7 +10536,7 @@ Please update %1!</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> od </translation>
+        <translation>od</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -10554,19 +10548,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Zunanje povezave:</translation>
+        <translation>Zunanje povezave:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Težave: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Težave: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Izvorna koda: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Izvorna koda: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -10621,7 +10615,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -10659,7 +10653,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -10667,15 +10661,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Nazadnje urejeno</translation>
+        <translation>Nazadnje urejeno</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -10683,7 +10677,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Ime Datoteke</translation>
+        <translation>Ime Datoteke</translation>
     </message>
     <message>
         <source>Update</source>
@@ -10741,7 +10735,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Slika</translation>
+        <translation>Slika</translation>
     </message>
 </context>
 <context>
@@ -10756,15 +10750,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Nazadnje urejeno</translation>
+        <translation>Nazadnje urejeno</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -10809,15 +10803,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Oblika Pakiranja</translation>
+        <translation>Oblika Pakiranja</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Ime Datoteke</translation>
+        <translation>Ime Datoteke</translation>
     </message>
     <message>
         <source>The name of the resource pack.</source>
@@ -10832,7 +10826,7 @@ Are you sure you want to do this?</source>
     <name>ResourcePackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Prenesi pakete</translation>
+        <translation>Prenesi pakete</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -10848,7 +10842,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -10860,7 +10854,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Opozorila</translation>
+        <translation>Opozorila</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10872,7 +10866,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potrdi posodobitev</translation>
+        <translation>Potrdi posodobitev</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -10882,7 +10876,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; je posodobljen na najnovejšo različico! :3</translation>
+        <translation>&apos;%1&apos; je posodobljen na najnovejšo različico! :3</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -10894,11 +10888,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Preverjevalnik posodobitev</translation>
+        <translation>Preverjevalnik posodobitev</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potrdi odstranitev</translation>
+        <translation>Potrdi odstranitev</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -10918,11 +10912,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Izbrana verzija:</translation>
+        <translation>Izbrana verzija:</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Možnosti filtra</translation>
+        <translation>Možnosti filtra</translation>
     </message>
 </context>
 <context>
@@ -10957,11 +10951,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Opozorila</translation>
+        <translation>Opozorila</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11002,7 +10996,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Ni nameščeno</translation>
+        <translation>Ni nameščeno</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -11062,11 +11056,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -11118,7 +11112,7 @@ Are you sure?</source>
     <name>ScreenshotsPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Dejanja</translation>
+        <translation>Dejanja</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -11150,7 +11144,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Vsebinski meni</translation>
+        <translation>Vsebinski meni</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to %2.
@@ -11210,25 +11204,25 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potrdi Brisanje</translation>
+        <translation>Potrdi Brisanje</translation>
     </message>
 </context>
 <context>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -11251,7 +11245,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -11265,11 +11259,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
 </context>
 <context>
@@ -11290,7 +11284,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Address</source>
@@ -11302,7 +11296,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -11310,14 +11304,14 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Brez povezave</translation>
+        <translation>Brez povezave</translation>
     </message>
 </context>
 <context>
     <name>ServersPage</name>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Address</source>
@@ -11341,15 +11335,15 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Dejanja</translation>
+        <translation>Dejanja</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Odstrani</translation>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -11365,7 +11359,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -11373,7 +11367,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Vsebinski meni</translation>
+        <translation>Vsebinski meni</translation>
     </message>
     <message>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
@@ -11383,7 +11377,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potrdi odstranitev</translation>
+        <translation>Potrdi odstranitev</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -11409,7 +11403,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -11431,7 +11425,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Prenesi pakete</translation>
+        <translation>Prenesi pakete</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -11447,7 +11441,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -11459,7 +11453,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Opozorila</translation>
+        <translation>Opozorila</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11471,7 +11465,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potrdi posodobitev</translation>
+        <translation>Potrdi posodobitev</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -11481,7 +11475,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; je posodobljen na najnovejšo različico! :3</translation>
+        <translation>&apos;%1&apos; je posodobljen na najnovejšo različico! :3</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -11493,11 +11487,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Preverjevalnik posodobitev</translation>
+        <translation>Preverjevalnik posodobitev</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potrdi odstranitev</translation>
+        <translation>Potrdi odstranitev</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -11564,7 +11558,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Odpri mapo</translation>
+        <translation>Odpri mapo</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -11584,7 +11578,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">O&amp;dstrani izgled</translation>
+        <translation>O&amp;dstrani izgled</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -11608,11 +11602,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -11648,15 +11642,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Odstrani videz</translation>
+        <translation>Odstrani videz</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Brisanje trenutnega videza ni bilo uspešno!</translation>
+        <translation>Brisanje trenutnega videza ni bilo uspešno!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Vsebinski meni</translation>
+        <translation>Vsebinski meni</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -11668,7 +11662,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potrdi Brisanje</translation>
+        <translation>Potrdi Brisanje</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -11734,7 +11728,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Obrazec</translation>
+        <translation>Obrazec</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -11749,7 +11743,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Prekinjeno</translation>
+        <translation>Prekinjeno</translation>
     </message>
 </context>
 <context>
@@ -11770,16 +11764,15 @@ Are you sure?</source>
     <message>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Prenašanje modpacka:
-%1</translation>
+        <translation>Prenašanje modpacka:</translation>
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Prenos modpacka</translation>
+        <translation>Prenos modpacka</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Izpisovanje modpacka</translation>
+        <translation>Izpisovanje modpacka</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -11787,7 +11780,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Ni bilo mogoče popraviti dovoljenja za %1</translation>
+        <translation>Ni bilo mogoče popraviti dovoljenja za %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -11807,12 +11800,11 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Manifesta paketa ni bilo možno razumeti:
-</translation>
+        <translation>Manifesta paketa ni bilo možno razumeti:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Izpisovanje modpacka</translation>
+        <translation>Izpisovanje modpacka</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -11820,7 +11812,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Ni bilo mogoče popraviti dovoljenja za %1</translation>
+        <translation>Ni bilo mogoče popraviti dovoljenja za %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -11869,12 +11861,12 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Izbrana verzija:</translation>
+        <translation>Izbrana verzija:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Iskanje in filtriranje...</translation>
+        <translation>Iskanje in filtriranje...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -11882,11 +11874,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> od </translation>
+        <translation>od</translation>
     </message>
 </context>
 <context>
@@ -11901,15 +11893,15 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Nazadnje urejeno</translation>
+        <translation>Nazadnje urejeno</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -11917,7 +11909,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Ime Datoteke</translation>
+        <translation>Ime Datoteke</translation>
     </message>
     <message>
         <source>Update</source>
@@ -11960,7 +11952,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Prenesi pakete</translation>
+        <translation>Prenesi pakete</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -11980,7 +11972,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -11992,7 +11984,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Opozorila</translation>
+        <translation>Opozorila</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12004,7 +11996,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Potrdi posodobitev</translation>
+        <translation>Potrdi posodobitev</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -12014,7 +12006,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; je posodobljen na najnovejšo različico! :3</translation>
+        <translation>&apos;%1&apos; je posodobljen na najnovejšo različico! :3</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -12026,11 +12018,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Preverjevalnik posodobitev</translation>
+        <translation>Preverjevalnik posodobitev</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potrdi odstranitev</translation>
+        <translation>Potrdi odstranitev</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -12053,7 +12045,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Izgled</translation>
+        <translation>Izgled</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -12200,11 +12192,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Dejanja</translation>
+        <translation>Dejanja</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Odstrani</translation>
+        <translation>Odstrani</translation>
     </message>
     <message>
         <source>Customize</source>
@@ -12248,11 +12240,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Spremeni različico</translation>
+        <translation>Spremeni različico</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Iskanje</translation>
+        <translation>Iskanje</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -12292,7 +12284,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Install Loader</source>
-        <translation type="unfinished">Namesti Loader</translation>
+        <translation>Namesti Loader</translation>
     </message>
     <message>
         <source>Install a mod loader.</source>
@@ -12356,7 +12348,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Vsebinski meni</translation>
+        <translation>Vsebinski meni</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -12376,11 +12368,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Potrdi odstranitev</translation>
+        <translation>Potrdi odstranitev</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -12456,7 +12448,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Namesti</translation>
+        <translation>Namesti</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -12475,14 +12467,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
 </context>
 <context>
     <name>VersionProxyModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>Minecraft</source>
@@ -12494,7 +12486,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Vrsta</translation>
+        <translation>Vrsta</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -12575,11 +12567,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">V redu</translation>
+        <translation>V redu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -12591,18 +12583,18 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
 </context>
 <context>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Iskanje</translation>
+        <translation>Iskanje</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Napaka</translation>
+        <translation>Napaka</translation>
     </message>
     <message>
         <source>List update failed:
@@ -12643,7 +12635,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ime</translation>
+        <translation>Ime</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -12656,7 +12648,7 @@ Canonical Path: %1</source>
     <message>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">Velikost</translation>
+        <translation>Velikost</translation>
     </message>
     <message>
         <source>Info</source>
@@ -12688,11 +12680,11 @@ Canonical Path: %1</source>
     <name>WorldListPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Dejanja</translation>
+        <translation>Dejanja</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Join</source>
@@ -12704,7 +12696,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Kopiraj</translation>
+        <translation>Kopiraj</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -12720,7 +12712,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Osveži</translation>
+        <translation>Osveži</translation>
     </message>
     <message>
         <source>View Folder</source>
@@ -12736,7 +12728,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Orodja</translation>
+        <translation>Orodja</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -12756,7 +12748,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Vsebinski meni</translation>
+        <translation>Vsebinski meni</translation>
     </message>
     <message>
         <source>Select a Minecraft world zip</source>
@@ -12777,7 +12769,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Potrdi Brisanje</translation>
+        <translation>Potrdi Brisanje</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -12962,11 +12954,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Uporabniško ime</translation>
+        <translation>Uporabniško ime</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Geslo</translation>
+        <translation>Geslo</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -12974,7 +12966,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Prekliči</translation>
+        <translation>Prekliči</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

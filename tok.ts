@@ -3314,7 +3314,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="60"/>
         <source>Keep updating</source>
-        <translation type="unfinished">o awen toki</translation>
+        <translation>o awen toki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="70"/>
@@ -3329,7 +3329,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="96"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished">&amp;o poki</translation>
+        <translation>&amp;o poki</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="103"/>
@@ -3339,7 +3339,7 @@ Reason:
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="106"/>
         <source>Upload</source>
-        <translation type="unfinished">&amp;o pana</translation>
+        <translation>&amp;o pana</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/LogPage.ui" line="113"/>
@@ -5276,7 +5276,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/NotesPage.h" line="58"/>
         <source>Notes</source>
-        <translation type="unfinished">lipu</translation>
+        <translation>lipu</translation>
     </message>
 </context>
 <context>
@@ -5338,7 +5338,7 @@ Please update %1!</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="70"/>
         <source>&amp;Copy</source>
-        <translation type="unfinished">o pana tawa poki ilo (&amp;C)</translation>
+        <translation>o pana tawa poki ilo (&amp;C)</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/OtherLogsPage.ui" line="77"/>
@@ -6303,7 +6303,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="81"/>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="84"/>
         <source>Copy Image</source>
-        <translation type="unfinished">o pana e sitelen tawa poki sitelen</translation>
+        <translation>o pana e sitelen tawa poki sitelen</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/ScreenshotsPage.ui" line="89"/>
@@ -6979,7 +6979,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="158"/>
         <source>Customize</source>
-        <translation type="unfinished">o ante</translation>
+        <translation>o ante</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/instance/VersionPage.ui" line="161"/>

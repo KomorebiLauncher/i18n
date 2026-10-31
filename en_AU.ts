@@ -1318,11 +1318,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Install</translation>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -1416,7 +1416,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Loading local file</translation>
+        <translation>Loading local file</translation>
     </message>
 </context>
 <context>
@@ -3704,7 +3704,7 @@ Please try again.</translation>
     </message>
     <message>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished">The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</translation>
+        <translation>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
@@ -5756,9 +5756,7 @@ You can change the Java version in the settings later.
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished">%1 command failed with code %2.
-
-</translation>
+        <translation>%1 command failed with code %2.</translation>
     </message>
     <message>
         <source>%1 command ran successfully.
@@ -6527,11 +6525,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -7024,7 +7022,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8301,7 +8299,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> and its %n registered shortcut</numerusform>
+            <numerusform>and its %n registered shortcut</numerusform>
             <numerusform> and its %n registered shortcuts</numerusform>
         </translation>
     </message>
@@ -8564,7 +8562,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirm Update</translation>
+        <translation>Confirm Update</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -9212,7 +9210,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Release</translation>
+        <translation>Release</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9350,7 +9348,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9358,7 +9356,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -9691,7 +9689,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -9743,10 +9741,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod will be enabled
-</numerusform>
-            <numerusform>%n mods will be enabled
-</numerusform>
+            <numerusform>%n mod will be enabled</numerusform>
+            <numerusform>%n mods will be enabled</numerusform>
         </translation>
     </message>
     <message>
@@ -9757,10 +9753,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod will be disabled
-</numerusform>
-            <numerusform>%n mods will be disabled
-</numerusform>
+            <numerusform>%n mod will be disabled</numerusform>
+            <numerusform>%n mods will be disabled</numerusform>
         </translation>
     </message>
     <message>
@@ -10470,11 +10464,11 @@ Please update %1!</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Removing old conflicting files...</translation>
+        <translation>Removing old conflicting files...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Failed to remove old conflicting files.</translation>
+        <translation>Failed to remove old conflicting files.</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -10781,26 +10775,26 @@ Please update %1!</translation>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">Requesting %1</translation>
+        <translation>Requesting %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">unknown</translation>
+        <translation>unknown</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -10813,7 +10807,7 @@ Please update %1!</translation>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Request Rate Limited for %n second: Retry After %1</numerusform>
             <numerusform>Request Rate Limited for %n seconds: Retry After %1</numerusform>
         </translation>
@@ -10821,7 +10815,7 @@ Please update %1!</translation>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Rate Limited: Waiting %n second</numerusform>
             <numerusform>Rate Limited: Waiting %n seconds</numerusform>
         </translation>
@@ -11222,11 +11216,11 @@ Please update %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Install</translation>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -11525,7 +11519,7 @@ Are you sure?</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished">Blocked path traversal in %1</translation>
+        <translation>Blocked path traversal in %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
@@ -12228,7 +12222,7 @@ HTTP Status: %2</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abort</translation>
+        <translation>Abort</translation>
     </message>
 </context>
 <context>
@@ -13084,20 +13078,14 @@ New name: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>The following instance might reference files in this instance:
-
-%1
-
-%2 it could break the other instance, 
-
-Do you wish to proceed?</numerusform>
-            <numerusform>The following instances might reference files in this instance:
-
-%1
-
-%2 it could break the other instances, 
-
-Do you wish to proceed?</numerusform>
+            <numerusform>The following instance might reference files in this instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 it could break the other instance, </numerusform>
+            <numerusform>Do you wish to proceed?</numerusform>
+            <numerusform>The following instances might reference files in this instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 it could break the other instances, </numerusform>
+            <numerusform>Do you wish to proceed?</numerusform>
         </translation>
     </message>
     <message>
@@ -13705,7 +13693,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13721,7 +13709,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -13780,7 +13768,7 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Image</translation>
+        <translation>Image</translation>
     </message>
 </context>
 <context>
@@ -13799,7 +13787,7 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13815,7 +13803,7 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -14452,7 +14440,7 @@ Currently installed version: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14460,7 +14448,7 @@ Currently installed version: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -15247,7 +15235,7 @@ inheritsFrom is missing</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -16063,7 +16051,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Install</translation>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -16838,11 +16826,11 @@ Please set up your account according to %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Username</translation>
+        <translation>Username</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Password</translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -16850,7 +16838,7 @@ Please set up your account according to %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

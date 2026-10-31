@@ -1338,11 +1338,11 @@ Algunhas versións de Minecraft pode que non se executen.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2297,11 +2297,11 @@ Algunhas versións de Minecraft pode que non se executen.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -3207,7 +3207,7 @@ Queres proseguir coa acción?</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3547,7 +3547,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Analizando a resposta da API de CurseForge para &apos;%1&apos;...</translation>
+        <translation>Analizando a resposta da API de CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3559,7 +3559,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Analizando resposta da API de CurseForge para &apos;%1&apos;...</translation>
+        <translation>Analizando resposta da API de CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
@@ -3583,7 +3583,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source> (version %1)</source>
-        <translation type="unfinished"> (versión %1)</translation>
+        <translation>(versión %1)</translation>
     </message>
     <message>
         <source>Failed to fetch the old files.</source>
@@ -3611,11 +3611,11 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Non se puido atopar ningunha versión para o iniciador %1</translation>
+        <translation>Non se puido atopar ningunha versión para o iniciador %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">O paquete de mods non indicou a versión do iniciador!</translation>
+        <translation>O paquete de mods non indicou a versión do iniciador!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3624,24 +3624,23 @@ Por favor volvao a intentar.</translation>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Non se puido renomear o cartafol de substitucións:
-</translation>
+        <translation>Non se puido renomear o cartafol de substitucións:</translation>
     </message>
     <message>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Non se atopou o cartafol de substitucións (%1). Pode que o paquete de mods xa fora utilizado antes?</translation>
+        <translation>Non se atopou o cartafol de substitucións (%1). Pode que o paquete de mods xa fora utilizado antes?</translation>
     </message>
     <message>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Cargador de mods no manifest descoñecido: %1</translation>
+        <translation>Cargador de mods no manifest descoñecido: %1</translation>
     </message>
     <message>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">Elimináronse misteriosos puntos sobrantes da versión de Minecraft ao importar o paquete.</translation>
+        <translation>Elimináronse misteriosos puntos sobrantes da versión de Minecraft ao importar o paquete.</translation>
     </message>
     <message>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished">A memoria recomendada para o modpack excede o 90% da RAM do teu sistema—reducíndoa de %1 MiB a %2 MiB!</translation>
+        <translation>A memoria recomendada para o modpack excede o 90% da RAM do teu sistema—reducíndoa de %1 MiB a %2 MiB!</translation>
     </message>
     <message>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3649,11 +3648,11 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Eliminando arquivos obsoletos e conflitivos...</translation>
+        <translation>Eliminando arquivos obsoletos e conflitivos...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Fallou a eliminación de arquivos obsoletos e conflitivos.</translation>
+        <translation>Fallou a eliminación de arquivos obsoletos e conflitivos.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3662,8 +3661,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Non se puideron actualizar os ID dos mods:
-</translation>
+        <translation>Non se puideron actualizar os ID dos mods:</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
@@ -3672,7 +3670,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Os seguintes arquivos non están dispoñibles para descarga en lanzadores de terceiros.&lt;br/&gt;Terás que descargalos manualmente e añadilos á instancia.</translation>
+        <translation>Os seguintes arquivos non están dispoñibles para descarga en lanzadores de terceiros.&lt;br/&gt;Terás que descargalos manualmente e añadilos á instancia.</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -3680,15 +3678,15 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 de %2 completo</translation>
+        <translation>%1 de %2 completo</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Copiando mods bloqueados...</translation>
+        <translation>Copiando mods bloqueados...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Copiando mods bloqueados (%1 de %2 rematados)</translation>
+        <translation>Copiando mods bloqueados (%1 de %2 rematados)</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -3708,7 +3706,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Descargando mods...</translation>
+        <translation>Descargando mods...</translation>
     </message>
 </context>
 <context>
@@ -3719,7 +3717,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Actual)</translation>
+        <translation>%1 (Actual)</translation>
     </message>
     <message>
         <source>Choose update file</source>
@@ -3727,7 +3725,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>CurseForge pack</source>
-        <translation type="unfinished">Paquete de CurseForge</translation>
+        <translation>Paquete de CurseForge</translation>
     </message>
 </context>
 <context>
@@ -3779,7 +3777,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Analizando resposta da API de CurseForge para &apos;%1&apos;...</translation>
+        <translation>Analizando resposta da API de CurseForge para &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Finding project info from CurseForge...</source>
@@ -3787,7 +3785,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Adding files...</source>
-        <translation type="unfinished">Engadindo arquivos...</translation>
+        <translation>Engadindo arquivos...</translation>
     </message>
 </context>
 <context>
@@ -3807,12 +3805,12 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Filtrar opcións</translation>
+        <translation>Filtrar opcións</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Buscar e filtrar...</translation>
+        <translation>Buscar e filtrar...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3825,32 +3823,32 @@ Por favor volvao a intentar.</translation>
     <message>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Amañar por destacados</translation>
+        <translation>Amañar por destacados</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Amañar por popularidade</translation>
+        <translation>Amañar por popularidade</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Amañar por data de actualización</translation>
+        <translation>Amañar por data de actualización</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Amañar por nome</translation>
+        <translation>Amañar por nome</translation>
     </message>
     <message>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">Amañar por autor</translation>
+        <translation>Amañar por autor</translation>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">Amañar por total de descargas</translation>
+        <translation>Amañar por total de descargas</translation>
     </message>
     <message>
         <source>No version is available!</source>
@@ -3870,15 +3868,15 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problemas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Código fonte: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Código fonte: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
 </context>
 <context>
@@ -3920,7 +3918,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
-        <translation type="unfinished">Nota: Moitos paquetes de mods de FTB tamén están dispoñibles en CurseForge!</translation>
+        <translation>Nota: Moitos paquetes de mods de FTB tamén están dispoñibles en CurseForge!</translation>
     </message>
     <message>
         <source>FTB</source>
@@ -3976,7 +3974,7 @@ Por favor volvao a intentar.</translation>
     <name>GenericProfiler</name>
     <message>
         <source>Started process: %1</source>
-        <translation type="unfinished">Comezou o proceso:%1</translation>
+        <translation>Comezou o proceso:%1</translation>
     </message>
 </context>
 <context>
@@ -3995,11 +3993,11 @@ Por favor volvao a intentar.</translation>
     <name>GetSkinStep</name>
     <message>
         <source>Getting skin.</source>
-        <translation type="unfinished">Recibindo o cosmético.</translation>
+        <translation>Recibindo o cosmético.</translation>
     </message>
     <message>
         <source>Got skin</source>
-        <translation type="unfinished">Cosmético recibido</translation>
+        <translation>Cosmético recibido</translation>
     </message>
 </context>
 <context>
@@ -4049,11 +4047,11 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Icon category</source>
-        <translation type="unfinished">Categoría de icona</translation>
+        <translation>Categoría de icona</translation>
     </message>
     <message>
         <source>Search Icons...</source>
-        <translation type="unfinished">Buscando Iconas...</translation>
+        <translation>Buscando Iconas...</translation>
     </message>
     <message>
         <source>Search...</source>
@@ -4069,11 +4067,11 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished">Herdado</translation>
+        <translation>Herdado</translation>
     </message>
     <message>
         <source>Modpacks</source>
-        <translation type="unfinished">Paquetes de mods</translation>
+        <translation>Paquetes de mods</translation>
     </message>
     <message>
         <source>Custom</source>
@@ -4124,21 +4122,21 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>The following file types are implemented (both for local files and URLs):</source>
-        <translation type="unfinished">Os seguintes tipos de arquivo están implementados (tanto para arquivos locais e URLs):</translation>
+        <translation>Os seguintes tipos de arquivo están implementados (tanto para arquivos locais e URLs):</translation>
     </message>
     <message>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- Paquetes de mods de Curseforge (ZIP / curseforge:// URL)</translation>
+        <translation>- Paquetes de mods de Curseforge (ZIP / curseforge:// URL)</translation>
     </message>
     <message>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
-        <translation type="unfinished">- Paquetes de mods de Modrinth (ZIP e mrpack)</translation>
+        <translation>- Paquetes de mods de Modrinth (ZIP e mrpack)</translation>
     </message>
     <message>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished">- Prism Launcher, PolyMC ou MultiMC exportou instancias (ZIP)</translation>
+        <translation>- Prism Launcher, PolyMC ou MultiMC exportou instancias (ZIP)</translation>
     </message>
     <message>
         <source>- Technic modpacks (ZIP)</source>
@@ -4151,7 +4149,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importar desde zip</translation>
+        <translation>Importar desde zip</translation>
     </message>
     <message>
         <source>Error</source>
@@ -4159,11 +4157,11 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
-        <translation type="unfinished">O paquete de mods %1 está bloqueado para terceiros! Por favor, descárgueo manualmente.</translation>
+        <translation>O paquete de mods %1 está bloqueado para terceiros! Por favor, descárgueo manualmente.</translation>
     </message>
     <message>
         <source>This url isn&apos;t a valid modpack !</source>
-        <translation type="unfinished">Esta URL non é dun paquete de mods válido!</translation>
+        <translation>Esta URL non é dun paquete de mods válido!</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4171,7 +4169,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Supported files</source>
-        <translation type="unfinished">Arquivos soportados</translation>
+        <translation>Arquivos soportados</translation>
     </message>
     <message>
         <source>Modrinth pack</source>
@@ -4191,11 +4189,11 @@ Por favor volvao a intentar.</translation>
     <name>ImportResourceDialog</name>
     <message>
         <source>Choose instance to import to</source>
-        <translation type="unfinished">Elexir instancia á que importar</translation>
+        <translation>Elexir instancia á que importar</translation>
     </message>
     <message>
         <source>Choose the instance you would like to import this resource pack to.</source>
-        <translation type="unfinished">Elexir a instancia á que lle gustaría importar este paquete de recursos.</translation>
+        <translation>Elexir a instancia á que lle gustaría importar este paquete de recursos.</translation>
     </message>
     <message>
         <source>Choose the instance you would like to import this %1 to.</source>
@@ -4229,7 +4227,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Report issues to: </source>
-        <translation type="unfinished">Reportar problemas a: </translation>
+        <translation>Reportar problemas a:</translation>
     </message>
 </context>
 <context>
@@ -4237,7 +4235,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Non hai versións de Java actualmente dispoñibles no meta.</translation>
+        <translation>Non hai versións de Java actualmente dispoñibles no meta.</translation>
     </message>
     <message>
         <source>Couldn&apos;t load or download the Java version lists!</source>
@@ -4758,19 +4756,19 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Omitir</translation>
+        <translation>Omitir</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Non se puideron descargar arquivos do xogo: %1</translation>
+        <translation>Non se puideron descargar arquivos do xogo: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">Descargando arquivos do xogo</translation>
+        <translation>Descargando arquivos do xogo</translation>
     </message>
 </context>
 <context>
@@ -4796,7 +4794,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Iniciar</translation>
+        <translation>&amp;Iniciar</translation>
     </message>
     <message>
         <source>&amp;Restart</source>
@@ -4869,11 +4867,11 @@ What would you like to do with %2?</source>
     <name>Java::ArchiveDownloadTask</name>
     <message>
         <source>Downloading Java</source>
-        <translation type="unfinished">Descargando Java</translation>
+        <translation>Descargando Java</translation>
     </message>
     <message>
         <source>Extracting Java</source>
-        <translation type="unfinished">Extraendo Java</translation>
+        <translation>Extraendo Java</translation>
     </message>
     <message>
         <source>Unable to open supplied zip file: %1</source>
@@ -4897,7 +4895,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">Non hai arquivos no arquivo zip suministrado.</translation>
+        <translation>Non hai arquivos no arquivo zip suministrado.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
@@ -4912,15 +4910,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished">Descargar</translation>
+        <translation>Descargar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -4936,15 +4934,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Instalar Java</translation>
+        <translation>Instalar Java</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Non se puido determinar o tipo de descarga de Java!</translation>
+        <translation>Non se puido determinar o tipo de descarga de Java!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4966,7 +4964,7 @@ What would you like to do with %2?</source>
     <name>Java::ManifestDownloadTask</name>
     <message>
         <source>Downloading Java</source>
-        <translation type="unfinished">Descargando Java</translation>
+        <translation>Descargando Java</translation>
     </message>
 </context>
 <context>
@@ -5069,7 +5067,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -5142,7 +5140,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar eliminación</translation>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
@@ -5178,7 +5176,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -5214,7 +5212,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Se está activado, o launcher non comprabará se unha instancia é compatíbel coa versión de java seleccionada.</translation>
+        <translation>Se está activado, o launcher non comprabará se unha instancia é compatíbel coa versión de java seleccionada.</translation>
     </message>
     <message>
         <source>&amp;Detect</source>
@@ -5262,7 +5260,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Memoria</translation>
+        <translation>Memoria</translation>
     </message>
     <message>
         <source>Memory suggestion</source>
@@ -5342,7 +5340,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Escoller versión de Java</translation>
+        <translation>Escoller versión de Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
@@ -5352,9 +5350,7 @@ Are you sure?</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Escolleu a versión de 32 bits de Java.
-A instalación non admite máis de 2048 MiB de RAM.
-Asegúrese de que o valor de memoria máxima sexa menor.</translation>
+        <translation>Escolleu a versión de 32 bits de Java.</translation>
     </message>
     <message>
         <source>%1 mods installed here, so %2 MiB of heap.</source>
@@ -5378,7 +5374,7 @@ Asegúrese de que o valor de memoria máxima sexa menor.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">A túa asignación máxima de memoria sobrepasa a capacidade de memoria do sistema.</translation>
+        <translation>A túa asignación máxima de memoria sobrepasa a capacidade de memoria do sistema.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
@@ -5442,7 +5438,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished">Non se escolleu a versión de Java</translation>
+        <translation>Non se escolleu a versión de Java</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -5455,31 +5451,31 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Atopar executable de Java</translation>
+        <translation>Atopar executable de Java</translation>
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Memoria</translation>
+        <translation>Memoria</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">A cantidade máxima de memoria permitida para Minecraft.</translation>
+        <translation>A cantidade máxima de memoria permitida para Minecraft.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Memoría mínima asignada:</translation>
+        <translation>Memoría mínima asignada:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Memoria máxima asignada:</translation>
+        <translation>Memoria máxima asignada:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">A cantidade de memoria coa que Minecraft iniciarase.</translation>
+        <translation>A cantidade de memoria coa que Minecraft iniciarase.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">A cantidade de memoria dispoñible para almacenar as clases de Java cargadas.</translation>
+        <translation>A cantidade de memoria dispoñible para almacenar as clases de Java cargadas.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -5499,15 +5495,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">A túa asignación máxima de memoria sobrepasa a capacidade de memoria do sistema.</translation>
+        <translation>A túa asignación máxima de memoria sobrepasa a capacidade de memoria do sistema.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">A túa asignación máxima de memoria achégase á capacidade de memoria do teu sistema.</translation>
+        <translation>A túa asignación máxima de memoria achégase á capacidade de memoria do teu sistema.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">A túa asignación máxima de memoria é máis pequena que o valor mínimo permitido</translation>
+        <translation>A túa asignación máxima de memoria é máis pequena que o valor mínimo permitido</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
@@ -5618,7 +5614,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5658,7 +5654,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Iniciar</translation>
+        <translation>&amp;Iniciar</translation>
     </message>
     <message>
         <source>Couldn&apos;t start profiler: %1</source>
@@ -5739,9 +5735,7 @@ Do you want to play the demo?</source>
         <source>The Minecraft authentication servers are currently unavailable, launching in offline mode.
 
 </source>
-        <translation type="unfinished">Os servidores de autenticación de Minecraft non están dispoñibles neste momento, iniciando en modo offline.
-
-</translation>
+        <translation>Os servidores de autenticación de Minecraft non están dispoñibles neste momento, iniciando en modo offline.</translation>
     </message>
     <message>
         <source>No internet connection</source>
@@ -5751,21 +5745,19 @@ Do you want to play the demo?</source>
         <source>You are not connected to the Internet, launching in offline mode.
 
 </source>
-        <translation type="unfinished">Non estás conectado a Internet, iniciando en modo offline.
-
-</translation>
+        <translation>Non estás conectado a Internet, iniciando en modo offline.</translation>
     </message>
     <message>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished">Seleccione o seu nome de xogador offline</translation>
+        <translation>Seleccione o seu nome de xogador offline</translation>
     </message>
     <message>
         <source>No account selected for launch</source>
-        <translation type="unfinished">Non hai conta seleccionada para iniciar</translation>
+        <translation>Non hai conta seleccionada para iniciar</translation>
     </message>
     <message>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished">%1. Desexa re-autenticar esta cona?</translation>
+        <translation>%1. Desexa re-autenticar esta cona?</translation>
     </message>
     <message>
         <source>Sign in to &apos;%1&apos;</source>
@@ -5815,8 +5807,7 @@ Ao millor tes que arranxar os teus mods, por que o xogo inda segue gardando os r
     <message>
         <source>Stopped watching the game log because the log length surpassed %1 lines.
 You may have to fix your mods because the game is still logging to files and likely wasting harddrive space at an alarming rate!</source>
-        <translation type="unfinished">Cesou o monitoreado do rexistro do xogo porque a lonxitude sobrepasou as %1 liñas.
-Quizais deba arranxar os seus mods porque o xogo aínda está accedendo ós arquivos e probablemente gastanto espazo no disco a un ritmo alarmante!</translation>
+        <translation>Cesou o monitoreado do rexistro do xogo porque a lonxitude sobrepasou as %1 liñas.</translation>
     </message>
     <message>
         <source>[Log4j Parse Error] Failed to parse log4j log event: %1</source>
@@ -5879,7 +5870,7 @@ Quizais deba arranxar os seus mods porque o xogo aínda está accedendo ós arqu
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished">Cartafoles</translation>
+        <translation>Cartafoles</translation>
     </message>
     <message>
         <source>I&amp;nstances:</source>
@@ -6014,11 +6005,11 @@ Quizais deba arranxar os seus mods porque o xogo aínda está accedendo ós arqu
     </message>
     <message>
         <source>Updater</source>
-        <translation type="unfinished">Actualizador</translation>
+        <translation>Actualizador</translation>
     </message>
     <message>
         <source>How Often?</source>
-        <translation type="unfinished">Con que frecuencia?</translation>
+        <translation>Con que frecuencia?</translation>
     </message>
     <message>
         <source>Set to 0 to only check on launch</source>
@@ -6034,15 +6025,15 @@ Quizais deba arranxar os seus mods porque o xogo aínda está accedendo ós arqu
     </message>
     <message>
         <source>Every </source>
-        <translation type="unfinished">Cada </translation>
+        <translation>Cada</translation>
     </message>
     <message>
         <source>Folder where Komorebi Launcher stores automatically downloaded Java versions. Do NOT set this to your system Java installation.</source>
-        <translation type="unfinished">Cartafol onde Komorebi Launcher garda automáticamente versións descargadas de Java. NON estableza este coma o seu sistema de instalación de Java.</translation>
+        <translation>Cartafol onde Komorebi Launcher garda automáticamente versións descargadas de Java. NON estableza este coma o seu sistema de instalación de Java.</translation>
     </message>
     <message>
         <source>By total time &amp;played</source>
-        <translation type="unfinished">Por tempo tital &amp;played</translation>
+        <translation>Por tempo tital &amp;played</translation>
     </message>
     <message>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
@@ -6058,7 +6049,7 @@ Quizais deba arranxar os seus mods porque o xogo aínda está accedendo ós arqu
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -6066,7 +6057,7 @@ Quizais deba arranxar os seus mods porque o xogo aínda está accedendo ós arqu
     </message>
     <message>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished">Revisa &amp;subfolders por se hai mods bloqueados</translation>
+        <translation>Revisa &amp;subfolders por se hai mods bloqueados</translation>
     </message>
     <message>
         <source>Move blocked mods instead of copying them</source>
@@ -6191,7 +6182,7 @@ Quizais deba arranxar os seus mods porque o xogo aínda está accedendo ós arqu
     </message>
     <message>
         <source>Instance Folder</source>
-        <translation type="unfinished">Cartafol da instancia</translation>
+        <translation>Cartafol da instancia</translation>
     </message>
     <message>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
@@ -6291,11 +6282,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Buscando bibliotecas FML...</translation>
+        <translation>Buscando bibliotecas FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Descargando librarías de FML...</translation>
+        <translation>Descargando librarías de FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6303,15 +6294,15 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Copiando bibliotecas FML na instancia...</translation>
+        <translation>Copiando bibliotecas FML na instancia...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Non se puido crear dentro da instancia o cartafol da biblioteca FML.</translation>
+        <translation>Non se puido crear dentro da instancia o cartafol da biblioteca FML.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Fallou a copia da biblioteca Forge/FML: %1.</translation>
+        <translation>Fallou a copia da biblioteca Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6319,11 +6310,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Fallou a descarga dos seguintes ficheiros:
-%1
-
-Motivo:%2
-Por favor volvao a intentar.</translation>
+        <translation>Fallou a descarga dos seguintes ficheiros:</translation>
     </message>
 </context>
 <context>
@@ -6331,12 +6318,12 @@ Por favor volvao a intentar.</translation>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordenar por nome</translation>
+        <translation>Ordenar por nome</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Amañar por versión do xogo</translation>
+        <translation>Amañar por versión do xogo</translation>
     </message>
 </context>
 <context>
@@ -6394,7 +6381,7 @@ Por favor volvao a intentar.</translation>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Non se puido mover o Minecraft descomprimido!</translation>
+        <translation>Non se puido mover o Minecraft descomprimido!</translation>
     </message>
     <message>
         <source>No installation method found!</source>
@@ -6405,7 +6392,7 @@ Por favor volvao a intentar.</translation>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Buscar e filtrar...</translation>
+        <translation>Buscar e filtrar...</translation>
     </message>
     <message>
         <source>Public</source>
@@ -6437,7 +6424,7 @@ Por favor volvao a intentar.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6532,7 +6519,7 @@ Debería eliminarse agora?</translation>
     <message>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Obtendo os ficheiros da biblioteca de Mojang...</translation>
+        <translation>Obtendo os ficheiros da biblioteca de Mojang...</translation>
     </message>
     <message>
         <source>Libraries for instance %1</source>
@@ -6571,7 +6558,7 @@ Motivo:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6618,7 +6605,7 @@ Motivo:
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Subir os rexistros a paste.ee - manteranse durante un mes</translation>
+        <translation>Subir os rexistros a paste.ee - manteranse durante un mes</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -6706,7 +6693,7 @@ Motivo:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6810,7 +6797,7 @@ Motivo:
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Estado</translation>
+        <translation>Estado</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -6838,7 +6825,7 @@ Motivo:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -7060,7 +7047,7 @@ Motivo:
     </message>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Iniciar</translation>
+        <translation>&amp;Iniciar</translation>
     </message>
     <message>
         <source>Add Instanc&amp;e...</source>
@@ -7352,7 +7339,7 @@ Motivo:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Contas</translation>
+        <translation>Contas</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -7360,7 +7347,7 @@ Motivo:
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar eliminación</translation>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
         <source>Launch the selected instance in offline mode.</source>
@@ -7469,12 +7456,12 @@ Motivo:
     <message>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Crear instancia</translation>
+        <translation>Crear instancia</translation>
     </message>
     <message>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Borrar grupo «%1»</translation>
+        <translation>Borrar grupo «%1»</translation>
     </message>
     <message>
         <source>Profilers</source>
@@ -7510,7 +7497,7 @@ Motivo:
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -7556,7 +7543,7 @@ URL:
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Descarga do paquete de mods</translation>
+        <translation>Descarga do paquete de mods</translation>
     </message>
     <message>
         <source>No instance!</source>
@@ -7763,11 +7750,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -7819,7 +7806,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Actualización Fallou</translation>
+        <translation>Actualización Fallou</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -7835,7 +7822,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar Actualización</translation>
+        <translation>Confirmar Actualización</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -7864,7 +7851,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -7915,7 +7902,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Profilers</source>
-        <translation type="unfinished">Analizadores</translation>
+        <translation>Analizadores</translation>
     </message>
     <message>
         <source>&amp;No Profiler</source>
@@ -7955,7 +7942,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <source>, last played on %1 for %2</source>
@@ -8094,7 +8081,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Esta configuración anula á configuración global.</translation>
+        <translation>Esta configuración anula á configuración global.</translation>
     </message>
     <message>
         <source>General</source>
@@ -8130,11 +8117,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Amosar tempo xogado en cada instancia</translation>
+        <translation>Amosar tempo xogado en cada instancia</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">Gardar tempo xogado nas instancias</translation>
+        <translation>Gardar tempo xogado nas instancias</translation>
     </message>
     <message>
         <source>Show the &amp;total time played across instances</source>
@@ -8158,7 +8145,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -8182,11 +8169,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Usar o OpenAL instalado no sistema</translation>
+        <translation>Usar o OpenAL instalado no sistema</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Usar o GLFW instalado no sistema</translation>
+        <translation>Usar o GLFW instalado no sistema</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
@@ -8267,23 +8254,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -8299,7 +8286,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <source>Rift</source>
@@ -8371,19 +8358,19 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Conta:</translation>
+        <translation>Conta:</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Dirección do servidor:</translation>
+        <translation>Dirección do servidor:</translation>
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Ordes personalizadas</translation>
+        <translation>Ordes personalizadas</translation>
     </message>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished">Variables do Entorno</translation>
+        <translation>Variables do Entorno</translation>
     </message>
     <message>
         <source>Show time &amp;playing this instance</source>
@@ -8433,7 +8420,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8459,7 +8446,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>ModFilterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -8471,15 +8458,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
@@ -8491,7 +8478,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -8559,7 +8546,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Descoñecido</translation>
+        <translation>Descoñecido</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -8627,7 +8614,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Todas as versións</translation>
+        <translation>Todas as versións</translation>
     </message>
 </context>
 <context>
@@ -8673,7 +8660,7 @@ Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén 
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Provedor</translation>
+        <translation>Provedor</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -8685,11 +8672,11 @@ Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén 
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Última modificación</translation>
+        <translation>Última modificación</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Side</source>
@@ -8717,11 +8704,11 @@ Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén 
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nome de arquivo</translation>
+        <translation>Nome de arquivo</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -8926,7 +8913,7 @@ Ignoring them may break the game.</source>
     </message>
     <message>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Confirmar Borrado</translation>
+        <translation>Confirmar Borrado</translation>
     </message>
     <message>
         <source>If you remove mods while the game is running it may crash your game.
@@ -8948,7 +8935,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -8960,7 +8947,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -8972,7 +8959,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar Actualización</translation>
+        <translation>Confirmar Actualización</translation>
     </message>
     <message>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
@@ -8993,11 +8980,11 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Comprobar actualizacións</translation>
+        <translation>Comprobar actualizacións</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminación</translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 mods.
@@ -9028,7 +9015,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">«%1» está actualizado! :)</translation>
+        <translation>«%1» está actualizado! :)</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -9036,7 +9023,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Cambiar a versión dunha modificación.</translation>
+        <translation>Cambiar a versión dunha modificación.</translation>
     </message>
     <message>
         <source>View the homepages of all selected mods.</source>
@@ -9221,7 +9208,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -9246,19 +9233,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Non instalado</translation>
+        <translation>Non instalado</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Descoñecido</translation>
+        <translation>Descoñecido</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Non se atopou versión válida para este recurso. Probablemente non está dispoñible para a versión de xogo/cargador de mods actual.</translation>
+        <translation>Non se atopou versión válida para este recurso. Probablemente non está dispoñible para a versión de xogo/cargador de mods actual.</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Non se atopou versión válida para este recurso. Probablemente non está dispoñible para a versión de xogo actual.</translation>
+        <translation>Non se atopou versión válida para este recurso. Probablemente non está dispoñible para a versión de xogo actual.</translation>
     </message>
     <message>
         <source>Waiting for the API response from Modrinth...</source>
@@ -9277,13 +9264,12 @@ Please update %1!</source>
     </message>
     <message>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Non puidemos atopar un arquivo índice axeitado para a versión antiga. Isto pode causar algúns arquivos duplicados. Desexa continuar?</translation>
+        <translation>Non puidemos atopar un arquivo índice axeitado para a versión antiga. Isto pode causar algúns arquivos duplicados. Desexa continuar?</translation>
     </message>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Non se puido renomear o cartafol de substitucións:
-</translation>
+        <translation>Non se puido renomear o cartafol de substitucións:</translation>
     </message>
     <message>
         <source>Could not rename the client overrides folder:
@@ -9308,11 +9294,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 de %2 completo</translation>
+        <translation>%1 de %2 completo</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Descargando mods...</translation>
+        <translation>Descargando mods...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -9325,11 +9311,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Eliminando arquivos obsoletos e conflitivos...</translation>
+        <translation>Eliminando arquivos obsoletos e conflitivos...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Fallou a eliminación de arquivos obsoletos e conflitivos.</translation>
+        <translation>Fallou a eliminación de arquivos obsoletos e conflitivos.</translation>
     </message>
 </context>
 <context>
@@ -9344,11 +9330,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Choose update file</source>
-        <translation type="unfinished">Escoller arquivo de actualización</translation>
+        <translation>Escoller arquivo de actualización</translation>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Paquete de Modrinth</translation>
+        <translation>Paquete de Modrinth</translation>
     </message>
 </context>
 <context>
@@ -9366,7 +9352,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Could not search for files</source>
-        <translation type="unfinished">Non se puideron buscar os ficheiros</translation>
+        <translation>Non se puideron buscar os ficheiros</translation>
     </message>
     <message>
         <source>Finding file hashes...</source>
@@ -9394,7 +9380,7 @@ Please update %1!</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Buscar e filtrar...</translation>
+        <translation>Buscar e filtrar...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -9412,11 +9398,11 @@ Please update %1!</source>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Amañar por data de actualización</translation>
+        <translation>Amañar por data de actualización</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -9453,11 +9439,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Amañar por total de descargas</translation>
+        <translation>Amañar por total de descargas</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> por </translation>
+        <translation>por</translation>
     </message>
     <message>
         <source>Version selected:</source>
@@ -9509,26 +9495,26 @@ Please update %1!</source>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">Solicitando %1</translation>
+        <translation>Solicitando %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">descoñecido</translation>
+        <translation>descoñecido</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -9569,7 +9555,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Executando %1 tarefa(s) (%2 de %3 están feitas)</translation>
+        <translation>Executando %1 tarefa(s) (%2 de %3 están feitas)</translation>
     </message>
 </context>
 <context>
@@ -9584,11 +9570,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -9627,11 +9613,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9658,15 +9644,15 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Axuda</translation>
+        <translation>Axuda</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -9697,7 +9683,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Pechar</translation>
+        <translation>Pechar</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -9948,11 +9934,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -9975,11 +9961,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9994,7 +9980,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Desprazarse ata o final</translation>
+        <translation>Desprazarse ata o final</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -10018,11 +10004,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Seguir actualizando</translation>
+        <translation>Seguir actualizando</translation>
     </message>
     <message>
         <source>Wrap lines</source>
-        <translation type="unfinished">Dividir as liñas</translation>
+        <translation>Dividir as liñas</translation>
     </message>
     <message>
         <source>Color lines</source>
@@ -10038,7 +10024,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Subir os rexistros a paste.ee - manteranse durante un mes</translation>
+        <translation>Subir os rexistros a paste.ee - manteranse durante un mes</translation>
     </message>
     <message>
         <source>&amp;Upload</source>
@@ -10087,7 +10073,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Non se pode mostrar este rexistro porque a súa lonxitude supera as %1 liñas.</translation>
+        <translation>Non se pode mostrar este rexistro porque a súa lonxitude supera as %1 liñas.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -10115,7 +10101,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar eliminación</translation>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -10139,7 +10125,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Limpar</translation>
+        <translation>Limpar</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -10182,99 +10168,99 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Modo de instalación insoportable</translation>
+        <translation>Modo de instalación insoportable</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Non se puido obter o índice dos metadatos locais de «%1» v%2</translation>
+        <translation>Non se puido obter o índice dos metadatos locais de «%1» v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Borrando archivos existentes.</translation>
+        <translation>Borrando archivos existentes.</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Tipo de mod descoñecido: %1</translation>
+        <translation>Tipo de mod descoñecido: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Non se puido obter o índice dos metadatos locais de %1</translation>
+        <translation>Non se puido obter o índice dos metadatos locais de %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Non se puido atopar ningunha versión para o iniciador %1</translation>
+        <translation>Non se puido atopar ningunha versión para o iniciador %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">O paquete de mods non indicou a versión do iniciador!</translation>
+        <translation>O paquete de mods non indicou a versión do iniciador!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Tipo de descarga descoñecido ou non compatible: %1</translation>
+        <translation>Tipo de descarga descoñecido ou non compatible: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Descargando configuracións...</translation>
+        <translation>Descargando configuracións...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Descargar configuración</translation>
+        <translation>Descargar configuración</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Extraendo configuracións...</translation>
+        <translation>Extraendo configuracións...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Seleccionando mods opcionais...</translation>
+        <translation>Seleccionando mods opcionais...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Descargando mods...</translation>
+        <translation>Descargando mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Descarga de mod</translation>
+        <translation>Descarga de mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Tipo de descarga descoñecido: %1</translation>
+        <translation>Tipo de descarga descoñecido: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Mods bloqueados encontrados</translation>
+        <translation>Mods bloqueados encontrados</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Os seguintes arquivos non están dispoñibles para descarga en lanzadores de terceiros.&lt;br/&gt;Terás que descargalos manualmente e añadilos á instancia.</translation>
+        <translation>Os seguintes arquivos non están dispoñibles para descarga en lanzadores de terceiros.&lt;br/&gt;Terás que descargalos manualmente e añadilos á instancia.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 de %2 completo</translation>
+        <translation>%1 de %2 completo</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Non se puideron extraer os mods...</translation>
+        <translation>Non se puideron extraer os mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Extraendo mods...</translation>
+        <translation>Extraendo mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Instalando paquete de mods</translation>
+        <translation>Instalando paquete de mods</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Non se puido crear o compoñente biblioteca</translation>
+        <translation>Non se puido crear o compoñente biblioteca</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Tipo de cargador descoñecido: </translation>
+        <translation>Tipo de cargador descoñecido:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Non se puido crear o compoñente paquete</translation>
+        <translation>Non se puido crear o compoñente paquete</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -10317,7 +10303,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Axuda</translation>
+        <translation>Axuda</translation>
     </message>
 </context>
 <context>
@@ -10338,7 +10324,7 @@ Are you sure?</source>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -10403,7 +10389,7 @@ Are you sure?</source>
     <name>PrismExternalUpdater</name>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Comprobando actualizacións...</translation>
+        <translation>Comprobando actualizacións...</translation>
     </message>
     <message>
         <source>Update Check Failed</source>
@@ -10763,11 +10749,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10786,11 +10772,11 @@ Escolle o teu nome coidadosamente:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -10887,7 +10873,7 @@ Estado HTTP: %2</translation>
     <message>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SOC&amp;KS5</translation>
+        <translation>SOC&amp;KS5</translation>
     </message>
     <message>
         <source>&amp;HTTP</source>
@@ -10897,7 +10883,7 @@ Estado HTTP: %2</translation>
     <message>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">Dirección e porto</translation>
+        <translation>Dirección e porto</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -10906,12 +10892,12 @@ Estado HTTP: %2</translation>
     <message>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">Nome de usuario:</translation>
+        <translation>Nome de usuario:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">Contrasinal:</translation>
+        <translation>Contrasinal:</translation>
     </message>
     <message>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
@@ -11054,12 +11040,12 @@ Proceed with truncation?</source>
     <message>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">O programa java especificado non se iniciou correctamente.&lt;br /&gt;</translation>
+        <translation>O programa java especificado non se iniciou correctamente.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">O programa java especificado devolveu resultados inesperados:&lt;br /&gt;</translation>
+        <translation>O programa java especificado devolveu resultados inesperados:&lt;br /&gt;</translation>
     </message>
     <message>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
@@ -11243,7 +11229,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">O binario de Java especificado non funcionou cos parámetros que lle indicaches:&lt;br /&gt;</translation>
+        <translation>O binario de Java especificado non funcionou cos parámetros que lle indicaches:&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -11257,7 +11243,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">O comprobador de librerías de Java non se poido atopar. Por favor comprobe a súa instalación.</translation>
+        <translation>O comprobador de librerías de Java non se poido atopar. Por favor comprobe a súa instalación.</translation>
     </message>
     <message>
         <source>Download of meta file %1</source>
@@ -11376,15 +11362,15 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished">mod</translation>
+        <translation>mod</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">descoñecido</translation>
+        <translation>descoñecido</translation>
     </message>
     <message>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Amañar por destacados</translation>
+        <translation>Amañar por destacados</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
@@ -11392,7 +11378,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Amañar por data de actualización</translation>
+        <translation>Amañar por data de actualización</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -11400,7 +11386,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Author</source>
-        <translation type="unfinished">Amañar por autor</translation>
+        <translation>Amañar por autor</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -11412,11 +11398,11 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Amañar por versión do xogo</translation>
+        <translation>Amañar por versión do xogo</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">Ordenar por relevancia</translation>
+        <translation>Ordenar por relevancia</translation>
     </message>
     <message>
         <source>Sort by Follows</source>
@@ -11424,7 +11410,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Newest</source>
-        <translation type="unfinished">Ordenar polo máis novo</translation>
+        <translation>Ordenar polo máis novo</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -11448,7 +11434,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Descoñecido</translation>
+        <translation>Descoñecido</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -11481,47 +11467,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desmarcado</translation>
+        <translation>Desmarcado</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desconectado</translation>
+        <translation>Desconectado</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Listo</translation>
+        <translation>Listo</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Procesando</translation>
+        <translation>Procesando</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Fallou</translation>
+        <translation>Fallou</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Expirou</translation>
+        <translation>Expirou</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desactivado</translation>
+        <translation>Desactivado</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desapareceu</translation>
+        <translation>Desapareceu</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Descoñecido</translation>
+        <translation>Descoñecido</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -11729,7 +11715,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Non recoñecido</translation>
+        <translation>Non recoñecido</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11739,7 +11725,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">mods</translation>
+        <translation>mods</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -11752,7 +11738,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">recursos</translation>
+        <translation>recursos</translation>
     </message>
     <message>
         <source>shader packs</source>
@@ -11766,7 +11752,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Non se puido abrir o arquivo %1 para ler:%2</translation>
+        <translation>Non se puido abrir o arquivo %1 para ler:%2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -11846,11 +11832,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11858,15 +11844,15 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Comprobando as dependencias...</translation>
+        <translation>Comprobando as dependencias...</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">Cambiar versión %1</translation>
+        <translation>Cambiar versión %1</translation>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">mods</translation>
+        <translation>mods</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -11897,7 +11883,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -11935,7 +11921,7 @@ Please update %1!</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> por </translation>
+        <translation>por</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -11943,27 +11929,27 @@ Please update %1!</source>
     </message>
     <message>
         <source>Donate information: </source>
-        <translation type="unfinished">Información de doazón: </translation>
+        <translation>Información de doazón:</translation>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Ligazóns externas:</translation>
+        <translation>Ligazóns externas:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problemas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Código fonte: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Código fonte: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>No version available for the selected pack</source>
@@ -12014,7 +12000,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -12048,19 +12034,16 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Aviso: Este recurso é simbólicamente ligado de outro lugar. A súa edición tamén cambiará o orixinal.
-Canonical Path: %1</translation>
+        <translation>Aviso: Este recurso é simbólicamente ligado de outro lugar. A súa edición tamén cambiará o orixinal.</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén cambiará o orixinal.</translation>
+        <translation>Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén cambiará o orixinal.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -12068,27 +12051,27 @@ Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén 
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Última modificación</translation>
+        <translation>Última modificación</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Provedor</translation>
+        <translation>Provedor</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nome de arquivo</translation>
+        <translation>Nome de arquivo</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -12142,7 +12125,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imaxe</translation>
+        <translation>Imaxe</translation>
     </message>
 </context>
 <context>
@@ -12165,7 +12148,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12177,11 +12160,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nome de arquivo</translation>
+        <translation>Nome de arquivo</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>The file name of the resource pack.</source>
@@ -12198,7 +12181,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished">Identificación do formato do paquete de recursos, así coma as versións Minecraft para as que foi deseñado.</translation>
+        <translation>Identificación do formato do paquete de recursos, así coma as versións Minecraft para as que foi deseñado.</translation>
     </message>
     <message>
         <source>
@@ -12216,7 +12199,7 @@ Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén 
     </message>
     <message>
         <source>The source provider of the resource pack.</source>
-        <translation type="unfinished">Proveedor fonte do paquete de recursos.</translation>
+        <translation>Proveedor fonte do paquete de recursos.</translation>
     </message>
     <message>
         <source>The size of the resource pack.</source>
@@ -12244,7 +12227,7 @@ Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén 
     </message>
     <message>
         <source>The date and time this resource pack was last changed (or added).</source>
-        <translation type="unfinished">Data e hora da última modificación (ou creación) deste paquete de recursos.</translation>
+        <translation>Data e hora da última modificación (ou creación) deste paquete de recursos.</translation>
     </message>
     <message>
         <source>Is the resource pack enabled? (Only valid for ZIPs)</source>
@@ -12325,11 +12308,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Comprobar actualizacións</translation>
+        <translation>Comprobar actualizacións</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminación</translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -12349,7 +12332,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Filtrar opcións</translation>
+        <translation>Filtrar opcións</translation>
     </message>
 </context>
 <context>
@@ -12384,11 +12367,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12474,7 +12457,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="unfinished">Requirido por:</translation>
+        <translation>Requirido por:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
@@ -12489,16 +12472,16 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">O mod foi desactivado, xa que pode estar instalado.</translation>
+        <translation>O mod foi desactivado, xa que pode estar instalado.</translation>
     </message>
     <message>
         <source>Filename: %1</source>
@@ -12506,11 +12489,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="unfinished">Provedor: %1</translation>
+        <translation>Provedor: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="unfinished">Requirido por: %1</translation>
+        <translation>Requirido por: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
@@ -12656,18 +12639,18 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12690,7 +12673,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12704,11 +12687,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12741,7 +12724,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12749,7 +12732,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Desconectado</translation>
+        <translation>Desconectado</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12830,7 +12813,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminación</translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -12885,7 +12868,7 @@ Isto é permanente e o servidor desaparecerá da túa lista para sempre (POR MOI
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Descargar Paquetes</translation>
+        <translation>Descargar Paquetes</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -12901,7 +12884,7 @@ Isto é permanente e o servidor desaparecerá da túa lista para sempre (POR MOI
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -12913,7 +12896,7 @@ Isto é permanente e o servidor desaparecerá da túa lista para sempre (POR MOI
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12925,7 +12908,7 @@ Isto é permanente e o servidor desaparecerá da túa lista para sempre (POR MOI
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar Actualización</translation>
+        <translation>Confirmar Actualización</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -12939,7 +12922,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">«%1» está actualizado! :)</translation>
+        <translation>«%1» está actualizado! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -12951,11 +12934,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Comprobar actualizacións</translation>
+        <translation>Comprobar actualizacións</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminación</translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -13005,7 +12988,7 @@ Are you sure?</source>
     <name>SkinManageDialog</name>
     <message>
         <source>Skin Upload</source>
-        <translation type="unfinished">Apariencia subida</translation>
+        <translation>Apariencia subida</translation>
     </message>
     <message>
         <source>Model</source>
@@ -13021,7 +13004,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cape</source>
-        <translation type="unfinished">Capa</translation>
+        <translation>Capa</translation>
     </message>
     <message>
         <source>Preview Elytra</source>
@@ -13029,7 +13012,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Abrir cartafol</translation>
+        <translation>Abrir cartafol</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -13049,7 +13032,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Eliminar aspecto</translation>
+        <translation>&amp;Eliminar aspecto</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -13073,15 +13056,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">Escoller textura da apariencia</translation>
+        <translation>Escoller textura da apariencia</translation>
     </message>
     <message>
         <source>Selected file is not a valid skin</source>
@@ -13089,7 +13072,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>No Cape</source>
-        <translation type="unfinished">Sen capa</translation>
+        <translation>Sen capa</translation>
     </message>
     <message>
         <source>Download capes</source>
@@ -13101,11 +13084,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">O ficheiro do aspecto non existe!</translation>
+        <translation>O ficheiro do aspecto non existe!</translation>
     </message>
     <message>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">Non se puido subir o aspecto!</translation>
+        <translation>Non se puido subir o aspecto!</translation>
     </message>
     <message>
         <source>Reset skin</source>
@@ -13113,15 +13096,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Borrar aspecto</translation>
+        <translation>Borrar aspecto</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Non se puido borrar o aspecto actual!</translation>
+        <translation>Non se puido borrar o aspecto actual!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menú contextual</translation>
+        <translation>Menú contextual</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -13133,7 +13116,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar eliminación</translation>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -13154,7 +13137,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished">As imaxes de skin deben ser ficheiros PNG de 64×64 ou 64×32 píxeles.</translation>
+        <translation>As imaxes de skin deben ser ficheiros PNG de 64×64 ou 64×32 píxeles.</translation>
     </message>
     <message>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
@@ -13261,7 +13244,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulario</translation>
+        <translation>Formulario</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -13276,7 +13259,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
 </context>
 <context>
@@ -13289,9 +13272,7 @@ Are you sure?</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">A actualización da instancia fallou por: %1
-
-</translation>
+        <translation>A actualización da instancia fallou por: %1</translation>
     </message>
 </context>
 <context>
@@ -13413,7 +13394,7 @@ Are you sure?</source>
     <message>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">Non se atopou un «version.json» dentro do «bin/modpack.jar», e a versión de Minecraft descoñécese</translation>
+        <translation>Non se atopou un «version.json» dentro do «bin/modpack.jar», e a versión de Minecraft descoñécese</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
@@ -13457,7 +13438,7 @@ Non se atopou un inheritsFrom</translation>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Buscar e filtrar...</translation>
+        <translation>Buscar e filtrar...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -13465,7 +13446,7 @@ Non se atopou un inheritsFrom</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source> by </source>
@@ -13504,27 +13485,27 @@ Non se atopou un inheritsFrom</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Última modificación</translation>
+        <translation>Última modificación</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Provedor</translation>
+        <translation>Provedor</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nome de arquivo</translation>
+        <translation>Nome de arquivo</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -13565,7 +13546,7 @@ Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén 
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Descargar Paquetes</translation>
+        <translation>Descargar Paquetes</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -13585,7 +13566,7 @@ Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erro</translation>
+        <translation>Erro</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -13597,7 +13578,7 @@ Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén 
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Advertencias</translation>
+        <translation>Advertencias</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13609,7 +13590,7 @@ Aviso: Este recurso está ligado ríxido de outro lugar. A súa edición tamén 
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar Actualización</translation>
+        <translation>Confirmar Actualización</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -13623,7 +13604,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">«%1» está actualizado! :)</translation>
+        <translation>«%1» está actualizado! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -13639,7 +13620,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminación</translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -13678,7 +13659,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Aparencia</translation>
+        <translation>Aparencia</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -13823,7 +13804,7 @@ Are you sure?</source>
     <name>VanillaCreationTask</name>
     <message>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">Crear instancia a partir da versión %1</translation>
+        <translation>Crear instancia a partir da versión %1</translation>
     </message>
 </context>
 <context>
@@ -14055,7 +14036,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Cambiar Versión</translation>
+        <translation>Cambiar Versión</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -14063,7 +14044,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Subir</translation>
+        <translation>Subir</translation>
     </message>
     <message>
         <source>Make the selected component apply sooner.</source>
@@ -14071,7 +14052,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Baixar</translation>
+        <translation>Baixar</translation>
     </message>
     <message>
         <source>Make the selected component apply later.</source>
@@ -14187,7 +14168,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminación</translation>
+        <translation>Confirmar Eliminación</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -14271,7 +14252,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Confirm Reversion</source>
@@ -14434,11 +14415,11 @@ Por favor engade a túa conta de Mojang ou Minecraft.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -14516,12 +14497,12 @@ Canonical Path: %1</source>
     <message>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">Tamaño</translation>
+        <translation>Tamaño</translation>
     </message>
     <message>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished">Información</translation>
+        <translation>Información</translation>
     </message>
     <message>
         <source>The name of the world.</source>
@@ -14556,7 +14537,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Unirse</translation>
+        <translation>Unirse</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -14572,7 +14553,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Borrar</translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <source>MCEdit</source>
@@ -14600,7 +14581,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Ferramentas</translation>
+        <translation>Ferramentas</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -14684,7 +14665,7 @@ Seguro que queres continuar?</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar eliminación</translation>
+        <translation>Confirmar eliminación</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -14910,11 +14891,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nome de usuario</translation>
+        <translation>Nome de usuario</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Contrasinal</translation>
+        <translation>Contrasinal</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -14922,7 +14903,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

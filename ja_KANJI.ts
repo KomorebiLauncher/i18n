@@ -92,7 +92,7 @@
     <message>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">&amp;Microsoft 認証</translation>
+        <translation>&amp;Microsoft 認証</translation>
     </message>
     <message>
         <source>Mod&amp;rinth</source>
@@ -326,7 +326,7 @@
     <message>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">構築番号:</translation>
+        <translation>構築番号:</translation>
     </message>
     <message>
         <source>Commit:</source>
@@ -410,7 +410,7 @@
     <message>
         <source>Offline</source>
         <comment>Account type</comment>
-        <translation type="unfinished">脱機</translation>
+        <translation>脱機</translation>
     </message>
     <message>
         <source>Third-party</source>
@@ -532,17 +532,17 @@
     <message>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>&amp;Set Default</source>
         <oldsource>Set Default</oldsource>
-        <translation type="unfinished">既定に設定</translation>
+        <translation>既定に設定</translation>
     </message>
     <message>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">既定を解除</translation>
+        <translation>既定を解除</translation>
     </message>
     <message>
         <source>&amp;Upload Skin</source>
@@ -569,7 +569,7 @@
     <message>
         <source>&amp;Add Microsoft</source>
         <oldsource>Add Microsoft</oldsource>
-        <translation type="unfinished">Microsoft 帳戸を追加</translation>
+        <translation>Microsoft 帳戸を追加</translation>
     </message>
     <message>
         <source>Add &amp;Offline</source>
@@ -583,7 +583,7 @@
     <message>
         <source>&amp;Refresh</source>
         <oldsource>Refresh</oldsource>
-        <translation type="unfinished">再読込</translation>
+        <translation>再読込</translation>
     </message>
     <message>
         <source>Refresh the account tokens</source>
@@ -748,7 +748,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     </message>
     <message>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">図標 (&amp;I):</translation>
+        <translation>図標 (&amp;I):</translation>
     </message>
     <message>
         <source>Console Font:</source>
@@ -955,17 +955,17 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">人気順で並び替え</translation>
+        <translation>人気順で並び替え</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">名前順で並べ替え</translation>
+        <translation>名前順で並べ替え</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">遊戯版次順で並べ替え</translation>
+        <translation>遊戯版次順で並べ替え</translation>
     </message>
 </context>
 <context>
@@ -1027,7 +1027,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">検索と濾過...</translation>
+        <translation>検索と濾過...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1054,15 +1054,15 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>AtlUserInteractionSupportImpl</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">現在利用可能な Minecraft %1 の版次情報がありません</translation>
+        <translation>現在利用可能な Minecraft %1 の版次情報がありません</translation>
     </message>
     <message>
         <source>No versions are currently available</source>
-        <translation type="unfinished">現在利用可能な版次情報はありません</translation>
+        <translation>現在利用可能な版次情報はありません</translation>
     </message>
     <message>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">版次情報一覧の読込・受信に失敗しました!</translation>
+        <translation>版次情報一覧の読込・受信に失敗しました!</translation>
     </message>
     <message>
         <source>Installing</source>
@@ -1093,11 +1093,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">認証処理が成功しました。</translation>
+        <translation>認証処理が成功しました。</translation>
     </message>
     <message>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">認証伺伝機に接続できませんでした。</translation>
+        <translation>認証伺伝機に接続できませんでした。</translation>
     </message>
     <message>
         <source>Client ID has changed. New session needs to be created.</source>
@@ -1105,23 +1105,23 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">認証中に錯誤が発生しました。</translation>
+        <translation>認証中に錯誤が発生しました。</translation>
     </message>
     <message>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">認証に失敗しました。会話有効期限切れです。</translation>
+        <translation>認証に失敗しました。会話有効期限切れです。</translation>
     </message>
     <message>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">認証に失敗しました。この帳戸は存在しません。</translation>
+        <translation>認証に失敗しました。この帳戸は存在しません。</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">不明な帳戸作動状態: %1</translation>
+        <translation>不明な帳戸作動状態: %1</translation>
     </message>
 </context>
 <context>
@@ -1191,7 +1191,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">装入する</translation>
+        <translation>装入する</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1315,11 +1315,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">スキップ</translation>
+        <translation>スキップ</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1400,7 +1400,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
 </context>
 <context>
@@ -1496,7 +1496,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">お待ちください...</translation>
+        <translation>お待ちください...</translation>
     </message>
     <message>
         <source>Waiting for a task to start...</source>
@@ -1663,7 +1663,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
 </context>
 <context>
@@ -1850,7 +1850,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -1906,7 +1906,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (使用中)</translation>
+        <translation>%1 (使用中)</translation>
     </message>
     <message>
         <source>%1 - %2</source>
@@ -2004,15 +2004,15 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CustomPage</name>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">フィルター</translation>
+        <translation>フィルター</translation>
     </message>
     <message>
         <source>Releases</source>
-        <translation type="unfinished">通常のリリース</translation>
+        <translation>通常のリリース</translation>
     </message>
     <message>
         <source>Snapshots</source>
-        <translation type="unfinished">スナップショット</translation>
+        <translation>スナップショット</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -2020,19 +2020,19 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Betas</source>
-        <translation type="unfinished">ベータ</translation>
+        <translation>ベータ</translation>
     </message>
     <message>
         <source>Alphas</source>
-        <translation type="unfinished">アルファ</translation>
+        <translation>アルファ</translation>
     </message>
     <message>
         <source>Experiments</source>
-        <translation type="unfinished">実験的なバージョン</translation>
+        <translation>実験的なバージョン</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">リフレッシュ</translation>
+        <translation>リフレッシュ</translation>
     </message>
     <message>
         <source>Mod Loader</source>
@@ -2064,7 +2064,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">自定</translation>
+        <translation>自定</translation>
     </message>
     <message>
         <source>No Minecraft version is selected.</source>
@@ -2076,7 +2076,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">現在利用可能な Minecraft %1 の版次情報がありません</translation>
+        <translation>現在利用可能な Minecraft %1 の版次情報がありません</translation>
     </message>
 </context>
 <context>
@@ -2102,7 +2102,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>DataPackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -2126,7 +2126,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">今すぐ更新する</translation>
+        <translation>今すぐ更新する</translation>
     </message>
     <message>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
@@ -2373,15 +2373,15 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">値</translation>
+        <translation>値</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">追加</translation>
+        <translation>追加</translation>
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
@@ -2389,7 +2389,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -2420,7 +2420,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2507,11 +2507,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
     <message>
         <source>Export %1</source>
-        <translation type="unfinished">%1 を導出する</translation>
+        <translation>%1 を導出する</translation>
     </message>
     <message>
         <source>Modrinth pack</source>
@@ -2558,7 +2558,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">自定</translation>
+        <translation>自定</translation>
     </message>
     <message>
         <source>Template</source>
@@ -2607,7 +2607,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">複製</translation>
+        <translation>複製</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2619,11 +2619,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Export %1</source>
-        <translation type="unfinished">%1 を導出する</translation>
+        <translation>%1 を導出する</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">ファイル</translation>
+        <translation>ファイル</translation>
     </message>
 </context>
 <context>
@@ -2642,15 +2642,15 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>&amp;Enable</source>
-        <translation type="unfinished">有効化</translation>
+        <translation>有効化</translation>
     </message>
     <message>
         <source>&amp;Disable</source>
-        <translation type="unfinished">無効化</translation>
+        <translation>無効化</translation>
     </message>
     <message>
         <source>Enable all selected items.</source>
@@ -2659,7 +2659,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2679,15 +2679,15 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">Configを見る</translation>
+        <translation>Configを見る</translation>
     </message>
     <message>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">ファイルブラウザでconfigフォルダを開きます。</translation>
+        <translation>ファイルブラウザでconfigフォルダを開きます。</translation>
     </message>
     <message>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">フォルダーを表示</translation>
+        <translation>フォルダーを表示</translation>
     </message>
     <message>
         <source>Open the folder in the system file manager.</source>
@@ -2764,7 +2764,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">%1 を選択</translation>
+        <translation>%1 を選択</translation>
     </message>
     <message>
         <source>You are about to remove %1 items.
@@ -2818,7 +2818,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">参照</translation>
+        <translation>参照</translation>
     </message>
     <message>
         <source>Used to edit component JSON files.</source>
@@ -2834,15 +2834,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">追加</translation>
+        <translation>追加</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3043,7 +3043,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">パックのバージョン %1 が見つかりませんでした</translation>
+        <translation>パックのバージョン %1 が見つかりませんでした</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -3224,15 +3224,15 @@ Please try again.</source>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">これらの本機の上位数元の索引の取得に失敗しました: %1</translation>
+        <translation>これらの本機の上位数元の索引の取得に失敗しました: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Mod 装載器 %1 の指定した版次が見つかりませんでした</translation>
+        <translation>Mod 装載器 %1 の指定した版次が見つかりませんでした</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Mod 装載器の版次がまだ設定していません!</translation>
+        <translation>Mod 装載器の版次がまだ設定していません!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3241,20 +3241,19 @@ Please try again.</source>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">上書き文件集の名前変更に失敗しました:
-</translation>
+        <translation>上書き文件集の名前変更に失敗しました:</translation>
     </message>
     <message>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">指定された上書き文件集 (%1) がありません。この Mod 整合包は以前から使われていたのでしょうか?</translation>
+        <translation>指定された上書き文件集 (%1) がありません。この Mod 整合包は以前から使われていたのでしょうか?</translation>
     </message>
     <message>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Mod 声明文件に不明な Mod 装載器があります: %1</translation>
+        <translation>Mod 声明文件に不明な Mod 装載器があります: %1</translation>
     </message>
     <message>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">包の導入中に，Minecraft 版次番号から謎の末尾付点を削除した。</translation>
+        <translation>包の導入中に，Minecraft 版次番号から謎の末尾付点を削除した。</translation>
     </message>
     <message>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
@@ -3279,8 +3278,7 @@ Please try again.</source>
     <message>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Mod 識別子を解析不能:
-</translation>
+        <translation>Mod 識別子を解析不能:</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
@@ -3432,7 +3430,7 @@ Please try again.</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">検索と濾過...</translation>
+        <translation>検索と濾過...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3445,32 +3443,32 @@ Please try again.</source>
     <message>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">注目順で並べ替え</translation>
+        <translation>注目順で並べ替え</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">人気順で並び替え</translation>
+        <translation>人気順で並び替え</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">更新日順で並べ替え</translation>
+        <translation>更新日順で並べ替え</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">名前順で並べ替え</translation>
+        <translation>名前順で並べ替え</translation>
     </message>
     <message>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">作成者順で並び替え</translation>
+        <translation>作成者順で並び替え</translation>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">総受信数で並び替え</translation>
+        <translation>総受信数で並び替え</translation>
     </message>
     <message>
         <source>No version is available!</source>
@@ -3506,7 +3504,7 @@ Please try again.</source>
     <message>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Minecraft の二進文件の文件集の作成に失敗しました。</translation>
+        <translation>Minecraft の二進文件の文件集の作成に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -3514,17 +3512,17 @@ Please try again.</source>
     <message>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">遊んだ回数で並べ替え</translation>
+        <translation>遊んだ回数で並べ替え</translation>
     </message>
     <message>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">装入数で並べ替え</translation>
+        <translation>装入数で並べ替え</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">名前で並べ替え</translation>
+        <translation>名前で並べ替え</translation>
     </message>
 </context>
 <context>
@@ -3536,7 +3534,7 @@ Please try again.</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">検索と濾過...</translation>
+        <translation>検索と濾過...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3685,7 +3683,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished">旧式</translation>
+        <translation>旧式</translation>
     </message>
     <message>
         <source>Modpacks</source>
@@ -3693,7 +3691,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">自定</translation>
+        <translation>自定</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3709,7 +3707,7 @@ Please try again.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -3760,7 +3758,7 @@ Please try again.</source>
     <message>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Zip 圧縮文件から導入</translation>
+        <translation>Zip 圧縮文件から導入</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3816,7 +3814,7 @@ Please try again.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
 </context>
 <context>
@@ -3863,7 +3861,7 @@ Please try again.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3920,7 +3918,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">現在利用可能な Minecraft %1 の版次情報がありません</translation>
+        <translation>現在利用可能な Minecraft %1 の版次情報がありません</translation>
     </message>
 </context>
 <context>
@@ -4083,7 +4081,7 @@ What would you like to do with %2?</source>
     <message>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">その他のログ</translation>
+        <translation>その他のログ</translation>
     </message>
     <message>
         <source>Edit Instance (%1)</source>
@@ -4269,7 +4267,7 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">スキップ</translation>
+        <translation>スキップ</translation>
     </message>
     <message>
         <source>Error</source>
@@ -4540,11 +4538,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">リフレッシュ</translation>
+        <translation>リフレッシュ</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -4719,7 +4717,7 @@ Java の版次設定は何時でも，&quot;設定&quot;で変更できます。
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">実行域の量を個別指定 (&amp;Y)</translation>
+        <translation>実行域の量を個別指定 (&amp;Y)</translation>
     </message>
     <message>
         <source>Memory suggestion</source>
@@ -4791,7 +4789,7 @@ Java の版次設定は何時でも，&quot;設定&quot;で変更できます。
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Java の版次を選択してください</translation>
+        <translation>Java の版次を選択してください</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
@@ -4881,7 +4879,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished">Javaの版次が未選択</translation>
+        <translation>Javaの版次が未選択</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -4894,7 +4892,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Java の実行可能文件を探す</translation>
+        <translation>Java の実行可能文件を探す</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -4902,11 +4900,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Minecraft が使用できる最大実行域量です。</translation>
+        <translation>Minecraft が使用できる最大実行域量です。</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">最小実行域割り当て:</translation>
+        <translation>最小実行域割り当て:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
@@ -4914,15 +4912,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Minecraft 起動時に割り当てた実行域量です。</translation>
+        <translation>Minecraft 起動時に割り当てた実行域量です。</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">読み込めた Java 類の格納用に割り当てた実行域量です。</translation>
+        <translation>読み込めた Java 類の格納用に割り当てた実行域量です。</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">参照</translation>
+        <translation>参照</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -5308,7 +5306,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished">PolyMC の起動時に更新を確認します?</translation>
+        <translation>PolyMC の起動時に更新を確認します?</translation>
     </message>
     <message>
         <source>Up&amp;date Channel:</source>
@@ -5328,7 +5326,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">参照</translation>
+        <translation>参照</translation>
     </message>
     <message>
         <source>Instance Sorting</source>
@@ -5433,7 +5431,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished">最後に起動した順 (&amp;L)</translation>
+        <translation>最後に起動した順 (&amp;L)</translation>
     </message>
     <message>
         <source>By &amp;name</source>
@@ -5552,7 +5550,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -5654,7 +5652,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished">履録が制限超えたときに記録停止</translation>
+        <translation>履録が制限超えたときに記録停止</translation>
     </message>
     <message>
         <source> lines</source>
@@ -5787,23 +5785,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">FML 庫を検査中...</translation>
+        <translation>FML 庫を検査中...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">FML 庫を受信中...</translation>
+        <translation>FML 庫を受信中...</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">FML 庫を構成実例に複製中...</translation>
+        <translation>FML 庫を構成実例に複製中...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">構成実例の文件集に庫文件集の作成に失敗しました。</translation>
+        <translation>構成実例の文件集に庫文件集の作成に失敗しました。</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Forge/FML 庫の複製に失敗しました: %1。</translation>
+        <translation>Forge/FML 庫の複製に失敗しました: %1。</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -5811,11 +5809,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">以下の文件の受信に失敗しました:
-%1
-
-理由: %2
-もう一度やり直してください。</translation>
+        <translation>以下の文件の受信に失敗しました:</translation>
     </message>
 </context>
 <context>
@@ -5823,12 +5817,12 @@ Please try again.</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">名前で並べ替え</translation>
+        <translation>名前で並べ替え</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">版次順で並べ替え</translation>
+        <translation>版次順で並べ替え</translation>
     </message>
 </context>
 <context>
@@ -5886,7 +5880,7 @@ Please try again.</source>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">解凍した Minecraft の文件の移動に失敗しました!</translation>
+        <translation>解凍した Minecraft の文件の移動に失敗しました!</translation>
     </message>
     <message>
         <source>No installation method found!</source>
@@ -6020,7 +6014,7 @@ Should it be removed now?</source>
     <message>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Mojang から依存庫 (library) を取得しています...</translation>
+        <translation>Mojang から依存庫 (library) を取得しています...</translation>
     </message>
     <message>
         <source>Libraries for instance %1</source>
@@ -6094,7 +6088,7 @@ Reason:
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">履録を paste.ee (線上にある貼付板) に複製する - 1か月間の保存期限があります</translation>
+        <translation>履録を paste.ee (線上にある貼付板) に複製する - 1か月間の保存期限があります</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -6110,7 +6104,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -6270,11 +6264,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">お待ちください...</translation>
+        <translation>お待ちください...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">状態</translation>
+        <translation>状態</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -6816,7 +6810,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">帳戸管理</translation>
+        <translation>帳戸管理</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -6853,7 +6847,7 @@ Reason:
     <message>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">選択したインスタンスのワールドを表示します。</translation>
+        <translation>選択したインスタンスのワールドを表示します。</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -6933,12 +6927,12 @@ Reason:
     <message>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">構成実例の作成</translation>
+        <translation>構成実例の作成</translation>
     </message>
     <message>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">グループ &apos;%1&apos; を削除</translation>
+        <translation>グループ &apos;%1&apos; を削除</translation>
     </message>
     <message>
         <source>Profilers</source>
@@ -7250,7 +7244,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">更新失敗</translation>
+        <translation>更新失敗</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -7288,7 +7282,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -7339,7 +7333,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Profilers</source>
-        <translation type="unfinished">プロファイラ</translation>
+        <translation>プロファイラ</translation>
     </message>
     <message>
         <source>&amp;No Profiler</source>
@@ -7491,7 +7485,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">ここの設定は全般設定を上書きます。</translation>
+        <translation>ここの設定は全般設定を上書きます。</translation>
     </message>
     <message>
         <source>General</source>
@@ -7507,7 +7501,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Minecraft 起動時に最大化?</translation>
+        <translation>Minecraft 起動時に最大化?</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -7527,11 +7521,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">インスタンスのプレイ時間を表示する</translation>
+        <translation>インスタンスのプレイ時間を表示する</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">インスタンスのプレイ時間を記録する</translation>
+        <translation>インスタンスのプレイ時間を記録する</translation>
     </message>
     <message>
         <source>Show the &amp;total time played across instances</source>
@@ -7579,11 +7573,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">系統にある OpenAL を使う</translation>
+        <translation>系統にある OpenAL を使う</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">系統にある GLFW を使う</translation>
+        <translation>系統にある GLFW を使う</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
@@ -7640,7 +7634,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">参照</translation>
+        <translation>参照</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -7776,11 +7770,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">伺伝の番址:</translation>
+        <translation>伺伝の番址:</translation>
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">自定指令管理</translation>
+        <translation>自定指令管理</translation>
     </message>
     <message>
         <source>Environment Variables</source>
@@ -7834,7 +7828,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8021,7 +8015,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">全改作</translation>
+        <translation>全改作</translation>
     </message>
 </context>
 <context>
@@ -8088,7 +8082,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">今すぐ更新する</translation>
+        <translation>今すぐ更新する</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -8528,8 +8522,7 @@ Please update %1!</source>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">上書き文件集の名前変更に失敗しました:
-</translation>
+        <translation>上書き文件集の名前変更に失敗しました:</translation>
     </message>
     <message>
         <source>Could not rename the client overrides folder:
@@ -8647,7 +8640,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">選択された版次:</translation>
+        <translation>選択された版次:</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -8661,7 +8654,7 @@ Please update %1!</source>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">更新日順で並べ替え</translation>
+        <translation>更新日順で並べ替え</translation>
     </message>
     <message>
         <source>Error</source>
@@ -8702,11 +8695,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">総受信数で並び替え</translation>
+        <translation>総受信数で並び替え</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> 作成者: </translation>
+        <translation>作成者:</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -8848,7 +8841,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
 </context>
 <context>
@@ -8875,7 +8868,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8914,7 +8907,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -9153,7 +9146,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">装入する</translation>
+        <translation>装入する</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9184,7 +9177,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
 </context>
 <context>
@@ -9199,7 +9192,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">一番下まで頁巻く</translation>
+        <translation>一番下まで頁巻く</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -9223,11 +9216,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">更新し続ける</translation>
+        <translation>更新し続ける</translation>
     </message>
     <message>
         <source>Wrap lines</source>
-        <translation type="unfinished">行を折り返す</translation>
+        <translation>行を折り返す</translation>
     </message>
     <message>
         <source>Color lines</source>
@@ -9243,7 +9236,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">履録を paste.ee (線上にある貼付板) に複製する - 1か月間の保存期限があります</translation>
+        <translation>履録を paste.ee (線上にある貼付板) に複製する - 1か月間の保存期限があります</translation>
     </message>
     <message>
         <source>&amp;Upload</source>
@@ -9259,7 +9252,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -9291,7 +9284,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">此乃記録超過 %1 行故、不可表示此乃記録。</translation>
+        <translation>此乃記録超過 %1 行故、不可表示此乃記録。</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -9343,7 +9336,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">消去</translation>
+        <translation>消去</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -9386,67 +9379,67 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">これらの本機の上位数元の索引の取得に失敗しました: &apos;%1&apos; v%2</translation>
+        <translation>これらの本機の上位数元の索引の取得に失敗しました: &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">不明なmodの種類: %1</translation>
+        <translation>不明なmodの種類: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">これらの本機の上位数元の索引の取得に失敗しました: %1</translation>
+        <translation>これらの本機の上位数元の索引の取得に失敗しました: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Mod 装載器 %1 の指定した版次が見つかりませんでした</translation>
+        <translation>Mod 装載器 %1 の指定した版次が見つかりませんでした</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Mod 装載器の版次がまだ設定していません!</translation>
+        <translation>Mod 装載器の版次がまだ設定していません!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">不明または非対応な受信形式です: %1</translation>
+        <translation>不明または非対応な受信形式です: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">配置情報を受信しています…</translation>
+        <translation>配置情報を受信しています…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">配置情報の受信</translation>
+        <translation>配置情報の受信</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">配置情報を展開しています…</translation>
+        <translation>配置情報を展開しています…</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">追加の Mod を選択してください…</translation>
+        <translation>追加の Mod を選択してください…</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">不明な受信形式です: %1</translation>
+        <translation>不明な受信形式です: %1</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Mod の展開に失敗しました…</translation>
+        <translation>Mod の展開に失敗しました…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Mod を展開しています…</translation>
+        <translation>Mod を展開しています…</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">庫部品の作成に失敗しました</translation>
+        <translation>庫部品の作成に失敗しました</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">不明な Mod 装載器種類です: </translation>
+        <translation>不明な Mod 装載器種類です:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">整合包部品の作成に失敗しました</translation>
+        <translation>整合包部品の作成に失敗しました</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -9962,7 +9955,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
 </context>
 <context>
@@ -9983,7 +9976,7 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -10079,17 +10072,17 @@ HTTP Status: %2</source>
     <message>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SOC&amp;KS5</translation>
+        <translation>SOC&amp;KS5</translation>
     </message>
     <message>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished">H&amp;TTP</translation>
+        <translation>H&amp;TTP</translation>
     </message>
     <message>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">アドレスとポート</translation>
+        <translation>アドレスとポート</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -10098,12 +10091,12 @@ HTTP Status: %2</source>
     <message>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">ユーザー名:</translation>
+        <translation>ユーザー名:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">暗証文:</translation>
+        <translation>暗証文:</translation>
     </message>
     <message>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
@@ -10236,12 +10229,12 @@ Proceed with truncation?</source>
     <message>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定されたJavaバイナリが正しく起動しませんでした。&lt;br /&gt;</translation>
+        <translation>指定されたJavaバイナリが正しく起動しませんでした。&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定されたJavaバイナリは予期しない結果を返しました:&lt;br /&gt;</translation>
+        <translation>指定されたJavaバイナリは予期しない結果を返しました:&lt;br /&gt;</translation>
     </message>
     <message>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
@@ -10401,9 +10394,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">JVMメモリオプションを(&quot;-XX:PermSize&quot;,&quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;,&quot;-Xmx&quot;または&quot;-Xms&quot;
-を使用して)手動で設定しようとしました。設定にはこれらのための専用のボックスがあります(上部のJavaタブのMemoryグループ)。
-このメッセージは、JVM引数から削除するまで表示されます。</translation>
+        <translation>JVMメモリオプションを(&quot;-XX:PermSize&quot;,&quot;-XX-MaxHeapSize&quot;,&quot;-XX:InitialHeapSize&quot;,&quot;-Xmx&quot;または&quot;-Xms&quot;</translation>
     </message>
     <message>
         <source>JVM arguments warning</source>
@@ -10420,12 +10411,12 @@ This message will be displayed until you remove this from the JVM arguments.</so
     </message>
     <message>
         <source>&lt;br /&gt;Warnings:&lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</source>
-        <translation type="unfinished">&lt;br /&gt;修正に失敗しました:警告: &lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
+        <translation>&lt;br /&gt;修正に失敗しました:警告: &lt;br /&gt;&lt;font color=&quot;orange&quot;&gt;%1&lt;/font&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">指定されたJavaバイナリは、指定された引数では動作しませんでした:&lt;br /&gt;</translation>
+        <translation>指定されたJavaバイナリは、指定された引数では動作しませんでした:&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -10586,15 +10577,15 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Featured</source>
-        <translation type="unfinished">注目順で並べ替え</translation>
+        <translation>注目順で並べ替え</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">人気順で並び替え</translation>
+        <translation>人気順で並び替え</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">更新日順で並べ替え</translation>
+        <translation>更新日順で並べ替え</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -10602,7 +10593,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Author</source>
-        <translation type="unfinished">作成者順で並び替え</translation>
+        <translation>作成者順で並び替え</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -10679,12 +10670,12 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">未確認</translation>
+        <translation>未確認</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">脱機</translation>
+        <translation>脱機</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -10694,17 +10685,17 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">処理中</translation>
+        <translation>処理中</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">異常</translation>
+        <translation>異常</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">期限切れ</translation>
+        <translation>期限切れ</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -10714,7 +10705,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">無くなった</translation>
+        <translation>無くなった</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -11029,7 +11020,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">%1のバージョンを変更</translation>
+        <translation>%1のバージョンを変更</translation>
     </message>
     <message>
         <source>mods</source>
@@ -11102,7 +11093,7 @@ Please update %1!</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> 作成者: </translation>
+        <translation>作成者:</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -11219,7 +11210,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -11243,7 +11234,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">今すぐ更新する</translation>
+        <translation>今すぐ更新する</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -11328,7 +11319,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">今すぐ更新する</translation>
+        <translation>今すぐ更新する</translation>
     </message>
     <message>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
@@ -11353,7 +11344,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -11458,7 +11449,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">選択された版次:</translation>
+        <translation>選択された版次:</translation>
     </message>
     <message>
         <source>Filter options</source>
@@ -11602,7 +11593,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -11757,7 +11748,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
 </context>
 <context>
@@ -11805,7 +11796,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
 </context>
 <context>
@@ -11846,7 +11837,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">脱機</translation>
+        <translation>脱機</translation>
     </message>
     <message>
         <source>Online</source>
@@ -11909,7 +11900,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">リフレッシュ</translation>
+        <translation>リフレッシュ</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -12083,7 +12074,7 @@ Are you sure?</source>
     <name>SkinManageDialog</name>
     <message>
         <source>Skin Upload</source>
-        <translation type="unfinished">スキンのアップロード</translation>
+        <translation>スキンのアップロード</translation>
     </message>
     <message>
         <source>Model</source>
@@ -12099,7 +12090,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cape</source>
-        <translation type="unfinished">マント</translation>
+        <translation>マント</translation>
     </message>
     <message>
         <source>Preview Elytra</source>
@@ -12107,7 +12098,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">文件集を開く</translation>
+        <translation>文件集を開く</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -12127,7 +12118,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">外見相の設定解除</translation>
+        <translation>外見相の設定解除</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -12155,11 +12146,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">スキンを選択</translation>
+        <translation>スキンを選択</translation>
     </message>
     <message>
         <source>Selected file is not a valid skin</source>
@@ -12167,7 +12158,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>No Cape</source>
-        <translation type="unfinished">マントなし</translation>
+        <translation>マントなし</translation>
     </message>
     <message>
         <source>Download capes</source>
@@ -12179,11 +12170,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">スキンファイルが存在しません!</translation>
+        <translation>スキンファイルが存在しません!</translation>
     </message>
     <message>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">スキンをアップロードできませんでした!</translation>
+        <translation>スキンをアップロードできませんでした!</translation>
     </message>
     <message>
         <source>Reset skin</source>
@@ -12191,11 +12182,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">外見相の削除</translation>
+        <translation>外見相の削除</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">現在の外見相を削除できませんでした!</translation>
+        <translation>現在の外見相を削除できませんでした!</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -12365,15 +12356,13 @@ Are you sure?</source>
     <name>TaskStepWrapper</name>
     <message>
         <source>Task aborted.</source>
-        <translation type="unfinished">タスクは中断されました。</translation>
+        <translation>タスクは中断されました。</translation>
     </message>
     <message>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">インスタンスのアップデートは失敗しました: %1
-
-</translation>
+        <translation>インスタンスのアップデートは失敗しました: %1</translation>
     </message>
 </context>
 <context>
@@ -12494,7 +12483,7 @@ Are you sure?</source>
     <message>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">&quot;bin/modpack.jar&quot; 内に &quot;version.json&quot; が見つからず、Minecraft のバージョンが不明です</translation>
+        <translation>&quot;bin/modpack.jar&quot; 内に &quot;version.json&quot; が見つからず、Minecraft のバージョンが不明です</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
@@ -12533,12 +12522,12 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">選択された版次:</translation>
+        <translation>選択された版次:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">検索＆フィルタ…</translation>
+        <translation>検索＆フィルタ…</translation>
     </message>
     <message>
         <source>Search</source>
@@ -12577,7 +12566,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -12597,7 +12586,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">今すぐ更新する</translation>
+        <translation>今すぐ更新する</translation>
     </message>
     <message>
         <source>The source provider of the texture pack.</source>
@@ -12717,7 +12706,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">外観</translation>
+        <translation>外観</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -12862,7 +12851,7 @@ Are you sure?</source>
     <name>VanillaCreationTask</name>
     <message>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">版次 %1 から構成実例を作成中</translation>
+        <translation>版次 %1 から構成実例を作成中</translation>
     </message>
 </context>
 <context>
@@ -13090,7 +13079,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -13102,7 +13091,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">上へ移動</translation>
+        <translation>上へ移動</translation>
     </message>
     <message>
         <source>Make the selected component apply sooner.</source>
@@ -13110,7 +13099,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">下へ移動</translation>
+        <translation>下へ移動</translation>
     </message>
     <message>
         <source>Make the selected component apply later.</source>
@@ -13310,7 +13299,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">装入する</translation>
+        <translation>装入する</translation>
     </message>
     <message>
         <source>Confirm Reversion</source>
@@ -13467,7 +13456,7 @@ Please add your Mojang or Minecraft account.</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">検査終了</translation>
+        <translation>検査終了</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13490,7 +13479,7 @@ Please add your Mojang or Minecraft account.</source>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">検索</translation>
+        <translation>検索</translation>
     </message>
     <message>
         <source>Error</source>
@@ -13589,7 +13578,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">参加する</translation>
+        <translation>参加する</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -13605,7 +13594,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>MCEdit</source>
@@ -13946,7 +13935,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">暗証文</translation>
+        <translation>暗証文</translation>
     </message>
     <message>
         <source>Sign in</source>

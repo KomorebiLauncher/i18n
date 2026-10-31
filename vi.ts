@@ -1359,7 +1359,7 @@ Một số phiên bản Minecraft có thể không khởi động.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Cài đặt</translation>
+        <translation>Cài đặt</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3725,7 +3725,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished">Modpack đang cố gắng tải xuống một tệp tin nằm ngoài thư mục bản cài đặt (%1). Đây là rủi ro về bảo mật và không được cho phép.</translation>
+        <translation>Modpack đang cố gắng tải xuống một tệp tin nằm ngoài thư mục bản cài đặt (%1). Đây là rủi ro về bảo mật và không được cho phép.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
@@ -7901,7 +7901,7 @@ Lý do:
     </message>
     <message>
         <source>Open the mods folder in a file browser.</source>
-        <translation type="unfinished">Mở thư mục mods trong trình duyệt tệp tin.</translation>
+        <translation>Mở thư mục mods trong trình duyệt tệp tin.</translation>
     </message>
     <message>
         <source>&amp;Skins</source>
@@ -9491,7 +9491,7 @@ Bạn có thể sẽ phải thay đổi đường dẫn - vui lòng tham khảo 
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Loại bỏ</translation>
+        <translation>Loại bỏ</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -11316,7 +11316,7 @@ GHI CHÚ: Hãy chắc chắn rằng bạn đã tạo một bản sao lưu dữ l
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Cài đặt</translation>
+        <translation>Cài đặt</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12329,7 +12329,7 @@ Trạng thái HTTP: %2</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Hủy bỏ</translation>
+        <translation>Hủy bỏ</translation>
     </message>
 </context>
 <context>
@@ -13841,7 +13841,7 @@ Bạn có chắc muốn làm điều này?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Hình ảnh</translation>
+        <translation>Hình ảnh</translation>
     </message>
 </context>
 <context>
@@ -14481,7 +14481,7 @@ Hiện đang cài đặt phiên bản: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Phiên bản</translation>
+        <translation>Phiên bản</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14489,7 +14489,7 @@ Hiện đang cài đặt phiên bản: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Ngoại tuyến</translation>
+        <translation>Ngoại tuyến</translation>
     </message>
     <message>
         <source>Online</source>
@@ -16113,7 +16113,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Cài đặt</translation>
+        <translation>Cài đặt</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -16833,11 +16833,11 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Tên người dùng</translation>
+        <translation>Tên người dùng</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Mật khẩu</translation>
+        <translation>Mật khẩu</translation>
     </message>
     <message>
         <source>Sign in</source>

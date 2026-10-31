@@ -27,7 +27,7 @@
     </message>
     <message>
         <source>Refresh on launch</source>
-        <translation type="unfinished">Verfris met oopmaak</translation>
+        <translation>Verfris met oopmaak</translation>
     </message>
     <message>
         <source>Assets Server</source>
@@ -185,7 +185,7 @@
     </message>
     <message>
         <source>You can set this to a third-party metadata server to use patched libraries or other hacks.</source>
-        <translation type="unfinished">Jy kan dit op &apos;n derdeparty-metadatabediener stel om reggemaakte biblioteke of ander kuberkrake te gebruik.</translation>
+        <translation>Jy kan dit op &apos;n derdeparty-metadatabediener stel om reggemaakte biblioteke of ander kuberkrake te gebruik.</translation>
     </message>
     <message>
         <source>Enter a custom URL for meta here.</source>
@@ -359,7 +359,7 @@
     </message>
     <message>
         <source>Commit:</source>
-        <translation type="unfinished">Pleeg:</translation>
+        <translation>Pleeg:</translation>
     </message>
     <message>
         <source>Channel:</source>
@@ -446,7 +446,7 @@
     </message>
     <message>
         <source>Type of the account (MSA or Offline)</source>
-        <translation type="unfinished">Tipe van die rekening (MSA of Aflyn)</translation>
+        <translation>Tipe van die rekening (MSA of Aflyn)</translation>
     </message>
     <message>
         <source>Username</source>
@@ -561,7 +561,7 @@ As jy nuut hier is kan jy die &quot;Voeg Microsoft By&quot;-knoppie kies om jou 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Konteks Kieslys</translation>
+        <translation>Konteks Kieslys</translation>
     </message>
     <message>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
@@ -1090,11 +1090,11 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installeer</translation>
+        <translation>Installeer</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
 </context>
 <context>
@@ -1276,7 +1276,7 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Gebruikersnaam</translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1550,11 +1550,11 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1737,7 +1737,7 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -1915,7 +1915,7 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Geen weergawes beskikbaar op die oomblik vir Minecraft %1 nie</translation>
+        <translation>Geen weergawes beskikbaar op die oomblik vir Minecraft %1 nie</translation>
     </message>
 </context>
 <context>
@@ -1945,7 +1945,7 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     <name>DataPackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -2029,7 +2029,7 @@ Jy mag hierdie probleem oplos deur /tmp as &apos;exec&apos; te hermonteer of die
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2180,11 +2180,11 @@ This instance cannot be launched because some libraries are missing or have not 
     <name>EnvironmentVariables</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+        <translation>Vorm</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Value</source>
@@ -2215,11 +2215,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2227,7 +2227,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Unable to export instance</source>
@@ -2290,11 +2290,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2310,7 +2310,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
 </context>
 <context>
@@ -2321,7 +2321,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">instellings</translation>
+        <translation>instellings</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -2398,7 +2398,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2538,7 +2538,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekslys</translation>
+        <translation>Kontekslys</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -2621,7 +2621,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2673,7 +2673,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Error while checking JProfiler install:
@@ -2682,7 +2682,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>JProfiler setup seems to be OK</source>
@@ -2745,8 +2745,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Kon nie pakmanifes verstaan nie:
-</translation>
+        <translation>Kon nie pakmanifes verstaan nie:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -2762,7 +2761,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
+        <translation>Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -2770,11 +2769,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Laai tans mod&apos;s af...</translation>
+        <translation>Laai tans mod&apos;s af...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod afgelaai</translation>
+        <translation>Mod afgelaai</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -2793,11 +2792,11 @@ Are you sure you want to do this?</source>
     <name>FTBImportAPP::FilterModel</name>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sorteer by naam</translation>
+        <translation>Sorteer by naam</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sorteer by Speeletjie-weergawe</translation>
+        <translation>Sorteer by Speeletjie-weergawe</translation>
     </message>
 </context>
 <context>
@@ -2812,7 +2811,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Soek en filtreer...</translation>
+        <translation>Soek en filtreer...</translation>
     </message>
     <message>
         <source>Select FTBApp instances directory</source>
@@ -2878,7 +2877,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
 </context>
 <context>
@@ -2886,8 +2885,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Kon nie pakmanifes verstaan nie:
-</translation>
+        <translation>Kon nie pakmanifes verstaan nie:</translation>
     </message>
     <message>
         <source> (version %1)</source>
@@ -2915,15 +2913,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Kon nie plaaslike metadata-indeks vir %1 kry nie</translation>
+        <translation>Kon nie plaaslike metadata-indeks vir %1 kry nie</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Kon nie weergawe vir %1 loader vind nie</translation>
+        <translation>Kon nie weergawe vir %1 loader vind nie</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Geen laaier weergawe gestel vir modpak!</translation>
+        <translation>Geen laaier weergawe gestel vir modpak!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -2957,12 +2955,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Geblokkeerde mod&apos;s gevind</translation>
+        <translation>Geblokkeerde mod&apos;s gevind</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
+        <translation>Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -2974,7 +2972,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 uit %2 is klaar</translation>
+        <translation>%1 uit %2 is klaar</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -2994,7 +2992,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Laai tans mod&apos;s af...</translation>
+        <translation>Laai tans mod&apos;s af...</translation>
     </message>
 </context>
 <context>
@@ -3051,7 +3049,7 @@ Are you sure you want to do this?</source>
     <name>FlamePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Weergawe geselekteer:</translation>
+        <translation>Weergawe geselekteer:</translation>
     </message>
     <message>
         <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
@@ -3065,7 +3063,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Soek en filtreer...</translation>
+        <translation>Soek en filtreer...</translation>
     </message>
     <message>
         <source>Sort by Featured</source>
@@ -3075,7 +3073,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Sorteer by gewildheid</translation>
+        <translation>Sorteer by gewildheid</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -3085,7 +3083,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sorteer by naam</translation>
+        <translation>Sorteer by naam</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -3103,7 +3101,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source> by </source>
@@ -3146,18 +3144,18 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sorteer by naam</translation>
+        <translation>Sorteer by naam</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Weergawe geselekteer:</translation>
+        <translation>Weergawe geselekteer:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Soek en filtreer...</translation>
+        <translation>Soek en filtreer...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3272,15 +3270,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Maak Leêgids Oop</translation>
+        <translation>Maak Leêgids Oop</translation>
     </message>
     <message>
         <source>Select Icons</source>
@@ -3326,7 +3324,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -3375,11 +3373,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3415,15 +3413,15 @@ Are you sure you want to do this?</source>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Verfris</translation>
+        <translation>&amp;Verfris</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>NeoForge</source>
@@ -3476,7 +3474,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Geen weergawes beskikbaar op die oomblik vir Minecraft %1 nie</translation>
+        <translation>Geen weergawes beskikbaar op die oomblik vir Minecraft %1 nie</translation>
     </message>
 </context>
 <context>
@@ -3571,7 +3569,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">instellings</translation>
+        <translation>instellings</translation>
     </message>
 </context>
 <context>
@@ -3589,7 +3587,7 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Slaan oor</translation>
+        <translation>Slaan oor</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3647,7 +3645,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Maak toe</translation>
+        <translation>Maak toe</translation>
     </message>
     <message>
         <source>Kill the running instance</source>
@@ -3666,7 +3664,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiel geaborteer</translation>
+        <translation>Profiel geaborteer</translation>
     </message>
 </context>
 <context>
@@ -3677,7 +3675,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiel geaborteer</translation>
+        <translation>Profiel geaborteer</translation>
     </message>
 </context>
 <context>
@@ -3703,7 +3701,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Verfris</translation>
+        <translation>&amp;Verfris</translation>
     </message>
     <message>
         <source>Download</source>
@@ -3711,11 +3709,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -3731,15 +3729,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Installeer Java</translation>
+        <translation>Installeer Java</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Kon nie die Java-aflaai-tipe bepaal nie!</translation>
+        <translation>Kon nie die Java-aflaai-tipe bepaal nie!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
 </context>
 <context>
@@ -3851,7 +3849,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+        <translation>Vorm</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -4233,7 +4231,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Auth servers offline</source>
@@ -4317,7 +4315,7 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
@@ -4826,12 +4824,12 @@ Please try again.</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sorteer by naam</translation>
+        <translation>Sorteer by naam</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Sorteer by Speeletjie-weergawe</translation>
+        <translation>Sorteer by Speeletjie-weergawe</translation>
     </message>
 </context>
 <context>
@@ -4876,7 +4874,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installeer tans modpak</translation>
+        <translation>Installeer tans modpak</translation>
     </message>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
@@ -4892,7 +4890,7 @@ Please try again.</source>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Soek en filtreer...</translation>
+        <translation>Soek en filtreer...</translation>
     </message>
     <message>
         <source>Public</source>
@@ -4916,11 +4914,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Weergawe geselekteer:</translation>
+        <translation>Weergawe geselekteer:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>FTB private packs</source>
@@ -5090,7 +5088,7 @@ Reason:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+        <translation>Vorm</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -5178,11 +5176,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Wag Asseblief...</translation>
+        <translation>Wag Asseblief...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -5210,7 +5208,7 @@ Reason:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -5600,7 +5598,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Rekeninge</translation>
+        <translation>Rekeninge</translation>
     </message>
     <message>
         <source>&amp;Undo Last Instance Deletion</source>
@@ -5687,7 +5685,7 @@ Reason:
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -5934,7 +5932,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -5978,7 +5976,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Opdatering het misluk</translation>
+        <translation>Opdatering het misluk</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -6016,7 +6014,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -6036,7 +6034,7 @@ Are you sure?</source>
     <name>MinecraftAccount</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Afgebreek</translation>
+        <translation>Afgebreek</translation>
     </message>
 </context>
 <context>
@@ -6498,7 +6496,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>ModFilterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+        <translation>Vorm</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -6598,7 +6596,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -6666,7 +6664,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Alle Weergawes</translation>
+        <translation>Alle Weergawes</translation>
     </message>
 </context>
 <context>
@@ -6677,7 +6675,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Version</source>
@@ -6887,7 +6885,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -7009,7 +7007,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -7038,7 +7036,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -7091,11 +7089,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 uit %2 is klaar</translation>
+        <translation>%1 uit %2 is klaar</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Laai tans mod&apos;s af...</translation>
+        <translation>Laai tans mod&apos;s af...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -7183,7 +7181,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source> by </source>
@@ -7228,11 +7226,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Soek en filtreer...</translation>
+        <translation>Soek en filtreer...</translation>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Weergawe geselekteer:</translation>
+        <translation>Weergawe geselekteer:</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -7327,7 +7325,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -7358,7 +7356,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>uid</source>
@@ -7366,11 +7364,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -7397,11 +7395,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Help</source>
@@ -7436,7 +7434,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Maak toe</translation>
+        <translation>Maak toe</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -7656,11 +7654,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installeer</translation>
+        <translation>Installeer</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
 </context>
 <context>
@@ -7683,11 +7681,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -7762,7 +7760,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Unable to open %1 for reading: %2</source>
@@ -7810,7 +7808,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Kan nie hierdie log vertoon nie, aangesien die loglengte %1 reëls oorskry het.</translation>
+        <translation>Kan nie hierdie log vertoon nie, aangesien die loglengte %1 reëls oorskry het.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -7835,100 +7833,99 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Kon nie pakmanifes verstaan nie:
-</translation>
+        <translation>Kon nie pakmanifes verstaan nie:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Nie-ondersteunde installasie mode</translation>
+        <translation>Nie-ondersteunde installasie mode</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Kon nie plaaslike metadata-indeks vir &apos;%1&apos; v%2 kry nie</translation>
+        <translation>Kon nie plaaslike metadata-indeks vir &apos;%1&apos; v%2 kry nie</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Verwyder bestaande lêers...</translation>
+        <translation>Verwyder bestaande lêers...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Onbekende wysiging tipe %1</translation>
+        <translation>Onbekende wysiging tipe %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Kon nie plaaslike metadata-indeks vir %1 kry nie</translation>
+        <translation>Kon nie plaaslike metadata-indeks vir %1 kry nie</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Kon nie weergawe vir %1 loader vind nie</translation>
+        <translation>Kon nie weergawe vir %1 loader vind nie</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Onbekende of nie-ondersteunde aflaai tipe %1</translation>
+        <translation>Onbekende of nie-ondersteunde aflaai tipe %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Laai konfigurasies af...</translation>
+        <translation>Laai konfigurasies af...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Konfigurasie aflaai</translation>
+        <translation>Konfigurasie aflaai</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Onttrek konfigurasies...</translation>
+        <translation>Onttrek konfigurasies...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Kies tans opsionele mod&apos;s...</translation>
+        <translation>Kies tans opsionele mod&apos;s...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Laai tans mod&apos;s af...</translation>
+        <translation>Laai tans mod&apos;s af...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod afgelaai</translation>
+        <translation>Mod afgelaai</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Unbekende aflaai tipe %1</translation>
+        <translation>Unbekende aflaai tipe %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Geblokkeerde mod&apos;s gevind</translation>
+        <translation>Geblokkeerde mod&apos;s gevind</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
+        <translation>Die volgende vouers is nie beskikbaar vir aflaaing in derdeparty lanseerders nie.&lt;br/&gt;Jy sal hulle moet self aflaai en by die instansie invoeg.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 uit %2 is klaar</translation>
+        <translation>%1 uit %2 is klaar</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Kon nie mod&apos;s uittrek nie...</translation>
+        <translation>Kon nie mod&apos;s uittrek nie...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Onttrek mod&apos;s...</translation>
+        <translation>Onttrek mod&apos;s...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installeer tans modpak</translation>
+        <translation>Installeer tans modpak</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Kon nie biblioteek komponent maak nie</translation>
+        <translation>Kon nie biblioteek komponent maak nie</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Onbekende laaier tipe: </translation>
+        <translation>Onbekende laaier tipe:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Kon nie pakkomponent maak nie</translation>
+        <translation>Kon nie pakkomponent maak nie</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
@@ -7943,11 +7940,11 @@ Are you sure?</source>
     <name>PackProfile</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Afgebreek</translation>
+        <translation>Afgebreek</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Version</source>
@@ -7977,7 +7974,7 @@ Are you sure?</source>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+        <translation>Vorm</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -8346,11 +8343,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -8367,11 +8364,11 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -8407,7 +8404,7 @@ HTTP Status: %2</source>
     <name>ProgressDialog</name>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Wag Asseblief...</translation>
+        <translation>Wag Asseblief...</translation>
     </message>
     <message>
         <source>Global Task Status...</source>
@@ -8419,7 +8416,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Slaan oor</translation>
+        <translation>Slaan oor</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -8441,7 +8438,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tipe</translation>
+        <translation>Tipe</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -8870,7 +8867,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Sorteer by gewildheid</translation>
+        <translation>Sorteer by gewildheid</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -8878,7 +8875,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sorteer by naam</translation>
+        <translation>Sorteer by naam</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -8894,7 +8891,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sorteer by Speeletjie-weergawe</translation>
+        <translation>Sorteer by Speeletjie-weergawe</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -8926,7 +8923,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -8959,47 +8956,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ongekontroleer</translation>
+        <translation>Ongekontroleer</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Vanlyn</translation>
+        <translation>Vanlyn</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gereed</translation>
+        <translation>Gereed</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Werk daaraan</translation>
+        <translation>Werk daaraan</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Misluk</translation>
+        <translation>Misluk</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Verval</translation>
+        <translation>Verval</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gestremd</translation>
+        <translation>Gestremd</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Verwyder</translation>
+        <translation>Verwyder</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Onbekend</translation>
+        <translation>Onbekend</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -9295,7 +9292,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -9342,7 +9339,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -9459,7 +9456,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -9497,7 +9494,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -9635,7 +9632,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -9670,7 +9667,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -9728,7 +9725,7 @@ Are you sure?</source>
     <name>ResourcePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Weergawe geselekteer:</translation>
+        <translation>Weergawe geselekteer:</translation>
     </message>
     <message>
         <source>Filter options</source>
@@ -9767,7 +9764,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -9868,11 +9865,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -9944,7 +9941,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekslys</translation>
+        <translation>Kontekslys</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to %2.
@@ -10015,11 +10012,11 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10063,11 +10060,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10088,7 +10085,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Address</source>
@@ -10171,7 +10168,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekslys</translation>
+        <translation>Kontekslys</translation>
     </message>
     <message>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
@@ -10207,7 +10204,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Verfris</translation>
+        <translation>&amp;Verfris</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -10245,7 +10242,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -10354,7 +10351,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Maak Leêgids Oop</translation>
+        <translation>Maak Leêgids Oop</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -10398,11 +10395,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -10446,7 +10443,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekslys</translation>
+        <translation>Kontekslys</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -10524,7 +10521,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Vorm</translation>
+        <translation>Vorm</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -10539,7 +10536,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Afgebreek</translation>
+        <translation>Afgebreek</translation>
     </message>
 </context>
 <context>
@@ -10596,8 +10593,7 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Kon nie pakmanifes verstaan nie:
-</translation>
+        <translation>Kon nie pakmanifes verstaan nie:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
@@ -10658,16 +10654,16 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Weergawe geselekteer:</translation>
+        <translation>Weergawe geselekteer:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Soek en filtreer...</translation>
+        <translation>Soek en filtreer...</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source> by </source>
@@ -10678,7 +10674,7 @@ inheritsFrom is missing</source>
     <name>TexturePackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -10757,7 +10753,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -10826,7 +10822,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Voorkoms</translation>
+        <translation>Voorkoms</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -11107,7 +11103,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekslys</translation>
+        <translation>Kontekslys</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -11127,7 +11123,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -11207,7 +11203,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installeer</translation>
+        <translation>Installeer</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -11245,7 +11241,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tipe</translation>
+        <translation>Tipe</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -11322,11 +11318,11 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -11338,7 +11334,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Verfris</translation>
+        <translation>&amp;Verfris</translation>
     </message>
 </context>
 <context>
@@ -11349,7 +11345,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fout (·•᷄∩•᷅ )</translation>
+        <translation>Fout (·•᷄∩•᷅ )</translation>
     </message>
     <message>
         <source>List update failed:
@@ -11390,7 +11386,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Naam</translation>
+        <translation>Naam</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -11499,7 +11495,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekslys</translation>
+        <translation>Kontekslys</translation>
     </message>
     <message>
         <source>Select a Minecraft world zip</source>
@@ -11703,7 +11699,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Gebruikersnaam</translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <source>Password</source>
@@ -11715,7 +11711,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselleer</translation>
+        <translation>Kanselleer</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

@@ -1038,17 +1038,17 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Sorter etter popularitet</translation>
+        <translation>Sorter etter popularitet</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sorter etter namn</translation>
+        <translation>Sorter etter namn</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Sorter etter spelversjon</translation>
+        <translation>Sorter etter spelversjon</translation>
     </message>
 </context>
 <context>
@@ -1110,7 +1110,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Søk …</translation>
+        <translation>Søk …</translation>
     </message>
     <message>
         <source>Search</source>
@@ -1137,15 +1137,15 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     <name>AtlUserInteractionSupportImpl</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Ingen tilgjengelege versjonar for Minecraft %1</translation>
+        <translation>Ingen tilgjengelege versjonar for Minecraft %1</translation>
     </message>
     <message>
         <source>No versions are currently available</source>
-        <translation type="unfinished">Ingen tilgjengelege versjonar</translation>
+        <translation>Ingen tilgjengelege versjonar</translation>
     </message>
     <message>
         <source>Couldn&apos;t load or download the version lists!</source>
-        <translation type="unfinished">Klarte ikkje lasta inn eller lasta ned versjonlistane!</translation>
+        <translation>Klarte ikkje lasta inn eller lasta ned versjonlistane!</translation>
     </message>
     <message>
         <source>Installing</source>
@@ -1176,11 +1176,11 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Fullførte autentiseringsoppgåva.</translation>
+        <translation>Fullførte autentiseringsoppgåva.</translation>
     </message>
     <message>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Fekk ikkje kontakt med autentiseringstenaren.</translation>
+        <translation>Fekk ikkje kontakt med autentiseringstenaren.</translation>
     </message>
     <message>
         <source>Client ID has changed. New session needs to be created.</source>
@@ -1188,23 +1188,23 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Det oppstod ein feil under autentiseringa.</translation>
+        <translation>Det oppstod ein feil under autentiseringa.</translation>
     </message>
     <message>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Klarte ikkje autentisera: økta er utløpt.</translation>
+        <translation>Klarte ikkje autentisera: økta er utløpt.</translation>
     </message>
     <message>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Klarte ikkje autentisera: kontoen finst ikkje lengre.</translation>
+        <translation>Klarte ikkje autentisera: kontoen finst ikkje lengre.</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">…</translation>
+        <translation>…</translation>
     </message>
     <message>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Ukjend status på kontooppgåva: %1</translation>
+        <translation>Ukjend status på kontooppgåva: %1</translation>
     </message>
 </context>
 <context>
@@ -1274,7 +1274,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installer</translation>
+        <translation>Installer</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1398,11 +1398,11 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Hopp over</translation>
+        <translation>Hopp over</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1467,7 +1467,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Brukarnamn</translation>
+        <translation>Brukarnamn</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1483,7 +1483,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1579,7 +1579,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Vent litt...</translation>
+        <translation>Vent litt...</translation>
     </message>
     <message>
         <source>Waiting for a task to start...</source>
@@ -1738,7 +1738,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Hjelp</translation>
+        <translation>Hjelp</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1746,7 +1746,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1933,7 +1933,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -1989,7 +1989,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (i bruk)</translation>
+        <translation>%1 (i bruk)</translation>
     </message>
     <message>
         <source>%1 - %2</source>
@@ -2075,15 +2075,15 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     <name>CustomPage</name>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Filter</translation>
+        <translation>Filter</translation>
     </message>
     <message>
         <source>Releases</source>
-        <translation type="unfinished">Versjonar</translation>
+        <translation>Versjonar</translation>
     </message>
     <message>
         <source>Snapshots</source>
-        <translation type="unfinished">Utviklingsversjonar</translation>
+        <translation>Utviklingsversjonar</translation>
     </message>
     <message>
         <source>Old Snapshots</source>
@@ -2091,19 +2091,19 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Betas</source>
-        <translation type="unfinished">Beta-versjonar</translation>
+        <translation>Beta-versjonar</translation>
     </message>
     <message>
         <source>Alphas</source>
-        <translation type="unfinished">Alfa-versjonar</translation>
+        <translation>Alfa-versjonar</translation>
     </message>
     <message>
         <source>Experiments</source>
-        <translation type="unfinished">Ustabile</translation>
+        <translation>Ustabile</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>Mod Loader</source>
@@ -2135,7 +2135,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Tilpassa</translation>
+        <translation>Tilpassa</translation>
     </message>
     <message>
         <source>No Minecraft version is selected.</source>
@@ -2147,7 +2147,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Ingen tilgjengelege versjonar for Minecraft %1</translation>
+        <translation>Ingen tilgjengelege versjonar for Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2173,7 +2173,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     <name>DataPackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -2193,11 +2193,11 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versjon</translation>
+        <translation>Versjon</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
@@ -2257,7 +2257,7 @@ Du kan løysa denne feilen ved å montera /tmp som &apos;exec&apos; i staden ell
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2448,19 +2448,19 @@ This instance cannot be launched because some libraries are missing or have not 
     <name>EnvironmentVariables</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Skjema</translation>
+        <translation>Skjema</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Verdi</translation>
+        <translation>Verdi</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">Legg til</translation>
+        <translation>Legg til</translation>
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
@@ -2468,7 +2468,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -2499,7 +2499,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2606,11 +2606,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Export %1</source>
-        <translation type="unfinished">Eksporter %1</translation>
+        <translation>Eksporter %1</translation>
     </message>
     <message>
         <source>Modrinth pack</source>
@@ -2622,7 +2622,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2637,7 +2637,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Innstillingar</translation>
+        <translation>Innstillingar</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -2661,7 +2661,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Tilpassa</translation>
+        <translation>Tilpassa</translation>
     </message>
     <message>
         <source>Template</source>
@@ -2682,7 +2682,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versjon</translation>
+        <translation>Versjon</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -2710,7 +2710,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Lag ein kopi</translation>
+        <translation>Lag ein kopi</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2722,11 +2722,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Export %1</source>
-        <translation type="unfinished">Eksporter %1</translation>
+        <translation>Eksporter %1</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fil</translation>
+        <translation>Fil</translation>
     </message>
 </context>
 <context>
@@ -2745,15 +2745,15 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <source>&amp;Enable</source>
-        <translation type="unfinished">Slå på</translation>
+        <translation>Slå på</translation>
     </message>
     <message>
         <source>&amp;Disable</source>
-        <translation type="unfinished">Slå av</translation>
+        <translation>Slå av</translation>
     </message>
     <message>
         <source>Enable all selected items.</source>
@@ -2762,7 +2762,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Søk</translation>
+        <translation>Søk</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2782,15 +2782,15 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>View &amp;Configs</source>
-        <translation type="unfinished">Opna konfigurasjonar</translation>
+        <translation>Opna konfigurasjonar</translation>
     </message>
     <message>
         <source>Open the &apos;config&apos; folder in the system file manager.</source>
-        <translation type="unfinished">Opna konfigurasjonsmappa i filutforskaren.</translation>
+        <translation>Opna konfigurasjonsmappa i filutforskaren.</translation>
     </message>
     <message>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">Opna mappa</translation>
+        <translation>Opna mappa</translation>
     </message>
     <message>
         <source>Open the folder in the system file manager.</source>
@@ -2862,12 +2862,12 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstmeny</translation>
+        <translation>Kontekstmeny</translation>
     </message>
     <message>
         <source>Select %1</source>
         <comment>Select whatever type of files the page contains. Example: &apos;Loader Mods&apos;</comment>
-        <translation type="unfinished">Vel %1</translation>
+        <translation>Vel %1</translation>
     </message>
     <message>
         <source>You are about to remove %1 items.
@@ -2921,7 +2921,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Bla gjennom</translation>
+        <translation>Bla gjennom</translation>
     </message>
     <message>
         <source>Used to edit component JSON files.</source>
@@ -2937,15 +2937,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">Legg til</translation>
+        <translation>Legg til</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3146,7 +3146,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Klarte ikkje finna pakkeversjon %1</translation>
+        <translation>Klarte ikkje finna pakkeversjon %1</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -3167,7 +3167,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Dei følgjande filene er ikkje tilgjengelege for nedlasting i tredjeparts startarar.&lt;br/&gt;Du må laste dei ned manuelt og leggje dei til i instansen.</translation>
+        <translation>Dei følgjande filene er ikkje tilgjengelege for nedlasting i tredjeparts startarar.&lt;br/&gt;Du må laste dei ned manuelt og leggje dei til i instansen.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -3175,7 +3175,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Lastar ned moddar …</translation>
+        <translation>Lastar ned moddar …</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -3198,11 +3198,11 @@ Prøv igjen.</translation>
     <name>FTBImportAPP::FilterModel</name>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sorter etter namn</translation>
+        <translation>Sorter etter namn</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sorter etter spelversjon</translation>
+        <translation>Sorter etter spelversjon</translation>
     </message>
 </context>
 <context>
@@ -3217,7 +3217,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Søk …</translation>
+        <translation>Søk …</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3291,7 +3291,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ukjent</translation>
+        <translation>Ukjent</translation>
     </message>
 </context>
 <context>
@@ -3327,15 +3327,15 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Klarte ikkje henta den lokale metadataindeksen for %1</translation>
+        <translation>Klarte ikkje henta den lokale metadataindeksen for %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Fann ikkje versjon for %1-lastaren</translation>
+        <translation>Fann ikkje versjon for %1-lastaren</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Ingen lastarversjon for moddpakka er angitt!</translation>
+        <translation>Ingen lastarversjon for moddpakka er angitt!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3344,20 +3344,19 @@ Prøv igjen.</translation>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Klarte ikkje gje nytt namn til overskrivingsmappa:
-</translation>
+        <translation>Klarte ikkje gje nytt namn til overskrivingsmappa:</translation>
     </message>
     <message>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Den valde overskrivingsmappa (%1) finst ikkje. Kanskje moddpakka allereie har vorte brukt?</translation>
+        <translation>Den valde overskrivingsmappa (%1) finst ikkje. Kanskje moddpakka allereie har vorte brukt?</translation>
     </message>
     <message>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Ukjend moddlaster i manifestet: %1</translation>
+        <translation>Ukjend moddlaster i manifestet: %1</translation>
     </message>
     <message>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">Mystiske punktum etter Minecraft-versjonen vart fjerna mens pakka vart importert.</translation>
+        <translation>Mystiske punktum etter Minecraft-versjonen vart fjerna mens pakka vart importert.</translation>
     </message>
     <message>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
@@ -3382,17 +3381,16 @@ Prøv igjen.</translation>
     <message>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Klarte ikkje tyda modd-ID-ar:
-</translation>
+        <translation>Klarte ikkje tyda modd-ID-ar:</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blokkerte moddar funne</translation>
+        <translation>Blokkerte moddar funne</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Dei følgjande filene er ikkje tilgjengelege for nedlasting i tredjeparts startarar.&lt;br/&gt;Du må laste dei ned manuelt og leggje dei til i instansen.</translation>
+        <translation>Dei følgjande filene er ikkje tilgjengelege for nedlasting i tredjeparts startarar.&lt;br/&gt;Du må laste dei ned manuelt og leggje dei til i instansen.</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -3400,7 +3398,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 av %2 fullført</translation>
+        <translation>%1 av %2 fullført</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3424,7 +3422,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Lastar ned moddar …</translation>
+        <translation>Lastar ned moddar …</translation>
     </message>
 </context>
 <context>
@@ -3544,7 +3542,7 @@ Prøv igjen.</translation>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Søk …</translation>
+        <translation>Søk …</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3557,32 +3555,32 @@ Prøv igjen.</translation>
     <message>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Sorter etter utvalde</translation>
+        <translation>Sorter etter utvalde</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Sorter etter popularitet</translation>
+        <translation>Sorter etter popularitet</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Sorter etter sist endra</translation>
+        <translation>Sorter etter sist endra</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sorter etter namn</translation>
+        <translation>Sorter etter namn</translation>
     </message>
     <message>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">Sorter etter utgivar</translation>
+        <translation>Sorter etter utgivar</translation>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">Sorter etter antal nedlastingar</translation>
+        <translation>Sorter etter antal nedlastingar</translation>
     </message>
     <message>
         <source>No version is available!</source>
@@ -3590,7 +3588,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source> by </source>
@@ -3618,7 +3616,7 @@ Prøv igjen.</translation>
     <message>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Klarte ikkje laga mappe for Minecraft-filer.</translation>
+        <translation>Klarte ikkje laga mappe for Minecraft-filer.</translation>
     </message>
 </context>
 <context>
@@ -3626,17 +3624,17 @@ Prøv igjen.</translation>
     <message>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Sorter etter kor mykje spelt</translation>
+        <translation>Sorter etter kor mykje spelt</translation>
     </message>
     <message>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Sorter etter installasjonar</translation>
+        <translation>Sorter etter installasjonar</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sorter etter namn</translation>
+        <translation>Sorter etter namn</translation>
     </message>
 </context>
 <context>
@@ -3648,7 +3646,7 @@ Prøv igjen.</translation>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Søk …</translation>
+        <translation>Søk …</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3805,7 +3803,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Tilpassa</translation>
+        <translation>Tilpassa</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3821,7 +3819,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -3872,11 +3870,11 @@ Prøv igjen.</translation>
     <message>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importer frå ZIP</translation>
+        <translation>Importer frå ZIP</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -3932,7 +3930,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3975,11 +3973,11 @@ Prøv igjen.</translation>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4036,7 +4034,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Ingen tilgjengelege versjonar for Minecraft %1</translation>
+        <translation>Ingen tilgjengelege versjonar for Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4199,7 +4197,7 @@ What would you like to do with %2?</source>
     <message>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Andre loggar</translation>
+        <translation>Andre loggar</translation>
     </message>
     <message>
         <source>Edit Instance (%1)</source>
@@ -4385,11 +4383,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Hopp over</translation>
+        <translation>Hopp over</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -4415,7 +4413,7 @@ What would you like to do with %2?</source>
     <name>InstanceWindow</name>
     <message>
         <source>Console window for </source>
-        <translation type="unfinished">᠎ </translation>
+        <translation>᠎</translation>
     </message>
     <message>
         <source>Help</source>
@@ -4515,7 +4513,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>Download</source>
@@ -4527,7 +4525,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -4543,15 +4541,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Installer Java</translation>
+        <translation>Installer Java</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Kunne ikkje avgjera Java-nedlastingstype!</translation>
+        <translation>Kunne ikkje avgjera Java-nedlastingstype!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4660,11 +4658,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -4755,7 +4753,7 @@ Du kan endra Java-versjonen i innstillingane seinare.
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Skjema</translation>
+        <translation>Skjema</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -4839,7 +4837,7 @@ Du kan endra Java-versjonen i innstillingane seinare.
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Minne</translation>
+        <translation>Minne</translation>
     </message>
     <message>
         <source>Memory suggestion</source>
@@ -4911,7 +4909,7 @@ Du kan endra Java-versjonen i innstillingane seinare.
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Vel Java-versjon</translation>
+        <translation>Vel Java-versjon</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
@@ -5001,7 +4999,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished">Ingen Java-versjon er vald</translation>
+        <translation>Ingen Java-versjon er vald</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -5014,35 +5012,35 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Finn Java-programfil</translation>
+        <translation>Finn Java-programfil</translation>
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Minne</translation>
+        <translation>Minne</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Største mengde minne som Minecraft kan bruka.</translation>
+        <translation>Største mengde minne som Minecraft kan bruka.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minimum minneallokering:</translation>
+        <translation>Minimum minneallokering:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Maksimum minneallokering:</translation>
+        <translation>Maksimum minneallokering:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Kor mykje minne som Minecraft startar med.</translation>
+        <translation>Kor mykje minne som Minecraft startar med.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Kor mykje minne som kan brukast for å lagra innlasta Java-klassar.</translation>
+        <translation>Kor mykje minne som kan brukast for å lagra innlasta Java-klassar.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Bla gjennom</translation>
+        <translation>Bla gjennom</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -5428,7 +5426,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Check for updates automatically</source>
         <oldsource>Check for updates on start?</oldsource>
-        <translation type="unfinished">Sjå etter oppdateringar under oppstart?</translation>
+        <translation>Sjå etter oppdateringar under oppstart?</translation>
     </message>
     <message>
         <source>Up&amp;date Channel:</source>
@@ -5448,7 +5446,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Bla gjennom</translation>
+        <translation>Bla gjennom</translation>
     </message>
     <message>
         <source>Instance Sorting</source>
@@ -5553,7 +5551,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>&amp;By last launched</source>
         <oldsource>By &amp;last launched</oldsource>
-        <translation type="unfinished">Etter sist starta</translation>
+        <translation>Etter sist starta</translation>
     </message>
     <message>
         <source>By &amp;name</source>
@@ -5676,7 +5674,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -5778,7 +5776,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>&amp;Stop logging when log overflows</source>
         <oldsource>Stop logging when log overflows</oldsource>
-        <translation type="unfinished">Stopp å loggføra når loggen vart for stor</translation>
+        <translation>Stopp å loggføra når loggen vart for stor</translation>
     </message>
     <message>
         <source> lines</source>
@@ -5911,23 +5909,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Ser etter FML-bibliotek …</translation>
+        <translation>Ser etter FML-bibliotek …</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Laster ned FML-bibliotek …</translation>
+        <translation>Laster ned FML-bibliotek …</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopierer FML-bibliotek inn til førekomsten …</translation>
+        <translation>Kopierer FML-bibliotek inn til førekomsten …</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Klarte ikkje å laga mappa til FML-biblioteket inni førekomsten.</translation>
+        <translation>Klarte ikkje å laga mappa til FML-biblioteket inni førekomsten.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Klarte ikkje å kopiere Fore/FML-bibliotek: %1.</translation>
+        <translation>Klarte ikkje å kopiere Fore/FML-bibliotek: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -5935,11 +5933,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Klarte ikkje å lasta ned dei følgjande filene:
-%1
-
-Grunn:%2
-Prøv igjen.</translation>
+        <translation>Klarte ikkje å lasta ned dei følgjande filene:</translation>
     </message>
 </context>
 <context>
@@ -5947,12 +5941,12 @@ Prøv igjen.</translation>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sorter etter namn</translation>
+        <translation>Sorter etter namn</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Sorter etter spelversjon</translation>
+        <translation>Sorter etter spelversjon</translation>
     </message>
 </context>
 <context>
@@ -6010,7 +6004,7 @@ Prøv igjen.</translation>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Klarte ikkje flytta Minecraft etter den vart pakka ut!</translation>
+        <translation>Klarte ikkje flytta Minecraft etter den vart pakka ut!</translation>
     </message>
     <message>
         <source>No installation method found!</source>
@@ -6021,7 +6015,7 @@ Prøv igjen.</translation>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Søk …</translation>
+        <translation>Søk …</translation>
     </message>
     <message>
         <source>Search</source>
@@ -6057,7 +6051,7 @@ Prøv igjen.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>FTB private packs</source>
@@ -6148,7 +6142,7 @@ Vil du fjerna den?</translation>
     <message>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Hentar bibliotekfiler frå Mojang …</translation>
+        <translation>Hentar bibliotekfiler frå Mojang …</translation>
     </message>
     <message>
         <source>Libraries for instance %1</source>
@@ -6222,7 +6216,7 @@ Grunn:
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Last opp loggen til paste.ee. Den vil verta tilgjengeleg i ein månad</translation>
+        <translation>Last opp loggen til paste.ee. Den vil verta tilgjengeleg i ein månad</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -6238,7 +6232,7 @@ Grunn:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Søk</translation>
+        <translation>Søk</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -6310,7 +6304,7 @@ Grunn:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Skjema</translation>
+        <translation>Skjema</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6402,11 +6396,11 @@ Grunn:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Vent litt...</translation>
+        <translation>Vent litt...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Status</translation>
+        <translation>Status</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -6956,7 +6950,7 @@ Grunn:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Kontoar</translation>
+        <translation>Kontoar</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -6993,7 +6987,7 @@ Grunn:
     <message>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">Vis verdene til den valde førekomsten.</translation>
+        <translation>Vis verdene til den valde førekomsten.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -7078,12 +7072,12 @@ Grunn:
     <message>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Legg til førekomst</translation>
+        <translation>Legg til førekomst</translation>
     </message>
     <message>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Slett gruppa «%1»</translation>
+        <translation>Slett gruppa «%1»</translation>
     </message>
     <message>
         <source>Profilers</source>
@@ -7157,7 +7151,7 @@ URL:
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Last ned moddpakke</translation>
+        <translation>Last ned moddpakke</translation>
     </message>
     <message>
         <source>No instance!</source>
@@ -7360,7 +7354,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -7408,7 +7402,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Oppdateringa slog feil</translation>
+        <translation>Oppdateringa slog feil</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -7446,7 +7440,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -7477,7 +7471,7 @@ Are you sure?</source>
     <name>MinecraftAccount</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Avbroten</translation>
+        <translation>Avbroten</translation>
     </message>
 </context>
 <context>
@@ -7508,7 +7502,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Profilers</source>
-        <translation type="unfinished">Profilerare</translation>
+        <translation>Profilerare</translation>
     </message>
     <message>
         <source>&amp;No Profiler</source>
@@ -7696,7 +7690,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Innstillingane på denne sida overskriver dei globale innstillingane.</translation>
+        <translation>Innstillingane på denne sida overskriver dei globale innstillingane.</translation>
     </message>
     <message>
         <source>General</source>
@@ -7732,11 +7726,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Vis tid brukt på å spela førekomstane</translation>
+        <translation>Vis tid brukt på å spela førekomstane</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">Ta opp tida som vart brukt på å spele på førekomstane</translation>
+        <translation>Ta opp tida som vart brukt på å spele på førekomstane</translation>
     </message>
     <message>
         <source>Show the &amp;total time played across instances</source>
@@ -7760,7 +7754,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -7784,11 +7778,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Bruk OpenAL frå systemet</translation>
+        <translation>Bruk OpenAL frå systemet</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Bruk GLFW frå systemet</translation>
+        <translation>Bruk GLFW frå systemet</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
@@ -7845,7 +7839,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Bla gjennom</translation>
+        <translation>Bla gjennom</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -7981,11 +7975,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Tenaradresse:</translation>
+        <translation>Tenaradresse:</translation>
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Kommandoar</translation>
+        <translation>Kommandoar</translation>
     </message>
     <message>
         <source>Environment Variables</source>
@@ -8039,7 +8033,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Fjern</translation>
+        <translation>Fjern</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8058,7 +8052,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>ModFilterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Skjema</translation>
+        <translation>Skjema</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -8158,7 +8152,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ukjent</translation>
+        <translation>Ukjent</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -8226,7 +8220,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Alle versjonar</translation>
+        <translation>Alle versjonar</translation>
     </message>
 </context>
 <context>
@@ -8293,7 +8287,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -8520,7 +8514,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -8717,7 +8711,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -8746,7 +8740,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ukjent</translation>
+        <translation>Ukjent</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -8778,8 +8772,7 @@ Please update %1!</source>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Klarte ikkje gje nytt namn til overskrivingsmappa:
-</translation>
+        <translation>Klarte ikkje gje nytt namn til overskrivingsmappa:</translation>
     </message>
     <message>
         <source>Could not rename the client overrides folder:
@@ -8800,11 +8793,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 av %2 fullført</translation>
+        <translation>%1 av %2 fullført</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Lastar ned moddar …</translation>
+        <translation>Lastar ned moddar …</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -8890,7 +8883,7 @@ Please update %1!</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Søk …</translation>
+        <translation>Søk …</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -8898,7 +8891,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Versjon:</translation>
+        <translation>Versjon:</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -8912,11 +8905,11 @@ Please update %1!</source>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Sorter etter sist endra</translation>
+        <translation>Sorter etter sist endra</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -8953,11 +8946,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Sorter etter antal nedlastingar</translation>
+        <translation>Sorter etter antal nedlastingar</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> av </translation>
+        <translation>av</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -9058,7 +9051,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -9101,7 +9094,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9128,7 +9121,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9136,7 +9129,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Hjelp</translation>
+        <translation>Hjelp</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -9167,7 +9160,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Lukk</translation>
+        <translation>Lukk</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -9410,7 +9403,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installer</translation>
+        <translation>Installer</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9441,7 +9434,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9456,7 +9449,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Rull heilt ned til botnen</translation>
+        <translation>Rull heilt ned til botnen</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -9480,11 +9473,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Hald loggen oppdatert</translation>
+        <translation>Hald loggen oppdatert</translation>
     </message>
     <message>
         <source>Wrap lines</source>
-        <translation type="unfinished">Linjebryting</translation>
+        <translation>Linjebryting</translation>
     </message>
     <message>
         <source>Color lines</source>
@@ -9500,7 +9493,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Last opp loggen til paste.ee. Den vil verta tilgjengeleg i ein månad</translation>
+        <translation>Last opp loggen til paste.ee. Den vil verta tilgjengeleg i ein månad</translation>
     </message>
     <message>
         <source>&amp;Upload</source>
@@ -9516,7 +9509,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Søk</translation>
+        <translation>Søk</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -9600,7 +9593,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Tøm</translation>
+        <translation>Tøm</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -9643,91 +9636,91 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Støttar ikkje installasjonsmodus</translation>
+        <translation>Støttar ikkje installasjonsmodus</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Klarte ikkje henta den lokale metadataindeksen for «%1» v%2</translation>
+        <translation>Klarte ikkje henta den lokale metadataindeksen for «%1» v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Slettar eksisterande filer...</translation>
+        <translation>Slettar eksisterande filer...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Ukjend moddtype: %1</translation>
+        <translation>Ukjend moddtype: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Klarte ikkje henta den lokale metadataindeksen for %1</translation>
+        <translation>Klarte ikkje henta den lokale metadataindeksen for %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Fann ikkje versjon for %1-lastaren</translation>
+        <translation>Fann ikkje versjon for %1-lastaren</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Ingen lastarversjon for moddpakka er angitt!</translation>
+        <translation>Ingen lastarversjon for moddpakka er angitt!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Nedlastingstype er ukjend eller ustøtta: %1</translation>
+        <translation>Nedlastingstype er ukjend eller ustøtta: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Lastar ned konfigurasjonar …</translation>
+        <translation>Lastar ned konfigurasjonar …</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Nedlasting av konfigurasjonar</translation>
+        <translation>Nedlasting av konfigurasjonar</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Pakkar ut konfigurasjonar …</translation>
+        <translation>Pakkar ut konfigurasjonar …</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Vel valfrie moddar...</translation>
+        <translation>Vel valfrie moddar...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Lastar ned moddar …</translation>
+        <translation>Lastar ned moddar …</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Ukjend nedlastingstype: %1</translation>
+        <translation>Ukjend nedlastingstype: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blokkerte moddar funne</translation>
+        <translation>Blokkerte moddar funne</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Dei følgjande filene er ikkje tilgjengelege for nedlasting i tredjeparts startarar.&lt;br/&gt;Du må laste dei ned manuelt og leggje dei til i instansen.</translation>
+        <translation>Dei følgjande filene er ikkje tilgjengelege for nedlasting i tredjeparts startarar.&lt;br/&gt;Du må laste dei ned manuelt og leggje dei til i instansen.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 av %2 fullført</translation>
+        <translation>%1 av %2 fullført</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Klarte ikkje pakka ut moddar...</translation>
+        <translation>Klarte ikkje pakka ut moddar...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Pakkar ut moddar …</translation>
+        <translation>Pakkar ut moddar …</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Klarte ikkje laga komponent for bibliotek</translation>
+        <translation>Klarte ikkje laga komponent for bibliotek</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Ukjend type lastar: </translation>
+        <translation>Ukjend type lastar:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Klarte ikkje å laga pakkekomponent</translation>
+        <translation>Klarte ikkje å laga pakkekomponent</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -9751,7 +9744,7 @@ Are you sure?</source>
     <name>PackProfile</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Avbroten</translation>
+        <translation>Avbroten</translation>
     </message>
     <message>
         <source>Name</source>
@@ -9778,7 +9771,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Hjelp</translation>
+        <translation>Hjelp</translation>
     </message>
 </context>
 <context>
@@ -9792,7 +9785,7 @@ Are you sure?</source>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Skjema</translation>
+        <translation>Skjema</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -10219,7 +10212,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10242,7 +10235,7 @@ Skriv inn eit brukarnamn:</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -10302,7 +10295,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
@@ -10342,17 +10335,17 @@ HTTP Status: %2</source>
     <message>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SOCKS5</translation>
+        <translation>SOCKS5</translation>
     </message>
     <message>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished">HTTP</translation>
+        <translation>HTTP</translation>
     </message>
     <message>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">Adresse og port</translation>
+        <translation>Adresse og port</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -10361,12 +10354,12 @@ HTTP Status: %2</source>
     <message>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">Brukarnamn:</translation>
+        <translation>Brukarnamn:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">Passord:</translation>
+        <translation>Passord:</translation>
     </message>
     <message>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
@@ -10504,12 +10497,12 @@ Proceed with truncation?</source>
     <message>
         <source>The specified Java binary didn&apos;t start properly.&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t start properly.&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Java-programfila starta ikkje skikkeleg.&lt;br /&gt;</translation>
+        <translation>Java-programfila starta ikkje skikkeleg.&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary returned unexpected results:&lt;br /&gt;</source>
         <oldsource>The specified java binary returned unexpected results:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Java-programfila returnerte uventa resultat:&lt;br /&gt;</translation>
+        <translation>Java-programfila returnerte uventa resultat:&lt;br /&gt;</translation>
     </message>
     <message>
         <source>Java test succeeded!&lt;br /&gt;Platform reported: %1&lt;br /&gt;Java version reported: %2&lt;br /&gt;</source>
@@ -10654,17 +10647,17 @@ Gjerne gje oss beskjed om kva som skjedde.</translation>
     <message>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%1m %2s</translation>
+        <translation>%1m %2s</translation>
     </message>
     <message>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished">%1t %2m</translation>
+        <translation>%1t %2m</translation>
     </message>
     <message>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1d %2t %3m</translation>
+        <translation>%1d %2t %3m</translation>
     </message>
     <message>
         <source>days</source>
@@ -10693,9 +10686,7 @@ This message will be displayed until you remove them from the JVM arguments.</so
         <oldsource>You tried to manually set a JVM memory option (using &quot;-XX:PermSize&quot;, &quot;-XX-MaxHeapSize&quot;, &quot;-XX:InitialHeapSize&quot;,  &quot;-Xmx&quot; or &quot;-Xms&quot;).
 There are dedicated boxes for these in the settings (Java tab, in the Memory group at the top).
 This message will be displayed until you remove them from the JVM arguments.</oldsource>
-        <translation type="unfinished">Du prøver å endra minnevala til JVM manuelt (ved å bruka «-XX:PermSize», «-XX-MaxHeapSize», «-XX:InitialHeapSize», «-Xmx» eller «-Xms»).
-Det finst eigne val for dette i innstillingane (Innstillingar → Java → Minne).
-Denne åtvaringa vil ikkje forsvinna før du fjernar desse JVM-argumenta.</translation>
+        <translation>Du prøver å endra minnevala til JVM manuelt (ved å bruka «-XX:PermSize», «-XX-MaxHeapSize», «-XX:InitialHeapSize», «-Xmx» eller «-Xms»).</translation>
     </message>
     <message>
         <source>JVM arguments warning</source>
@@ -10717,7 +10708,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>The specified Java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</source>
         <oldsource>The specified java binary didn&apos;t work with the arguments you provided:&lt;br /&gt;</oldsource>
-        <translation type="unfinished">Java-programfila fungerte ikkje med argumenta dine:&lt;br /&gt;</translation>
+        <translation>Java-programfila fungerte ikkje med argumenta dine:&lt;br /&gt;</translation>
     </message>
     <message>
         <source>The specified Java binary didn&apos;t work.&lt;br /&gt;You should press &apos;Detect&apos;, or set the path to the Java executable.&lt;br /&gt;</source>
@@ -10878,23 +10869,23 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Sorter etter utvalde</translation>
+        <translation>Sorter etter utvalde</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Sorter etter popularitet</translation>
+        <translation>Sorter etter popularitet</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Sorter etter sist endra</translation>
+        <translation>Sorter etter sist endra</translation>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Sorter etter namn</translation>
+        <translation>Sorter etter namn</translation>
     </message>
     <message>
         <source>Sort by Author</source>
-        <translation type="unfinished">Sorter etter utgivar</translation>
+        <translation>Sorter etter utgivar</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -10906,7 +10897,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sorter etter spelversjon</translation>
+        <translation>Sorter etter spelversjon</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -10942,7 +10933,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ukjent</translation>
+        <translation>Ukjent</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -10975,47 +10966,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ikkje kontrollert</translation>
+        <translation>Ikkje kontrollert</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Fråkopla</translation>
+        <translation>Fråkopla</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Klar</translation>
+        <translation>Klar</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Fungerer</translation>
+        <translation>Fungerer</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Feila</translation>
+        <translation>Feila</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Utløpt</translation>
+        <translation>Utløpt</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Deaktivert</translation>
+        <translation>Deaktivert</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Borte</translation>
+        <translation>Borte</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ukjent</translation>
+        <translation>Ukjent</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -11318,7 +11309,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -11334,7 +11325,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">Endra versjon på %1</translation>
+        <translation>Endra versjon på %1</translation>
     </message>
     <message>
         <source>mods</source>
@@ -11369,7 +11360,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -11407,7 +11398,7 @@ Please update %1!</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> av </translation>
+        <translation>av</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -11524,7 +11515,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -11532,7 +11523,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versjon</translation>
+        <translation>Versjon</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11548,7 +11539,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -11617,7 +11608,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versjon</translation>
+        <translation>Versjon</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11633,7 +11624,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
@@ -11658,7 +11649,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -11705,7 +11696,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -11771,7 +11762,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Versjon:</translation>
+        <translation>Versjon:</translation>
     </message>
     <message>
         <source>Filter options</source>
@@ -11810,7 +11801,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -11919,7 +11910,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -12078,14 +12069,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versjon</translation>
+        <translation>Versjon</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12108,7 +12099,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versjon</translation>
+        <translation>Versjon</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12126,7 +12117,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12159,7 +12150,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versjon</translation>
+        <translation>Versjon</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12167,7 +12158,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Fråkopla</translation>
+        <translation>Fråkopla</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12230,7 +12221,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -12316,7 +12307,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -12412,7 +12403,7 @@ Are you sure?</source>
     <name>SkinManageDialog</name>
     <message>
         <source>Skin Upload</source>
-        <translation type="unfinished">Last opp skal</translation>
+        <translation>Last opp skal</translation>
     </message>
     <message>
         <source>Model</source>
@@ -12428,7 +12419,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cape</source>
-        <translation type="unfinished">Kappe</translation>
+        <translation>Kappe</translation>
     </message>
     <message>
         <source>Preview Elytra</source>
@@ -12436,7 +12427,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Opna mappa</translation>
+        <translation>Opna mappa</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -12456,7 +12447,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">Slett skal</translation>
+        <translation>Slett skal</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -12484,11 +12475,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">Vel skal</translation>
+        <translation>Vel skal</translation>
     </message>
     <message>
         <source>Selected file is not a valid skin</source>
@@ -12496,7 +12487,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>No Cape</source>
-        <translation type="unfinished">Inga kappe</translation>
+        <translation>Inga kappe</translation>
     </message>
     <message>
         <source>Download capes</source>
@@ -12508,11 +12499,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">Skalfila finst ikkje!</translation>
+        <translation>Skalfila finst ikkje!</translation>
     </message>
     <message>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">Klarte ikkje lasta opp en!</translation>
+        <translation>Klarte ikkje lasta opp en!</translation>
     </message>
     <message>
         <source>Reset skin</source>
@@ -12520,15 +12511,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Slett skal</translation>
+        <translation>Slett skal</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Klarte ikkje sletta skalet!</translation>
+        <translation>Klarte ikkje sletta skalet!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstmeny</translation>
+        <translation>Kontekstmeny</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -12672,7 +12663,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Skjema</translation>
+        <translation>Skjema</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -12687,22 +12678,20 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Avbroten</translation>
+        <translation>Avbroten</translation>
     </message>
 </context>
 <context>
     <name>TaskStepWrapper</name>
     <message>
         <source>Task aborted.</source>
-        <translation type="unfinished">Oppgåva vart avbroten.</translation>
+        <translation>Oppgåva vart avbroten.</translation>
     </message>
     <message>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Klarte ikkje oppdatera førekomst fordi: %1
-
-</translation>
+        <translation>Klarte ikkje oppdatera førekomst fordi: %1</translation>
     </message>
 </context>
 <context>
@@ -12823,7 +12812,7 @@ Are you sure?</source>
     <message>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
         <oldsource>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but minecraft version is unknown</oldsource>
-        <translation type="unfinished">Klarte ikkje finna «version.json» inni «bin/modpack.jar», men Minecraft-versjonen er ukjend</translation>
+        <translation>Klarte ikkje finna «version.json» inni «bin/modpack.jar», men Minecraft-versjonen er ukjend</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
@@ -12862,12 +12851,12 @@ mangler «inheritsFrom»</translation>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Versjon:</translation>
+        <translation>Versjon:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Søk …</translation>
+        <translation>Søk …</translation>
     </message>
     <message>
         <source>Search</source>
@@ -12875,7 +12864,7 @@ mangler «inheritsFrom»</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source> by </source>
@@ -12906,7 +12895,7 @@ mangler «inheritsFrom»</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Namn</translation>
+        <translation>Namn</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -12926,7 +12915,7 @@ mangler «inheritsFrom»</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Oppdater</translation>
+        <translation>Oppdater</translation>
     </message>
     <message>
         <source>The source provider of the texture pack.</source>
@@ -12973,7 +12962,7 @@ mangler «inheritsFrom»</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Feil</translation>
+        <translation>Feil</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -13042,7 +13031,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Utsjånad</translation>
+        <translation>Utsjånad</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -13187,7 +13176,7 @@ Are you sure?</source>
     <name>VanillaCreationTask</name>
     <message>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">Lager førekomst frå versjon %1</translation>
+        <translation>Lager førekomst frå versjon %1</translation>
     </message>
 </context>
 <context>
@@ -13419,7 +13408,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Søk</translation>
+        <translation>Søk</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -13431,7 +13420,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Flytt opp</translation>
+        <translation>Flytt opp</translation>
     </message>
     <message>
         <source>Make the selected component apply sooner.</source>
@@ -13439,7 +13428,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Flytt ned</translation>
+        <translation>Flytt ned</translation>
     </message>
     <message>
         <source>Make the selected component apply later.</source>
@@ -13639,7 +13628,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installer</translation>
+        <translation>Installer</translation>
     </message>
     <message>
         <source>Confirm Reversion</source>
@@ -13796,7 +13785,7 @@ Legg til Minecraft- eller Mojang-kontoen din.</translation>
     <name>VersionSelectDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13819,7 +13808,7 @@ Legg til Minecraft- eller Mojang-kontoen din.</translation>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Søk</translation>
+        <translation>Søk</translation>
     </message>
     <message>
         <source>Error</source>
@@ -13918,7 +13907,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Kopla til</translation>
+        <translation>Kopla til</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -13934,7 +13923,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Slett</translation>
+        <translation>Slett</translation>
     </message>
     <message>
         <source>MCEdit</source>
@@ -14316,11 +14305,11 @@ Sett opp kontoen din i samsvar med %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Brukarnamn</translation>
+        <translation>Brukarnamn</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Passord</translation>
+        <translation>Passord</translation>
     </message>
     <message>
         <source>Sign in</source>

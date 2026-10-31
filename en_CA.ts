@@ -1314,11 +1314,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Install</translation>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -8130,7 +8130,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> and its %n registered shortcut</numerusform>
+            <numerusform>and its %n registered shortcut</numerusform>
             <numerusform> and its %n registered shortcuts</numerusform>
         </translation>
     </message>
@@ -9171,7 +9171,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9179,7 +9179,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -9511,10 +9511,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod will be enabled
-</numerusform>
-            <numerusform>%n mods will be enabled
-</numerusform>
+            <numerusform>%n mod will be enabled</numerusform>
+            <numerusform>%n mods will be enabled</numerusform>
         </translation>
     </message>
     <message>
@@ -9525,10 +9523,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod will be disabled
-</numerusform>
-            <numerusform>%n mods will be disabled
-</numerusform>
+            <numerusform>%n mod will be disabled</numerusform>
+            <numerusform>%n mods will be disabled</numerusform>
         </translation>
     </message>
     <message>
@@ -10948,11 +10944,11 @@ Please update %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Install</translation>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -12730,20 +12726,14 @@ New name: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>The following instance might reference files in this instance:
-
-%1
-
-%2 it could break the other instance,
-
-Do you wish to proceed?</numerusform>
-            <numerusform>The following instances might reference files in this instance:
-
-%1
-
-%2 it could break the other instances,
-
-Do you wish to proceed?</numerusform>
+            <numerusform>The following instance might reference files in this instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 it could break the other instance,</numerusform>
+            <numerusform>Do you wish to proceed?</numerusform>
+            <numerusform>The following instances might reference files in this instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 it could break the other instances,</numerusform>
+            <numerusform>Do you wish to proceed?</numerusform>
         </translation>
     </message>
     <message>
@@ -14070,7 +14060,7 @@ Currently installed version: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14078,7 +14068,7 @@ Currently installed version: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -15652,7 +15642,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Install</translation>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -16145,14 +16135,12 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>You are about to delete %n world.
-These worlds may be gone forever (A LONG TIME).
-
-Are you sure?</numerusform>
-            <numerusform>You are about to delete %n worlds.
-These worlds may be gone forever (A LONG TIME).
-
-Are you sure?</numerusform>
+            <numerusform>You are about to delete %n world.</numerusform>
+            <numerusform>These worlds may be gone forever (A LONG TIME).</numerusform>
+            <numerusform>Are you sure?</numerusform>
+            <numerusform>You are about to delete %n worlds.</numerusform>
+            <numerusform>These worlds may be gone forever (A LONG TIME).</numerusform>
+            <numerusform>Are you sure?</numerusform>
         </translation>
     </message>
     <message>
@@ -16415,11 +16403,11 @@ Please set up your account according to %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Username</translation>
+        <translation>Username</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Password</translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -16427,7 +16415,7 @@ Please set up your account according to %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

@@ -1302,11 +1302,11 @@ Voit ratkaista tämän ongelman uudelleenliittämällä /tmp:n &apos;exec&apos; 
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Asenna</translation>
+        <translation>Asenna</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -8329,7 +8329,7 @@ Haluatko jatkaa?</numerusform>
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> ja sen % rekisteröity oikotie</numerusform>
+            <numerusform>ja sen % rekisteröity oikotie</numerusform>
             <numerusform> ja sen % rekisteröidyt oikotiet</numerusform>
         </translation>
     </message>
@@ -9326,7 +9326,7 @@ Sinun on myös todennäköisesti vaihdettava polkua - saat lisätietoja modin ne
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Poista</translation>
+        <translation>Poista</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9697,10 +9697,8 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n modi otetaan käyttöön
-</numerusform>
-            <numerusform>%n modit otetaan käyttöön
-</numerusform>
+            <numerusform>%n modi otetaan käyttöön</numerusform>
+            <numerusform>%n modit otetaan käyttöön</numerusform>
         </translation>
     </message>
     <message>
@@ -9711,10 +9709,8 @@ Varoitus: Tämä resurssi on kovalinkitetty muualta. Sen muokkaaminen vaikuttaa 
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n modi poistetaan käytöstä
-</numerusform>
-            <numerusform>%n modit poistetaan käytöstä
-</numerusform>
+            <numerusform>%n modi poistetaan käytöstä</numerusform>
+            <numerusform>%n modit poistetaan käytöstä</numerusform>
         </translation>
     </message>
     <message>
@@ -11101,11 +11097,11 @@ Päivitä %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Asenna</translation>
+        <translation>Asenna</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
 </context>
 <context>
@@ -12899,20 +12895,14 @@ Uusi nimi: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Seuraava peli saattaa sisältää viitata tiedostoihin tässä pelissä:
-
-%1
-
-%2 se voi rikkoa toisen pelin,
-
-Haluatko jatkaa?</numerusform>
-            <numerusform>Seuraavat pelit saattavat sisältää viitata tiedostoihin tässä pelissä:
-
-%1
-
-%2 se voi rikkoa toisia pelejä,
-
-Haluatko jatkaa?</numerusform>
+            <numerusform>Seuraava peli saattaa sisältää viitata tiedostoihin tässä pelissä:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 se voi rikkoa toisen pelin,</numerusform>
+            <numerusform>Haluatko jatkaa?</numerusform>
+            <numerusform>Seuraavat pelit saattavat sisältää viitata tiedostoihin tässä pelissä:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 se voi rikkoa toisia pelejä,</numerusform>
+            <numerusform>Haluatko jatkaa?</numerusform>
         </translation>
     </message>
     <message>
@@ -14219,7 +14209,7 @@ Tällä hetkellä asennettu versio: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versio</translation>
+        <translation>Versio</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14227,7 +14217,7 @@ Tällä hetkellä asennettu versio: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -15810,7 +15800,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Asenna</translation>
+        <translation>Asenna</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -16317,14 +16307,12 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>Olet poistamassa maailman %n.
-Tämä maailma saattaa kadota ikuisesti (TODELLA PITKÄ AIKA).
-
-Oletko varma?</numerusform>
-            <numerusform>Olet poistamassa maailmat %n.
-Nämä maailmat saattavat kadota ikuisesti (TODELLA PITKÄ AIKA).
-
-Oletko varma?</numerusform>
+            <numerusform>Olet poistamassa maailman %n.</numerusform>
+            <numerusform>Tämä maailma saattaa kadota ikuisesti (TODELLA PITKÄ AIKA).</numerusform>
+            <numerusform>Oletko varma?</numerusform>
+            <numerusform>Olet poistamassa maailmat %n.</numerusform>
+            <numerusform>Nämä maailmat saattavat kadota ikuisesti (TODELLA PITKÄ AIKA).</numerusform>
+            <numerusform>Oletko varma?</numerusform>
         </translation>
     </message>
     <message>
@@ -16571,11 +16559,11 @@ Säädä tilisi ohjeiden mukaan osoitteessa %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Käyttäjänimi</translation>
+        <translation>Käyttäjänimi</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Salasana</translation>
+        <translation>Salasana</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -16583,7 +16571,7 @@ Säädä tilisi ohjeiden mukaan osoitteessa %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Peruuta</translation>
+        <translation>Peruuta</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

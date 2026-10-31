@@ -1295,7 +1295,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Усталяваць</translation>
+        <translation>Усталяваць</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1393,7 +1393,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Загрузка лакальнага файла</translation>
+        <translation>Загрузка лакальнага файла</translation>
     </message>
 </context>
 <context>
@@ -2254,7 +2254,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версія</translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <source>Update</source>
@@ -3140,11 +3140,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Дадаць</translation>
+        <translation>&amp;Дадаць</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Выдаліць</translation>
+        <translation>&amp;Выдаліць</translation>
     </message>
     <message>
         <source>Name</source>
@@ -6623,7 +6623,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7549,7 +7549,7 @@ Please check your trashbin to manually restore them.</source>
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> і яго %n зарэгістраваная камбінацыя клавіш</numerusform>
+            <numerusform>і яго %n зарэгістраваная камбінацыя клавіш</numerusform>
             <numerusform> і яго %n зарэгістраваныя камбінацыі клавіш</numerusform>
             <numerusform> і яго %n зарэгістраваных камбінацый клавіш</numerusform>
         </translation>
@@ -8317,7 +8317,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Выпуск</translation>
+        <translation>Выпуск</translation>
     </message>
     <message>
         <source>Any</source>
@@ -8345,7 +8345,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Уключыць Feral Interactive&apos;s GameMode, каб патэнцыйна палепшыць прадукцыйнасць&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Уключыць Feral Interactive&apos;s GameMode, каб патэнцыйна палепшыць прадукцыйнасць&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
@@ -8393,7 +8393,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Карыстальніцкія каманды</translation>
+        <translation>Карыстальніцкія каманды</translation>
     </message>
     <message>
         <source>Environment Variables</source>
@@ -8413,7 +8413,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Feral Interactive&apos;s GameMode не знойдзены ў сістэме.</translation>
+        <translation>Feral Interactive&apos;s GameMode не знойдзены ў сістэме.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
@@ -8440,7 +8440,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Выдаліць</translation>
+        <translation>Выдаліць</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8448,7 +8448,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Дадаць</translation>
+        <translation>Дадаць</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -8789,12 +8789,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>будзе ўключаны %n мод
-</numerusform>
-            <numerusform>будзе ўключана %n моды
-</numerusform>
-            <numerusform>будзе ўключана %n модаў
-</numerusform>
+            <numerusform>будзе ўключаны %n мод</numerusform>
+            <numerusform>будзе ўключана %n моды</numerusform>
+            <numerusform>будзе ўключана %n модаў</numerusform>
         </translation>
     </message>
     <message>
@@ -8805,12 +8802,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>будзе адключаны %n мод
-</numerusform>
-            <numerusform>будзе адключана %n моды
-</numerusform>
-            <numerusform>будзе адключана %n модаў
-</numerusform>
+            <numerusform>будзе адключаны %n мод</numerusform>
+            <numerusform>будзе адключана %n моды</numerusform>
+            <numerusform>будзе адключана %n модаў</numerusform>
         </translation>
     </message>
     <message>
@@ -9126,7 +9120,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Невядомы</translation>
+        <translation>Невядомы</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -9224,7 +9218,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Зборка Modrinth</translation>
+        <translation>Зборка Modrinth</translation>
     </message>
 </context>
 <context>
@@ -9382,7 +9376,7 @@ Please update %1!</source>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -9789,7 +9783,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Усталяваць</translation>
+        <translation>Усталяваць</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9835,7 +9829,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Пракруціць да канца</translation>
+        <translation>Пракруціць да канца</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -10023,7 +10017,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Распакоўка налад...</translation>
+        <translation>Распакоўка налад...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
@@ -10035,11 +10029,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Спампаваць мод</translation>
+        <translation>Спампаваць мод</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Незразумелы тып спампоўкі: %1</translation>
+        <translation>Незразумелы тып спампоўкі: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
@@ -10047,7 +10041,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 з %2 гатова</translation>
+        <translation>%1 з %2 гатова</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
@@ -10067,7 +10061,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Незразумелы тып загрузчыка: </translation>
+        <translation>Незразумелы тып загрузчыка:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
@@ -10578,7 +10572,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Спыніць</translation>
+        <translation>Спыніць</translation>
     </message>
 </context>
 <context>
@@ -11029,7 +11023,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">невядомы</translation>
+        <translation>невядомы</translation>
     </message>
     <message>
         <source>Sort by Featured</source>
@@ -11379,7 +11373,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Нераспазнанае</translation>
+        <translation>Нераспазнанае</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11416,7 +11410,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Не ўдалося адкрыць файл %1 для чытання: %2</translation>
+        <translation>Не ўдалося адкрыць файл %1 для чытання: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -11685,15 +11679,12 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Папярэджанне: Гэты рэсурс звязаны з іншымі праз сімвалічную спасылку. Яго рэдагаванне зменіць арыгінал.
-Кананічны шлях: %1</translation>
+        <translation>Папярэджанне: Гэты рэсурс звязаны з іншымі праз сімвалічную спасылку. Яго рэдагаванне зменіць арыгінал.</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Папярэджанне: гэты рэсурс звязаны з іншымі праз цвёрдыя спасылкі. Яго рэдагаванне зменіць арыгінал.</translation>
+        <translation>Папярэджанне: гэты рэсурс звязаны з іншымі праз цвёрдыя спасылкі. Яго рэдагаванне зменіць арыгінал.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -11709,7 +11700,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версія</translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11717,7 +11708,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Пастаўшчык</translation>
+        <translation>Пастаўшчык</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -11779,7 +11770,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Відарыс</translation>
+        <translation>Відарыс</translation>
     </message>
 </context>
 <context>
@@ -11798,7 +11789,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версія</translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11806,7 +11797,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Пастаўшчык</translation>
+        <translation>Пастаўшчык</translation>
     </message>
     <message>
         <source>Update</source>
@@ -11884,7 +11875,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Спампаваць</translation>
+        <translation>Спампаваць</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -11896,7 +11887,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Змяніце версію мода.</translation>
+        <translation>Змяніце версію мода.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11912,7 +11903,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Папярэджанні</translation>
+        <translation>Папярэджанні</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11946,7 +11937,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Праграма праверкі абнаўленняў</translation>
+        <translation>Праграма праверкі абнаўленняў</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -12354,7 +12345,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версія</translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12362,7 +12353,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Афлайн</translation>
+        <translation>Афлайн</translation>
     </message>
 </context>
 <context>
@@ -12483,7 +12474,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Спампаваць</translation>
+        <translation>Спампаваць</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -12511,7 +12502,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Папярэджанні</translation>
+        <translation>Папярэджанні</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12545,7 +12536,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Праграма праверкі абнаўленняў</translation>
+        <translation>Праграма праверкі абнаўленняў</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -12715,7 +12706,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Кантэкстнае меню</translation>
+        <translation>Кантэкстнае меню</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -13015,7 +13006,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Пастаўшчык</translation>
+        <translation>Пастаўшчык</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -13076,7 +13067,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Спампаваць</translation>
+        <translation>Спампаваць</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -13108,7 +13099,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Папярэджанні</translation>
+        <translation>Папярэджанні</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13142,7 +13133,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Праграма праверкі абнаўленняў</translation>
+        <translation>Праграма праверкі абнаўленняў</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -13562,7 +13553,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Усталяваць</translation>
+        <translation>Усталяваць</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -13850,7 +13841,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Інструменты</translation>
+        <translation>Інструменты</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -14081,7 +14072,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Імя карыстальніка</translation>
+        <translation>Імя карыстальніка</translation>
     </message>
     <message>
         <source>Password</source>

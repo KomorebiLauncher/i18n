@@ -1331,11 +1331,11 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalēt</translation>
+        <translation>Instalēt</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
 </context>
 <context>
@@ -1812,7 +1812,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Palīdzība</translation>
+        <translation>Palīdzība</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2130,7 +2130,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>&amp;Wrapper Command</source>
-        <translation type="unfinished">&amp;Wrapper komanda</translation>
+        <translation>&amp;Wrapper komanda</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pre-launch command runs before the instance launches and post-exit command runs after it exits.&lt;/p&gt;&lt;p&gt;Both will be run in the launcher&apos;s working folder with extra environment variables:&lt;/p&gt;&lt;ul&gt;&lt;li&gt;$INST_NAME - Name of the instance&lt;/li&gt;&lt;li&gt;$INST_ID - ID of the instance (its folder name)&lt;/li&gt;&lt;li&gt;$INST_DIR - absolute path of the instance&lt;/li&gt;&lt;li&gt;$INST_MC_DIR - absolute path of Minecraft&lt;/li&gt;&lt;li&gt;$INST_JAVA - Java binary used for launch&lt;/li&gt;&lt;li&gt;$INST_JAVA_ARGS - command-line parameters used for launch (warning: will not work correctly if arguments contain spaces)&lt;/li&gt;&lt;/ul&gt;&lt;p&gt;Wrapper command allows launching using an extra wrapper program (like &apos;optirun&apos; on Linux)&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -2228,11 +2228,11 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     <name>DataMigrationTask</name>
     <message>
         <source>Scanning files...</source>
-        <translation type="unfinished">Skenē failus...</translation>
+        <translation>Skenē failus...</translation>
     </message>
     <message>
         <source>Failed to scan source path.</source>
-        <translation type="unfinished">Neizdevās noskenēt avota ceļu.</translation>
+        <translation>Neizdevās noskenēt avota ceļu.</translation>
     </message>
     <message>
         <source>Copying %1…</source>
@@ -2244,7 +2244,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>Some paths could not be copied!</source>
-        <translation type="unfinished">Neizdevās nokopēt dažus ceļus!</translation>
+        <translation>Neizdevās nokopēt dažus ceļus!</translation>
     </message>
 </context>
 <context>
@@ -2286,11 +2286,11 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atjaunināt</translation>
+        <translation>Atjaunināt</translation>
     </message>
     <message>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
@@ -2350,7 +2350,7 @@ Varat atrisināt šo problēmu, atkārtoti uzstādot /tmp kā &quot;exec&quot; v
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2396,7 +2396,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Piekrist Noņemšanai</translation>
+        <translation>Piekrist Noņemšanai</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 data packs.
@@ -2545,7 +2545,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <name>EnvironmentVariables</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Veidlapa</translation>
+        <translation>Veidlapa</translation>
     </message>
     <message>
         <source>Name</source>
@@ -2561,7 +2561,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">Pārrakstīšana un vispārējie iestatījumi</translation>
+        <translation>Pārrakstīšana un vispārējie iestatījumi</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -2603,7 +2603,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2657,7 +2657,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Vārds:</translation>
+        <translation>&amp;Vārds:</translation>
     </message>
     <message>
         <source>&amp;Version:</source>
@@ -2722,7 +2722,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2785,7 +2785,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Savs</translation>
+        <translation>Savs</translation>
     </message>
     <message>
         <source>Template</source>
@@ -2802,7 +2802,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Optional Info</source>
-        <translation type="unfinished">Nesvarīga informācija</translation>
+        <translation>Nesvarīga informācija</translation>
     </message>
     <message>
         <source>Version</source>
@@ -2814,7 +2814,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Filename</source>
@@ -2822,11 +2822,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Format</source>
-        <translation type="unfinished">Formāts</translation>
+        <translation>Formāts</translation>
     </message>
     <message>
         <source>Result</source>
-        <translation type="unfinished">Rezultāts</translation>
+        <translation>Rezultāts</translation>
     </message>
     <message>
         <source>This depends on the mods&apos; metadata. To ensure it is available, run an update on the instance. Installing the updates isn&apos;t necessary.</source>
@@ -2850,7 +2850,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fails</translation>
+        <translation>Fails</translation>
     </message>
 </context>
 <context>
@@ -2881,11 +2881,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Noņemt</translation>
+        <translation>&amp;Noņemt</translation>
     </message>
     <message>
         <source>&amp;Enable</source>
-        <translation type="unfinished">&amp;Iespējot</translation>
+        <translation>&amp;Iespējot</translation>
     </message>
     <message>
         <source>&amp;Disable</source>
@@ -2898,7 +2898,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Meklēt</translation>
+        <translation>Meklēt</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2926,7 +2926,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>View &amp;Folder</source>
-        <translation type="unfinished">Skatīt &amp;Mape</translation>
+        <translation>Skatīt &amp;Mape</translation>
     </message>
     <message>
         <source>Open the folder in the system file manager.</source>
@@ -2998,7 +2998,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Konteksta izvēlne</translation>
+        <translation>Konteksta izvēlne</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -3057,7 +3057,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Pārlūkot</translation>
+        <translation>Pārlūkot</translation>
     </message>
     <message>
         <source>Used to edit component JSON files.</source>
@@ -3290,7 +3290,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">Nevarēja atrast pakas versiju %1</translation>
+        <translation>Nevarēja atrast pakas versiju %1</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -3311,7 +3311,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
+        <translation>Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -3346,7 +3346,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Kārtot pēc spēles versijas</translation>
+        <translation>Kārtot pēc spēles versijas</translation>
     </message>
 </context>
 <context>
@@ -3361,7 +3361,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Meklēt un filtrēt...</translation>
+        <translation>Meklēt un filtrēt...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3442,7 +3442,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Nezināms</translation>
+        <translation>Nezināms</translation>
     </message>
 </context>
 <context>
@@ -3470,7 +3470,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>No index file.</source>
-        <translation type="unfinished">Nav indeksa fails.</translation>
+        <translation>Nav indeksa fails.</translation>
     </message>
     <message>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
@@ -3478,15 +3478,15 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Neizdevās iegūt vietējo metadatu indeksu priekš %1</translation>
+        <translation>Neizdevās iegūt vietējo metadatu indeksu priekš %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Neizdevās atrast versiju priekš %1 loaderam</translation>
+        <translation>Neizdevās atrast versiju priekš %1 loaderam</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Nekāda loadera versija nav iestatīta priekš modpack!</translation>
+        <translation>Nekāda loadera versija nav iestatīta priekš modpack!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3495,20 +3495,19 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Nevarēja parmainīt vārdu ovveride mapei:
-</translation>
+        <translation>Nevarēja parmainīt vārdu ovveride mapei:</translation>
     </message>
     <message>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Specificētaā override mape (%1) ir pazudusi. Varbūt modpaks jau ir izmantots iepriekš?</translation>
+        <translation>Specificētaā override mape (%1) ir pazudusi. Varbūt modpaks jau ir izmantots iepriekš?</translation>
     </message>
     <message>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Nezināms modifikācijas lādētājs manifestā: %1</translation>
+        <translation>Nezināms modifikācijas lādētājs manifestā: %1</translation>
     </message>
     <message>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">Nezināmie treilēšanās punkti noņemti no Minecraft versijam kamēr importē paku.</translation>
+        <translation>Nezināmie treilēšanās punkti noņemti no Minecraft versijam kamēr importē paku.</translation>
     </message>
     <message>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
@@ -3533,17 +3532,16 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Nevar atrisināt modifikācijas IDs:
-</translation>
+        <translation>Nevar atrisināt modifikācijas IDs:</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Tika atrastas bloķētas modifikācijas</translation>
+        <translation>Tika atrastas bloķētas modifikācijas</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
+        <translation>Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -3551,7 +3549,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 no %2 pabeigts</translation>
+        <translation>%1 no %2 pabeigts</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3687,7 +3685,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Meklēt un filtrēt...</translation>
+        <translation>Meklēt un filtrēt...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3700,32 +3698,32 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>Sort by Featured</source>
         <oldsource>Sort by featured</oldsource>
-        <translation type="unfinished">Kārtot pēc piedāvātajiem</translation>
+        <translation>Kārtot pēc piedāvātajiem</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Kārtot pēc popularitātes</translation>
+        <translation>Kārtot pēc popularitātes</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Kārtot pēc atjauninātajiem</translation>
+        <translation>Kārtot pēc atjauninātajiem</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Kārtot pēc nosaukuma</translation>
+        <translation>Kārtot pēc nosaukuma</translation>
     </message>
     <message>
         <source>Sort by Author</source>
         <oldsource>Sort by author</oldsource>
-        <translation type="unfinished">Kārtot pēc autora</translation>
+        <translation>Kārtot pēc autora</translation>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
         <oldsource>Sort by total downloads</oldsource>
-        <translation type="unfinished">Kārtot pēc kopējām lejupielādēm</translation>
+        <translation>Kārtot pēc kopējām lejupielādēm</translation>
     </message>
     <message>
         <source>No version is available!</source>
@@ -3733,7 +3731,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source> by </source>
@@ -3761,7 +3759,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Neizdevās izveidot mapi priekš Minecraft binārajiem failiem.</translation>
+        <translation>Neizdevās izveidot mapi priekš Minecraft binārajiem failiem.</translation>
     </message>
 </context>
 <context>
@@ -3769,17 +3767,17 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Kārtot pēc spēlēšanas reizēm</translation>
+        <translation>Kārtot pēc spēlēšanas reizēm</translation>
     </message>
     <message>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Kartot pēc instalācijām</translation>
+        <translation>Kartot pēc instalācijām</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Kārtot pēc vārda</translation>
+        <translation>Kārtot pēc vārda</translation>
     </message>
 </context>
 <context>
@@ -3791,7 +3789,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Meklēt un filtrēt...</translation>
+        <translation>Meklēt un filtrēt...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3940,7 +3938,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished">Mantojums</translation>
+        <translation>Mantojums</translation>
     </message>
     <message>
         <source>Modpacks</source>
@@ -3948,7 +3946,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Savs</translation>
+        <translation>Savs</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3964,7 +3962,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -4015,11 +4013,11 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importēt no zip</translation>
+        <translation>Importēt no zip</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -4075,7 +4073,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
 </context>
 <context>
@@ -4118,7 +4116,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Pārlādēt</translation>
+        <translation>Pārlādēt</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -4126,7 +4124,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4354,7 +4352,7 @@ What would you like to do with %2?</source>
     <message>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Citi logi</translation>
+        <translation>Citi logi</translation>
     </message>
     <message>
         <source>Edit Instance (%1)</source>
@@ -4536,11 +4534,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Izlaist</translation>
+        <translation>Izlaist</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -4647,11 +4645,11 @@ What would you like to do with %2?</source>
     <name>Java::ArchiveDownloadTask</name>
     <message>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java lejupielādejas</translation>
+        <translation>Java lejupielādejas</translation>
     </message>
     <message>
         <source>Extracting Java</source>
-        <translation type="unfinished">Java izvilkšana</translation>
+        <translation>Java izvilkšana</translation>
     </message>
     <message>
         <source>Unable to open supplied zip file: %1</source>
@@ -4675,7 +4673,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">Piegādātajā zip failā netika atrasts neviens fails.</translation>
+        <translation>Piegādātajā zip failā netika atrasts neviens fails.</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
@@ -4686,7 +4684,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Pārlādēt</translation>
+        <translation>Pārlādēt</translation>
     </message>
     <message>
         <source>Download</source>
@@ -4694,7 +4692,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <source>Mojang</source>
@@ -4714,15 +4712,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Instalējiet Java</translation>
+        <translation>Instalējiet Java</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Nevarēja noteikt Java lejupielādes veidu!</translation>
+        <translation>Nevarēja noteikt Java lejupielādes veidu!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4744,7 +4742,7 @@ What would you like to do with %2?</source>
     <name>Java::ManifestDownloadTask</name>
     <message>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java lejupielādejas</translation>
+        <translation>Java lejupielādejas</translation>
     </message>
 </context>
 <context>
@@ -4831,11 +4829,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Noņemt</translation>
+        <translation>Noņemt</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Pārlādēt</translation>
+        <translation>Pārlādēt</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -4926,7 +4924,7 @@ Java versiju var mainīt iestatījumos vēlāk.
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Veidlapa</translation>
+        <translation>Veidlapa</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -5010,7 +5008,7 @@ Java versiju var mainīt iestatījumos vēlāk.
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Atmiņa</translation>
+        <translation>Atmiņa</translation>
     </message>
     <message>
         <source>Memory suggestion</source>
@@ -5172,7 +5170,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished">Nav izvēlētās Java versijas</translation>
+        <translation>Nav izvēlētās Java versijas</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -5185,35 +5183,35 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Meklēt Java Izpildāmo</translation>
+        <translation>Meklēt Java Izpildāmo</translation>
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Atmiņa</translation>
+        <translation>Atmiņa</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Maksimālais daudzums atmiņas ko Minecraft var lietot.</translation>
+        <translation>Maksimālais daudzums atmiņas ko Minecraft var lietot.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minimālā atmiņas piešķiršana:</translation>
+        <translation>Minimālā atmiņas piešķiršana:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Maksimālā atmiņas piešķiršana:</translation>
+        <translation>Maksimālā atmiņas piešķiršana:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Atmiņas daudzums ar ko Minecraft var darboties sākumpunktā.</translation>
+        <translation>Atmiņas daudzums ar ko Minecraft var darboties sākumpunktā.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Atmiņas daudzums pieejams lai krātu ielādetās Java klases.</translation>
+        <translation>Atmiņas daudzums pieejams lai krātu ielādetās Java klases.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Pārlūkot</translation>
+        <translation>Pārlūkot</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -5621,7 +5619,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Pārlūkot</translation>
+        <translation>Pārlūkot</translation>
     </message>
     <message>
         <source>Instance Sorting</source>
@@ -5842,7 +5840,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Noņemt</translation>
+        <translation>Noņemt</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -5943,7 +5941,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance Folder</source>
-        <translation type="unfinished">Instances Mape</translation>
+        <translation>Instances Mape</translation>
     </message>
     <message>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
@@ -6043,11 +6041,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Pārbauda FML bibliotēkas...</translation>
+        <translation>Pārbauda FML bibliotēkas...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Lejupielādē FML...</translation>
+        <translation>Lejupielādē FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6055,15 +6053,15 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Notiek FML bibliotēku kopēšana instancē...</translation>
+        <translation>Notiek FML bibliotēku kopēšana instancē...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Neizdevās izveidot FML bibliotēkas mapi instancē.</translation>
+        <translation>Neizdevās izveidot FML bibliotēkas mapi instancē.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Neizdevās nokopēt Forge/FML bibliotēku: %1.</translation>
+        <translation>Neizdevās nokopēt Forge/FML bibliotēku: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6071,11 +6069,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Neizdevās lejuplādēt šos failus:
-%1
-
-Iemesls:%2
-Lūdzu, mēģiniet vēlreiz.</translation>
+        <translation>Neizdevās lejuplādēt šos failus:</translation>
     </message>
 </context>
 <context>
@@ -6083,12 +6077,12 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Kārtot pēc nosaukuma</translation>
+        <translation>Kārtot pēc nosaukuma</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Kārtot pēc spēles versijas</translation>
+        <translation>Kārtot pēc spēles versijas</translation>
     </message>
 </context>
 <context>
@@ -6146,7 +6140,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Neizdevās pārvietot atpakotu Minecraft!</translation>
+        <translation>Neizdevās pārvietot atpakotu Minecraft!</translation>
     </message>
     <message>
         <source>No installation method found!</source>
@@ -6157,7 +6151,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Meklēt un filtrēt...</translation>
+        <translation>Meklēt un filtrēt...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -6193,7 +6187,7 @@ Lūdzu, mēģiniet vēlreiz.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6288,7 +6282,7 @@ Vai noņemt tagad?</translation>
     <message>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Ņem nepieciešamās datnes no Mojang...</translation>
+        <translation>Ņem nepieciešamās datnes no Mojang...</translation>
     </message>
     <message>
         <source>Libraries for instance %1</source>
@@ -6327,7 +6321,7 @@ Iemesls:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6367,7 +6361,7 @@ Iemesls:
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
         <oldsource>Upload the log to paste.ee - it will stay online for a month</oldsource>
-        <translation type="unfinished">Augšupielādējiet logu paste.ee - tas tur paliks uz mēnesi</translation>
+        <translation>Augšupielādējiet logu paste.ee - tas tur paliks uz mēnesi</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -6383,7 +6377,7 @@ Iemesls:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Meklēt</translation>
+        <translation>Meklēt</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -6455,7 +6449,7 @@ Iemesls:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Veidlapa</translation>
+        <translation>Veidlapa</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6555,11 +6549,11 @@ Iemesls:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Lūdzu uzgaidiet...</translation>
+        <translation>Lūdzu uzgaidiet...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Statuss</translation>
+        <translation>Statuss</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -7089,7 +7083,7 @@ Iemesls:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Konti</translation>
+        <translation>Konti</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -7126,7 +7120,7 @@ Iemesls:
     <message>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">Skatīt pasaules kuras ir no šīs instances.</translation>
+        <translation>Skatīt pasaules kuras ir no šīs instances.</translation>
     </message>
     <message>
         <source>Manage Screenshots</source>
@@ -7206,7 +7200,7 @@ Iemesls:
     <message>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Izveidot Instanci</translation>
+        <translation>Izveidot Instanci</translation>
     </message>
     <message>
         <source>&amp;Delete group</source>
@@ -7293,7 +7287,7 @@ URL:
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Modpaka lejuplāde</translation>
+        <translation>Modpaka lejuplāde</translation>
     </message>
     <message>
         <source>No instance!</source>
@@ -7493,7 +7487,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -7549,7 +7543,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Atjaunināšana neizdevās</translation>
+        <translation>Atjaunināšana neizdevās</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -7594,7 +7588,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Vārds</translation>
+        <translation>Vārds</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -7614,7 +7608,7 @@ Are you sure?</source>
     <name>MinecraftAccount</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Pārtraukts</translation>
+        <translation>Pārtraukts</translation>
     </message>
 </context>
 <context>
@@ -7645,7 +7639,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Profilers</source>
-        <translation type="unfinished">Profili</translation>
+        <translation>Profili</translation>
     </message>
     <message>
         <source>&amp;No Profiler</source>
@@ -7804,7 +7798,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Iestatījumi šeit ir ignorējošie priekš globālajiem iestatījumiem.</translation>
+        <translation>Iestatījumi šeit ir ignorējošie priekš globālajiem iestatījumiem.</translation>
     </message>
     <message>
         <source>General</source>
@@ -7840,11 +7834,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Rādīt laiku spēlējot instances</translation>
+        <translation>Rādīt laiku spēlējot instances</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">Ierakstīt laiku spēlējot instances</translation>
+        <translation>Ierakstīt laiku spēlējot instances</translation>
     </message>
     <message>
         <source>Show the &amp;total time played across instances</source>
@@ -7868,7 +7862,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -7892,11 +7886,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Izmantot sistēmas OpenAL instalāciju</translation>
+        <translation>Izmantot sistēmas OpenAL instalāciju</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Izmantot sistēmas GLFW instalāciju</translation>
+        <translation>Izmantot sistēmas GLFW instalāciju</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
@@ -7953,7 +7947,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Pārlūkot</translation>
+        <translation>Pārlūkot</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -8089,15 +8083,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Servera adrese:</translation>
+        <translation>Servera adrese:</translation>
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Pielāgotas komandas</translation>
+        <translation>Pielāgotas komandas</translation>
     </message>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished">Vides Mainīgie</translation>
+        <translation>Vides Mainīgie</translation>
     </message>
     <message>
         <source>Show time &amp;playing this instance</source>
@@ -8147,7 +8141,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Noņemt</translation>
+        <translation>Noņemt</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8166,7 +8160,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>ModFilterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Veidlapa</translation>
+        <translation>Veidlapa</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -8266,7 +8260,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Nezināms</translation>
+        <translation>Nezināms</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -8334,7 +8328,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Visas versijas</translation>
+        <translation>Visas versijas</translation>
     </message>
 </context>
 <context>
@@ -8378,11 +8372,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Pēdējoreiz izmainīts</translation>
+        <translation>Pēdējoreiz izmainīts</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Izmērs</translation>
+        <translation>Izmērs</translation>
     </message>
     <message>
         <source>Side</source>
@@ -8410,11 +8404,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Faila nosaukums</translation>
+        <translation>Faila nosaukums</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atjaunināt</translation>
+        <translation>Atjaunināt</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -8639,7 +8633,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -8680,7 +8674,7 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Piekrist Noņemšanai</translation>
+        <translation>Piekrist Noņemšanai</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 mods.
@@ -8732,7 +8726,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished">Modifikācijas</translation>
+        <translation>Modifikācijas</translation>
     </message>
     <message>
         <source>Visit mod&apos;s page</source>
@@ -8836,7 +8830,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -8865,7 +8859,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Nezināms</translation>
+        <translation>Nezināms</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -8884,11 +8878,11 @@ Please update %1!</source>
     <name>ModrinthCreationTask</name>
     <message>
         <source> (version %1)</source>
-        <translation type="unfinished"> (versija %1)</translation>
+        <translation>(versija %1)</translation>
     </message>
     <message>
         <source>No index file.</source>
-        <translation type="unfinished">Nav indeksa fails.</translation>
+        <translation>Nav indeksa fails.</translation>
     </message>
     <message>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
@@ -8897,8 +8891,7 @@ Please update %1!</source>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Nevarēja parmainīt vārdu ovveride mapei:
-</translation>
+        <translation>Nevarēja parmainīt vārdu ovveride mapei:</translation>
     </message>
     <message>
         <source>Could not rename the client overrides folder:
@@ -8919,7 +8912,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 no %2 pabeigts</translation>
+        <translation>%1 no %2 pabeigts</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -9017,7 +9010,7 @@ Please update %1!</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Meklēt un filtrēt...</translation>
+        <translation>Meklēt un filtrēt...</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -9031,11 +9024,11 @@ Please update %1!</source>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Kārtot pēc atjauninātajiem</translation>
+        <translation>Kārtot pēc atjauninātajiem</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -9072,11 +9065,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Kārtot pēc kopējām lejupielādēm</translation>
+        <translation>Kārtot pēc kopējām lejupielādēm</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> no </translation>
+        <translation>no</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -9160,7 +9153,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Izpilda %1 uzdevumu(-us) (%2 no %3 ir izpildīti)</translation>
+        <translation>Izpilda %1 uzdevumu(-us) (%2 no %3 ir izpildīti)</translation>
     </message>
 </context>
 <context>
@@ -9175,11 +9168,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -9222,7 +9215,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
 </context>
 <context>
@@ -9249,7 +9242,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9257,7 +9250,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Palīdzība</translation>
+        <translation>Palīdzība</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -9288,7 +9281,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Aizvērt</translation>
+        <translation>Aizvērt</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -9535,11 +9528,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalēt</translation>
+        <translation>Instalēt</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
 </context>
 <context>
@@ -9566,7 +9559,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
 </context>
 <context>
@@ -9581,7 +9574,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Skrullēt uz pašu apakšu</translation>
+        <translation>Skrullēt uz pašu apakšu</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -9605,11 +9598,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Turpināt atjaunināt</translation>
+        <translation>Turpināt atjaunināt</translation>
     </message>
     <message>
         <source>Wrap lines</source>
-        <translation type="unfinished">Aptīt līnijas</translation>
+        <translation>Aptīt līnijas</translation>
     </message>
     <message>
         <source>Color lines</source>
@@ -9625,7 +9618,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Augšupielādējiet logu paste.ee - tas tur paliks uz mēnesi</translation>
+        <translation>Augšupielādējiet logu paste.ee - tas tur paliks uz mēnesi</translation>
     </message>
     <message>
         <source>&amp;Upload</source>
@@ -9641,7 +9634,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Meklēt</translation>
+        <translation>Meklēt</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -9674,7 +9667,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Nevar uzrādīt žurnāla failu jo tas ir pārsniedzis %1 rindiņās.</translation>
+        <translation>Nevar uzrādīt žurnāla failu jo tas ir pārsniedzis %1 rindiņās.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -9726,7 +9719,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Notīrīt</translation>
+        <translation>Notīrīt</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -9769,75 +9762,75 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Neatbalstīts instalācijas režīms</translation>
+        <translation>Neatbalstīts instalācijas režīms</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Neizdevās iegūt lokālo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
+        <translation>Neizdevās iegūt lokālo metadatu indeksu priekš &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Dzēš eksistējošos failus...</translation>
+        <translation>Dzēš eksistējošos failus...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Nezināms modifikācijas veids: %1</translation>
+        <translation>Nezināms modifikācijas veids: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Nezināms vai neatbalstīts lejupielādes veids: %1</translation>
+        <translation>Nezināms vai neatbalstīts lejupielādes veids: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Lejupielādē konfigurācijas...</translation>
+        <translation>Lejupielādē konfigurācijas...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Lejupielādes Konfigurācija</translation>
+        <translation>Lejupielādes Konfigurācija</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Konfigurāciju izvilkšana...</translation>
+        <translation>Konfigurāciju izvilkšana...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Izvēlas neobligātās modifikācijas...</translation>
+        <translation>Izvēlas neobligātās modifikācijas...</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Nezināms lejupielādes veids: %1</translation>
+        <translation>Nezināms lejupielādes veids: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Tika atrastas bloķētas modifikācijas</translation>
+        <translation>Tika atrastas bloķētas modifikācijas</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
+        <translation>Sekojošās datnes nav iespējams lejupielādēt trešās puses palaidējos.&lt;br/&gt;Tās ir nepieciešams manuāli lejupielādēt un pievienot instancei.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 no %2 pabeigts</translation>
+        <translation>%1 no %2 pabeigts</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Neizdevās izrakstīt modifikācijas...</translation>
+        <translation>Neizdevās izrakstīt modifikācijas...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Izraksta modifikācijas...</translation>
+        <translation>Izraksta modifikācijas...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Neizdevās izveidot bibliotēkas komponentu</translation>
+        <translation>Neizdevās izveidot bibliotēkas komponentu</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Nezināms ielādētāja veids: </translation>
+        <translation>Nezināms ielādētāja veids:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Neizdevās izveidot pakotnes komponentu</translation>
+        <translation>Neizdevās izveidot pakotnes komponentu</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -9877,7 +9870,7 @@ Are you sure?</source>
     <name>PackProfile</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Pārtraukts</translation>
+        <translation>Pārtraukts</translation>
     </message>
     <message>
         <source>Name</source>
@@ -9904,7 +9897,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Palīdzība</translation>
+        <translation>Palīdzība</translation>
     </message>
 </context>
 <context>
@@ -9918,7 +9911,7 @@ Are you sure?</source>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Veidlapa</translation>
+        <translation>Veidlapa</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -10345,7 +10338,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
 </context>
 <context>
@@ -10366,7 +10359,7 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -10422,7 +10415,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Pārtraukt</translation>
+        <translation>Pārtraukt</translation>
     </message>
 </context>
 <context>
@@ -10462,17 +10455,17 @@ HTTP Status: %2</source>
     <message>
         <source>&amp;SOCKS5</source>
         <oldsource>SOC&amp;KS5</oldsource>
-        <translation type="unfinished">SOC&amp;KS5</translation>
+        <translation>SOC&amp;KS5</translation>
     </message>
     <message>
         <source>&amp;HTTP</source>
         <oldsource>H&amp;TTP</oldsource>
-        <translation type="unfinished">H&amp;TTP</translation>
+        <translation>H&amp;TTP</translation>
     </message>
     <message>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">Adrese un Ports</translation>
+        <translation>Adrese un Ports</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -10481,12 +10474,12 @@ HTTP Status: %2</source>
     <message>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">Lietotājvārds:</translation>
+        <translation>Lietotājvārds:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">Parole:</translation>
+        <translation>Parole:</translation>
     </message>
     <message>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
@@ -10545,7 +10538,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (Tiek izmantots)</translation>
+        <translation>%1 (Tiek izmantots)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -10589,7 +10582,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload finished</source>
-        <translation type="unfinished">Augšupielāde pabeigta</translation>
+        <translation>Augšupielāde pabeigta</translation>
     </message>
     <message>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
@@ -10778,7 +10771,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Nav atrasta Java pārbaudītāja bibliotēka. Lūdzu, pārbaudiet instalāciju.</translation>
+        <translation>Nav atrasta Java pārbaudītāja bibliotēka. Lūdzu, pārbaudiet instalāciju.</translation>
     </message>
     <message>
         <source>Download of meta file %1</source>
@@ -10893,15 +10886,15 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Kārtot pēc piedāvātajiem</translation>
+        <translation>Kārtot pēc piedāvātajiem</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Kārtot pēc popularitātes</translation>
+        <translation>Kārtot pēc popularitātes</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Kārtot pēc atjauninātajiem</translation>
+        <translation>Kārtot pēc atjauninātajiem</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -10909,7 +10902,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Author</source>
-        <translation type="unfinished">Kārtot pēc autora</translation>
+        <translation>Kārtot pēc autora</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -10921,7 +10914,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Kārtot pēc spēles versijas</translation>
+        <translation>Kārtot pēc spēles versijas</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -10957,7 +10950,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Nezināms</translation>
+        <translation>Nezināms</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -10990,47 +10983,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Neatzīmēts</translation>
+        <translation>Neatzīmēts</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Bezsaistē</translation>
+        <translation>Bezsaistē</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gatavs</translation>
+        <translation>Gatavs</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Strādā</translation>
+        <translation>Strādā</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Laiks beidzies</translation>
+        <translation>Laiks beidzies</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Atspējots</translation>
+        <translation>Atspējots</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Pazudis</translation>
+        <translation>Pazudis</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Nezināms</translation>
+        <translation>Nezināms</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -11235,7 +11228,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Neatpazīts</translation>
+        <translation>Neatpazīts</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11327,7 +11320,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -11378,7 +11371,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -11416,7 +11409,7 @@ Please update %1!</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> no </translation>
+        <translation>no</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -11533,7 +11526,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Vārds</translation>
+        <translation>Vārds</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -11541,15 +11534,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Pēdējoreiz izmainīts</translation>
+        <translation>Pēdējoreiz izmainīts</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Izmērs</translation>
+        <translation>Izmērs</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -11557,11 +11550,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Faila nosaukums</translation>
+        <translation>Faila nosaukums</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atjaunināt</translation>
+        <translation>Atjaunināt</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -11615,7 +11608,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Attēls</translation>
+        <translation>Attēls</translation>
     </message>
 </context>
 <context>
@@ -11630,15 +11623,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Pēdējoreiz izmainīts</translation>
+        <translation>Pēdējoreiz izmainīts</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Izmērs</translation>
+        <translation>Izmērs</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -11646,11 +11639,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Faila nosaukums</translation>
+        <translation>Faila nosaukums</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atjaunināt</translation>
+        <translation>Atjaunināt</translation>
     </message>
     <message>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
@@ -11683,7 +11676,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Vārds</translation>
+        <translation>Vārds</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -11722,7 +11715,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -11768,7 +11761,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Piekrist Noņemšanai</translation>
+        <translation>Piekrist Noņemšanai</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -11827,7 +11820,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -11936,7 +11929,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -12095,14 +12088,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12125,7 +12118,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12143,7 +12136,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
 </context>
 <context>
@@ -12176,7 +12169,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12184,7 +12177,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Bezsaistē</translation>
+        <translation>Bezsaistē</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12195,7 +12188,7 @@ Currently installed version: %1</source>
     <name>ServersPage</name>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">Vārds</translation>
+        <translation>Vārds</translation>
     </message>
     <message>
         <source>Address</source>
@@ -12243,7 +12236,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Pārlādēt</translation>
+        <translation>Pārlādēt</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -12261,7 +12254,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Piekrist Noņemšanai</translation>
+        <translation>Piekrist Noņemšanai</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -12329,7 +12322,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -12375,7 +12368,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Piekrist Noņemšanai</translation>
+        <translation>Piekrist Noņemšanai</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -12418,7 +12411,7 @@ Are you sure?</source>
     <name>SkinManageDialog</name>
     <message>
         <source>Skin Upload</source>
-        <translation type="unfinished">Skina Augšupielādēšana</translation>
+        <translation>Skina Augšupielādēšana</translation>
     </message>
     <message>
         <source>Model</source>
@@ -12434,7 +12427,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cape</source>
-        <translation type="unfinished">Apmetnis</translation>
+        <translation>Apmetnis</translation>
     </message>
     <message>
         <source>Preview Elytra</source>
@@ -12442,7 +12435,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Atvērt mapi</translation>
+        <translation>Atvērt mapi</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -12462,7 +12455,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Izdzēst Skinu</translation>
+        <translation>&amp;Izdzēst Skinu</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -12490,7 +12483,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -12502,7 +12495,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>No Cape</source>
-        <translation type="unfinished">Bez Apmetņa</translation>
+        <translation>Bez Apmetņa</translation>
     </message>
     <message>
         <source>Download capes</source>
@@ -12526,15 +12519,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Skinu Izdzēšana</translation>
+        <translation>Skinu Izdzēšana</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Neizdevās izdzēst pašreizējo skinu!</translation>
+        <translation>Neizdevās izdzēst pašreizējo skinu!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Konteksta izvēlne</translation>
+        <translation>Konteksta izvēlne</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -12642,7 +12635,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Veidlapa</translation>
+        <translation>Veidlapa</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -12657,7 +12650,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Pārtraukts</translation>
+        <translation>Pārtraukts</translation>
     </message>
 </context>
 <context>
@@ -12670,9 +12663,7 @@ Are you sure?</source>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Instances atjauninājums neizdevās jo: %1
-
-</translation>
+        <translation>Instances atjauninājums neizdevās jo: %1</translation>
     </message>
 </context>
 <context>
@@ -12680,16 +12671,15 @@ Are you sure?</source>
     <message>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Lejuplādē modpaku:
-%1</translation>
+        <translation>Lejuplādē modpaku:</translation>
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Modpaka lejuplāde</translation>
+        <translation>Modpaka lejuplāde</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Ekstraktē modpaku</translation>
+        <translation>Ekstraktē modpaku</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -12705,11 +12695,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Nevarēja izlabot atļaujas priekš %1</translation>
+        <translation>Nevarēja izlabot atļaujas priekš %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">Instances imports tika apstādināts.</translation>
+        <translation>Instances imports tika apstādināts.</translation>
     </message>
 </context>
 <context>
@@ -12729,7 +12719,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Ekstraktē modpaku</translation>
+        <translation>Ekstraktē modpaku</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -12741,11 +12731,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Nevarēja izlabot atļaujas priekš %1</translation>
+        <translation>Nevarēja izlabot atļaujas priekš %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">Instances imports tika apstādināts.</translation>
+        <translation>Instances imports tika apstādināts.</translation>
     </message>
 </context>
 <context>
@@ -12795,7 +12785,7 @@ inheritsFrom is missing</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Meklēt un filtrēt...</translation>
+        <translation>Meklēt un filtrēt...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -12803,11 +12793,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> no </translation>
+        <translation>no</translation>
     </message>
 </context>
 <context>
@@ -12834,15 +12824,15 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Vārds</translation>
+        <translation>Vārds</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Pēdējoreiz izmainīts</translation>
+        <translation>Pēdējoreiz izmainīts</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Izmērs</translation>
+        <translation>Izmērs</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -12850,11 +12840,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Faila nosaukums</translation>
+        <translation>Faila nosaukums</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atjaunināt</translation>
+        <translation>Atjaunināt</translation>
     </message>
     <message>
         <source>The date and time this texture pack was last changed (or added).</source>
@@ -12905,7 +12895,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Kļūda</translation>
+        <translation>Kļūda</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -12951,7 +12941,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Piekrist Noņemšanai</translation>
+        <translation>Piekrist Noņemšanai</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -12978,7 +12968,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Izskats</translation>
+        <translation>Izskats</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -12989,7 +12979,7 @@ Are you sure?</source>
     <name>TranslationsModel</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Valoda</translation>
+        <translation>Valoda</translation>
     </message>
     <message>
         <source>Completeness</source>
@@ -13097,7 +13087,7 @@ Are you sure?</source>
     <name>VanillaCreationTask</name>
     <message>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">Veido instanci no versijas %1</translation>
+        <translation>Veido instanci no versijas %1</translation>
     </message>
 </context>
 <context>
@@ -13261,7 +13251,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished">Pārlādēt</translation>
+        <translation>Pārlādēt</translation>
     </message>
     <message>
         <source>Download All</source>
@@ -13269,7 +13259,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Meklēt</translation>
+        <translation>Meklēt</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -13281,7 +13271,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Pārvietot augšup</translation>
+        <translation>Pārvietot augšup</translation>
     </message>
     <message>
         <source>Make the selected component apply sooner.</source>
@@ -13289,7 +13279,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Pārvietot uz leju</translation>
+        <translation>Pārvietot uz leju</translation>
     </message>
     <message>
         <source>Make the selected component apply later.</source>
@@ -13405,7 +13395,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Piekrist Noņemšanai</translation>
+        <translation>Piekrist Noņemšanai</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -13481,7 +13471,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalēt</translation>
+        <translation>Instalēt</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -13600,7 +13590,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Labi</translation>
+        <translation>Labi</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13623,7 +13613,7 @@ Are you sure?</source>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Meklēt</translation>
+        <translation>Meklēt</translation>
     </message>
     <message>
         <source>Error</source>
@@ -13681,7 +13671,7 @@ Canonical Path: %1</source>
     <message>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">Izmērs</translation>
+        <translation>Izmērs</translation>
     </message>
     <message>
         <source>Info</source>
@@ -13721,7 +13711,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Pievienoties</translation>
+        <translation>Pievienoties</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -13765,7 +13755,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Rīki</translation>
+        <translation>Rīki</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -14009,11 +13999,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Lietotājvārds</translation>
+        <translation>Lietotājvārds</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Parole</translation>
+        <translation>Parole</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -14021,7 +14011,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atcelt</translation>
+        <translation>Atcelt</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

@@ -1318,11 +1318,11 @@ Te saate selle probleem lahendada sellega, et te paigaldate uuesti /tmp &apos;ex
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Paigalda</translation>
+        <translation>Paigalda</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
 </context>
 <context>
@@ -1416,7 +1416,7 @@ Te saate selle probleem lahendada sellega, et te paigaldate uuesti /tmp &apos;ex
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Kohaliku faili allalaadimine</translation>
+        <translation>Kohaliku faili allalaadimine</translation>
     </message>
 </context>
 <context>
@@ -2269,7 +2269,7 @@ Te saate selle probleem lahendada sellega, et te paigaldate uuesti /tmp &apos;ex
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Suurus</translation>
+        <translation>Suurus</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2281,11 +2281,11 @@ Te saate selle probleem lahendada sellega, et te paigaldate uuesti /tmp &apos;ex
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioon</translation>
+        <translation>Versioon</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uuenda</translation>
+        <translation>Uuenda</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -2599,7 +2599,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">Kirjuta üle &amp;Globaalsed seaded</translation>
+        <translation>Kirjuta üle &amp;Globaalsed seaded</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -2972,7 +2972,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <message>
         <source>Enable all selected items.</source>
         <oldsource>Disable selected item</oldsource>
-        <translation type="unfinished">Keela valitud üksus</translation>
+        <translation>Keela valitud üksus</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3197,15 +3197,15 @@ Kas soovid kindlasti seda teha?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Lisa</translation>
+        <translation>&amp;Lisa</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Eemalda</translation>
+        <translation>&amp;Eemalda</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nimi</translation>
+        <translation>Nimi</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3407,7 +3407,7 @@ Palun proovi uuesti.</translation>
     <name>FTB::PackInstallTask</name>
     <message>
         <source>Getting the manifest...</source>
-        <translation type="unfinished">Manifesti hankimine...</translation>
+        <translation>Manifesti hankimine...</translation>
     </message>
     <message>
         <source>Failed to find pack version %1</source>
@@ -3416,20 +3416,19 @@ Palun proovi uuesti.</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Paki manifestist ei saadud aru:
-</translation>
+        <translation>Paki manifestist ei saadud aru:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
-        <translation type="unfinished">Modide lahendamine...</translation>
+        <translation>Modide lahendamine...</translation>
     </message>
     <message>
         <source>Invalid manifest: There&apos;s no information available to download the file &apos;%1&apos;!</source>
-        <translation type="unfinished">Sobimatu manifest: faili &quot;%1&quot; allalaadimiseks puudub teave!</translation>
+        <translation>Sobimatu manifest: faili &quot;%1&quot; allalaadimiseks puudub teave!</translation>
     </message>
     <message>
         <source>Blocked files found</source>
-        <translation type="unfinished">Leiti blokeeritud failid</translation>
+        <translation>Leiti blokeeritud failid</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
@@ -3437,15 +3436,15 @@ Palun proovi uuesti.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
-        <translation type="unfinished">Eksemplari loomine...</translation>
+        <translation>Eksemplari loomine...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modide allalaadimine...</translation>
+        <translation>Modide allalaadimine...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Modi allalaadimine</translation>
+        <translation>Modi allalaadimine</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -3453,11 +3452,11 @@ Palun proovi uuesti.</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Blokeeritud modide kopeerimine...</translation>
+        <translation>Blokeeritud modide kopeerimine...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Blokeeritud modide kopeerimine (%1/%2 valmis)</translation>
+        <translation>Blokeeritud modide kopeerimine (%1/%2 valmis)</translation>
     </message>
 </context>
 <context>
@@ -3540,7 +3539,7 @@ Palun proovi uuesti.</translation>
     <message>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">Modide ettevalmistamine CurseForge jaoks...</translation>
+        <translation>Modide ettevalmistamine CurseForge jaoks...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3689,11 +3688,11 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Vanade konfliktsete failide eemaldamine...</translation>
+        <translation>Vanade konfliktsete failide eemaldamine...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Vanade konfliktsete failide eemaldamine ebaõnnestus.</translation>
+        <translation>Vanade konfliktsete failide eemaldamine ebaõnnestus.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -4125,7 +4124,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished">Pärand</translation>
+        <translation>Pärand</translation>
     </message>
     <message>
         <source>Modpacks</source>
@@ -4133,7 +4132,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Kohandatud</translation>
+        <translation>Kohandatud</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -4322,7 +4321,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4879,11 +4878,11 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Jäta vahele</translation>
+        <translation>Jäta vahele</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Viga</translation>
+        <translation>Viga</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -5431,7 +5430,7 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Jäta Java ühilduvuskontrollid vahele</translation>
+        <translation>Jäta Java ühilduvuskontrollid vahele</translation>
     </message>
     <message>
         <source>&amp;Allowed Java versions</source>
@@ -5639,12 +5638,7 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Valisid 32-bitise Java paigalduse, kuid määrasid maksimaalseks mälujaotuseks rohkem, kui 2048MiB.
-%1 ei saa Minecrafti käivitada.
-Kas soovid jätkata?
-
-Java versiooni saab pärast seadetes muuta.
-</translation>
+        <translation>Valisid 32-bitise Java paigalduse, kuid määrasid maksimaalseks mälujaotuseks rohkem, kui 2048MiB.</translation>
     </message>
     <message>
         <source>No Java version selected</source>
@@ -5657,12 +5651,7 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Sa kas ei valinud Java versiooni või valisid ühe, mis ei tööta.
-%1 ei saa Minecrafti käivitada.
-Kas soovid jätkata?
-
-Java versiooni saab pärast seadetes muuta.
-</translation>
+        <translation>Sa kas ei valinud Java versiooni või valisid ühe, mis ei tööta.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
@@ -5674,19 +5663,19 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Maksimaalne mälu hulk, mida Minecraft kasutada võib.</translation>
+        <translation>Maksimaalne mälu hulk, mida Minecraft kasutada võib.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minimaalne mälueraldus:</translation>
+        <translation>Minimaalne mälueraldus:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Maksimaalne mälueraldus:</translation>
+        <translation>Maksimaalne mälueraldus:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Mälu hulk, millega Minecraft käivitatakse.</translation>
+        <translation>Mälu hulk, millega Minecraft käivitatakse.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
@@ -5694,7 +5683,7 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Sirvi</translation>
+        <translation>Sirvi</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -5706,19 +5695,19 @@ Java versiooni saab pärast seadetes muuta.
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="unfinished">Tuvasta Java automaatselt</translation>
+        <translation>Tuvasta Java automaatselt</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Sinu maksimaalne mälujaotus ületab süsteemi mälujaotust.</translation>
+        <translation>Sinu maksimaalne mälujaotus ületab süsteemi mälujaotust.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Sinu maksimaalne mälujaotus on peaaegu süsteemi mälujaotus.</translation>
+        <translation>Sinu maksimaalne mälujaotus on peaaegu süsteemi mälujaotus.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Sinu maksimaalne mälujaotus on minimaalsest väiksem</translation>
+        <translation>Sinu maksimaalne mälujaotus on minimaalsest väiksem</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
@@ -6461,7 +6450,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eemalda</translation>
+        <translation>Eemalda</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -6675,7 +6664,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Üldine</translation>
+        <translation>Üldine</translation>
     </message>
 </context>
 <context>
@@ -6712,11 +6701,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">FML-teekide kontrollimine...</translation>
+        <translation>FML-teekide kontrollimine...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">FML-teekide allalaadimine...</translation>
+        <translation>FML-teekide allalaadimine...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6724,15 +6713,15 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">FML-teekide eksemplari kopeerimine...</translation>
+        <translation>FML-teekide eksemplari kopeerimine...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Eksemplari FML-teekide kausta loomine ebaõnnestus.</translation>
+        <translation>Eksemplari FML-teekide kausta loomine ebaõnnestus.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Forge/FML-teegi kopeerimine ebaõnnestus: %1.</translation>
+        <translation>Forge/FML-teegi kopeerimine ebaõnnestus: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6740,11 +6729,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Järgnevate failide allalaadimine ebaõnnestus:
-%1
-
-Põhjus: %2
-Palun proovi uuesti.</translation>
+        <translation>Järgnevate failide allalaadimine ebaõnnestus:</translation>
     </message>
 </context>
 <context>
@@ -6815,7 +6800,7 @@ Palun proovi uuesti.</translation>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Lahti pakitud Minecrafti liigutamine ebaõnnestus!</translation>
+        <translation>Lahti pakitud Minecrafti liigutamine ebaõnnestus!</translation>
     </message>
     <message>
         <source>No installation method found!</source>
@@ -6992,7 +6977,7 @@ Põhjus:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7017,7 +7002,7 @@ Põhjus:
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="unfinished">Sobimatud metaandmed</translation>
+        <translation>Sobimatud metaandmed</translation>
     </message>
 </context>
 <context>
@@ -7061,7 +7046,7 @@ Põhjus:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Otsi</translation>
+        <translation>Otsi</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7297,7 +7282,7 @@ Põhjus:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -8566,7 +8551,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Kinnita uuendamist</translation>
+        <translation>Kinnita uuendamist</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -8941,11 +8926,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Siinsed sätted kirjutavad üldsätted üle.</translation>
+        <translation>Siinsed sätted kirjutavad üldsätted üle.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Üldine</translation>
+        <translation>Üldine</translation>
     </message>
     <message>
         <source>Game &amp;Window</source>
@@ -8961,7 +8946,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Käivita Minecraft maksimeeritult</translation>
+        <translation>Käivita Minecraft maksimeeritult</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -8981,11 +8966,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Kuva eksemplaride &amp;mängimise aeg</translation>
+        <translation>Kuva eksemplaride &amp;mängimise aeg</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">&amp;Salvesta eksemplaride mängimise ajad</translation>
+        <translation>&amp;Salvesta eksemplaride mängimise ajad</translation>
     </message>
     <message>
         <source>Show the &amp;total time played across instances</source>
@@ -9017,11 +9002,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="unfinished">Trikid</translation>
+        <translation>Trikid</translation>
     </message>
     <message>
         <source>&amp;Legacy Tweaks</source>
@@ -9033,7 +9018,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Luba võrguparandused (katsetusjärgus)</translation>
+        <translation>Luba võrguparandused (katsetusjärgus)</translation>
     </message>
     <message>
         <source>&amp;Native Libraries</source>
@@ -9041,7 +9026,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Kasuta OpenAL&apos;i süsteemipaigaldust</translation>
+        <translation>Kasuta OpenAL&apos;i süsteemipaigaldust</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -9049,7 +9034,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Kasuta GLFW&apos;i süsteemipaigaldust</translation>
+        <translation>Kasuta GLFW&apos;i süsteemipaigaldust</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -9106,7 +9091,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Sirvi</translation>
+        <translation>Sirvi</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -9130,23 +9115,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -9158,7 +9143,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Legacy Fabric</translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <source>Ornithe</source>
@@ -9174,7 +9159,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Stabiilne</translation>
+        <translation>Stabiilne</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9206,23 +9191,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Luba Feral GameMode</translation>
+        <translation>Luba Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba MangoHud&apos;i täpsem jõudluse ülekate.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Luba MangoHud&apos;i täpsem jõudluse ülekate.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Luba MangoHud</translation>
+        <translation>Luba MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kasuta peamise graafikakaardi asemel lisatud graafikakaarti.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Kasuta peamise graafikakaardi asemel lisatud graafikakaarti.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Kasuta lisatud graafikakaarti</translation>
+        <translation>Kasuta lisatud graafikakaarti</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
@@ -9230,7 +9215,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Kasuta Zinki</translation>
+        <translation>Kasuta Zinki</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -9238,11 +9223,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Konto:</translation>
+        <translation>Konto:</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Serveri aadress:</translation>
+        <translation>Serveri aadress:</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
@@ -9250,11 +9235,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Kohandatud käsklused</translation>
+        <translation>Kohandatud käsklused</translation>
     </message>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished">Keskkonnamuutujad</translation>
+        <translation>Keskkonnamuutujad</translation>
     </message>
     <message>
         <source>Show time &amp;playing this instance</source>
@@ -9270,15 +9255,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Feral Interactive&apos;i GameMode&apos;i ei leitud sinu süsteemist.</translation>
+        <translation>Feral Interactive&apos;i GameMode&apos;i ei leitud sinu süsteemist.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHudi ei leitud sinu süsteemist.</translation>
+        <translation>MangoHudi ei leitud sinu süsteemist.</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">%1 teegi failitee</translation>
+        <translation>%1 teegi failitee</translation>
     </message>
     <message>
         <source>Select Global Data Packs Folder</source>
@@ -9304,7 +9289,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eemalda</translation>
+        <translation>Eemalda</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9619,11 +9604,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Faili nimi</translation>
+        <translation>Faili nimi</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uuenda</translation>
+        <translation>Uuenda</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -9663,7 +9648,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Kinnita lülitamist</translation>
+        <translation>Kinnita lülitamist</translation>
     </message>
     <message>
         <source>Toggling these mod(s) will cause changes to other mods.
@@ -9828,7 +9813,7 @@ Ignoring them may break the game.</source>
     <message>
         <source>Export mod&apos;s metadata to text.</source>
         <oldsource>Reset update metadata</oldsource>
-        <translation type="unfinished">Lähtesta uuenduste metaandmed</translation>
+        <translation>Lähtesta uuenduste metaandmed</translation>
     </message>
     <message>
         <source>Go to mod&apos;s home page</source>
@@ -10348,11 +10333,11 @@ Palun uuenda %1!</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Pole paigaldatud</translation>
+        <translation>Pole paigaldatud</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Tundmatu</translation>
+        <translation>Tundmatu</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -10450,11 +10435,11 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Vanade konfliktsete failide eemaldamine...</translation>
+        <translation>Vanade konfliktsete failide eemaldamine...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Vanade konfliktsete failide eemaldamine ebaõnnestus.</translation>
+        <translation>Vanade konfliktsete failide eemaldamine ebaõnnestus.</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -10555,7 +10540,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Filtrivalikud</translation>
+        <translation>Filtrivalikud</translation>
     </message>
     <message>
         <source>Search and filter...</source>
@@ -10701,26 +10686,26 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">%1 taotlemine</translation>
+        <translation>%1 taotlemine</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">tundmatu</translation>
+        <translation>tundmatu</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -10783,11 +10768,11 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Viga</translation>
+        <translation>Viga</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -10826,11 +10811,11 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10857,15 +10842,15 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Abi</translation>
+        <translation>Abi</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -11163,11 +11148,11 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Paigalda</translation>
+        <translation>Paigalda</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
 </context>
 <context>
@@ -11190,11 +11175,11 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -11209,7 +11194,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Keri täiesti lõppu</translation>
+        <translation>Keri täiesti lõppu</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -11233,11 +11218,11 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Jätka uuendamist</translation>
+        <translation>Jätka uuendamist</translation>
     </message>
     <message>
         <source>Wrap lines</source>
-        <translation type="unfinished">Murra read</translation>
+        <translation>Murra read</translation>
     </message>
     <message>
         <source>Color lines</source>
@@ -11269,7 +11254,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Otsi</translation>
+        <translation>Otsi</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -11302,7 +11287,7 @@ MÄRKUS: Veendu, et oled enne uuendamist varundanud eksemplari olulised andmed, 
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Seda logi ei saa kuvada, kuna logi pikkus on rohkem kui %1 rida.</translation>
+        <translation>Seda logi ei saa kuvada, kuna logi pikkus on rohkem kui %1 rida.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -11358,7 +11343,7 @@ Kas oled kindel?</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Tühjenda</translation>
+        <translation>Tühjenda</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -11402,88 +11387,87 @@ Kas oled kindel?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Paki manifestist ei saadud aru:
-</translation>
+        <translation>Paki manifestist ei saadud aru:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Mittetoetatud paigaldusmeetod</translation>
+        <translation>Mittetoetatud paigaldusmeetod</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Ei saanud kohalikkude andmete indeksit %1 ja v%2</translation>
+        <translation>Ei saanud kohalikkude andmete indeksit %1 ja v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Olemasolevate failide kustutamine...</translation>
+        <translation>Olemasolevate failide kustutamine...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Tundmatu modi tüüp: %1</translation>
+        <translation>Tundmatu modi tüüp: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Tundmatu või mittetoetatud allalaadimise tüüp: %1</translation>
+        <translation>Tundmatu või mittetoetatud allalaadimise tüüp: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Seadistuste allalaadimine...</translation>
+        <translation>Seadistuste allalaadimine...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Seadistuse allalaadimine</translation>
+        <translation>Seadistuse allalaadimine</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Seadistuste ekstraktimine...</translation>
+        <translation>Seadistuste ekstraktimine...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Valikuliste modifikatsioonide valimine...</translation>
+        <translation>Valikuliste modifikatsioonide valimine...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modide allalaadimine...</translation>
+        <translation>Modide allalaadimine...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Modi allalaadimine</translation>
+        <translation>Modi allalaadimine</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Tundmatu allalaadimise tüüp: %1</translation>
+        <translation>Tundmatu allalaadimise tüüp: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Leiti blokeeritud modid</translation>
+        <translation>Leiti blokeeritud modid</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1/%2 tehtud</translation>
+        <translation>%1/%2 tehtud</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Modide ekstraktimine ebaõnnestus...</translation>
+        <translation>Modide ekstraktimine ebaõnnestus...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Modide ekstraktimine...</translation>
+        <translation>Modide ekstraktimine...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Modipaki paigaldamine</translation>
+        <translation>Modipaki paigaldamine</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Teekide komponendi loomine ebaõnnestus</translation>
+        <translation>Teekide komponendi loomine ebaõnnestus</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Tundmatu laaduritüüp: </translation>
+        <translation>Tundmatu laaduritüüp:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Paki komponentide loomine ebaõnnestus</translation>
+        <translation>Paki komponentide loomine ebaõnnestus</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
@@ -11537,7 +11521,7 @@ Kas oled kindel?</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Abi</translation>
+        <translation>Abi</translation>
     </message>
 </context>
 <context>
@@ -12013,11 +11997,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12034,11 +12018,11 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -12767,7 +12751,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Tundmatu</translation>
+        <translation>Tundmatu</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -12800,7 +12784,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Märkimata</translation>
+        <translation>Märkimata</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -12810,37 +12794,37 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Valmis</translation>
+        <translation>Valmis</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Töötamine</translation>
+        <translation>Töötamine</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Vigane</translation>
+        <translation>Vigane</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Aegunud</translation>
+        <translation>Aegunud</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Keelatud</translation>
+        <translation>Keelatud</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Kadunud</translation>
+        <translation>Kadunud</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Tundmatu</translation>
+        <translation>Tundmatu</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -12888,7 +12872,7 @@ Uus nimi: %2</translation>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="unfinished">On ühendatud eksemplare</translation>
+        <translation>On ühendatud eksemplare</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -12925,11 +12909,11 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Loo otsetee</translation>
+        <translation>Loo otsetee</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">Käivitaja on kaustas, kust see ekstraktiti, seega see ei saa otseteid luua.</translation>
+        <translation>Käivitaja on kaustas, kust see ekstraktiti, seega see ei saa otseteid luua.</translation>
     </message>
     <message>
         <source>Failed to create icon for application: %1</source>
@@ -12941,7 +12925,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Käivitaja käitatakse valesti konfigureeritud AppImage-na? (keskkonnamuutuja $APPIMAGE puudub)</translation>
+        <translation>Käivitaja käitatakse valesti konfigureeritud AppImage-na? (keskkonnamuutuja $APPIMAGE puudub)</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut: %1</source>
@@ -12949,11 +12933,11 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Otseteele ikooni loomine ebaõnnestus.</translation>
+        <translation>Otseteele ikooni loomine ebaõnnestus.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">Pole sinu platvormil toetatud!</translation>
+        <translation>Pole sinu platvormil toetatud!</translation>
     </message>
     <message>
         <source>Failed to create %1 shortcut!</source>
@@ -12961,7 +12945,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Töölauda ei leitud?!</translation>
+        <translation>Töölauda ei leitud?!</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1 on your desktop!</source>
@@ -12981,7 +12965,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Töölauakirjed</translation>
+        <translation>Töölauakirjed</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1!</source>
@@ -13001,7 +12985,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Viga: %1 tagastas kahjustunud vastuseobjekti</translation>
+        <translation>Viga: %1 tagastas kahjustunud vastuseobjekti</translation>
     </message>
     <message>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
@@ -13009,7 +12993,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Viga: %1 tagastas vea %2</translation>
+        <translation>Viga: %1 tagastas vea %2</translation>
     </message>
     <message>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
@@ -13018,8 +13002,7 @@ Do you wish to proceed?</source>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Viga: %1 tagastas veakoodi: %2
-Veateade: %3</translation>
+        <translation>Viga: %1 tagastas veakoodi: %2</translation>
     </message>
     <message>
         <source>Unknown paste type</source>
@@ -13040,7 +13023,7 @@ Veateade: %3</translation>
     </message>
     <message>
         <source>%1 Developers</source>
-        <translation type="unfinished">%1 arendajad</translation>
+        <translation>%1 arendajad</translation>
     </message>
     <message>
         <source>MultiMC Developers</source>
@@ -13056,7 +13039,7 @@ Veateade: %3</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Tuvastamata</translation>
+        <translation>Tuvastamata</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -13075,7 +13058,7 @@ Veateade: %3</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">ressurss</translation>
+        <translation>ressurss</translation>
     </message>
     <message>
         <source>resources</source>
@@ -13218,7 +13201,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">Muuda %1 versiooni</translation>
+        <translation>Muuda %1 versiooni</translation>
     </message>
     <message>
         <source>mods</source>
@@ -13317,7 +13300,7 @@ Palun uuenda %1!</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;See projekt on arhiveeritud. See ei saa enam uuendusi, väljaarvatud juhul, kui autor soovib selle arhiivist eemaldada.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;See projekt on arhiveeritud. See ei saa enam uuendusi, väljaarvatud juhul, kui autor soovib selle arhiivist eemaldada.&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Donate information: </source>
@@ -13392,7 +13375,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -13495,7 +13478,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioon</translation>
+        <translation>Versioon</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13503,15 +13486,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Pakkuja</translation>
+        <translation>Pakkuja</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Faili nimi</translation>
+        <translation>Faili nimi</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uuenda</translation>
+        <translation>Uuenda</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -13569,7 +13552,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Pilt</translation>
+        <translation>Pilt</translation>
     </message>
 </context>
 <context>
@@ -13588,7 +13571,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioon</translation>
+        <translation>Versioon</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13596,15 +13579,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Pakkuja</translation>
+        <translation>Pakkuja</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Faili nimi</translation>
+        <translation>Faili nimi</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uuenda</translation>
+        <translation>Uuenda</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -13722,7 +13705,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&quot;%1&quot; on kaasaegne! :)</translation>
+        <translation>&quot;%1&quot; on kaasaegne! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -13738,7 +13721,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Kinnita eemaldamist</translation>
+        <translation>Kinnita eemaldamist</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -13781,11 +13764,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Modi nimi: %1&lt;br&gt;Failinimi: %2&lt;br&gt;Põhjus: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Modi nimi: %1&lt;br&gt;Failinimi: %2&lt;br&gt;Põhjus: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">Metaandmete genereerimine ebaõnnestus</translation>
+        <translation>Metaandmete genereerimine ebaõnnestus</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
@@ -13793,27 +13776,27 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="unfinished">Uuenduste kontrollimine</translation>
+        <translation>Uuenduste kontrollimine</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Viga</translation>
+        <translation>Viga</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Hoiatused</translation>
+        <translation>Hoiatused</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Uuenduste kontrollimine...</translation>
+        <translation>Uuenduste kontrollimine...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Modi nimi: %1</translation>
+        <translation>Modi nimi: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="unfinished">Põhjus: %1</translation>
+        <translation>Põhjus: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
@@ -13822,7 +13805,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="unfinished">Uuenduste kontrollimine ebaõnnestus</translation>
+        <translation>Uuenduste kontrollimine ebaõnnestus</translation>
     </message>
     <message>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
@@ -13838,11 +13821,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Pole paigaldatud</translation>
+        <translation>Pole paigaldatud</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Metaandmete otsimine</translation>
+        <translation>Metaandmete otsimine</translation>
     </message>
     <message>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
@@ -13850,44 +13833,44 @@ Are you sure?</source>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Metaandmete genereerimine...</translation>
+        <translation>Metaandmete genereerimine...</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">Sobivat versiooni valitud modipakkuja(te)st ei leitud</translation>
+        <translation>Sobivat versiooni valitud modipakkuja(te)st ei leitud</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
+        <translation>Mod keelati, kuna see võib olla juba paigaldatud.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="unfinished">Pakkuja: %1</translation>
+        <translation>Pakkuja: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="unfinished">Vana versioon: %1</translation>
+        <translation>Vana versioon: %1</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="unfinished">Uus versioon: %1</translation>
+        <translation>Uus versioon: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">Uus versiooniliik: %1</translation>
+        <translation>Uus versiooniliik: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="unfinished">Nõuab: %1</translation>
+        <translation>Nõuab: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="unfinished">Nõuab:</translation>
+        <translation>Nõuab:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished">Viimatise versiooni muudatuste logi</translation>
+        <translation>Viimatise versiooni muudatuste logi</translation>
     </message>
 </context>
 <context>
@@ -13910,16 +13893,16 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Mod keelati, kuna see võib olla juba paigaldatud.</translation>
+        <translation>Mod keelati, kuna see võib olla juba paigaldatud.</translation>
     </message>
     <message>
         <source>Filename: %1</source>
@@ -14099,11 +14082,11 @@ Kas oled kindel?</translation>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -14114,7 +14097,7 @@ Kas oled kindel?</translation>
     </message>
     <message>
         <source>Published Date</source>
-        <translation type="unfinished">Väljalaskekuupäev</translation>
+        <translation>Väljalaskekuupäev</translation>
     </message>
     <message>
         <source>Select a version to install.</source>
@@ -14147,11 +14130,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -14188,7 +14171,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioon</translation>
+        <translation>Versioon</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14259,7 +14242,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Värskenda</translation>
+        <translation>Värskenda</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -14386,7 +14369,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&quot;%1&quot; on kaasaegne! :)</translation>
+        <translation>&quot;%1&quot; on kaasaegne! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -14402,7 +14385,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Kinnita eemaldamist</translation>
+        <translation>Kinnita eemaldamist</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -14441,7 +14424,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished">Välimuse pildid peavad olema 64x64 või 64x32 suuruses PNG-failid.</translation>
+        <translation>Välimuse pildid peavad olema 64x64 või 64x32 suuruses PNG-failid.</translation>
     </message>
     <message>
         <source>Unable to copy file</source>
@@ -14520,11 +14503,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -14728,22 +14711,20 @@ Kas oled kindel?</translation>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Tühistatud</translation>
+        <translation>Tühistatud</translation>
     </message>
 </context>
 <context>
     <name>TaskStepWrapper</name>
     <message>
         <source>Task aborted.</source>
-        <translation type="unfinished">Toiming katkestatud.</translation>
+        <translation>Toiming katkestatud.</translation>
     </message>
     <message>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Eksemplari uuendamine ebaõnnestus, sest: %1
-
-</translation>
+        <translation>Eksemplari uuendamine ebaõnnestus, sest: %1</translation>
     </message>
 </context>
 <context>
@@ -14895,7 +14876,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Viga</translation>
+        <translation>Viga</translation>
     </message>
     <message>
         <source> by </source>
@@ -14926,19 +14907,19 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Suurus</translation>
+        <translation>Suurus</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Pakkuja</translation>
+        <translation>Pakkuja</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Faili nimi</translation>
+        <translation>Faili nimi</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uuenda</translation>
+        <translation>Uuenda</translation>
     </message>
     <message>
         <source>Is the texture pack enabled?</source>
@@ -14991,7 +14972,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Laadi pakke alla</translation>
+        <translation>Laadi pakke alla</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -15045,7 +15026,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&quot;%1&quot; on kaasaegne! :)</translation>
+        <translation>&quot;%1&quot; on kaasaegne! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -15061,7 +15042,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Kinnita eemaldamist</translation>
+        <translation>Kinnita eemaldamist</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -15120,7 +15101,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Välimus</translation>
+        <translation>Välimus</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -15529,11 +15510,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Otsi</translation>
+        <translation>Otsi</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Vaheta versiooni</translation>
+        <translation>Vaheta versiooni</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -15708,7 +15689,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Paigalda</translation>
+        <translation>Paigalda</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -15926,11 +15907,11 @@ Palun lisa oma Mojangi või Minecrafti konto.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -16055,7 +16036,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Liitu</translation>
+        <translation>Liitu</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -16099,7 +16080,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Tööriistad</translation>
+        <translation>Tööriistad</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -16420,11 +16401,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Kasutajanimi</translation>
+        <translation>Kasutajanimi</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Parool</translation>
+        <translation>Parool</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -16432,7 +16413,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Tühista</translation>
+        <translation>Tühista</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

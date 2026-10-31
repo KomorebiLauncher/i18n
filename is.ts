@@ -897,12 +897,7 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">Uppfærsla tókst
-
-Þú ert núna að keyra % 1 .
-Athugaðu uppfærsluskrá Komorebi Launcher á:
-%1
-fyrir nánari upplýsingar.</translation>
+        <translation>Uppfærsla tókst</translation>
     </message>
     <message>
         <source>Update Succeeded</source>
@@ -979,7 +974,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     <message>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Sæki eignaskrár frá %1...</translation>
+        <translation>Sæki eignaskrár frá %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1129,35 +1124,35 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">Auðkenningarverkefni tókst.</translation>
+        <translation>Auðkenningarverkefni tókst.</translation>
     </message>
     <message>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">Mistókst að hafa samband við auðkenningarþjóninn.</translation>
+        <translation>Mistókst að hafa samband við auðkenningarþjóninn.</translation>
     </message>
     <message>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">Biðlaraauðkenni hefur breyst. Það þarf að búa til nýja lotu.</translation>
+        <translation>Biðlaraauðkenni hefur breyst. Það þarf að búa til nýja lotu.</translation>
     </message>
     <message>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">Villa kom upp við auðkenningu.</translation>
+        <translation>Villa kom upp við auðkenningu.</translation>
     </message>
     <message>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">Mistókst að auðkenna. Þingið er útrunnið.</translation>
+        <translation>Mistókst að auðkenna. Þingið er útrunnið.</translation>
     </message>
     <message>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">Mistókst að auðkenna. Reikningurinn er ekki lengur til.</translation>
+        <translation>Mistókst að auðkenna. Reikningurinn er ekki lengur til.</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">Óþekkt verkefnastaða reiknings: %1</translation>
+        <translation>Óþekkt verkefnastaða reiknings: %1</translation>
     </message>
 </context>
 <context>
@@ -1227,11 +1222,11 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Setja upp</translation>
+        <translation>Setja upp</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
 </context>
 <context>
@@ -1351,11 +1346,11 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -1391,7 +1386,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</source>
-        <translation type="unfinished">%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
+        <translation>%1: &lt;a href=&apos;%2&apos;&gt;%2&lt;/a&gt; &lt;p&gt;Hash: %3 %4&lt;/p&gt; &lt;br/&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1432,7 +1427,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Notendanafn</translation>
+        <translation>Notendanafn</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1444,7 +1439,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1708,7 +1703,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Hjálp</translation>
+        <translation>Hjálp</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1903,7 +1898,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -1959,7 +1954,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (Í notkun)</translation>
+        <translation>%1 (Í notkun)</translation>
     </message>
     <message>
         <source>%1 - %2</source>
@@ -2113,7 +2108,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Engar útgáfur eru tiltækar eins og er fyrir Minecraft %1</translation>
+        <translation>Engar útgáfur eru tiltækar eins og er fyrir Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2158,7 +2153,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -2182,11 +2177,11 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Útgáfa</translation>
+        <translation>Útgáfa</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uppfæra</translation>
+        <translation>Uppfæra</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -2246,7 +2241,7 @@ Sumar útgáfur af Minecraft gætu ekki ræst.
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Villa</translation>
+        <translation>Villa</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2446,7 +2441,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <name>EnvironmentVariables</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>&amp;Environment Variables</source>
@@ -2454,7 +2449,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Value</source>
@@ -2466,7 +2461,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">Yfirskrifa &amp;altækar stillingar</translation>
+        <translation>Yfirskrifa &amp;altækar stillingar</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -2492,11 +2487,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2534,7 +2529,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nafn:</translation>
+        <translation>&amp;Nafn:</translation>
     </message>
     <message>
         <source>&amp;Version:</source>
@@ -2599,11 +2594,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2666,7 +2661,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Sérsniðið</translation>
+        <translation>Sérsniðið</translation>
     </message>
     <message>
         <source>Template</source>
@@ -2724,7 +2719,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2736,7 +2731,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Skrá</translation>
+        <translation>Skrá</translation>
     </message>
 </context>
 <context>
@@ -2812,7 +2807,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Leita</translation>
+        <translation>Leita</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2912,7 +2907,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Samhengisvalmynd</translation>
+        <translation>Samhengisvalmynd</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -3004,15 +2999,15 @@ Ertu viss um að þú viljir gera þetta?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Bæta við</translation>
+        <translation>&amp;Bæta við</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Fjarlægja</translation>
+        <translation>&amp;Fjarlægja</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3205,7 +3200,7 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Viðbótarniðurhal</translation>
+        <translation>Viðbótarniðurhal</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -3213,11 +3208,11 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Afrita bannaðar viðbætur...</translation>
+        <translation>Afrita bannaðar viðbætur...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Afrita bannaðar viðbætur (%1 af %2 afritað)</translation>
+        <translation>Afrita bannaðar viðbætur (%1 af %2 afritað)</translation>
     </message>
 </context>
 <context>
@@ -3288,7 +3283,7 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Greini API-svar frá CurseForge fyrir &apos;%1&apos;...</translation>
+        <translation>Greini API-svar frá CurseForge fyrir &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -3317,7 +3312,7 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Greini API-svar frá CurseForge fyrir &apos;%1&apos;...</translation>
+        <translation>Greini API-svar frá CurseForge fyrir &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
@@ -3329,7 +3324,7 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Óþekktur</translation>
+        <translation>Óþekktur</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -3349,8 +3344,7 @@ Vinsamlegast reyndu aftur.</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Gat ekki skilið pakkann manifest
-</translation>
+        <translation>Gat ekki skilið pakkann manifest</translation>
     </message>
     <message>
         <source> (version %1)</source>
@@ -3378,15 +3372,15 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Mistókst að sækja staðbundna lýsigagnavísitölu fyrir %1</translation>
+        <translation>Mistókst að sækja staðbundna lýsigagnavísitölu fyrir %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Mistókst að finna útgáfu fyrir %1 hleðslutæki</translation>
+        <translation>Mistókst að finna útgáfu fyrir %1 hleðslutæki</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Engin hleðsluútgáfa sett fyrir modpack!</translation>
+        <translation>Engin hleðsluútgáfa sett fyrir modpack!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3422,12 +3416,12 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Útilokaðir mods fundust</translation>
+        <translation>Útilokaðir mods fundust</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Eftirfarandi skrár eru ekki tiltækar til niðurhals í ræsiforritum þriðja aðila.&lt;br/&gt;Þú þarft að hlaða þeim niður handvirkt og bæta þeim við tilvikið.</translation>
+        <translation>Eftirfarandi skrár eru ekki tiltækar til niðurhals í ræsiforritum þriðja aðila.&lt;br/&gt;Þú þarft að hlaða þeim niður handvirkt og bæta þeim við tilvikið.</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -3439,7 +3433,7 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 af %2 lokið</translation>
+        <translation>%1 af %2 lokið</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3451,15 +3445,15 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Fjarlægi gamlar skrár sem stangast á…</translation>
+        <translation>Fjarlægi gamlar skrár sem stangast á…</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Mistókst að fjarlægja gamlar skrár sem stangast á.</translation>
+        <translation>Mistókst að fjarlægja gamlar skrár sem stangast á.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Er að niðurhala mods...</translation>
+        <translation>Er að niðurhala mods...</translation>
     </message>
 </context>
 <context>
@@ -3478,7 +3472,7 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>CurseForge pack</source>
-        <translation type="unfinished">CurseForge pakki</translation>
+        <translation>CurseForge pakki</translation>
     </message>
 </context>
 <context>
@@ -3533,7 +3527,7 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Greini API-svar frá CurseForge fyrir &apos;%1&apos;...</translation>
+        <translation>Greini API-svar frá CurseForge fyrir &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Finding project info from CurseForge...</source>
@@ -3652,7 +3646,7 @@ Vinsamlegast reyndu aftur.</translation>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Raða eftir nafni</translation>
+        <translation>Raða eftir nafni</translation>
     </message>
 </context>
 <context>
@@ -3664,7 +3658,7 @@ Vinsamlegast reyndu aftur.</translation>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Leita og sía ...</translation>
+        <translation>Leita og sía ...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3786,7 +3780,7 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Sérsniðið</translation>
+        <translation>Sérsniðið</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3798,15 +3792,15 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Opna möppu</translation>
+        <translation>Opna möppu</translation>
     </message>
     <message>
         <source>Select Icons</source>
@@ -3878,7 +3872,7 @@ Vinsamlegast reyndu aftur.</translation>
     <message>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">Modrinth pakki</translation>
+        <translation>Modrinth pakki</translation>
     </message>
     <message>
         <source>Choose modpack</source>
@@ -3909,11 +3903,11 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3949,7 +3943,7 @@ Vinsamlegast reyndu aftur.</translation>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Endurnýja</translation>
+        <translation>&amp;Endurnýja</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -3961,11 +3955,11 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
@@ -4014,7 +4008,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Engar útgáfur eru tiltækar eins og er fyrir Minecraft %1</translation>
+        <translation>Engar útgáfur eru tiltækar eins og er fyrir Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4189,11 +4183,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Sleppa</translation>
+        <translation>Sleppa</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Villa</translation>
+        <translation>Villa</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -4239,7 +4233,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Drepa</translation>
+        <translation>&amp;Drepa</translation>
     </message>
     <message>
         <source>Ctrl+K</source>
@@ -4270,7 +4264,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Prófíllari hætt við</translation>
+        <translation>Prófíllari hætt við</translation>
     </message>
 </context>
 <context>
@@ -4281,7 +4275,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Prófíllari hætt við</translation>
+        <translation>Prófíllari hætt við</translation>
     </message>
 </context>
 <context>
@@ -4307,7 +4301,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Endurnýja</translation>
+        <translation>&amp;Endurnýja</translation>
     </message>
     <message>
         <source>Download</source>
@@ -4315,11 +4309,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -4335,15 +4329,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Setja upp Java</translation>
+        <translation>Setja upp Java</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Gat ekki ákvarðað gerð Java niðurhals!</translation>
+        <translation>Gat ekki ákvarðað gerð Java niðurhals!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Villa</translation>
+        <translation>Villa</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4436,11 +4430,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Fjarlægja</translation>
+        <translation>Fjarlægja</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Endurnýja</translation>
+        <translation>Endurnýja</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -4498,7 +4492,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -4646,7 +4640,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Velja Java útgáfu</translation>
+        <translation>Velja Java útgáfu</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
@@ -4728,7 +4722,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished">Engin Java útgáfa valin</translation>
+        <translation>Engin Java útgáfa valin</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -4745,7 +4739,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Vinnsluminni</translation>
+        <translation>Vinnsluminni</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -4753,11 +4747,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Lágmarks vinnsluminnis úthlutun:</translation>
+        <translation>Lágmarks vinnsluminnis úthlutun:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Hámarks vinnsluminnis úthlutun:</translation>
+        <translation>Hámarks vinnsluminnis úthlutun:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
@@ -4769,7 +4763,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Skoða</translation>
+        <translation>Skoða</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -4888,7 +4882,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>Auth servers offline</source>
@@ -5098,7 +5092,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Skoða</translation>
+        <translation>Skoða</translation>
     </message>
     <message>
         <source>Ask what to do</source>
@@ -5281,7 +5275,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Fjarlægja</translation>
+        <translation>Fjarlægja</translation>
     </message>
     <message>
         <source>Check &amp;subfolders for blocked mods</source>
@@ -5465,7 +5459,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Sæki FML söfn...</translation>
+        <translation>Sæki FML söfn...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -5473,15 +5467,15 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Afrita FML söfn inn í tilvikið...</translation>
+        <translation>Afrita FML söfn inn í tilvikið...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Mistókst að skapa FML safnmöppu inni í tilvikinu.</translation>
+        <translation>Mistókst að skapa FML safnmöppu inni í tilvikinu.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Mistókst að afrita Forge/FML safn: %1.</translation>
+        <translation>Mistókst að afrita Forge/FML safn: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -5489,11 +5483,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Mistókst að sækja eftirfarandi skrár:
-%1
-
-Ástæða: %2
-Vinsamlegast reyndu aftur.</translation>
+        <translation>Mistókst að sækja eftirfarandi skrár:</translation>
     </message>
 </context>
 <context>
@@ -5547,11 +5537,11 @@ Vinsamlegast reyndu aftur.</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Afþjappa viðbótarpakka</translation>
+        <translation>Afþjappa viðbótarpakka</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Er að setja upp modpack</translation>
+        <translation>Er að setja upp modpack</translation>
     </message>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
@@ -5688,7 +5678,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -5744,7 +5734,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Leita</translation>
+        <translation>Leita</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -5808,7 +5798,7 @@ Reason:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -5900,11 +5890,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Vinsamlegast bíðið...</translation>
+        <translation>Vinsamlegast bíðið...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Staða</translation>
+        <translation>Staða</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -5932,7 +5922,7 @@ Reason:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -6514,7 +6504,7 @@ Reason:
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Aðvaranir</translation>
+        <translation>Aðvaranir</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6560,7 +6550,7 @@ URL:
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Niðurhal viðbótarpakka</translation>
+        <translation>Niðurhal viðbótarpakka</translation>
     </message>
     <message>
         <source>No instance!</source>
@@ -6757,7 +6747,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Aðvaranir</translation>
+        <translation>Aðvaranir</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6809,7 +6799,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Uppfærsla Mistókst</translation>
+        <translation>Uppfærsla Mistókst</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -6825,7 +6815,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Staðfesta uppfærslu</translation>
+        <translation>Staðfesta uppfærslu</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -6854,7 +6844,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -6874,14 +6864,14 @@ Are you sure?</source>
     <name>MinecraftAccount</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Hætt við</translation>
+        <translation>Hætt við</translation>
     </message>
 </context>
 <context>
     <name>MinecraftInstance</name>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Ræsiforrita</translation>
+        <translation>&amp;Ræsiforrita</translation>
     </message>
     <message>
         <source>Launch &amp;Offline</source>
@@ -6929,7 +6919,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <source>, last played on %1 for %2</source>
@@ -7009,7 +6999,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Stillingarnar hér eru hnekkjanir fyrir alþjóðlegarstillingar.</translation>
+        <translation>Stillingarnar hér eru hnekkjanir fyrir alþjóðlegarstillingar.</translation>
     </message>
     <message>
         <source>General</source>
@@ -7053,7 +7043,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -7138,7 +7128,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Skoða</translation>
+        <translation>Skoða</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -7162,7 +7152,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
@@ -7270,15 +7260,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Vistfang þjóns:</translation>
+        <translation>Vistfang þjóns:</translation>
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Sérsniðnar skipanir</translation>
+        <translation>Sérsniðnar skipanir</translation>
     </message>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished">Umhverfisbreytur</translation>
+        <translation>Umhverfisbreytur</translation>
     </message>
     <message>
         <source>Show time &amp;playing this instance</source>
@@ -7328,7 +7318,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Fjarlægja</translation>
+        <translation>Fjarlægja</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -7347,7 +7337,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>ModFilterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -7359,7 +7349,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
@@ -7447,7 +7437,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Óþekktur</translation>
+        <translation>Óþekktur</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -7515,7 +7505,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Allar útgáfur</translation>
+        <translation>Allar útgáfur</translation>
     </message>
 </context>
 <context>
@@ -7535,7 +7525,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Version</source>
@@ -7559,7 +7549,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Seinast breytt</translation>
+        <translation>Seinast breytt</translation>
     </message>
     <message>
         <source>Size</source>
@@ -7595,7 +7585,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uppfæra</translation>
+        <translation>Uppfæra</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -7755,7 +7745,7 @@ Ignoring them may break the game.</source>
     </message>
     <message>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Staðfesta eyðingu</translation>
+        <translation>Staðfesta eyðingu</translation>
     </message>
     <message>
         <source>If you remove mods while the game is running it may crash your game.
@@ -7789,7 +7779,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Aðvaranir</translation>
+        <translation>Aðvaranir</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -7801,7 +7791,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Staðfesta uppfærslu</translation>
+        <translation>Staðfesta uppfærslu</translation>
     </message>
     <message>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
@@ -7818,11 +7808,11 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Uppfærsluleit</translation>
+        <translation>Uppfærsluleit</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Staðfesta fjarlægingu</translation>
+        <translation>Staðfesta fjarlægingu</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 mods.
@@ -7853,7 +7843,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;&amp;1&apos; er uppfært! :)</translation>
+        <translation>&apos;&amp;1&apos; er uppfært! :)</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -7982,19 +7972,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Ekki sett upp</translation>
+        <translation>Ekki sett upp</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Óþekktur</translation>
+        <translation>Óþekktur</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Engin gild útgáfa fannst fyrir þessa auðlind. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu / viðbótarhleðara.</translation>
+        <translation>Engin gild útgáfa fannst fyrir þessa auðlind. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu / viðbótarhleðara.</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Engin gild útgáfa fannst fyrir þessa auðlind. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu.</translation>
+        <translation>Engin gild útgáfa fannst fyrir þessa auðlind. Hún er líklega ekki tiltæk fyrir núverandi leikútgáfu.</translation>
     </message>
     <message>
         <source>Waiting for the API response from Modrinth...</source>
@@ -8009,21 +7999,20 @@ Please update %1!</source>
     <name>ModrinthCreationTask</name>
     <message>
         <source> (version %1)</source>
-        <translation type="unfinished"> .(útgáfa %1)</translation>
+        <translation>.(útgáfa %1)</translation>
     </message>
     <message>
         <source>No index file.</source>
-        <translation type="unfinished">Engin vísiskrá.</translation>
+        <translation>Engin vísiskrá.</translation>
     </message>
     <message>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Við gátum ekki fundið viðeigandi vísiskrá fyrir eldri úgáfuna. Þetta gæti valdið því að sumar skrárnar verði tvíteknar. Viltu halda áfram?</translation>
+        <translation>Við gátum ekki fundið viðeigandi vísiskrá fyrir eldri úgáfuna. Þetta gæti valdið því að sumar skrárnar verði tvíteknar. Viltu halda áfram?</translation>
     </message>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Gat ekki endurnefnt yfirskriftamöppuna:
-</translation>
+        <translation>Gat ekki endurnefnt yfirskriftamöppuna:</translation>
     </message>
     <message>
         <source>Could not rename the client overrides folder:
@@ -8044,11 +8033,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 af %2 lokið</translation>
+        <translation>%1 af %2 lokið</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Er að niðurhala mods...</translation>
+        <translation>Er að niðurhala mods...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -8061,18 +8050,18 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Fjarlægi gamlar skrár sem stangast á…</translation>
+        <translation>Fjarlægi gamlar skrár sem stangast á…</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Mistókst að fjarlægja gamlar skrár sem stangast á.</translation>
+        <translation>Mistókst að fjarlægja gamlar skrár sem stangast á.</translation>
     </message>
 </context>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Núverandi)</translation>
+        <translation>%1 (Núverandi)</translation>
     </message>
     <message>
         <source>Fetching changelogs...</source>
@@ -8080,30 +8069,30 @@ Please update %1!</source>
     </message>
     <message>
         <source>Choose update file</source>
-        <translation type="unfinished">Veldu uppfærsluskrá</translation>
+        <translation>Veldu uppfærsluskrá</translation>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth pakki</translation>
+        <translation>Modrinth pakki</translation>
     </message>
 </context>
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
         <source>Searching for files...</source>
-        <translation type="unfinished">Leita að skrám...</translation>
+        <translation>Leita að skrám...</translation>
     </message>
     <message>
         <source>Could not search for files</source>
-        <translation type="unfinished">Gat ekki leitað að skrám</translation>
+        <translation>Gat ekki leitað að skrám</translation>
     </message>
     <message>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Finn skráarkóðunargildi…</translation>
+        <translation>Finn skráarkóðunargildi…</translation>
     </message>
     <message>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Finn útgáfur fyrir kóðagildi...</translation>
+        <translation>Finn útgáfur fyrir kóðagildi...</translation>
     </message>
     <message>
         <source>Failed to parse versions response: %1</source>
@@ -8111,7 +8100,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Adding files...</source>
-        <translation type="unfinished">Bæti við skrám...</translation>
+        <translation>Bæti við skrám...</translation>
     </message>
 </context>
 <context>
@@ -8122,12 +8111,12 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Síunarvalkostir</translation>
+        <translation>Síunarvalkostir</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Leita og sía ...</translation>
+        <translation>Leita og sía ...</translation>
     </message>
     <message>
         <source>Version selected:</source>
@@ -8145,7 +8134,7 @@ Please update %1!</source>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Raða eftir seinast uppfært</translation>
+        <translation>Raða eftir seinast uppfært</translation>
     </message>
     <message>
         <source>Error</source>
@@ -8161,19 +8150,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Ytri hlekkir:</translation>
+        <translation>Ytri hlekkir:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Vandamál: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Vandamál: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Frumkóði: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Frumkóði: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -8186,7 +8175,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Raða eftir heildarfjölda niðurhala</translation>
+        <translation>Raða eftir heildarfjölda niðurhala</translation>
     </message>
     <message>
         <source> by </source>
@@ -8266,7 +8255,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Framkvæmir %1 verkefni (%2 af %3 er lokið)</translation>
+        <translation>Framkvæmir %1 verkefni (%2 af %3 er lokið)</translation>
     </message>
 </context>
 <context>
@@ -8281,11 +8270,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">Slóð</translation>
+        <translation>Slóð</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Villa</translation>
+        <translation>Villa</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -8316,7 +8305,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>uid</source>
@@ -8324,11 +8313,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -8355,15 +8344,15 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Hjálp</translation>
+        <translation>Hjálp</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -8633,11 +8622,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Setja upp</translation>
+        <translation>Setja upp</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
 </context>
 <context>
@@ -8660,11 +8649,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -8739,7 +8728,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Leita</translation>
+        <translation>Leita</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8791,7 +8780,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Hreinsa</translation>
+        <translation>Hreinsa</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -8803,7 +8792,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Get ekki birt þessa skrá þar sem lengd hennar fór yfir %1 línur.</translation>
+        <translation>Get ekki birt þessa skrá þar sem lengd hennar fór yfir %1 línur.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -8827,71 +8816,71 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Óstuddur uppsetningarhamur</translation>
+        <translation>Óstuddur uppsetningarhamur</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Mistókst að ná í staðbundinn lýsigagnavísi fyrir &apos;%1&apos; v%2</translation>
+        <translation>Mistókst að ná í staðbundinn lýsigagnavísi fyrir &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Eyði núverandi skrám...</translation>
+        <translation>Eyði núverandi skrám...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Óþekkt viðbótartegund: %1</translation>
+        <translation>Óþekkt viðbótartegund: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Óþekkt eða óstudd niðurhalstegund: %1</translation>
+        <translation>Óþekkt eða óstudd niðurhalstegund: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Sæki stillingar...</translation>
+        <translation>Sæki stillingar...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Stillinganiðurhal</translation>
+        <translation>Stillinganiðurhal</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Afþjappa stillingum...</translation>
+        <translation>Afþjappa stillingum...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Vel valfrjálsar viðbætur...</translation>
+        <translation>Vel valfrjálsar viðbætur...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Viðbótarniðurhal</translation>
+        <translation>Viðbótarniðurhal</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Óþekkt niðurhalstegund: %1</translation>
+        <translation>Óþekkt niðurhalstegund: %1</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 af %2 lokið</translation>
+        <translation>%1 af %2 lokið</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Mistókst að afþjappa viðbótum...</translation>
+        <translation>Mistókst að afþjappa viðbótum...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Afþjappa viðbótum...</translation>
+        <translation>Afþjappa viðbótum...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Mistókst að búa til safneiningu</translation>
+        <translation>Mistókst að búa til safneiningu</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Óþekkt hleðarategund: </translation>
+        <translation>Óþekkt hleðarategund:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Mistókst að búa til pakkaeiningu</translation>
+        <translation>Mistókst að búa til pakkaeiningu</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -8935,11 +8924,11 @@ Are you sure?</source>
     <name>PackProfile</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Hætt við</translation>
+        <translation>Hætt við</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Version</source>
@@ -8962,14 +8951,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Hjálp</translation>
+        <translation>Hjálp</translation>
     </message>
 </context>
 <context>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -9346,11 +9335,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9367,11 +9356,11 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -9407,7 +9396,7 @@ HTTP Status: %2</source>
     <name>ProgressDialog</name>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Vinsamlegast bíðið...</translation>
+        <translation>Vinsamlegast bíðið...</translation>
     </message>
     <message>
         <source>Global Task Status...</source>
@@ -9419,11 +9408,11 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Sleppa</translation>
+        <translation>Sleppa</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Stöðva</translation>
+        <translation>Stöðva</translation>
     </message>
 </context>
 <context>
@@ -9763,7 +9752,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Java afgreiðslusafn fannst ekki. Vinsamlegast athugaðu uppsetninguna þína.</translation>
+        <translation>Java afgreiðslusafn fannst ekki. Vinsamlegast athugaðu uppsetninguna þína.</translation>
     </message>
     <message>
         <source>Download of meta file %1</source>
@@ -9870,7 +9859,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Raða eftir áherslu</translation>
+        <translation>Raða eftir áherslu</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
@@ -9878,7 +9867,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Raða eftir seinast uppfært</translation>
+        <translation>Raða eftir seinast uppfært</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -9886,7 +9875,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Author</source>
-        <translation type="unfinished">Raða eftir höfundi</translation>
+        <translation>Raða eftir höfundi</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -9930,7 +9919,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Óþekktur</translation>
+        <translation>Óþekktur</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -9963,47 +9952,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ómerkt</translation>
+        <translation>Ómerkt</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ótengdur</translation>
+        <translation>Ótengdur</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Tilbúið</translation>
+        <translation>Tilbúið</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Er að vinna</translation>
+        <translation>Er að vinna</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Villa kom upp</translation>
+        <translation>Villa kom upp</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Útrunnið</translation>
+        <translation>Útrunnið</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Fötluð</translation>
+        <translation>Fötluð</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Farinn</translation>
+        <translation>Farinn</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Óþekktur</translation>
+        <translation>Óþekktur</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -10085,7 +10074,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Búa til flýtileið</translation>
+        <translation>Búa til flýtileið</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
@@ -10207,7 +10196,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Óþekkt</translation>
+        <translation>Óþekkt</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -10303,7 +10292,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Aðvaranir</translation>
+        <translation>Aðvaranir</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10400,19 +10389,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Ytri hlekkir:</translation>
+        <translation>Ytri hlekkir:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Vandamál: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Vandamál: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Frumkóði: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Frumkóði: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -10467,7 +10456,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -10505,7 +10494,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -10513,11 +10502,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Seinast breytt</translation>
+        <translation>Seinast breytt</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Útgáfa</translation>
+        <translation>Útgáfa</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10533,7 +10522,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uppfæra</translation>
+        <translation>Uppfæra</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -10587,7 +10576,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Mynd</translation>
+        <translation>Mynd</translation>
     </message>
 </context>
 <context>
@@ -10602,11 +10591,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Seinast breytt</translation>
+        <translation>Seinast breytt</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Útgáfa</translation>
+        <translation>Útgáfa</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10622,7 +10611,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uppfæra</translation>
+        <translation>Uppfæra</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -10659,11 +10648,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Pakkasnið</translation>
+        <translation>Pakkasnið</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -10686,7 +10675,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Hala niður pökkum</translation>
+        <translation>Hala niður pökkum</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -10714,7 +10703,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Aðvaranir</translation>
+        <translation>Aðvaranir</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10726,7 +10715,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Staðfesta uppfærslu</translation>
+        <translation>Staðfesta uppfærslu</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -10736,7 +10725,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;&amp;1&apos; er uppfært! :)</translation>
+        <translation>&apos;&amp;1&apos; er uppfært! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -10748,11 +10737,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Uppfærsluleit</translation>
+        <translation>Uppfærsluleit</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Staðfesta fjarlægingu</translation>
+        <translation>Staðfesta fjarlægingu</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -10776,7 +10765,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Síunarvalkostir</translation>
+        <translation>Síunarvalkostir</translation>
     </message>
 </context>
 <context>
@@ -10811,11 +10800,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Villa</translation>
+        <translation>Villa</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Aðvaranir</translation>
+        <translation>Aðvaranir</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10856,7 +10845,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Ekki sett upp</translation>
+        <translation>Ekki sett upp</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -10916,11 +10905,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -10972,7 +10961,7 @@ Are you sure?</source>
     <name>ScreenshotsPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Aðgerðir</translation>
+        <translation>Aðgerðir</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -11004,7 +10993,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Samhengisvalmynd</translation>
+        <translation>Samhengisvalmynd</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to %2.
@@ -11071,11 +11060,11 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -11119,11 +11108,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -11144,7 +11133,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Address</source>
@@ -11156,7 +11145,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Útgáfa</translation>
+        <translation>Útgáfa</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -11164,14 +11153,14 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Ótengdur</translation>
+        <translation>Ótengdur</translation>
     </message>
 </context>
 <context>
     <name>ServersPage</name>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">&amp;Nafn</translation>
+        <translation>&amp;Nafn</translation>
     </message>
     <message>
         <source>Address</source>
@@ -11195,7 +11184,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Aðgerðir</translation>
+        <translation>Aðgerðir</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11219,7 +11208,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Endurnýja</translation>
+        <translation>Endurnýja</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -11227,7 +11216,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Samhengisvalmynd</translation>
+        <translation>Samhengisvalmynd</translation>
     </message>
     <message>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
@@ -11237,7 +11226,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Staðfesta fjarlægingu</translation>
+        <translation>Staðfesta fjarlægingu</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -11263,7 +11252,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Endurnýja</translation>
+        <translation>&amp;Endurnýja</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -11285,7 +11274,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Hala niður pökkum</translation>
+        <translation>Hala niður pökkum</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -11313,7 +11302,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Aðvaranir</translation>
+        <translation>Aðvaranir</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11325,7 +11314,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Staðfesta uppfærslu</translation>
+        <translation>Staðfesta uppfærslu</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -11335,7 +11324,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;&amp;1&apos; er uppfært! :)</translation>
+        <translation>&apos;&amp;1&apos; er uppfært! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -11347,11 +11336,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Uppfærsluleit</translation>
+        <translation>Uppfærsluleit</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Staðfesta fjarlægingu</translation>
+        <translation>Staðfesta fjarlægingu</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -11410,7 +11399,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cape</source>
-        <translation type="unfinished">Kápa</translation>
+        <translation>Kápa</translation>
     </message>
     <message>
         <source>Preview Elytra</source>
@@ -11418,7 +11407,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Opna möppu</translation>
+        <translation>Opna möppu</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -11438,7 +11427,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Eyða Skinn</translation>
+        <translation>&amp;Eyða Skinn</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -11462,11 +11451,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -11478,7 +11467,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>No Cape</source>
-        <translation type="unfinished">Engin kápa</translation>
+        <translation>Engin kápa</translation>
     </message>
     <message>
         <source>Download capes</source>
@@ -11502,15 +11491,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Húðeyðing</translation>
+        <translation>Húðeyðing</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Mistókst að eyða núverandi skinni!</translation>
+        <translation>Mistókst að eyða núverandi skinni!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Samhengisvalmynd</translation>
+        <translation>Samhengisvalmynd</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -11599,7 +11588,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Form</translation>
+        <translation>Form</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -11614,7 +11603,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Hætt við</translation>
+        <translation>Hætt við</translation>
     </message>
 </context>
 <context>
@@ -11635,16 +11624,15 @@ Are you sure?</source>
     <message>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Sæki viðbótarpakka:
-%1</translation>
+        <translation>Sæki viðbótarpakka:</translation>
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Niðurhal viðbótarpakka</translation>
+        <translation>Niðurhal viðbótarpakka</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Afþjappa viðbótarpakka</translation>
+        <translation>Afþjappa viðbótarpakka</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -11676,12 +11664,11 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Gat ekki skilið pakkann manifest
-</translation>
+        <translation>Gat ekki skilið pakkann manifest</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Afþjappa viðbótarpakka</translation>
+        <translation>Afþjappa viðbótarpakka</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -11774,11 +11761,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Seinast breytt</translation>
+        <translation>Seinast breytt</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11794,7 +11781,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Uppfæra</translation>
+        <translation>Uppfæra</translation>
     </message>
     <message>
         <source>Is the texture pack enabled?</source>
@@ -11833,7 +11820,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Hala niður pökkum</translation>
+        <translation>Hala niður pökkum</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -11865,7 +11852,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Aðvaranir</translation>
+        <translation>Aðvaranir</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11877,7 +11864,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Staðfesta uppfærslu</translation>
+        <translation>Staðfesta uppfærslu</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -11887,7 +11874,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;&amp;1&apos; er uppfært! :)</translation>
+        <translation>&apos;&amp;1&apos; er uppfært! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -11899,11 +11886,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Uppfærsluleit</translation>
+        <translation>Uppfærsluleit</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Staðfesta fjarlægingu</translation>
+        <translation>Staðfesta fjarlægingu</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -11930,7 +11917,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Útlit</translation>
+        <translation>Útlit</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -12071,7 +12058,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Aðgerðir</translation>
+        <translation>Aðgerðir</translation>
     </message>
     <message>
         <source>Move up</source>
@@ -12123,11 +12110,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Breyta útgáfu</translation>
+        <translation>Breyta útgáfu</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Leita</translation>
+        <translation>Leita</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -12167,7 +12154,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Install Loader</source>
-        <translation type="unfinished">Setja upp hleðara</translation>
+        <translation>Setja upp hleðara</translation>
     </message>
     <message>
         <source>Install a mod loader.</source>
@@ -12231,7 +12218,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Samhengisvalmynd</translation>
+        <translation>Samhengisvalmynd</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -12255,7 +12242,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Staðfesta fjarlægingu</translation>
+        <translation>Staðfesta fjarlægingu</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -12331,7 +12318,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Setja upp</translation>
+        <translation>Setja upp</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -12454,7 +12441,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -12466,7 +12453,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Endurnýja</translation>
+        <translation>&amp;Endurnýja</translation>
     </message>
 </context>
 <context>
@@ -12518,7 +12505,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nafn</translation>
+        <translation>Nafn</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -12563,7 +12550,7 @@ Canonical Path: %1</source>
     <name>WorldListPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Aðgerðir</translation>
+        <translation>Aðgerðir</translation>
     </message>
     <message>
         <source>Add</source>
@@ -12599,7 +12586,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Endurnýja</translation>
+        <translation>Endurnýja</translation>
     </message>
     <message>
         <source>View Folder</source>
@@ -12635,7 +12622,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Samhengisvalmynd</translation>
+        <translation>Samhengisvalmynd</translation>
     </message>
     <message>
         <source>Select a Minecraft world zip</source>
@@ -12839,11 +12826,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Notendanafn</translation>
+        <translation>Notendanafn</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Lykilorð</translation>
+        <translation>Lykilorð</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -12851,7 +12838,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Hætta við</translation>
+        <translation>Hætta við</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

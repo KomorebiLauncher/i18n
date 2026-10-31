@@ -1351,11 +1351,11 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -2310,11 +2310,11 @@ Algumas versões do Minecraft poderão falhar ao iniciar.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versão</translation>
+        <translation>Versão</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atualizar</translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -3269,15 +3269,15 @@ Tens a certeza de que queres fazer isto?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Adicionar</translation>
+        <translation>&amp;Adicionar</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Remover</translation>
+        <translation>&amp;Remover</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nome</translation>
+        <translation>Nome</translation>
     </message>
     <message>
         <source>Command</source>
@@ -5632,7 +5632,7 @@ Podes alterar a versão do Java nas definições mais tarde.
     </message>
     <message>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished">Avisar quando a memória não utilizada é insuficiente</translation>
+        <translation>Avisar quando a memória não utilizada é insuficiente</translation>
     </message>
     <message>
         <source>Java Argumen&amp;ts</source>
@@ -7196,7 +7196,7 @@ Motivo:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8565,7 +8565,7 @@ Para limpar o cache de metadados manualmente, pressione Pastas -&gt; Exibir Past
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> -e o seu atalho registrado %n</numerusform>
+            <numerusform>-e o seu atalho registrado %n</numerusform>
             <numerusform> -e os seus atalhos registados %n</numerusform>
         </translation>
     </message>
@@ -8790,7 +8790,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar atualização</translation>
+        <translation>Confirmar atualização</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -9462,7 +9462,7 @@ Será bem provável que deverá mudar o caminho do ficheiro ‐ por favor, leia 
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Lançamento</translation>
+        <translation>Lançamento</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9600,7 +9600,7 @@ Será bem provável que deverá mudar o caminho do ficheiro ‐ por favor, leia 
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9912,7 +9912,7 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atualizar</translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -9964,10 +9964,8 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod será ativado
-</numerusform>
-            <numerusform>%n mods serão ativados
-</numerusform>
+            <numerusform>%n mod será ativado</numerusform>
+            <numerusform>%n mods serão ativados</numerusform>
         </translation>
     </message>
     <message>
@@ -9978,10 +9976,8 @@ Aviso: Este recurso está tem um link forte noutro lugar. Editá-lo também irá
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod será desativado
-</numerusform>
-            <numerusform>%n mods serão desativados
-</numerusform>
+            <numerusform>%n mod será desativado</numerusform>
+            <numerusform>%n mods serão desativados</numerusform>
         </translation>
     </message>
     <message>
@@ -10981,7 +10977,7 @@ Por favor atualiza %1!</translation>
     </message>
     <message>
         <source>Too many redirects</source>
-        <translation type="unfinished">Demasiadas redireções</translation>
+        <translation>Demasiadas redireções</translation>
     </message>
     <message>
         <source>Retrying from a different source</source>
@@ -10990,7 +10986,7 @@ Por favor atualiza %1!</translation>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Taxa de Pedidos Limitada por %n segundo: Tenta de novo depois de %1</numerusform>
             <numerusform>Taxa de Pedidos Limitada por %n segundos: Tenta de novo depois de %1</numerusform>
         </translation>
@@ -10998,7 +10994,7 @@ Por favor atualiza %1!</translation>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Taxa Limitada: Esperando %n segundo</numerusform>
             <numerusform>Taxa Limitada: Esperando %n segundos</numerusform>
         </translation>
@@ -11420,11 +11416,11 @@ Por favor atualiza %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -13280,20 +13276,14 @@ Nome novo: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>A seguinte instância pode referenciar ficheiros nesta instância:
-
-%1
-
-%2 pode fazer com que a outra instância pare de funcionar,
-
-Pretendes prosseguir?</numerusform>
-            <numerusform>As seguintes instâncias podem referenciar ficheiros nesta instância:
-
-%1
-
-%2 pode fazer com que as outras instâncias parem de funcionar,
-
-Pretendes prosseguir?</numerusform>
+            <numerusform>A seguinte instância pode referenciar ficheiros nesta instância:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 pode fazer com que a outra instância pare de funcionar,</numerusform>
+            <numerusform>Pretendes prosseguir?</numerusform>
+            <numerusform>As seguintes instâncias podem referenciar ficheiros nesta instância:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 pode fazer com que as outras instâncias parem de funcionar,</numerusform>
+            <numerusform>Pretendes prosseguir?</numerusform>
         </translation>
     </message>
     <message>
@@ -13468,16 +13458,16 @@ Mensagem de erro: %3</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">recurso</translation>
+        <translation>recurso</translation>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">recursos</translation>
+        <translation>recursos</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">pacotes de shaders</translation>
+        <translation>pacotes de shaders</translation>
     </message>
     <message>
         <source>texture packs</source>
@@ -13486,7 +13476,7 @@ Mensagem de erro: %3</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Impossível abrir ficheiro %1 para abrir: %2</translation>
+        <translation>Impossível abrir ficheiro %1 para abrir: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -13620,7 +13610,7 @@ De certeza que queres fechar esta caixa de diálogo?</translation>
     </message>
     <message>
         <source>resource packs</source>
-        <translation type="unfinished">pacotes de recursos</translation>
+        <translation>pacotes de recursos</translation>
     </message>
     <message>
         <source>texture packs</source>
@@ -13628,11 +13618,11 @@ De certeza que queres fechar esta caixa de diálogo?</translation>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">pacotes de shaders</translation>
+        <translation>pacotes de shaders</translation>
     </message>
     <message>
         <source>data packs</source>
-        <translation type="unfinished">pacotes de recursos</translation>
+        <translation>pacotes de recursos</translation>
     </message>
     <message>
         <source>resources</source>
@@ -13897,7 +13887,7 @@ Aviso: Este recurso tem um link forte com outro lugar. Editá-lo também irá al
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versão</translation>
+        <translation>Versão</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13913,7 +13903,7 @@ Aviso: Este recurso tem um link forte com outro lugar. Editá-lo também irá al
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atualizar</translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -13972,7 +13962,7 @@ Tens a certeza de que queres fazer isto?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imagem</translation>
+        <translation>Imagem</translation>
     </message>
 </context>
 <context>
@@ -13995,7 +13985,7 @@ Tens a certeza de que queres fazer isto?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versão</translation>
+        <translation>Versão</translation>
     </message>
     <message>
         <source>Size</source>
@@ -14011,7 +14001,7 @@ Tens a certeza de que queres fazer isto?</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atualizar</translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <source>The file name of the resource pack.</source>
@@ -14632,7 +14622,7 @@ Versão instalada atualmente: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versão</translation>
+        <translation>Versão</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14640,7 +14630,7 @@ Versão instalada atualmente: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -15467,7 +15457,7 @@ inheritsFrom está a faltar</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atualizar</translation>
+        <translation>Atualizar</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -16283,7 +16273,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -16690,7 +16680,7 @@ Caminho Canónico: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Ferramentas</translation>
+        <translation>Ferramentas</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -17071,11 +17061,11 @@ Por favor, configura a tua conta de acordo com %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nome de utilizador</translation>
+        <translation>Nome de utilizador</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Palavra-passe</translation>
+        <translation>Palavra-passe</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17083,7 +17073,7 @@ Por favor, configura a tua conta de acordo com %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

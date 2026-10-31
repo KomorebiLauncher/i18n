@@ -1290,7 +1290,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">تثبيت</translation>
+        <translation>تثبيت</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2249,11 +2249,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">الإصدار</translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">تحديث</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -3163,7 +3163,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">الاسم</translation>
+        <translation>الاسم</translation>
     </message>
     <message>
         <source>Command</source>
@@ -6900,7 +6900,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">ماين كرافت %1</translation>
+        <translation>ماين كرافت %1</translation>
     </message>
 </context>
 <context>
@@ -8058,7 +8058,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> مع عدم وجود اختصارات له</numerusform>
+            <numerusform>مع عدم وجود اختصارات له</numerusform>
             <numerusform> واختصاره المسجل</numerusform>
             <numerusform> واختصارينه المسجلين</numerusform>
             <numerusform> واختصاراته ال%n المسجلات</numerusform>
@@ -8255,7 +8255,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">تأكيد التحديث</translation>
+        <translation>تأكيد التحديث</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -8945,7 +8945,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">إزالة</translation>
+        <translation>إزالة</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9230,7 +9230,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">تحديث</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -9302,18 +9302,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>سيتم تفعيل صفر مود
-</numerusform>
-            <numerusform>سيتم تفعيل المود n%
-</numerusform>
-            <numerusform>سيتم تفعيل المودان n%
-</numerusform>
-            <numerusform>سيتم تفعيل المودات n%
-</numerusform>
-            <numerusform>سيتم تفعيل المودات n%
-</numerusform>
-            <numerusform>سيتم تفعيل المودات n%
-</numerusform>
+            <numerusform>سيتم تفعيل صفر مود</numerusform>
+            <numerusform>سيتم تفعيل المود n%</numerusform>
+            <numerusform>سيتم تفعيل المودان n%</numerusform>
+            <numerusform>سيتم تفعيل المودات n%</numerusform>
+            <numerusform>سيتم تفعيل المودات n%</numerusform>
+            <numerusform>سيتم تفعيل المودات n%</numerusform>
         </translation>
     </message>
     <message>
@@ -9324,18 +9318,12 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>سيتم تعطيل مود n%
-</numerusform>
-            <numerusform>سيتم تعطيل المود n%
-</numerusform>
-            <numerusform>سيتم تعطيل المودان n%
-</numerusform>
-            <numerusform>سيتم تعطيل المودات n%
-</numerusform>
-            <numerusform>سيتم تعطيل المودات n%
-</numerusform>
-            <numerusform>سيتم تعطيل المودات n%
-</numerusform>
+            <numerusform>سيتم تعطيل مود n%</numerusform>
+            <numerusform>سيتم تعطيل المود n%</numerusform>
+            <numerusform>سيتم تعطيل المودان n%</numerusform>
+            <numerusform>سيتم تعطيل المودات n%</numerusform>
+            <numerusform>سيتم تعطيل المودات n%</numerusform>
+            <numerusform>سيتم تعطيل المودات n%</numerusform>
         </translation>
     </message>
     <message>
@@ -10686,7 +10674,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">تثبيت</translation>
+        <translation>تثبيت</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12431,48 +12419,30 @@ New name: %2</source>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>قد يرجع النموذج الآتي إلى ملفات في هذا النموذج:
-
-(لا نموذج)
-
-%2 من الممكن أن ينعطب النموذج الآخر, 
-
-هل تريد المتابعة؟</numerusform>
-            <numerusform>قد يرجع النموذج الآتي إلى ملفات في هذا النموذج:
-
-%1
-
-%2 من الممكن أن ينعطب النموذج الآخر, 
-
-هل تريد المتابعة؟</numerusform>
-            <numerusform>قد يرجع النموذجان الآتيان إلى ملفات في هذا النموذج:
-
-%1
-
-%2 من الممكن أن ينعطبا النموذجان الآخران, 
-
-هل تريد المتابعة؟</numerusform>
-            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:
-
-%1
-
-%2 من الممكن أن تنعطب النماذج الأخرى, 
-
-هل تريد المتابعة؟</numerusform>
-            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:
-
-%1
-
-%2 من الممكن أن تنعطب النماذج الأخرى, 
-
-هل تريد المتابعة؟</numerusform>
-            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:
-
-%1
-
-%2 من الممكن أن تنعطب النماذج الأخرى, 
-
-هل تريد المتابعة؟</numerusform>
+            <numerusform>قد يرجع النموذج الآتي إلى ملفات في هذا النموذج:</numerusform>
+            <numerusform>(لا نموذج)</numerusform>
+            <numerusform>%2 من الممكن أن ينعطب النموذج الآخر, </numerusform>
+            <numerusform>هل تريد المتابعة؟</numerusform>
+            <numerusform>قد يرجع النموذج الآتي إلى ملفات في هذا النموذج:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 من الممكن أن ينعطب النموذج الآخر, </numerusform>
+            <numerusform>هل تريد المتابعة؟</numerusform>
+            <numerusform>قد يرجع النموذجان الآتيان إلى ملفات في هذا النموذج:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 من الممكن أن ينعطبا النموذجان الآخران, </numerusform>
+            <numerusform>هل تريد المتابعة؟</numerusform>
+            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 من الممكن أن تنعطب النماذج الأخرى, </numerusform>
+            <numerusform>هل تريد المتابعة؟</numerusform>
+            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 من الممكن أن تنعطب النماذج الأخرى, </numerusform>
+            <numerusform>هل تريد المتابعة؟</numerusform>
+            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 من الممكن أن تنعطب النماذج الأخرى, </numerusform>
+            <numerusform>هل تريد المتابعة؟</numerusform>
         </translation>
     </message>
     <message>
@@ -13064,7 +13034,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">الإصدار</translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13080,7 +13050,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">تحديث</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -13135,7 +13105,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">صورة</translation>
+        <translation>صورة</translation>
     </message>
 </context>
 <context>
@@ -13154,7 +13124,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">الإصدار</translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13170,7 +13140,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">تحديث</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -13751,7 +13721,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">الإصدار</translation>
+        <translation>الإصدار</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14523,7 +14493,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">تحديث</translation>
+        <translation>تحديث</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -15266,7 +15236,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">تثبيت</translation>
+        <translation>تثبيت</translation>
     </message>
     <message>
         <source>Confirm Reversion</source>
@@ -15603,7 +15573,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">الأدوات</translation>
+        <translation>الأدوات</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -15900,11 +15870,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">اسم المستخدم</translation>
+        <translation>اسم المستخدم</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">كلمة المرور</translation>
+        <translation>كلمة المرور</translation>
     </message>
     <message>
         <source>Sign in</source>

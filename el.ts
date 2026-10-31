@@ -1303,11 +1303,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Εγκατάσταση</translation>
+        <translation>Εγκατάσταση</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
 </context>
 <context>
@@ -2257,11 +2257,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Έκδοση</translation>
+        <translation>Έκδοση</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Ενημέρωση</translation>
+        <translation>Ενημέρωση</translation>
     </message>
     <message>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
@@ -3064,7 +3064,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Προσθήκη</translation>
+        <translation>&amp;Προσθήκη</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -3072,7 +3072,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Όνομα</translation>
+        <translation>Όνομα</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3411,7 +3411,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Parsing the API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Ανάλυση της απόκρισης API από το CurseForge για το &apos;%1&apos;...</translation>
+        <translation>Ανάλυση της απόκρισης API από το CurseForge για το &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3514,11 +3514,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Διαγραφή παλαιών αρχείων που προκαλούν διενέξεις...</translation>
+        <translation>Διαγραφή παλαιών αρχείων που προκαλούν διενέξεις...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Η διαγραφή παλαιών αρχείων που προκαλούσαν διένεξη απέτυχε.</translation>
+        <translation>Η διαγραφή παλαιών αρχείων που προκαλούσαν διένεξη απέτυχε.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3549,11 +3549,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Αντιγραφή Αποκλεισμένων Τροποποιήσεων...</translation>
+        <translation>Αντιγραφή Αποκλεισμένων Τροποποιήσεων...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Αντιγραφή αποκλεισμένων mod (ολοκληρώθηκαν %1 από %2)</translation>
+        <translation>Αντιγραφή αποκλεισμένων mod (ολοκληρώθηκαν %1 από %2)</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -3592,7 +3592,7 @@ Please try again.</source>
     </message>
     <message>
         <source>CurseForge pack</source>
-        <translation type="unfinished">Πακέτο «CurseForge»</translation>
+        <translation>Πακέτο «CurseForge»</translation>
     </message>
 </context>
 <context>
@@ -3660,7 +3660,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Ανάλυση της απόκρισης «API» από το «CurseForge» για &apos;%1&apos;...</translation>
+        <translation>Ανάλυση της απόκρισης «API» από το «CurseForge» για &apos;%1&apos;...</translation>
     </message>
     <message>
         <source>Finding project info from CurseForge...</source>
@@ -4050,7 +4050,7 @@ Please try again.</source>
     <message>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">Πακέτο «Modrinth»</translation>
+        <translation>Πακέτο «Modrinth»</translation>
     </message>
     <message>
         <source>Choose modpack</source>
@@ -4568,7 +4568,7 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Παράλειψη</translation>
+        <translation>Παράλειψη</translation>
     </message>
     <message>
         <source>Error</source>
@@ -4576,11 +4576,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Δεν ήταν δυνατή η λήψη των αρχείων του παιχνιδιού: %1</translation>
+        <translation>Δεν ήταν δυνατή η λήψη των αρχείων του παιχνιδιού: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">Λήψη αρχείων παιχνιδιών</translation>
+        <translation>Λήψη αρχείων παιχνιδιών</translation>
     </message>
 </context>
 <context>
@@ -5938,7 +5938,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Αφαίρεση</translation>
+        <translation>Αφαίρεση</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -6449,7 +6449,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7746,7 +7746,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Επιβεβαίωση Ενημέρωσης</translation>
+        <translation>Επιβεβαίωση Ενημέρωσης</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -7806,7 +7806,7 @@ Are you sure?</source>
     <name>MinecraftInstance</name>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Εκκίνηση</translation>
+        <translation>&amp;Εκκίνηση</translation>
     </message>
     <message>
         <source>Launch &amp;Offline</source>
@@ -7870,7 +7870,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <source>, last played on %1 for %2</source>
@@ -8310,7 +8310,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Αφαίρεση</translation>
+        <translation>Αφαίρεση</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8584,7 +8584,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Ενημέρωση</translation>
+        <translation>Ενημέρωση</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -8848,7 +8848,7 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Έλεγχος ενημερώσεων</translation>
+        <translation>Έλεγχος ενημερώσεων</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -8883,7 +8883,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">Το &apos;%1&apos; είναι ενημερωμένο! :)</translation>
+        <translation>Το &apos;%1&apos; είναι ενημερωμένο! :)</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -9019,11 +9019,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Δεν βρέθηκε έγκυρη έκδοση για αυτόν τον πόρο. Πιθανότατα δεν είναι διαθέσιμος για την τρέχουσα έκδοση του παιχνιδιού / τον τρέχοντα mod loader.</translation>
+        <translation>Δεν βρέθηκε έγκυρη έκδοση για αυτόν τον πόρο. Πιθανότατα δεν είναι διαθέσιμος για την τρέχουσα έκδοση του παιχνιδιού / τον τρέχοντα mod loader.</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Δεν βρέθηκε έγκυρη έκδοση για αυτόν τον πόρο. Πιθανότατα δεν είναι διαθέσιμος για την τρέχουσα έκδοση του παιχνιδιού.</translation>
+        <translation>Δεν βρέθηκε έγκυρη έκδοση για αυτόν τον πόρο. Πιθανότατα δεν είναι διαθέσιμος για την τρέχουσα έκδοση του παιχνιδιού.</translation>
     </message>
     <message>
         <source>Waiting for the API response from Modrinth...</source>
@@ -9034,15 +9034,15 @@ Please update %1!</source>
     <name>ModrinthCreationTask</name>
     <message>
         <source> (version %1)</source>
-        <translation type="unfinished"> (έκδοση %1)</translation>
+        <translation>(έκδοση %1)</translation>
     </message>
     <message>
         <source>No index file.</source>
-        <translation type="unfinished">Δεν υπάρχει αρχείο ευρετηρίου.</translation>
+        <translation>Δεν υπάρχει αρχείο ευρετηρίου.</translation>
     </message>
     <message>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Δεν μπορέσαμε να βρούμε ένα κατάλληλο αρχείο ευρετηρίου για την παλαιότερη έκδοση. Αυτό μπορεί να έχει ως αποτέλεσμα να δημιουργηθούν διπλά ορισμένα αρχεία. Θέλετε να συνεχίσετε;</translation>
+        <translation>Δεν μπορέσαμε να βρούμε ένα κατάλληλο αρχείο ευρετηρίου για την παλαιότερη έκδοση. Αυτό μπορεί να έχει ως αποτέλεσμα να δημιουργηθούν διπλά ορισμένα αρχεία. Θέλετε να συνεχίσετε;</translation>
     </message>
     <message>
         <source>Could not rename the overrides folder:
@@ -9090,11 +9090,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Διαγραφή παλαιών αρχείων που προκαλούν διενέξεις...</translation>
+        <translation>Διαγραφή παλαιών αρχείων που προκαλούν διενέξεις...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Η διαγραφή παλαιών αρχείων που προκαλούσαν διένεξη απέτυχε.</translation>
+        <translation>Η διαγραφή παλαιών αρχείων που προκαλούσαν διένεξη απέτυχε.</translation>
     </message>
 </context>
 <context>
@@ -9113,7 +9113,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Πακέτο «Modrinth»</translation>
+        <translation>Πακέτο «Modrinth»</translation>
     </message>
 </context>
 <context>
@@ -9230,7 +9230,7 @@ Please update %1!</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> από </translation>
+        <translation>από</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -9370,7 +9370,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>OK</source>
@@ -9405,11 +9405,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Βοήθεια</translation>
+        <translation>Βοήθεια</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -9440,7 +9440,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Κλείσιμο</translation>
+        <translation>Κλείσιμο</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -9683,11 +9683,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Εγκατάσταση</translation>
+        <translation>Εγκατάσταση</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
 </context>
 <context>
@@ -9710,7 +9710,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>OK</source>
@@ -9729,7 +9729,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Κύλιση μέχρι κάτω</translation>
+        <translation>Κύλιση μέχρι κάτω</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -9753,11 +9753,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Συνέχιση ενημέρωσης</translation>
+        <translation>Συνέχιση ενημέρωσης</translation>
     </message>
     <message>
         <source>Wrap lines</source>
-        <translation type="unfinished">Αναδίπλωση γραμμών</translation>
+        <translation>Αναδίπλωση γραμμών</translation>
     </message>
     <message>
         <source>Color lines</source>
@@ -9789,7 +9789,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Αναζήτηση</translation>
+        <translation>Αναζήτηση</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -9874,7 +9874,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Καθαρισμός</translation>
+        <translation>Καθαρισμός</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -9917,15 +9917,15 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
+        <translation>Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
+        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Διαγραφή υπαρχόντων αρχείων...</translation>
+        <translation>Διαγραφή υπαρχόντων αρχείων...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
@@ -9945,19 +9945,19 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
+        <translation>Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Γίνεται λήψη ρυθμίσεων...</translation>
+        <translation>Γίνεται λήψη ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Λήψη ρυθμίσεων</translation>
+        <translation>Λήψη ρυθμίσεων</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Εξαγωγή ρυθμίσεων...</translation>
+        <translation>Εξαγωγή ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
@@ -9973,7 +9973,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Άγνωστος τύπος λήψης: %1</translation>
+        <translation>Άγνωστος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
@@ -9997,11 +9997,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Άγνωστος τύπος φορτωτή: </translation>
+        <translation>Άγνωστος τύπος φορτωτή:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
+        <translation>Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -10052,7 +10052,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Βοήθεια</translation>
+        <translation>Βοήθεια</translation>
     </message>
 </context>
 <context>
@@ -10066,7 +10066,7 @@ Are you sure?</source>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Μορφή</translation>
+        <translation>Μορφή</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -10489,7 +10489,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10510,7 +10510,7 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10714,7 +10714,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (σε χρήση)</translation>
+        <translation>%1 (σε χρήση)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -11181,7 +11181,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Άγνωστο</translation>
+        <translation>Άγνωστο</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -11219,12 +11219,12 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Εκτός σύνδεσης</translation>
+        <translation>Εκτός σύνδεσης</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Έτοιμο</translation>
+        <translation>Έτοιμο</translation>
     </message>
     <message>
         <source>Working</source>
@@ -11244,7 +11244,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Απενεργοποιημένο</translation>
+        <translation>Απενεργοποιημένο</translation>
     </message>
     <message>
         <source>Gone</source>
@@ -11254,7 +11254,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Άγνωστο</translation>
+        <translation>Άγνωστο</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -11336,7 +11336,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Δημιουργία Συντόμευσης</translation>
+        <translation>Δημιουργία Συντόμευσης</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
@@ -11458,7 +11458,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Μη αναγνωρίσημο</translation>
+        <translation>Μη αναγνωρίσημο</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11561,7 +11561,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Προειδοποιήσεις</translation>
+        <translation>Προειδοποιήσεις</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11573,7 +11573,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">Αλλαγή %1 έκδοσης</translation>
+        <translation>Αλλαγή %1 έκδοσης</translation>
     </message>
     <message>
         <source>mods</source>
@@ -11646,7 +11646,7 @@ Please update %1!</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> από </translation>
+        <translation>από</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -11725,7 +11725,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -11763,7 +11763,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Όνομα</translation>
+        <translation>Όνομα</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -11775,15 +11775,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Έκδοση</translation>
+        <translation>Έκδοση</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Μέγεθος</translation>
+        <translation>Μέγεθος</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Πάροχος</translation>
+        <translation>Πάροχος</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -11791,7 +11791,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Ενημέρωση</translation>
+        <translation>Ενημέρωση</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -11845,7 +11845,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Εικόνα</translation>
+        <translation>Εικόνα</translation>
     </message>
 </context>
 <context>
@@ -11864,15 +11864,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Έκδοση</translation>
+        <translation>Έκδοση</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Μέγεθος</translation>
+        <translation>Μέγεθος</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Πάροχος</translation>
+        <translation>Πάροχος</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -11880,7 +11880,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Ενημέρωση</translation>
+        <translation>Ενημέρωση</translation>
     </message>
     <message>
         <source>The resource pack format ID, as well as the Minecraft versions it was designed for.</source>
@@ -11913,11 +11913,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Όνομα</translation>
+        <translation>Όνομα</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Μορφή Πακέτου</translation>
+        <translation>Μορφή Πακέτου</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -11940,7 +11940,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Λήψη πακέτων πόρων</translation>
+        <translation>Λήψη πακέτων πόρων</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -11968,7 +11968,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Προειδοποιήσεις</translation>
+        <translation>Προειδοποιήσεις</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11980,7 +11980,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Επιβεβαίωση Ενημέρωσης</translation>
+        <translation>Επιβεβαίωση Ενημέρωσης</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -11990,7 +11990,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">Το &apos;%1&apos; είναι ενημερωμένο! :)</translation>
+        <translation>Το &apos;%1&apos; είναι ενημερωμένο! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -12002,11 +12002,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Έλεγχος ενημερώσεων</translation>
+        <translation>Έλεγχος ενημερώσεων</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Επιβεβαίωση Αφαίρεσης</translation>
+        <translation>Επιβεβαίωση Αφαίρεσης</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -12026,11 +12026,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Επιλεγμένη έκδοση:</translation>
+        <translation>Επιλεγμένη έκδοση:</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Ρυθμίσεις φίλτρου</translation>
+        <translation>Ρυθμίσεις φίλτρου</translation>
     </message>
 </context>
 <context>
@@ -12069,7 +12069,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Προειδοποιήσεις</translation>
+        <translation>Προειδοποιήσεις</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -12106,7 +12106,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Μη εγκατεστημένο</translation>
+        <translation>Μη εγκατεστημένο</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -12166,7 +12166,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>OK</source>
@@ -12325,7 +12325,7 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>OK</source>
@@ -12336,7 +12336,7 @@ Are you sure?</source>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Έκδοση</translation>
+        <translation>Έκδοση</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12359,7 +12359,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Έκδοση</translation>
+        <translation>Έκδοση</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12373,7 +12373,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>OK</source>
@@ -12410,7 +12410,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Έκδοση</translation>
+        <translation>Έκδοση</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12418,7 +12418,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Εκτός σύνδεσης</translation>
+        <translation>Εκτός σύνδεσης</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12481,7 +12481,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Ανανέωση</translation>
+        <translation>Ανανέωση</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -12499,7 +12499,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Επιβεβαίωση Αφαίρεσης</translation>
+        <translation>Επιβεβαίωση Αφαίρεσης</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -12547,7 +12547,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Λήψη πακέτων πόρων</translation>
+        <translation>Λήψη πακέτων πόρων</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -12575,7 +12575,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Προειδοποιήσεις</translation>
+        <translation>Προειδοποιήσεις</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12587,7 +12587,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Επιβεβαίωση Ενημέρωσης</translation>
+        <translation>Επιβεβαίωση Ενημέρωσης</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -12597,7 +12597,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">Το &apos;%1&apos; είναι ενημερωμένο! :)</translation>
+        <translation>Το &apos;%1&apos; είναι ενημερωμένο! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -12609,11 +12609,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Έλεγχος ενημερώσεων</translation>
+        <translation>Έλεγχος ενημερώσεων</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Επιβεβαίωση Αφαίρεσης</translation>
+        <translation>Επιβεβαίωση Αφαίρεσης</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -12687,7 +12687,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Άνοιγμα Φακέλου</translation>
+        <translation>Άνοιγμα Φακέλου</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -12731,7 +12731,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>OK</source>
@@ -12747,7 +12747,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>No Cape</source>
-        <translation type="unfinished">Χωρίς Κάπα</translation>
+        <translation>Χωρίς Κάπα</translation>
     </message>
     <message>
         <source>Download capes</source>
@@ -12919,7 +12919,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Μορφή</translation>
+        <translation>Μορφή</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -12941,7 +12941,7 @@ Are you sure?</source>
     <name>TaskStepWrapper</name>
     <message>
         <source>Task aborted.</source>
-        <translation type="unfinished">Η εργασία ματαιώθηκε.</translation>
+        <translation>Η εργασία ματαιώθηκε.</translation>
     </message>
     <message>
         <source>Instance update failed because: %1
@@ -13109,12 +13109,12 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Επιλεγμένη έκδοση:</translation>
+        <translation>Επιλεγμένη έκδοση:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Αναζήτηση και φιλτράρισμα...</translation>
+        <translation>Αναζήτηση και φιλτράρισμα...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -13161,7 +13161,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Όνομα</translation>
+        <translation>Όνομα</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -13169,11 +13169,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Μέγεθος</translation>
+        <translation>Μέγεθος</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Πάροχος</translation>
+        <translation>Πάροχος</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -13181,7 +13181,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Ενημέρωση</translation>
+        <translation>Ενημέρωση</translation>
     </message>
     <message>
         <source>The source provider of the texture pack.</source>
@@ -13208,7 +13208,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Λήψη πακέτων πόρων</translation>
+        <translation>Λήψη πακέτων πόρων</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -13262,7 +13262,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">Το &apos;%1&apos; είναι ενημερωμένο! :)</translation>
+        <translation>Το &apos;%1&apos; είναι ενημερωμένο! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -13274,7 +13274,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Έλεγχος ενημερώσεων</translation>
+        <translation>Έλεγχος ενημερώσεων</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -13722,7 +13722,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Install Loader</source>
-        <translation type="unfinished">Εγκατάσταση Φορτωτή</translation>
+        <translation>Εγκατάσταση Φορτωτή</translation>
     </message>
     <message>
         <source>Install a mod loader.</source>
@@ -13898,7 +13898,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Εγκατάσταση</translation>
+        <translation>Εγκατάσταση</translation>
     </message>
     <message>
         <source>Confirm Reversion</source>
@@ -14148,7 +14148,7 @@ Canonical Path: %1</source>
     <message>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished">Πληροφορίες</translation>
+        <translation>Πληροφορίες</translation>
     </message>
     <message>
         <source>The name of the world.</source>
@@ -14227,7 +14227,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Εργαλεία</translation>
+        <translation>Εργαλεία</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -14352,7 +14352,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Invalid command</source>
-        <translation type="unfinished">Μη έγκυρη εντολή</translation>
+        <translation>Μη έγκυρη εντολή</translation>
     </message>
     <message>
         <source>The tool command is empty.</source>
@@ -14494,11 +14494,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Όνομα Χρήστη</translation>
+        <translation>Όνομα Χρήστη</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Κωδικός πρόσβασης</translation>
+        <translation>Κωδικός πρόσβασης</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -14506,7 +14506,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ακύρωση</translation>
+        <translation>Ακύρωση</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

@@ -851,11 +851,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Утырту</translation>
+        <translation>Утырту</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Баш тарту</translation>
+        <translation>Баш тарту</translation>
     </message>
 </context>
 <context>
@@ -1744,7 +1744,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2404,15 +2404,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">Өстәү (&amp;A)</translation>
+        <translation>Өстәү (&amp;A)</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">Бетерү (&amp;R)</translation>
+        <translation>Бетерү (&amp;R)</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Исем</translation>
+        <translation>Исем</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3398,11 +3398,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Калдыру</translation>
+        <translation>Калдыру</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Хата</translation>
+        <translation>Хата</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -4358,11 +4358,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Өстәү</translation>
+        <translation>Өстәү</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Бетерү</translation>
+        <translation>Бетерү</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -4804,7 +4804,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6214,7 +6214,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Чыгарылыш</translation>
+        <translation>Чыгарылыш</translation>
     </message>
     <message>
         <source>Any</source>
@@ -6329,7 +6329,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Бетерү</translation>
+        <translation>Бетерү</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -6337,7 +6337,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Өстәү</translation>
+        <translation>Өстәү</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -7120,7 +7120,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">билгесез</translation>
+        <translation>билгесез</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
@@ -7504,11 +7504,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Утырту</translation>
+        <translation>Утырту</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Баш тарту</translation>
+        <translation>Баш тарту</translation>
     </message>
 </context>
 <context>
@@ -8266,7 +8266,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Баш тарту</translation>
+        <translation>Баш тарту</translation>
     </message>
 </context>
 <context>
@@ -8769,7 +8769,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Билгесез</translation>
+        <translation>Билгесез</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -9045,7 +9045,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Танылмаган</translation>
+        <translation>Танылмаган</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -9355,7 +9355,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9425,7 +9425,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Сурәт</translation>
+        <translation>Сурәт</translation>
     </message>
 </context>
 <context>
@@ -9444,7 +9444,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9968,7 +9968,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -9976,7 +9976,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Офлайн</translation>
+        <translation>Офлайн</translation>
     </message>
     <message>
         <source>Online</source>
@@ -11078,7 +11078,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Утырту</translation>
+        <translation>Утырту</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -11358,7 +11358,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Кораллар</translation>
+        <translation>Кораллар</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -11581,7 +11581,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Кулланучы исеме</translation>
+        <translation>Кулланучы исеме</translation>
     </message>
     <message>
         <source>Password</source>
@@ -11593,7 +11593,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Баш тарту</translation>
+        <translation>Баш тарту</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

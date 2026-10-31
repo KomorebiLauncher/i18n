@@ -1249,11 +1249,11 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Gosod</translation>
+        <translation>Gosod</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
 </context>
 <context>
@@ -1369,7 +1369,7 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1431,7 +1431,7 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Enw defnyddiwr</translation>
+        <translation>Enw defnyddiwr</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1443,7 +1443,7 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2026,7 +2026,7 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Loywi</translation>
+        <translation>Loywi</translation>
     </message>
     <message>
         <source>Mod Loader</source>
@@ -2034,7 +2034,7 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Dim</translation>
+        <translation>Dim</translation>
     </message>
     <message>
         <source>NeoForge</source>
@@ -2070,7 +2070,7 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Nid oes fersiynau ar gael ar hyn o bryd ar gyfer Minecraft %1</translation>
+        <translation>Nid oes fersiynau ar gael ar hyn o bryd ar gyfer Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -2112,11 +2112,11 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Enw Ffeil</translation>
+        <translation>Enw Ffeil</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2180,7 +2180,7 @@ Gallwch datrys y mater hwn wrth ailosod /tmp fel &apos;exec&apos; neu gosod y ja
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -2362,7 +2362,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2448,7 +2448,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -2468,7 +2468,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
 </context>
 <context>
@@ -2479,7 +2479,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Gosodiadau</translation>
+        <translation>Gosodiadau</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -2524,7 +2524,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -2556,7 +2556,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2696,7 +2696,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Bwydlen cyd-destun</translation>
+        <translation>Bwydlen cyd-destun</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -2783,7 +2783,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Enw</translation>
+        <translation>Enw</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2900,8 +2900,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Methu deall maniffesto&apos;r pecyn:
-</translation>
+        <translation>Methu deall maniffesto&apos;r pecyn:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -2925,11 +2924,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Wrthi&apos;n lawrlwytho mods...</translation>
+        <translation>Wrthi&apos;n lawrlwytho mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod i lawr</translation>
+        <translation>Mod i lawr</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -2948,11 +2947,11 @@ Are you sure you want to do this?</source>
     <name>FTBImportAPP::FilterModel</name>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Trefnu yn ol enw</translation>
+        <translation>Trefnu yn ol enw</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Trefnu yn ol fersiwn gem</translation>
+        <translation>Trefnu yn ol fersiwn gem</translation>
     </message>
 </context>
 <context>
@@ -2967,7 +2966,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Chwilio a hidlo ...</translation>
+        <translation>Chwilio a hidlo ...</translation>
     </message>
     <message>
         <source>Select FTBApp instances directory</source>
@@ -3041,8 +3040,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Methu deall maniffesto&apos;r pecyn:
-</translation>
+        <translation>Methu deall maniffesto&apos;r pecyn:</translation>
     </message>
     <message>
         <source> (version %1)</source>
@@ -3070,15 +3068,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Wedi methu cael mynegai metadata lleol ar gyfer %1</translation>
+        <translation>Wedi methu cael mynegai metadata lleol ar gyfer %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd</translation>
+        <translation>Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Dim fersiwn llwyth wedi&apos;i osod ar gyfer modpack!</translation>
+        <translation>Dim fersiwn llwyth wedi&apos;i osod ar gyfer modpack!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3129,7 +3127,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 allan o %2 gorffenedig</translation>
+        <translation>%1 allan o %2 gorffenedig</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3153,7 +3151,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Wrthi&apos;n lawrlwytho mods...</translation>
+        <translation>Wrthi&apos;n lawrlwytho mods...</translation>
     </message>
 </context>
 <context>
@@ -3230,7 +3228,7 @@ Are you sure you want to do this?</source>
     <name>FlamePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Fersiwn a ddewiswyd:</translation>
+        <translation>Fersiwn a ddewiswyd:</translation>
     </message>
     <message>
         <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
@@ -3244,7 +3242,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Chwilio a hidlo ...</translation>
+        <translation>Chwilio a hidlo ...</translation>
     </message>
     <message>
         <source>Sort by Featured</source>
@@ -3254,7 +3252,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Trefnu yn ol poblogrwydd</translation>
+        <translation>Trefnu yn ol poblogrwydd</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -3264,7 +3262,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Trefnu yn ol enw</translation>
+        <translation>Trefnu yn ol enw</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -3282,7 +3280,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source> by </source>
@@ -3326,19 +3324,19 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Trefnu yn ol enw</translation>
+        <translation>Trefnu yn ol enw</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Fersiwn a ddewiswyd:</translation>
+        <translation>Fersiwn a ddewiswyd:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Chwilio a hidlo ...</translation>
+        <translation>Chwilio a hidlo ...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3453,7 +3451,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3461,7 +3459,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Agor Ffolder</translation>
+        <translation>Agor Ffolder</translation>
     </message>
     <message>
         <source>Select Icons</source>
@@ -3512,7 +3510,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -3556,7 +3554,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3596,7 +3594,7 @@ Are you sure you want to do this?</source>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Loywi</translation>
+        <translation>Loywi</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3604,7 +3602,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>NeoForge</source>
@@ -3657,7 +3655,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Nid oes fersiynau ar gael ar hyn o bryd ar gyfer Minecraft %1</translation>
+        <translation>Nid oes fersiynau ar gael ar hyn o bryd ar gyfer Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3759,7 +3757,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Gosodiadau</translation>
+        <translation>Gosodiadau</translation>
     </message>
 </context>
 <context>
@@ -3781,7 +3779,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -3835,7 +3833,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cau</translation>
+        <translation>Cau</translation>
     </message>
     <message>
         <source>Kill the running instance</source>
@@ -3891,7 +3889,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Loywi</translation>
+        <translation>Loywi</translation>
     </message>
     <message>
         <source>Download</source>
@@ -3899,11 +3897,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -3927,7 +3925,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
 </context>
 <context>
@@ -3997,11 +3995,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Dileu</translation>
+        <translation>Dileu</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Loywi</translation>
+        <translation>Loywi</translation>
     </message>
     <message>
         <source>Java</source>
@@ -4355,7 +4353,7 @@ You can change the Java version in the settings later.
     <name>LanguageWizardPage</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Iaith</translation>
+        <translation>Iaith</translation>
     </message>
     <message>
         <source>Select the language to use in %1</source>
@@ -4421,7 +4419,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>Auth servers offline</source>
@@ -4806,11 +4804,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Ychwanegych</translation>
+        <translation>Ychwanegych</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Dileu</translation>
+        <translation>Dileu</translation>
     </message>
     <message>
         <source>Check &amp;subfolders for blocked mods</source>
@@ -5018,12 +5016,12 @@ Please try again.</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Trefnu yn ol enw</translation>
+        <translation>Trefnu yn ol enw</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Trefnu yn ol fersiwn gem</translation>
+        <translation>Trefnu yn ol fersiwn gem</translation>
     </message>
 </context>
 <context>
@@ -5068,7 +5066,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Gosod modpack</translation>
+        <translation>Gosod modpack</translation>
     </message>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
@@ -5084,7 +5082,7 @@ Please try again.</source>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Chwilio a hidlo ...</translation>
+        <translation>Chwilio a hidlo ...</translation>
     </message>
     <message>
         <source>Public</source>
@@ -5108,7 +5106,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Fersiwn a ddewiswyd:</translation>
+        <translation>Fersiwn a ddewiswyd:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -5371,7 +5369,7 @@ Reason:
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Statws</translation>
+        <translation>Statws</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -5399,7 +5397,7 @@ Reason:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -5801,7 +5799,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Cyfrifon</translation>
+        <translation>Cyfrifon</translation>
     </message>
     <message>
         <source>&amp;Undo Last Instance Deletion</source>
@@ -6130,7 +6128,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -6174,7 +6172,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Methodd y diweddariad</translation>
+        <translation>Methodd y diweddariad</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -6212,7 +6210,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Enw</translation>
+        <translation>Enw</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -6668,7 +6666,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Dileu</translation>
+        <translation>Dileu</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -6676,7 +6674,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Ychwanegych</translation>
+        <translation>Ychwanegych</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -6862,22 +6860,22 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Pob Fersiwn</translation>
+        <translation>Pob Fersiwn</translation>
     </message>
 </context>
 <context>
     <name>ModFolderModel</name>
     <message>
         <source>File</source>
-        <translation type="unfinished">Ffeil</translation>
+        <translation>Ffeil</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Enw</translation>
+        <translation>Enw</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -6917,7 +6915,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Enw Ffeil</translation>
+        <translation>Enw Ffeil</translation>
     </message>
     <message>
         <source>Update</source>
@@ -7097,7 +7095,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -7244,7 +7242,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -7330,11 +7328,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 allan o %2 gorffenedig</translation>
+        <translation>%1 allan o %2 gorffenedig</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Wrthi&apos;n lawrlwytho mods...</translation>
+        <translation>Wrthi&apos;n lawrlwytho mods...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -7409,11 +7407,11 @@ Please update %1!</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Chwilio a hidlo ...</translation>
+        <translation>Chwilio a hidlo ...</translation>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Fersiwn a ddewiswyd:</translation>
+        <translation>Fersiwn a ddewiswyd:</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -7435,7 +7433,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source> by </source>
@@ -7580,7 +7578,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -7611,7 +7609,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Enw</translation>
+        <translation>Enw</translation>
     </message>
     <message>
         <source>uid</source>
@@ -7619,7 +7617,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -7642,7 +7640,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Enw:</translation>
+        <translation>&amp;Enw:</translation>
     </message>
     <message>
         <source>No group</source>
@@ -7654,7 +7652,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>Help</source>
@@ -7689,7 +7687,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Cau</translation>
+        <translation>Cau</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -7909,11 +7907,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Gosod</translation>
+        <translation>Gosod</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
 </context>
 <context>
@@ -7936,7 +7934,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -8015,7 +8013,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Unable to open %1 for reading: %2</source>
@@ -8063,7 +8061,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Methu ddangoswych yr log hwn achos rhagorodd y hyd yr log ar %1 llinell.</translation>
+        <translation>Methu ddangoswych yr log hwn achos rhagorodd y hyd yr log ar %1 llinell.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -8088,96 +8086,95 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Methu deall maniffesto&apos;r pecyn:
-</translation>
+        <translation>Methu deall maniffesto&apos;r pecyn:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Mod gosod heb ei gefnogi</translation>
+        <translation>Mod gosod heb ei gefnogi</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Wedi methu cael mynegai metadata lleol ar gyfer &apos;%1&apos; v%2</translation>
+        <translation>Wedi methu cael mynegai metadata lleol ar gyfer &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Dileu ffeiliau presennol...</translation>
+        <translation>Dileu ffeiliau presennol...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Math mod anhysbys: %1</translation>
+        <translation>Math mod anhysbys: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Wedi methu cael mynegai metadata lleol ar gyfer %1</translation>
+        <translation>Wedi methu cael mynegai metadata lleol ar gyfer %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd</translation>
+        <translation>Wedi methu dod o hyd i fersiwn ar gyfer %1 llwythydd</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Dim fersiwn llwyth wedi&apos;i osod ar gyfer modpack!</translation>
+        <translation>Dim fersiwn llwyth wedi&apos;i osod ar gyfer modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Math lawrlwytho anhysbys neu heb gymorth: %1</translation>
+        <translation>Math lawrlwytho anhysbys neu heb gymorth: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Lawrlwytho ffurfweddiad...</translation>
+        <translation>Lawrlwytho ffurfweddiad...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Llwytho i lawr cyfluniad</translation>
+        <translation>Llwytho i lawr cyfluniad</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Wrthi&apos;n echdynnu configs...</translation>
+        <translation>Wrthi&apos;n echdynnu configs...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Dewis modau dewisol...</translation>
+        <translation>Dewis modau dewisol...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Wrthi&apos;n lawrlwytho mods...</translation>
+        <translation>Wrthi&apos;n lawrlwytho mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod i lawr</translation>
+        <translation>Mod i lawr</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Math llwytho i lawr heb gymorth: %1</translation>
+        <translation>Math llwytho i lawr heb gymorth: %1</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 allan o %2 gorffenedig</translation>
+        <translation>%1 allan o %2 gorffenedig</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Wedi methu echdynnu mods...</translation>
+        <translation>Wedi methu echdynnu mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Wrthi&apos;n echdynnu mods...</translation>
+        <translation>Wrthi&apos;n echdynnu mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Gosod modpack</translation>
+        <translation>Gosod modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Wedi methu creu cydran llyfrgelloedd</translation>
+        <translation>Wedi methu creu cydran llyfrgelloedd</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Math o lwyth anhysbys: </translation>
+        <translation>Math o lwyth anhysbys:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Wedi methu creu cydran pecyn</translation>
+        <translation>Wedi methu creu cydran pecyn</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -8200,11 +8197,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Enw</translation>
+        <translation>Enw</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
 </context>
 <context>
@@ -8599,7 +8596,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -8620,7 +8617,7 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -8694,7 +8691,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Math</translation>
+        <translation>Math</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -9123,7 +9120,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Trefnu yn ol poblogrwydd</translation>
+        <translation>Trefnu yn ol poblogrwydd</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -9131,7 +9128,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Trefnu yn ol enw</translation>
+        <translation>Trefnu yn ol enw</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -9147,7 +9144,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Trefnu yn ol fersiwn gem</translation>
+        <translation>Trefnu yn ol fersiwn gem</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -9179,7 +9176,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Anghynefin</translation>
+        <translation>Anghynefin</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -9212,12 +9209,12 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Heb ei wirio</translation>
+        <translation>Heb ei wirio</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">All-lein</translation>
+        <translation>All-lein</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -9227,27 +9224,27 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gweithio</translation>
+        <translation>Gweithio</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gwallus</translation>
+        <translation>Gwallus</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Wedi dod i ben</translation>
+        <translation>Wedi dod i ben</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Anabl</translation>
+        <translation>Anabl</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Goll</translation>
+        <translation>Goll</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -9551,7 +9548,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -9598,7 +9595,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -9715,7 +9712,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -9753,7 +9750,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Enw</translation>
+        <translation>Enw</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -9761,7 +9758,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9773,7 +9770,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Enw Ffeil</translation>
+        <translation>Enw Ffeil</translation>
     </message>
     <message>
         <source>Update</source>
@@ -9842,7 +9839,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9854,7 +9851,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Enw Ffeil</translation>
+        <translation>Enw Ffeil</translation>
     </message>
     <message>
         <source>Update</source>
@@ -9891,7 +9888,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Enw</translation>
+        <translation>Enw</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -9926,7 +9923,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -9980,7 +9977,7 @@ Are you sure?</source>
     <name>ResourcePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Fersiwn a ddewiswyd:</translation>
+        <translation>Fersiwn a ddewiswyd:</translation>
     </message>
     <message>
         <source>Filter options</source>
@@ -10019,7 +10016,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -10120,7 +10117,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10208,7 +10205,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Bwydlen cyd-destun</translation>
+        <translation>Bwydlen cyd-destun</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to %2.
@@ -10267,7 +10264,7 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10278,7 +10275,7 @@ Are you sure?</source>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -10301,7 +10298,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -10315,7 +10312,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10340,7 +10337,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Enw</translation>
+        <translation>Enw</translation>
     </message>
     <message>
         <source>Address</source>
@@ -10352,7 +10349,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -10360,7 +10357,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">All-lein</translation>
+        <translation>All-lein</translation>
     </message>
     <message>
         <source>Online</source>
@@ -10399,11 +10396,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Ychwanegych</translation>
+        <translation>Ychwanegych</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Dileu</translation>
+        <translation>Dileu</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -10419,7 +10416,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Loywi</translation>
+        <translation>Loywi</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -10427,7 +10424,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Bwydlen cyd-destun</translation>
+        <translation>Bwydlen cyd-destun</translation>
     </message>
     <message>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
@@ -10463,7 +10460,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Loywi</translation>
+        <translation>Loywi</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -10501,7 +10498,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -10606,7 +10603,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Agor Ffolder</translation>
+        <translation>Agor Ffolder</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -10626,7 +10623,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">Dileu Croen</translation>
+        <translation>Dileu Croen</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -10650,7 +10647,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>OK</source>
@@ -10690,15 +10687,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Dileu Croen</translation>
+        <translation>Dileu Croen</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Wedi methu dileu&apos;r croen presennol!</translation>
+        <translation>Wedi methu dileu&apos;r croen presennol!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Bwydlen cyd-destun</translation>
+        <translation>Bwydlen cyd-destun</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -10848,8 +10845,7 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Methu deall maniffesto&apos;r pecyn:
-</translation>
+        <translation>Methu deall maniffesto&apos;r pecyn:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
@@ -10910,16 +10906,16 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Fersiwn a ddewiswyd:</translation>
+        <translation>Fersiwn a ddewiswyd:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Chwilio a hidlo ...</translation>
+        <translation>Chwilio a hidlo ...</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source> by </source>
@@ -10930,7 +10926,7 @@ inheritsFrom is missing</source>
     <name>TexturePackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Enw</translation>
+        <translation>Enw</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -10946,7 +10942,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Enw Ffeil</translation>
+        <translation>Enw Ffeil</translation>
     </message>
     <message>
         <source>Update</source>
@@ -11009,7 +11005,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -11059,7 +11055,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Ymddangosiad</translation>
+        <translation>Ymddangosiad</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -11070,7 +11066,7 @@ Are you sure?</source>
     <name>TranslationsModel</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Iaith</translation>
+        <translation>Iaith</translation>
     </message>
     <message>
         <source>Completeness</source>
@@ -11206,7 +11202,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Dileu</translation>
+        <translation>Dileu</translation>
     </message>
     <message>
         <source>Customize</source>
@@ -11358,7 +11354,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Bwydlen cyd-destun</translation>
+        <translation>Bwydlen cyd-destun</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -11378,7 +11374,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -11458,7 +11454,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Gosod</translation>
+        <translation>Gosod</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -11477,14 +11473,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
 </context>
 <context>
     <name>VersionProxyModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Fersiwn</translation>
+        <translation>Fersiwn</translation>
     </message>
     <message>
         <source>Minecraft</source>
@@ -11496,7 +11492,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Math</translation>
+        <translation>Math</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -11577,7 +11573,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -11589,7 +11585,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Loywi</translation>
+        <translation>Loywi</translation>
     </message>
 </context>
 <context>
@@ -11600,7 +11596,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Gwall</translation>
+        <translation>Gwall</translation>
     </message>
     <message>
         <source>List update failed:
@@ -11641,7 +11637,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Enw</translation>
+        <translation>Enw</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -11718,7 +11714,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Loywi</translation>
+        <translation>Loywi</translation>
     </message>
     <message>
         <source>View Folder</source>
@@ -11754,7 +11750,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Bwydlen cyd-destun</translation>
+        <translation>Bwydlen cyd-destun</translation>
     </message>
     <message>
         <source>Select a Minecraft world zip</source>
@@ -11961,7 +11957,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Enw defnyddiwr</translation>
+        <translation>Enw defnyddiwr</translation>
     </message>
     <message>
         <source>Password</source>
@@ -11973,7 +11969,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Canslo</translation>
+        <translation>Canslo</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

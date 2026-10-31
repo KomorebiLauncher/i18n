@@ -1359,7 +1359,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Telepítés</translation>
+        <translation>Telepítés</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1457,7 +1457,7 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Helyi fájl betöltése</translation>
+        <translation>Helyi fájl betöltése</translation>
     </message>
 </context>
 <context>
@@ -2330,11 +2330,11 @@ Előfordulhat, hogy a Minecraft egyes verziói nem indulnak el.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzió</translation>
+        <translation>Verzió</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Frissítés</translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -3289,7 +3289,7 @@ Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Hozzáadás</translation>
+        <translation>&amp;Hozzáadás</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -3297,7 +3297,7 @@ Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Név</translation>
+        <translation>Név</translation>
     </message>
     <message>
         <source>Command</source>
@@ -7324,7 +7324,7 @@ Indok:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -9044,7 +9044,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Frissítés megerősítése</translation>
+        <translation>Frissítés megerősítése</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -9708,7 +9708,7 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Kiadás</translation>
+        <translation>Kiadás</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9846,7 +9846,7 @@ Valószínűleg meg kell változtatnod az elérési utat - lásd a mod weboldal�
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eltávolítás</translation>
+        <translation>Eltávolítás</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -10179,7 +10179,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Frissítés</translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <source>The source provider of the mod.</source>
@@ -11401,26 +11401,26 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">%1 kérése</translation>
+        <translation>%1 kérése</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">ismeretlen</translation>
+        <translation>ismeretlen</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1/mp. (%2)</translation>
+        <translation>%1/mp. (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/mp.</translation>
+        <translation>0 B/mp.</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -11433,14 +11433,14 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Kéréskorlátozás %n másodpercig: Újrapróbálkozás %1 múlva</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Kéréskorlátozás: Várakozás %n másodpercig</numerusform>
         </translation>
     </message>
@@ -11861,7 +11861,7 @@ MEGJEGYZÉS: Győződjön meg róla, hogy a frissítés előtt biztonsági máso
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Telepítés</translation>
+        <translation>Telepítés</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12879,7 +12879,7 @@ HTTP állapot: %2</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Megszakítás</translation>
+        <translation>Megszakítás</translation>
     </message>
 </context>
 <context>
@@ -13944,7 +13944,7 @@ Hibaüzenet: %3</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Nem sikerült megnyitni a fájlt (%1) olvasásra: %2</translation>
+        <translation>Nem sikerült megnyitni a fájlt (%1) olvasásra: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -14359,7 +14359,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzió</translation>
+        <translation>Verzió</translation>
     </message>
     <message>
         <source>Size</source>
@@ -14375,7 +14375,7 @@ Figyelmeztetés: Ez az erőforrás hard linkelve van. A szerkesztéssel az erede
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Frissítés</translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -14434,7 +14434,7 @@ Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Kép</translation>
+        <translation>Kép</translation>
     </message>
 </context>
 <context>
@@ -14457,7 +14457,7 @@ Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzió</translation>
+        <translation>Verzió</translation>
     </message>
     <message>
         <source>Size</source>
@@ -14473,7 +14473,7 @@ Biztosan ezt akarod csinálni?</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Frissítés</translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <source>The file name of the resource pack.</source>
@@ -15106,7 +15106,7 @@ Jelenleg telepített verzió: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzió</translation>
+        <translation>Verzió</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -15114,7 +15114,7 @@ Jelenleg telepített verzió: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -15937,7 +15937,7 @@ inheritsFrom hiányzik</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Frissítés</translation>
+        <translation>Frissítés</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -16737,7 +16737,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Telepítés</translation>
+        <translation>Telepítés</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17142,7 +17142,7 @@ Kanonikus elérési út: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Eszközök</translation>
+        <translation>Eszközök</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -17514,11 +17514,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Felhasználónév</translation>
+        <translation>Felhasználónév</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Jelszó</translation>
+        <translation>Jelszó</translation>
     </message>
     <message>
         <source>Sign in</source>

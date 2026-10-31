@@ -403,7 +403,7 @@
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="351"/>
         <source>Username</source>
-        <translation type="unfinished">ὀνομα</translation>
+        <translation>ὀνομα</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="353"/>

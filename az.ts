@@ -1065,7 +1065,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Quraşdır</translation>
+        <translation>Quraşdır</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1163,7 +1163,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Yerli fayl yüklənir</translation>
+        <translation>Yerli fayl yüklənir</translation>
     </message>
 </context>
 <context>
@@ -1965,7 +1965,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Həcm</translation>
+        <translation>Həcm</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -1977,7 +1977,7 @@ Siz bu problemi `/tmp` qovluğunu &apos;exec&apos; olaraq yenidən qoşmaqla və
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2727,15 +2727,15 @@ Bunu etmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Əlavə et</translation>
+        <translation>&amp;Əlavə et</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Sil</translation>
+        <translation>&amp;Sil</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ad</translation>
+        <translation>Ad</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3169,11 +3169,11 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Köhnə ziddiyyətli fayllar silinir...</translation>
+        <translation>Köhnə ziddiyyətli fayllar silinir...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Köhnə ziddiyyətli faylların silinməsi uğursuz oldu.</translation>
+        <translation>Köhnə ziddiyyətli faylların silinməsi uğursuz oldu.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -3447,7 +3447,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Xüsusi</translation>
+        <translation>Xüsusi</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3621,7 +3621,7 @@ Zəhmət olmasa, yenidən cəhd edin.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3824,19 +3824,19 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Keç</translation>
+        <translation>Keç</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Xəta</translation>
+        <translation>Xəta</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Oyun fayllarını yükləmək mümkün olmadı: %1</translation>
+        <translation>Oyun fayllarını yükləmək mümkün olmadı: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">Oyun faylları yüklənir</translation>
+        <translation>Oyun faylları yüklənir</translation>
     </message>
 </context>
 <context>
@@ -4897,7 +4897,7 @@ Modlarınızı düzəltməli ola bilərsiniz, çünki oyun hələ də fayllara y
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Əlavə et</translation>
+        <translation>Əlavə et</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -5383,7 +5383,7 @@ Səbəb:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6301,7 +6301,7 @@ Meta-məlumat keşini əllə təmizləmək üçün Qovluqlar -&gt; Başlatıcın
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> və onun %n qeydə alınmış qısayolu</numerusform>
+            <numerusform>və onun %n qeydə alınmış qısayolu</numerusform>
             <numerusform> və onun %n qeydə alınmış qısayolları</numerusform>
         </translation>
     </message>
@@ -6528,7 +6528,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Yeniləməni təsdiqlə</translation>
+        <translation>Yeniləməni təsdiqlə</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -6906,7 +6906,7 @@ Böyük ehtimalla yolu dəyişməli olacaqsınız - zəhmət olmasa, modun veb-s
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Stabil buraxılış</translation>
+        <translation>Stabil buraxılış</translation>
     </message>
     <message>
         <source>Any</source>
@@ -7029,7 +7029,7 @@ Böyük ehtimalla yolu dəyişməli olacaqsınız - zəhmət olmasa, modun veb-s
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Əlavə et</translation>
+        <translation>Əlavə et</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -7289,7 +7289,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Fayl Adı</translation>
+        <translation>Fayl Adı</translation>
     </message>
     <message>
         <source>Update</source>
@@ -7365,10 +7365,8 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod aktivləşdiriləcək
-</numerusform>
-            <numerusform>%n ədəd mod(modlar) aktivləşdiriləcək
-</numerusform>
+            <numerusform>%n mod aktivləşdiriləcək</numerusform>
+            <numerusform>%n ədəd mod(modlar) aktivləşdiriləcək</numerusform>
         </translation>
     </message>
     <message>
@@ -7379,10 +7377,8 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod deaktiv ediləcək
-</numerusform>
-            <numerusform>%n mod(modlar) deaktiv ediləcək
-</numerusform>
+            <numerusform>%n mod deaktiv ediləcək</numerusform>
+            <numerusform>%n mod(modlar) deaktiv ediləcək</numerusform>
         </translation>
     </message>
     <message>
@@ -7765,11 +7761,11 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Köhnə ziddiyyətli fayllar silinir...</translation>
+        <translation>Köhnə ziddiyyətli fayllar silinir...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Köhnə ziddiyyətli faylların silinməsi uğursuz oldu.</translation>
+        <translation>Köhnə ziddiyyətli faylların silinməsi uğursuz oldu.</translation>
     </message>
 </context>
 <context>
@@ -7953,26 +7949,26 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">sorğu edilir %1</translation>
+        <translation>sorğu edilir %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">müəyyən edilməmiş</translation>
+        <translation>müəyyən edilməmiş</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -7985,7 +7981,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Sorğu tezliyi %n saniyəlik məhdudlaşdırıldı: %1 sonra təkrar cəhd edin</numerusform>
             <numerusform>Sorğu tezliyi %n saniyə məhdudlaşdırıldı: %1 sonra təkrar cəhd edin</numerusform>
         </translation>
@@ -7993,7 +7989,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Tezlik məhdudlaşdırıldı: %n saniyəlik gözlənilir</numerusform>
             <numerusform>Tezlik məhdudlaşdırıldı: %n saniyə gözlənilir</numerusform>
         </translation>
@@ -8349,7 +8345,7 @@ Zəhmət olmasa, %1 tətbiqini yeniləyin!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Quraşdır</translation>
+        <translation>Quraşdır</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8537,100 +8533,99 @@ Bu daimi ola bilər və loqlar qovluğundan silinəcəkdir.
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Paket manifesti anlamaq mümkün olmadı:
-</translation>
+        <translation>Paket manifesti anlamaq mümkün olmadı:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Dəstəklənməyən quraşdırma rejimi</translation>
+        <translation>Dəstəklənməyən quraşdırma rejimi</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">&apos;%1&apos; v%2 üçün yerli metadata indeksi əldə oluna bilmədi</translation>
+        <translation>&apos;%1&apos; v%2 üçün yerli metadata indeksi əldə oluna bilmədi</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Mövcud fayllar silinir...</translation>
+        <translation>Mövcud fayllar silinir...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Bilinməyən mod növü: %1</translation>
+        <translation>Bilinməyən mod növü: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">%1 üçün yerli metadata indeksi əldə oluna bilmədi</translation>
+        <translation>%1 üçün yerli metadata indeksi əldə oluna bilmədi</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1 yükləyicisi üçün versiya tapılmadı</translation>
+        <translation>%1 yükləyicisi üçün versiya tapılmadı</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Mod paketi üçün yükləyici versiyası seçilməyib!</translation>
+        <translation>Mod paketi üçün yükləyici versiyası seçilməyib!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Bilinməyən və ya dəstəklənməyən yükləmə növü: %1</translation>
+        <translation>Bilinməyən və ya dəstəklənməyən yükləmə növü: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Konfiqurasiyalar yüklənir...</translation>
+        <translation>Konfiqurasiyalar yüklənir...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Konfiqurasiya yükləmə</translation>
+        <translation>Konfiqurasiya yükləmə</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Konfiqurasiyalar çıxardılır...</translation>
+        <translation>Konfiqurasiyalar çıxardılır...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">İstəyə bağlı modlar seçilir...</translation>
+        <translation>İstəyə bağlı modlar seçilir...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modlar endirilir...</translation>
+        <translation>Modlar endirilir...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod endirmə</translation>
+        <translation>Mod endirmə</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Qeyri-müəyyən endirilmə tipi: %1</translation>
+        <translation>Qeyri-müəyyən endirilmə tipi: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Bloklanmış modlar tapıldı</translation>
+        <translation>Bloklanmış modlar tapıldı</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Aşağıdakı fayllar üçüncü tərəf başladıcılarında endirmək üçün mövcud deyil.&lt;br/&gt;Onları əl ilə endirməli və profilə əlavə etməli olacaqsınız.</translation>
+        <translation>Aşağıdakı fayllar üçüncü tərəf başladıcılarında endirmək üçün mövcud deyil.&lt;br/&gt;Onları əl ilə endirməli və profilə əlavə etməli olacaqsınız.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 / %2 tamamlandı</translation>
+        <translation>%1 / %2 tamamlandı</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Modları çıxarmaq alınmadı...</translation>
+        <translation>Modları çıxarmaq alınmadı...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Modlar çıxarılır...</translation>
+        <translation>Modlar çıxarılır...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Kitabxana komponentini yaratmaq mümkün olmadı</translation>
+        <translation>Kitabxana komponentini yaratmaq mümkün olmadı</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Naməlum yükləyici növü: </translation>
+        <translation>Naməlum yükləyici növü:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Paket komponentini yaratmaq mümkün olmadı</translation>
+        <translation>Paket komponentini yaratmaq mümkün olmadı</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -9795,7 +9790,7 @@ Bu yeniləmə zamanı həmin mövcud save-ləri silmək istəyirsiniz?</translat
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Naməlum</translation>
+        <translation>Naməlum</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -9927,20 +9922,14 @@ Yeni ad: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Aşağıdakı profil bu profildəki fayllara istinad edə bilər:
-
-%1
-
-%2 digər profilin işini poza bilər.
-
-Davam etmək istəyirsiniz?</numerusform>
-            <numerusform>Aşağıdakı profillər bu profildəki fayllara istinad edə bilər:
-
-%1
-
-%2 digər profillərin işini poza bilər.
-
-Davam etmək istəyirsiniz?</numerusform>
+            <numerusform>Aşağıdakı profil bu profildəki fayllara istinad edə bilər:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 digər profilin işini poza bilər.</numerusform>
+            <numerusform>Davam etmək istəyirsiniz?</numerusform>
+            <numerusform>Aşağıdakı profillər bu profildəki fayllara istinad edə bilər:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 digər profillərin işini poza bilər.</numerusform>
+            <numerusform>Davam etmək istəyirsiniz?</numerusform>
         </translation>
     </message>
     <message>
@@ -10101,12 +10090,12 @@ Xəta mesajı: %3</translation>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">məlumat paketləri</translation>
+        <translation>məlumat paketləri</translation>
     </message>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">modlar</translation>
+        <translation>modlar</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -10115,25 +10104,25 @@ Xəta mesajı: %3</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">resurs</translation>
+        <translation>resurs</translation>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">resurslar</translation>
+        <translation>resurslar</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">şader paketləri</translation>
+        <translation>şader paketləri</translation>
     </message>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">tekstur paketləri</translation>
+        <translation>tekstur paketləri</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">%1 faylı oxunmaq üçün açıla bilmədi: %2</translation>
+        <translation>%1 faylı oxunmaq üçün açıla bilmədi: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -10251,7 +10240,7 @@ Bu dialoqu bağlamaq istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">modlar</translation>
+        <translation>modlar</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -10259,15 +10248,15 @@ Bu dialoqu bağlamaq istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <source>texture packs</source>
-        <translation type="unfinished">tekstur paketləri</translation>
+        <translation>tekstur paketləri</translation>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">şader paketləri</translation>
+        <translation>şader paketləri</translation>
     </message>
     <message>
         <source>data packs</source>
-        <translation type="unfinished">məlumat paketləri</translation>
+        <translation>məlumat paketləri</translation>
     </message>
     <message>
         <source>resources</source>
@@ -10528,7 +10517,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10540,7 +10529,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Fayl Adı</translation>
+        <translation>Fayl Adı</translation>
     </message>
     <message>
         <source>Update</source>
@@ -10599,7 +10588,7 @@ Bunu etmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Təsvir</translation>
+        <translation>Təsvir</translation>
     </message>
 </context>
 <context>
@@ -10618,7 +10607,7 @@ Bunu etmək istədiyinizə əminsiniz?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10689,7 +10678,7 @@ Xəbərdarlıq: Bu resurs başqa bir yerə fiziki olaraq bağlanıb (hard link).
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Fayl Adı</translation>
+        <translation>Fayl Adı</translation>
     </message>
     <message>
         <source>The name of the resource pack.</source>
@@ -11195,7 +11184,7 @@ Hal-hazırda quraşdırılmış versiya: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -11203,7 +11192,7 @@ Hal-hazırda quraşdırılmış versiya: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Oflayn</translation>
+        <translation>Oflayn</translation>
     </message>
     <message>
         <source>Online</source>
@@ -11872,7 +11861,7 @@ inheritsFrom yoxdur</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Fayl Adı</translation>
+        <translation>Fayl Adı</translation>
     </message>
     <message>
         <source>Update</source>
@@ -12424,7 +12413,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Quraşdır</translation>
+        <translation>Quraşdır</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -12554,7 +12543,7 @@ Bu əməliyyat daimidir və etdiyiniz bütün fərdiləşdirmələri tamamilə g
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Yaxşı</translation>
+        <translation>Yaxşı</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12725,7 +12714,7 @@ Kanonik yol: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Alətlər</translation>
+        <translation>Alətlər</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -13021,7 +13010,7 @@ Hesabınızı %1 ə əsasən düzəldin.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">İstifadəçi adı</translation>
+        <translation>İstifadəçi adı</translation>
     </message>
     <message>
         <source>Password</source>

@@ -1363,11 +1363,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">安裝</translation>
+        <translation>安裝</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -9934,7 +9934,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">移除</translation>
+        <translation>移除</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -11974,11 +11974,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">安裝</translation>
+        <translation>安裝</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -14559,7 +14559,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">圖片</translation>
+        <translation>圖片</translation>
     </message>
 </context>
 <context>
@@ -15231,7 +15231,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">版本</translation>
+        <translation>版本</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -15239,7 +15239,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">離線</translation>
+        <translation>離線</translation>
     </message>
     <message>
         <source>Online</source>
@@ -16882,7 +16882,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">安裝</translation>
+        <translation>安裝</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17673,11 +17673,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">使用者名稱</translation>
+        <translation>使用者名稱</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">密碼</translation>
+        <translation>密碼</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17685,7 +17685,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

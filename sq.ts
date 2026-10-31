@@ -1098,7 +1098,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instaloni</translation>
+        <translation>Instaloni</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1196,7 +1196,7 @@ Ju mund ta zgjidhni këtë problem duke e rimontuar /tmp si &apos;exec&apos; ose
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Duke ngarkuar skedarin lokal</translation>
+        <translation>Duke ngarkuar skedarin lokal</translation>
     </message>
 </context>
 <context>
@@ -2729,11 +2729,11 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Shto</translation>
+        <translation>&amp;Shto</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Hiq</translation>
+        <translation>&amp;Hiq</translation>
     </message>
     <message>
         <source>Name</source>
@@ -3132,11 +3132,11 @@ Je i sigurt që dëshiron ta bësh këtë?</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Duke hequr skedarët e vjetër konfliktualë...</translation>
+        <translation>Duke hequr skedarët e vjetër konfliktualë...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Dështoi heqja e skedarëve të vjetër konfliktualë.</translation>
+        <translation>Dështoi heqja e skedarëve të vjetër konfliktualë.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -3789,11 +3789,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Nuk u mund të shkarkoheshin skedarët e lojës: %1</translation>
+        <translation>Nuk u mund të shkarkoheshin skedarët e lojës: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">Duke shkarkuar skedarët e lojës</translation>
+        <translation>Duke shkarkuar skedarët e lojës</translation>
     </message>
 </context>
 <context>
@@ -5270,7 +5270,7 @@ Arsyeja:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6183,7 +6183,7 @@ Për të pastruar manualisht cache-in e metadatave, shtyp Dosjet -&gt; Shiko Dos
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> &apos; dhe shkurtoren e saj të regjistruar %n&apos;</numerusform>
+            <numerusform>&apos; dhe shkurtoren e saj të regjistruar %n&apos;</numerusform>
             <numerusform> &apos; dhe shkurtoret e saj të regjistruara %n&apos;</numerusform>
         </translation>
     </message>
@@ -6773,7 +6773,7 @@ Më shumë gjasa do të të duhet të ndryshosh shtegun - ju lutem referojuni fa
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Lëshim</translation>
+        <translation>Lëshim</translation>
     </message>
     <message>
         <source>Any</source>
@@ -6896,7 +6896,7 @@ Më shumë gjasa do të të duhet të ndryshosh shtegun - ju lutem referojuni fa
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Shto</translation>
+        <translation>Shto</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -7223,10 +7223,8 @@ Më shumë gjasa do të të duhet të ndryshosh shtegun - ju lutem referojuni fa
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod do të aktivizohet
-</numerusform>
-            <numerusform>%n mode do të aktivizohen
-</numerusform>
+            <numerusform>%n mod do të aktivizohet</numerusform>
+            <numerusform>%n mode do të aktivizohen</numerusform>
         </translation>
     </message>
     <message>
@@ -7237,10 +7235,8 @@ Më shumë gjasa do të të duhet të ndryshosh shtegun - ju lutem referojuni fa
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod do të çaktivizohet
-</numerusform>
-            <numerusform>%n mode do të çaktivizohen
-</numerusform>
+            <numerusform>%n mod do të çaktivizohet</numerusform>
+            <numerusform>%n mode do të çaktivizohen</numerusform>
         </translation>
     </message>
     <message>
@@ -7616,11 +7612,11 @@ Ju lutem përditësoni %1!</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Duke hequr skedarët e vjetër konfliktualë...</translation>
+        <translation>Duke hequr skedarët e vjetër konfliktualë...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Dështoi heqja e skedarëve të vjetër konfliktualë.</translation>
+        <translation>Dështoi heqja e skedarëve të vjetër konfliktualë.</translation>
     </message>
 </context>
 <context>
@@ -7804,12 +7800,12 @@ Ju lutem përditësoni %1!</translation>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">Duke kërkuar %1</translation>
+        <translation>Duke kërkuar %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -7818,12 +7814,12 @@ Ju lutem përditësoni %1!</translation>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -7836,7 +7832,7 @@ Ju lutem përditësoni %1!</translation>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Shkalla e Kërkesave Kufizuar për %n sekondë: Riprovo Pas %1</numerusform>
             <numerusform>Shkalla e Kërkesave Kufizuar për %n sekonda: Riprovo Pas %1</numerusform>
         </translation>
@@ -7844,7 +7840,7 @@ Ju lutem përditësoni %1!</translation>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Shkalla e Kufizuar: Duke Pritur %n sekondë</numerusform>
             <numerusform>Shkalla e Kufizuar: Duke Pritur %n sekonda</numerusform>
         </translation>
@@ -8207,7 +8203,7 @@ Ju lutem përditësoni %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instaloni</translation>
+        <translation>Instaloni</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9753,20 +9749,14 @@ Emri i ri: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Instanca e mëposhtme mund t&apos;i referohet skedarëve në këtë instancë:
-
-%1
-
-%2 mund të prishë instancën tjetër, 
-
-Dëshironi të vazhdoni?</numerusform>
-            <numerusform>Instancat e mëposhtme mund t&apos;u referohen skedarëve në këtë instancë:
-
-%1
-
-%2 mund të prishë instancat e tjera, 
-
-Dëshironi të vazhdoni?</numerusform>
+            <numerusform>Instanca e mëposhtme mund t&apos;i referohet skedarëve në këtë instancë:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 mund të prishë instancën tjetër, </numerusform>
+            <numerusform>Dëshironi të vazhdoni?</numerusform>
+            <numerusform>Instancat e mëposhtme mund t&apos;u referohen skedarëve në këtë instancë:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 mund të prishë instancat e tjera, </numerusform>
+            <numerusform>Dëshironi të vazhdoni?</numerusform>
         </translation>
     </message>
     <message>
@@ -9959,7 +9949,7 @@ Mesazhi i gabimit: %3</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Nuk u mund të hapej skedari %1 për lexim: %2</translation>
+        <translation>Nuk u mund të hapej skedari %1 për lexim: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -11011,7 +11001,7 @@ Versioni aktualisht i instaluar: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Jashtë linje</translation>
+        <translation>Jashtë linje</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12229,7 +12219,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instaloni</translation>
+        <translation>Instaloni</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -12530,7 +12520,7 @@ Shtegu kanonik: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Mjetet</translation>
+        <translation>Mjetet</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -12791,7 +12781,7 @@ Ju lutemi konfiguroni llogarinë tuaj sipas %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Emri i përdoruesit</translation>
+        <translation>Emri i përdoruesit</translation>
     </message>
     <message>
         <source>Password</source>

@@ -395,7 +395,7 @@
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="obsolete">គ្មាន Internet</translation>
+        <translation>ក្រៅបណ្ដាញ</translation>
     </message>
     <message>
         <source>Working</source>
@@ -1047,7 +1047,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">តំឡើង</translation>
+        <translation>តំឡើង</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1244,7 +1244,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">ឈ្មោះ</translation>
+        <translation>ឈ្មោះ</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -2185,11 +2185,11 @@ This instance cannot be launched because some libraries are missing or have not 
     <name>EnvironmentVariables</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ទម្រង់បែបបទ</translation>
+        <translation>ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>Value</source>
@@ -2201,7 +2201,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">បដិសេធ &amp;ការ​កំណត់​សកល</translation>
+        <translation>បដិសេធ &amp;ការ​កំណត់​សកល</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -2232,7 +2232,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Unable to export instance</source>
@@ -2319,7 +2319,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2334,7 +2334,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">ការកំណត់</translation>
+        <translation>ការកំណត់</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -2358,7 +2358,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">ផ្ទាល់ខ្លួន</translation>
+        <translation>ផ្ទាល់ខ្លួន</translation>
     </message>
     <message>
         <source>Template</source>
@@ -2551,7 +2551,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Context មីនុយ</translation>
+        <translation>Context មីនុយ</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -2574,7 +2574,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
+        <translation>បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <source>Confirm Delete</source>
@@ -2634,7 +2634,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2686,7 +2686,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Error while checking JProfiler install:
@@ -2751,8 +2751,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">មិនអាចស្គាល់ pack manifest
-</translation>
+        <translation>មិនអាចស្គាល់ pack manifest</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -2768,7 +2767,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
+        <translation>ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -2776,11 +2775,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">កំពុងនៅ download mods...</translation>
+        <translation>កំពុងនៅ download mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">ការទាញយក Mod</translation>
+        <translation>ការទាញយក Mod</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -2799,11 +2798,11 @@ Are you sure you want to do this?</source>
     <name>FTBImportAPP::FilterModel</name>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">តម្រៀបតាមភាពឈ្មោះ</translation>
+        <translation>តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">តម្រៀបតាមកំណែរបស់ហ្គេម</translation>
+        <translation>តម្រៀបតាមកំណែរបស់ហ្គេម</translation>
     </message>
 </context>
 <context>
@@ -2818,7 +2817,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
+        <translation>ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <source>Select FTBApp instances directory</source>
@@ -2884,7 +2883,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">មិនស្គាល់</translation>
+        <translation>មិនស្គាល់</translation>
     </message>
 </context>
 <context>
@@ -2892,8 +2891,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">មិនអាចស្គាល់ pack manifest
-</translation>
+        <translation>មិនអាចស្គាល់ pack manifest</translation>
     </message>
     <message>
         <source> (version %1)</source>
@@ -2921,15 +2919,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">បរាជ័យនៃការចាប់យក metadate index សម្រាប់ %1</translation>
+        <translation>បរាជ័យនៃការចាប់យក metadate index សម្រាប់ %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
+        <translation>មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
+        <translation>មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -2963,12 +2961,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
+        <translation>បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
+        <translation>ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -2980,7 +2978,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
+        <translation>%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3000,7 +2998,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">កំពុងនៅ download mods...</translation>
+        <translation>កំពុងនៅ download mods...</translation>
     </message>
 </context>
 <context>
@@ -3057,7 +3055,7 @@ Are you sure you want to do this?</source>
     <name>FlamePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
+        <translation>កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
@@ -3071,7 +3069,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
+        <translation>ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <source>Sort by Featured</source>
@@ -3081,7 +3079,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">តម្រៀបតាមភាពពេញនិយម</translation>
+        <translation>តម្រៀបតាមភាពពេញនិយម</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -3091,7 +3089,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">តម្រៀបតាមភាពឈ្មោះ</translation>
+        <translation>តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -3109,7 +3107,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source> by </source>
@@ -3152,18 +3150,18 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">តម្រៀបតាមភាពឈ្មោះ</translation>
+        <translation>តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
+        <translation>កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
+        <translation>ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3266,7 +3264,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">ផ្ទាល់ខ្លួន</translation>
+        <translation>ផ្ទាល់ខ្លួន</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3286,7 +3284,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">បើកឯកសារ</translation>
+        <translation>បើកឯកសារ</translation>
     </message>
     <message>
         <source>Select Icons</source>
@@ -3332,7 +3330,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -3425,7 +3423,7 @@ Are you sure you want to do this?</source>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
+        <translation>&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3437,23 +3435,23 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">ណេអូហ្វ័ច</translation>
+        <translation>ណេអូហ្វ័ច</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">ហ្វ័ច</translation>
+        <translation>ហ្វ័ច</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">ហ្វាប្រ៊ិច</translation>
+        <translation>ហ្វាប្រ៊ិច</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">គ្វីល</translation>
+        <translation>គ្វីល</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">លីតឡូតដ័រ</translation>
+        <translation>លីតឡូតដ័រ</translation>
     </message>
     <message>
         <source>Install Loader</source>
@@ -3486,7 +3484,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">មិនមានកំណែសម្រាប់ Minecraft %1 នៅពេលនេះទេ</translation>
+        <translation>មិនមានកំណែសម្រាប់ Minecraft %1 នៅពេលនេះទេ</translation>
     </message>
 </context>
 <context>
@@ -3581,7 +3579,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">ការកំណត់</translation>
+        <translation>ការកំណត់</translation>
     </message>
 </context>
 <context>
@@ -3599,11 +3597,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">រំលង</translation>
+        <translation>រំលង</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -3633,7 +3631,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">ត្រូវការជំនួយ</translation>
+        <translation>ត្រូវការជំនួយ</translation>
     </message>
     <message>
         <source>&amp;Launch</source>
@@ -3657,7 +3655,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">បិទ</translation>
+        <translation>បិទ</translation>
     </message>
     <message>
         <source>Kill the running instance</source>
@@ -3676,7 +3674,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">កម្មវិធីវិភាគដំណើរការត្រូវបានបញ្ឈប់ដោយបង្ខំ</translation>
+        <translation>កម្មវិធីវិភាគដំណើរការត្រូវបានបញ្ឈប់ដោយបង្ខំ</translation>
     </message>
 </context>
 <context>
@@ -3687,7 +3685,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">កម្មវិធីវិភាគដំណើរការត្រូវបានបញ្ឈប់ដោយបង្ខំ</translation>
+        <translation>កម្មវិធីវិភាគដំណើរការត្រូវបានបញ្ឈប់ដោយបង្ខំ</translation>
     </message>
 </context>
 <context>
@@ -3713,7 +3711,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
+        <translation>&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
     </message>
     <message>
         <source>Download</source>
@@ -3725,7 +3723,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">មូជែង</translation>
+        <translation>មូជែង</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -3741,15 +3739,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">តំឡើង Java</translation>
+        <translation>តំឡើង Java</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">មិនអាចកំណត់ប្រភេទនៃការទាញយក Java បានទេ!</translation>
+        <translation>មិនអាចកំណត់ប្រភេទនៃការទាញយក Java បានទេ!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -3827,7 +3825,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">ធ្វើអោយសាថ្មី</translation>
+        <translation>ធ្វើអោយសាថ្មី</translation>
     </message>
     <message>
         <source>No managed Java versions are installed</source>
@@ -3865,7 +3863,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ទម្រង់បែបបទ</translation>
+        <translation>ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -4331,7 +4329,7 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4844,12 +4842,12 @@ Please try again.</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">តម្រៀបតាមភាពឈ្មោះ</translation>
+        <translation>តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">តម្រៀបតាមកំណែរបស់ហ្គេម</translation>
+        <translation>តម្រៀបតាមកំណែរបស់ហ្គេម</translation>
     </message>
 </context>
 <context>
@@ -4894,7 +4892,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">កំពុងនៅ install modpack</translation>
+        <translation>កំពុងនៅ install modpack</translation>
     </message>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
@@ -4910,7 +4908,7 @@ Please try again.</source>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
+        <translation>ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <source>Public</source>
@@ -4934,11 +4932,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
+        <translation>កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>FTB private packs</source>
@@ -5104,7 +5102,7 @@ Reason:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ទម្រង់បែបបទ</translation>
+        <translation>ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -5192,11 +5190,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">សូមមេត្តារង់ចាំ…</translation>
+        <translation>សូមមេត្តារង់ចាំ…</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">ស្ថានភាព</translation>
+        <translation>ស្ថានភាព</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -5330,7 +5328,7 @@ Reason:
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">ត្រូវការជំនួយ</translation>
+        <translation>ត្រូវការជំនួយ</translation>
     </message>
     <message>
         <source>Get help with %1 or Minecraft.</source>
@@ -5614,7 +5612,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">គណនី</translation>
+        <translation>គណនី</translation>
     </message>
     <message>
         <source>&amp;Undo Last Instance Deletion</source>
@@ -5701,11 +5699,11 @@ Reason:
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">ការព្រមាន</translation>
+        <translation>ការព្រមាន</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -5952,11 +5950,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">ការព្រមាន</translation>
+        <translation>ការព្រមាន</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -6000,7 +5998,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">ការធ្វើបច្ចុប្បន្នភាពបានបរាជ័យ</translation>
+        <translation>ការធ្វើបច្ចុប្បន្នភាពបានបរាជ័យ</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -6016,7 +6014,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
+        <translation>បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -6038,7 +6036,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -6335,23 +6333,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">ណេអូហ្វ័ច</translation>
+        <translation>ណេអូហ្វ័ច</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">ហ្វ័ច</translation>
+        <translation>ហ្វ័ច</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">ហ្វាប្រ៊ិច</translation>
+        <translation>ហ្វាប្រ៊ិច</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">គ្វីល</translation>
+        <translation>គ្វីល</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">លីតឡូតដ័រ</translation>
+        <translation>លីតឡូតដ័រ</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -6513,7 +6511,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>ModFilterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ទម្រង់បែបបទ</translation>
+        <translation>ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -6525,19 +6523,19 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">ណេអូហ្វ័ច</translation>
+        <translation>ណេអូហ្វ័ច</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">ហ្វ័ច</translation>
+        <translation>ហ្វ័ច</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">ហ្វាប្រ៊ិច</translation>
+        <translation>ហ្វាប្រ៊ិច</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">គ្វីល</translation>
+        <translation>គ្វីល</translation>
     </message>
     <message>
         <source>Show More</source>
@@ -6545,7 +6543,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">លីតឡូតដ័រ</translation>
+        <translation>លីតឡូតដ័រ</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -6613,7 +6611,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">មិនស្គាល់</translation>
+        <translation>មិនស្គាល់</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -6681,7 +6679,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">គ្រប់កំណែរ</translation>
+        <translation>គ្រប់កំណែរ</translation>
     </message>
 </context>
 <context>
@@ -6692,7 +6690,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>Version</source>
@@ -6712,11 +6710,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">កែប្រែចុងក្រោយ</translation>
+        <translation>កែប្រែចុងក្រោយ</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">ទំហំ</translation>
+        <translation>ទំហំ</translation>
     </message>
     <message>
         <source>Side</source>
@@ -6744,7 +6742,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">ឈ្មោះឯកសារ</translation>
+        <translation>ឈ្មោះឯកសារ</translation>
     </message>
     <message>
         <source>Update</source>
@@ -6910,7 +6908,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -6918,7 +6916,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">ការព្រមាន</translation>
+        <translation>ការព្រមាន</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -6930,7 +6928,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
+        <translation>បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
@@ -6947,11 +6945,11 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">ការពិនិត្យបច្ចុប្បន្នភាព</translation>
+        <translation>ការពិនិត្យបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
+        <translation>បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 mods.
@@ -6982,7 +6980,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
+        <translation>&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -7029,7 +7027,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -7058,7 +7056,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">មិនស្គាល់</translation>
+        <translation>មិនស្គាល់</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -7111,11 +7109,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
+        <translation>%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">កំពុងនៅ download mods...</translation>
+        <translation>កំពុងនៅ download mods...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -7203,7 +7201,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source> by </source>
@@ -7248,11 +7246,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
+        <translation>ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
+        <translation>កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -7328,7 +7326,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">កំពុង​ប្រតិបត្តិ​កិច្ចការ %1 (%2 ក្នុង​ចំណោម %3 ត្រូវ​បាន​ធ្វើ​រួច)</translation>
+        <translation>កំពុង​ប្រតិបត្តិ​កិច្ចការ %1 (%2 ក្នុង​ចំណោម %3 ត្រូវ​បាន​ធ្វើ​រួច)</translation>
     </message>
 </context>
 <context>
@@ -7347,7 +7345,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -7378,7 +7376,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>uid</source>
@@ -7413,7 +7411,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No group</source>
-        <translation type="unfinished">គ្មានក្រុម</translation>
+        <translation>គ្មានក្រុម</translation>
     </message>
     <message>
         <source>OK</source>
@@ -7425,7 +7423,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">ត្រូវការជំនួយ</translation>
+        <translation>ត្រូវការជំនួយ</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -7456,7 +7454,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">បិទ</translation>
+        <translation>បិទ</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -7676,7 +7674,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">តំឡើង</translation>
+        <translation>តំឡើង</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7782,7 +7780,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Unable to open %1 for reading: %2</source>
@@ -7830,7 +7828,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">មិនអាចបង្ហាញកំណត់ហេតុនេះបានទេ ដោយសារប្រវែងកំណត់ហេតុលើសពី %1 បន្ទាត់។</translation>
+        <translation>មិនអាចបង្ហាញកំណត់ហេតុនេះបានទេ ដោយសារប្រវែងកំណត់ហេតុលើសពី %1 បន្ទាត់។</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -7855,104 +7853,103 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">មិនអាចស្គាល់ pack manifest
-</translation>
+        <translation>មិនអាចស្គាល់ pack manifest</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">របៀបដំឡើងមិនត្រូវបានគាំទ្រ</translation>
+        <translation>របៀបដំឡើងមិនត្រូវបានគាំទ្រ</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">មិនអាចទាញយកលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ &apos;%1&apos; កំណែ v%2 បានទេ</translation>
+        <translation>មិនអាចទាញយកលិបិក្រម Metadata ក្នុងស្រុកសម្រាប់ &apos;%1&apos; កំណែ v%2 បានទេ</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">កំពុងនៅលុបឯកសារដែលមានស្រាប់...</translation>
+        <translation>កំពុងនៅលុបឯកសារដែលមានស្រាប់...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">ប្រភេទ Mod មិនស្គាល់៖ %1</translation>
+        <translation>ប្រភេទ Mod មិនស្គាល់៖ %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">បរាជ័យនៃការចាប់យក metadate index សម្រាប់ %1</translation>
+        <translation>បរាជ័យនៃការចាប់យក metadate index សម្រាប់ %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
+        <translation>មិនអាចរកឃើញកំណែសម្រាប់ %1 loader បានទេ</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
+        <translation>មិនទាន់បានកំណត់កំណែ Loader សម្រាប់ Modpack នេះទេ!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">ប្រភេទនៃការទាញយកមិនស្គាល់ ឬមិនត្រូវបានគាំទ្រ៖ %1</translation>
+        <translation>ប្រភេទនៃការទាញយកមិនស្គាល់ ឬមិនត្រូវបានគាំទ្រ៖ %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">កំពុងនៅ download configs...</translation>
+        <translation>កំពុងនៅ download configs...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">ការកំណត់ការទាញយក</translation>
+        <translation>ការកំណត់ការទាញយក</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">កំពុងទាញយកឯកសារកំណត់ចេញ...</translation>
+        <translation>កំពុងទាញយកឯកសារកំណត់ចេញ...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">កំពុងនៅរក mods ដែលជាជម្រើស...</translation>
+        <translation>កំពុងនៅរក mods ដែលជាជម្រើស...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">កំពុងនៅ download mods...</translation>
+        <translation>កំពុងនៅ download mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">ការទាញយក Mod</translation>
+        <translation>ការទាញយក Mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">ប្រភេទនៃការទាញយកមិនស្គាល់៖ %1</translation>
+        <translation>ប្រភេទនៃការទាញយកមិនស្គាល់៖ %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
+        <translation>បានរកឃើញ Mod ដែលត្រូវបានរារាំង</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
+        <translation>ឯកសារខាងក្រោមមិនអាចទាញយកបានទេនៅលើកម្មវិធី Launcher របស់ភាគីទីបី។&lt;br/&gt;អ្នកត្រូវទាញយកពួកវាដោយដៃហើយបន្ថែមពួកវាទៅក្នុង Instance នោះដោយខ្លួនឯង។</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
+        <translation>%1 ក្នុងចំណោម %2 បានបញ្ចប់</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">ការបំបែក Mod ត្រូវបានបរាជ័យ...</translation>
+        <translation>ការបំបែក Mod ត្រូវបានបរាជ័យ...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">កំពុងបំបែក Mod...</translation>
+        <translation>កំពុងបំបែក Mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">កំពុងនៅ install modpack</translation>
+        <translation>កំពុងនៅ install modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">មិនអាចបង្កើតសមាសភាគ Library បានទេ</translation>
+        <translation>មិនអាចបង្កើតសមាសភាគ Library បានទេ</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">ប្រភេទ Loader មិនស្គាល់៖ </translation>
+        <translation>ប្រភេទ Loader មិនស្គាល់៖</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">មិនអាចបង្កើតសមាសភាគ Pack បានទេ</translation>
+        <translation>មិនអាចបង្កើតសមាសភាគ Pack បានទេ</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -7967,7 +7964,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>Version</source>
@@ -7990,14 +7987,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">ត្រូវការជំនួយ</translation>
+        <translation>ត្រូវការជំនួយ</translation>
     </message>
 </context>
 <context>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ទម្រង់បែបបទ</translation>
+        <translation>ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -8427,7 +8424,7 @@ HTTP Status: %2</source>
     <name>ProgressDialog</name>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">សូមមេត្តារង់ចាំ…</translation>
+        <translation>សូមមេត្តារង់ចាំ…</translation>
     </message>
     <message>
         <source>Global Task Status...</source>
@@ -8439,11 +8436,11 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">រំលង</translation>
+        <translation>រំលង</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">មិនយល់ព្រម</translation>
+        <translation>មិនយល់ព្រម</translation>
     </message>
 </context>
 <context>
@@ -8461,7 +8458,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">ប្រភេទ</translation>
+        <translation>ប្រភេទ</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -8636,7 +8633,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (កំពុងប្រើប្រាស់)</translation>
+        <translation>%1 (កំពុងប្រើប្រាស់)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -8795,7 +8792,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">រកមិនឃើញបណ្ណាល័យកម្មវិធីត្រួតពិនិត្យ Java ទេ។ សូមពិនិត្យមើលការដំឡើងរបស់អ្នក។</translation>
+        <translation>រកមិនឃើញបណ្ណាល័យកម្មវិធីត្រួតពិនិត្យ Java ទេ។ សូមពិនិត្យមើលការដំឡើងរបស់អ្នក។</translation>
     </message>
     <message>
         <source>Change instance name</source>
@@ -8890,7 +8887,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">តម្រៀបតាមភាពពេញនិយម</translation>
+        <translation>តម្រៀបតាមភាពពេញនិយម</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -8898,7 +8895,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">តម្រៀបតាមភាពឈ្មោះ</translation>
+        <translation>តម្រៀបតាមភាពឈ្មោះ</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -8914,7 +8911,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">តម្រៀបតាមកំណែរបស់ហ្គេម</translation>
+        <translation>តម្រៀបតាមកំណែរបស់ហ្គេម</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -8946,7 +8943,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">មិនស្គាល់</translation>
+        <translation>មិនស្គាល់</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -8984,7 +8981,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">គ្មាន Internet</translation>
+        <translation>គ្មាន Internet</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -8994,17 +8991,17 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">កំពុងនៅដើរ</translation>
+        <translation>កំពុងនៅដើរ</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">កំហុសបច្ចេកទេស</translation>
+        <translation>កំហុសបច្ចេកទេស</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">ផុតកំណត់</translation>
+        <translation>ផុតកំណត់</translation>
     </message>
     <message>
         <source>Disabled</source>
@@ -9014,12 +9011,12 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">បាត់</translation>
+        <translation>បាត់</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">មិនស្គាល់</translation>
+        <translation>មិនស្គាល់</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -9223,7 +9220,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">មិនស្កាល់</translation>
+        <translation>មិនស្កាល់</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -9315,11 +9312,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">ការព្រមាន</translation>
+        <translation>ការព្រមាន</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -9366,7 +9363,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -9521,7 +9518,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -9529,7 +9526,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">កែប្រែចុងក្រោយ</translation>
+        <translation>កែប្រែចុងក្រោយ</translation>
     </message>
     <message>
         <source>Version</source>
@@ -9537,7 +9534,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">ទំហំ</translation>
+        <translation>ទំហំ</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -9545,7 +9542,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">ឈ្មោះឯកសារ</translation>
+        <translation>ឈ្មោះឯកសារ</translation>
     </message>
     <message>
         <source>Update</source>
@@ -9603,7 +9600,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">រូបភាព</translation>
+        <translation>រូបភាព</translation>
     </message>
 </context>
 <context>
@@ -9618,7 +9615,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">កែប្រែចុងក្រោយ</translation>
+        <translation>កែប្រែចុងក្រោយ</translation>
     </message>
     <message>
         <source>Version</source>
@@ -9626,7 +9623,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">ទំហំ</translation>
+        <translation>ទំហំ</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -9634,7 +9631,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">ឈ្មោះឯកសារ</translation>
+        <translation>ឈ្មោះឯកសារ</translation>
     </message>
     <message>
         <source>Update</source>
@@ -9671,11 +9668,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">ទម្រង់កញ្ចប់</translation>
+        <translation>ទម្រង់កញ្ចប់</translation>
     </message>
     <message>
         <source>The name of the resource pack.</source>
@@ -9690,7 +9687,7 @@ Are you sure you want to do this?</source>
     <name>ResourcePackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">ទាញយកកញ្ចប់</translation>
+        <translation>ទាញយកកញ្ចប់</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -9706,7 +9703,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -9714,7 +9711,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">ការព្រមាន</translation>
+        <translation>ការព្រមាន</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -9726,7 +9723,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
+        <translation>បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -9736,7 +9733,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
+        <translation>&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -9748,11 +9745,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">ការពិនិត្យបច្ចុប្បន្នភាព</translation>
+        <translation>ការពិនិត្យបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
+        <translation>បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -9768,7 +9765,7 @@ Are you sure?</source>
     <name>ResourcePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
+        <translation>កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <source>Filter options</source>
@@ -9807,11 +9804,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">ការព្រមាន</translation>
+        <translation>ការព្រមាន</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -9988,7 +9985,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Context មីនុយ</translation>
+        <translation>Context មីនុយ</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to %2.
@@ -10136,7 +10133,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>Address</source>
@@ -10211,7 +10208,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">ធ្វើអោយសាថ្មី</translation>
+        <translation>ធ្វើអោយសាថ្មី</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -10219,7 +10216,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Context មីនុយ</translation>
+        <translation>Context មីនុយ</translation>
     </message>
     <message>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
@@ -10229,7 +10226,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
+        <translation>បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -10255,7 +10252,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
+        <translation>&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -10277,7 +10274,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">ទាញយកកញ្ចប់</translation>
+        <translation>ទាញយកកញ្ចប់</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -10293,7 +10290,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -10301,7 +10298,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">ការព្រមាន</translation>
+        <translation>ការព្រមាន</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10313,7 +10310,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
+        <translation>បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -10323,7 +10320,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
+        <translation>&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -10335,11 +10332,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">ការពិនិត្យបច្ចុប្បន្នភាព</translation>
+        <translation>ការពិនិត្យបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
+        <translation>បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -10406,7 +10403,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">បើកឯកសារ</translation>
+        <translation>បើកឯកសារ</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -10498,7 +10495,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Context មីនុយ</translation>
+        <translation>Context មីនុយ</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -10576,7 +10573,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ទម្រង់បែបបទ</translation>
+        <translation>ទម្រង់បែបបទ</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -10648,8 +10645,7 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">មិនអាចស្គាល់ pack manifest
-</translation>
+        <translation>មិនអាចស្គាល់ pack manifest</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
@@ -10710,16 +10706,16 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">កំណែបានជ្រើសរើស:</translation>
+        <translation>កំណែបានជ្រើសរើស:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">ស្វែងរក និងត្រង...</translation>
+        <translation>ស្វែងរក និងត្រង...</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source> by </source>
@@ -10738,15 +10734,15 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">កែប្រែចុងក្រោយ</translation>
+        <translation>កែប្រែចុងក្រោយ</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">ទំហំ</translation>
+        <translation>ទំហំ</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -10754,7 +10750,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">ឈ្មោះឯកសារ</translation>
+        <translation>ឈ្មោះឯកសារ</translation>
     </message>
     <message>
         <source>Update</source>
@@ -10797,7 +10793,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">ទាញយកកញ្ចប់</translation>
+        <translation>ទាញយកកញ្ចប់</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -10817,7 +10813,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -10825,7 +10821,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">ការព្រមាន</translation>
+        <translation>ការព្រមាន</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10837,7 +10833,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
+        <translation>បញ្ជាក់ការបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -10847,7 +10843,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
+        <translation>&apos;%1&apos; ទាន់សម័យហើយ! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -10859,11 +10855,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">ការពិនិត្យបច្ចុប្បន្នភាព</translation>
+        <translation>ការពិនិត្យបច្ចុប្បន្នភាព</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
+        <translation>បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -10875,7 +10871,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">រូបរាង</translation>
+        <translation>រូបរាង</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -11156,7 +11152,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Context មីនុយ</translation>
+        <translation>Context មីនុយ</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -11176,11 +11172,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">បញ្ជាក់ការដកចេញ</translation>
+        <translation>បញ្ជាក់ការដកចេញ</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -11256,7 +11252,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">តំឡើង</translation>
+        <translation>តំឡើង</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -11294,7 +11290,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">ប្រភេទ</translation>
+        <translation>ប្រភេទ</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -11387,7 +11383,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
+        <translation>&amp;ចាប់ផ្ដើមឡើងវិញ</translation>
     </message>
 </context>
 <context>
@@ -11398,7 +11394,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">មានបញ្ហា</translation>
+        <translation>មានបញ្ហា</translation>
     </message>
     <message>
         <source>List update failed:
@@ -11439,7 +11435,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">នាមឈ្មោះ</translation>
+        <translation>នាមឈ្មោះ</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -11452,7 +11448,7 @@ Canonical Path: %1</source>
     <message>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">ទំហំ</translation>
+        <translation>ទំហំ</translation>
     </message>
     <message>
         <source>Info</source>
@@ -11512,7 +11508,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">ធ្វើអោយសាថ្មី</translation>
+        <translation>ធ្វើអោយសាថ្មី</translation>
     </message>
     <message>
         <source>View Folder</source>
@@ -11548,7 +11544,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Context មីនុយ</translation>
+        <translation>Context មីនុយ</translation>
     </message>
     <message>
         <source>Select a Minecraft world zip</source>
@@ -11752,7 +11748,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">ឈ្មោះ</translation>
+        <translation>ឈ្មោះ</translation>
     </message>
     <message>
         <source>Password</source>

@@ -1268,11 +1268,11 @@ Neke verzije Minecraft-a se neće moći pokrenuti.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instaliraj</translation>
+        <translation>Instaliraj</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Odustani</translation>
+        <translation>Odustani</translation>
     </message>
 </context>
 <context>
@@ -6662,7 +6662,7 @@ Za ručno brisanje predmemorije metapodataka pritisnite Folders -&gt; View Launc
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> i njegov registrirani prečac %n</numerusform>
+            <numerusform>i njegov registrirani prečac %n</numerusform>
             <numerusform> i njegovih registriranih prečaca %n</numerusform>
             <numerusform> i njegovih registriranih prečaca %n</numerusform>
         </translation>
@@ -7472,7 +7472,7 @@ Najvjerojatnije ćete morati promijeniti putanju - pogledajte web stranicu moda.
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ukloni</translation>
+        <translation>Ukloni</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -7480,7 +7480,7 @@ Najvjerojatnije ćete morati promijeniti putanju - pogledajte web stranicu moda.
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -7821,11 +7821,8 @@ Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će pr
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod will be enabled
-</numerusform>
-            <numerusform>%n mods will be enabled
-</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n mod will be enabled</numerusform>
+            <numerusform>%n mods will be enabled</numerusform>
         </translation>
     </message>
     <message>
@@ -7836,11 +7833,8 @@ Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će pr
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod will be disabled
-</numerusform>
-            <numerusform>%n mods will be disabled
-</numerusform>
-            <numerusform></numerusform>
+            <numerusform>%n mod will be disabled</numerusform>
+            <numerusform>%n mods will be disabled</numerusform>
         </translation>
     </message>
     <message>
@@ -8594,7 +8588,6 @@ Ažurirajte %1!</translation>
         <translation>
             <numerusform>Request Rate Limited for %n second: Retry After %1</numerusform>
             <numerusform>Request Rate Limited for %n seconds: Retry After %1</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -8603,7 +8596,6 @@ Ažurirajte %1!</translation>
         <translation>
             <numerusform>Rate Limited: Waiting %n second</numerusform>
             <numerusform>Rate Limited: Waiting %n seconds</numerusform>
-            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -8980,11 +8972,11 @@ Ažurirajte %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instaliraj</translation>
+        <translation>Instaliraj</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Odustani</translation>
+        <translation>Odustani</translation>
     </message>
 </context>
 <context>
@@ -10555,21 +10547,14 @@ Novo ime: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>The following instance might reference files in this instance:
-
-%1
-
-%2 it could break the other instance, 
-
-Do you wish to proceed?</numerusform>
-            <numerusform>The following instances might reference files in this instance:
-
-%1
-
-%2 it could break the other instances, 
-
-Do you wish to proceed?</numerusform>
-            <numerusform></numerusform>
+            <numerusform>The following instance might reference files in this instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 it could break the other instance, </numerusform>
+            <numerusform>Do you wish to proceed?</numerusform>
+            <numerusform>The following instances might reference files in this instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 it could break the other instances, </numerusform>
+            <numerusform>Do you wish to proceed?</numerusform>
         </translation>
     </message>
     <message>
@@ -11832,7 +11817,7 @@ Trenutačno instalirana verzija: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verzija</translation>
+        <translation>Verzija</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -11840,7 +11825,7 @@ Trenutačno instalirana verzija: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Izvan mreže</translation>
+        <translation>Izvan mreže</translation>
     </message>
     <message>
         <source>Online</source>
@@ -13096,7 +13081,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instaliraj</translation>
+        <translation>Instaliraj</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -13493,18 +13478,15 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>Upravo ćete izbrisati %n svijet.
-Ti bi svjetovi mogli zauvijek nestati (NA DUGO VRIJEME).
-
-Jeste li sigurni?</numerusform>
-            <numerusform>Upravo ćete izbrisati %n svjetova.
-Ti bi svjetovi mogli zauvijek nestati (DUGO VREMENA).
-
-Jeste li sigurni?</numerusform>
-            <numerusform>Upravo ćete izbrisati %n svjetova.
-Ti bi svjetovi mogli zauvijek nestati (DUGO VREMENA).
-
-Jeste li sigurni?</numerusform>
+            <numerusform>Upravo ćete izbrisati %n svijet.</numerusform>
+            <numerusform>Ti bi svjetovi mogli zauvijek nestati (NA DUGO VRIJEME).</numerusform>
+            <numerusform>Jeste li sigurni?</numerusform>
+            <numerusform>Upravo ćete izbrisati %n svjetova.</numerusform>
+            <numerusform>Ti bi svjetovi mogli zauvijek nestati (DUGO VREMENA).</numerusform>
+            <numerusform>Jeste li sigurni?</numerusform>
+            <numerusform>Upravo ćete izbrisati %n svjetova.</numerusform>
+            <numerusform>Ti bi svjetovi mogli zauvijek nestati (DUGO VREMENA).</numerusform>
+            <numerusform>Jeste li sigurni?</numerusform>
         </translation>
     </message>
     <message>
@@ -13767,11 +13749,11 @@ Molimo postavite svoj račun prema %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Korisničko ime</translation>
+        <translation>Korisničko ime</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Lozinka</translation>
+        <translation>Lozinka</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -13779,7 +13761,7 @@ Molimo postavite svoj račun prema %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Odustani</translation>
+        <translation>Odustani</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

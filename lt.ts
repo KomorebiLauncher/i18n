@@ -855,7 +855,7 @@ Atnaujinkite operacinę sistemą ir %1.</translation>
     </message>
     <message>
         <source>Preview</source>
-        <translation type="unfinished">Peržiūra</translation>
+        <translation>Peržiūra</translation>
     </message>
     <message>
         <source>[ERROR] OOoooOOOoooo! A spooky error!</source>
@@ -1294,11 +1294,11 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Diegti</translation>
+        <translation>Diegti</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
 </context>
 <context>
@@ -1549,7 +1549,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     <name>ComponentUpdateTask</name>
     <message>
         <source>Loading components</source>
-        <translation type="unfinished">Kraunami komponentai</translation>
+        <translation>Kraunami komponentai</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2241,7 +2241,7 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Dydis</translation>
+        <translation>Dydis</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2253,11 +2253,11 @@ Kai kurios „Minecraft“ versijos gali nepaleisti.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atnaujinti</translation>
+        <translation>Atnaujinti</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -2725,7 +2725,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Pavadinimas:</translation>
+        <translation>&amp;Pavadinimas:</translation>
     </message>
     <message>
         <source>&amp;Version:</source>
@@ -2979,7 +2979,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Paieška</translation>
+        <translation>Paieška</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -3180,7 +3180,7 @@ Ar tikrai norite tai padaryti?</translation>
     <name>ExternalToolsPage</name>
     <message>
         <source>&amp;Editors</source>
-        <translation type="unfinished">&amp;Redaktoriai</translation>
+        <translation>&amp;Redaktoriai</translation>
     </message>
     <message>
         <source>&amp;Text Editor</source>
@@ -3204,15 +3204,15 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Papildyti</translation>
+        <translation>&amp;Papildyti</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Pašalinti</translation>
+        <translation>&amp;Pašalinti</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation>Pavadinimas</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3361,7 +3361,7 @@ Ar tikrai norite tai padaryti?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Įrankiai</translation>
+        <translation>Įrankiai</translation>
     </message>
 </context>
 <context>
@@ -3444,7 +3444,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
+        <translation>Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -3456,7 +3456,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Atsisiųsti modifikaciją</translation>
+        <translation>Atsisiųsti modifikaciją</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -3464,11 +3464,11 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Kopijuojamos užblokuotos modifikacijos...</translation>
+        <translation>Kopijuojamos užblokuotos modifikacijos...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Kopijuojamos užblokuotos modifikacijos (% 1 iš % 2 atlikta)</translation>
+        <translation>Kopijuojamos užblokuotos modifikacijos (% 1 iš % 2 atlikta)</translation>
     </message>
 </context>
 <context>
@@ -3668,7 +3668,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished">Rekomenduojama atmintis modpakui viršyja 90% jūsų sistemos RAM—sumažinama nuo %1 MiB iki %2 MiB!</translation>
+        <translation>Rekomenduojama atmintis modpakui viršyja 90% jūsų sistemos RAM—sumažinama nuo %1 MiB iki %2 MiB!</translation>
     </message>
     <message>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3676,11 +3676,11 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Šalinami seni nesuderinami failai...</translation>
+        <translation>Šalinami seni nesuderinami failai...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Nepavyko pašalinti senų konfliktuojančių failų.</translation>
+        <translation>Nepavyko pašalinti senų konfliktuojančių failų.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3916,19 +3916,19 @@ Bandykite dar kartą.</translation>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Rūšiuoti pagal pavadinimą</translation>
+        <translation>Rūšiuoti pagal pavadinimą</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Pasirinkta versija:</translation>
+        <translation>Pasirinkta versija:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Paieška ir filtravimas...</translation>
+        <translation>Paieška ir filtravimas...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -4065,7 +4065,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Pasirinktinis</translation>
+        <translation>Pasirinktinis</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -4243,7 +4243,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4743,11 +4743,11 @@ Please make sure that the maximum memory value is lower.</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Praleisti</translation>
+        <translation>Praleisti</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -4773,7 +4773,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>InstanceWindow</name>
     <message>
         <source>Console window for </source>
-        <translation type="unfinished">Konsolės langas </translation>
+        <translation>Konsolės langas</translation>
     </message>
     <message>
         <source>Help</source>
@@ -4832,7 +4832,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profileris nutrauktas</translation>
+        <translation>Profileris nutrauktas</translation>
     </message>
 </context>
 <context>
@@ -4847,7 +4847,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profileris nutrauktas</translation>
+        <translation>Profileris nutrauktas</translation>
     </message>
 </context>
 <context>
@@ -4901,7 +4901,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>Mojang</source>
@@ -4925,11 +4925,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Nepavyko nustatyti Java atsisiuntimo tipo!</translation>
+        <translation>Nepavyko nustatyti Java atsisiuntimo tipo!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -5070,11 +5070,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Pašalinti</translation>
+        <translation>Pašalinti</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Atnaujinti</translation>
+        <translation>Atnaujinti</translation>
     </message>
     <message>
         <source>&amp;Auto-detect...</source>
@@ -5207,7 +5207,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Surasti Java .exe</translation>
+        <translation>Surasti Java .exe</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -5215,7 +5215,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Leidžiama naudoti didžiausią „Minecraft“ atminties kiekį.</translation>
+        <translation>Leidžiama naudoti didžiausią „Minecraft“ atminties kiekį.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -5223,7 +5223,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -5259,7 +5259,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Jei įjungta, paleidimo priemonė netikrins, ar egzempliorius suderinamas su pasirinkta Java versija.</translation>
+        <translation>Jei įjungta, paleidimo priemonė netikrins, ar egzempliorius suderinamas su pasirinkta Java versija.</translation>
     </message>
     <message>
         <source>&amp;Detect</source>
@@ -5279,7 +5279,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Praleisti Java derėjimo patikras</translation>
+        <translation>Praleisti Java derėjimo patikras</translation>
     </message>
     <message>
         <source>&amp;Allowed Java versions</source>
@@ -5307,7 +5307,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Atmintis</translation>
+        <translation>Atmintis</translation>
     </message>
     <message>
         <source>Memory suggestion</source>
@@ -5347,7 +5347,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Laikinos atminties kiekis su kuriuo Minecraft įjungiamas.</translation>
+        <translation>Laikinos atminties kiekis su kuriuo Minecraft įjungiamas.</translation>
     </message>
     <message>
         <source>&amp;PermGen Size:</source>
@@ -5375,7 +5375,7 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Galimas laikinos atminties kiekis laikyti užkrautoms Java klasėms.</translation>
+        <translation>Galimas laikinos atminties kiekis laikyti užkrautoms Java klasėms.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -5395,19 +5395,17 @@ Java versiją galite pakeisti vėliau nustatymuose.
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Pasirinkite Java versiją</translation>
+        <translation>Pasirinkite Java versiją</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Patvirtinti pasirinkimą</translation>
+        <translation>Patvirtinti pasirinkimą</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Jūs pasirinkote 32-bit Java versija.
-Šis įdiegimas nepalaiko daugiau nei 2048MiB RAM.
-Įsitikinkite kad maksimalus RAM yra mažiau.</translation>
+        <translation>Jūs pasirinkote 32-bit Java versija.</translation>
     </message>
     <message>
         <source>%1 mods installed here, so %2 MiB of heap.</source>
@@ -5431,7 +5429,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Maksimalus atminties kiekis viršija sistemos atminties talpą.</translation>
+        <translation>Maksimalus atminties kiekis viršija sistemos atminties talpą.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
@@ -5474,11 +5472,11 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaWizardWidget</name>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished">Parsisiųsti Java</translation>
+        <translation>Parsisiųsti Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="unfinished">Aptikta 32-bit Java</translation>
+        <translation>Aptikta 32-bit Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5496,7 +5494,7 @@ Vėliau nustatymuose galėsite pakeisti „Java“ versiją.
     </message>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished">Nepasirinkta Java versija</translation>
+        <translation>Nepasirinkta Java versija</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -5509,39 +5507,39 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Surasti Java .exe</translation>
+        <translation>Surasti Java .exe</translation>
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Atmintis</translation>
+        <translation>Atmintis</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Leidžiama naudoti didžiausią „Minecraft“ atminties kiekį.</translation>
+        <translation>Leidžiama naudoti didžiausią „Minecraft“ atminties kiekį.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minimalus atminties paskyrimas:</translation>
+        <translation>Minimalus atminties paskyrimas:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Didžiausias skiriamas laikinos atminties kiekis:</translation>
+        <translation>Didžiausias skiriamas laikinos atminties kiekis:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Laikinos atminties kiekis su kuriuo Minecraft įjungiamas.</translation>
+        <translation>Laikinos atminties kiekis su kuriuo Minecraft įjungiamas.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Galimas laikinos atminties kiekis laikyti užkrautoms Java klasėms.</translation>
+        <translation>Galimas laikinos atminties kiekis laikyti užkrautoms Java klasėms.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Parinkti</translation>
+        <translation>Parinkti</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Auto-atsisiųsti Mojang Java</translation>
+        <translation>Auto-atsisiųsti Mojang Java</translation>
     </message>
     <message>
         <source>Auto-detect Java version</source>
@@ -5549,23 +5547,23 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="unfinished">Auto aptikti Java</translation>
+        <translation>Auto aptikti Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Maksimalus atminties kiekis viršija sistemos atminties talpą.</translation>
+        <translation>Maksimalus atminties kiekis viršija sistemos atminties talpą.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Maksimalus atminties paskirstymas artėja prie sistemos atminties talpos.</translation>
+        <translation>Maksimalus atminties paskirstymas artėja prie sistemos atminties talpos.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Maksimalus atminties paskirstymas yra mažesnis nei minimali vertė</translation>
+        <translation>Maksimalus atminties paskirstymas yra mažesnis nei minimali vertė</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished">Jūs naudojate daugiau paskirstimo, negu palaiko 32-bit Java.</translation>
+        <translation>Jūs naudojate daugiau paskirstimo, negu palaiko 32-bit Java.</translation>
     </message>
 </context>
 <context>
@@ -5691,7 +5689,7 @@ Ar norite žaisti demo?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>Launch cancelled - account does not own Minecraft.</source>
@@ -5946,7 +5944,7 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Parinkti</translation>
+        <translation>Parinkti</translation>
     </message>
     <message>
         <source>Rename instance folders</source>
@@ -6038,11 +6036,11 @@ Gali tekti pataisyti modifikacijas, nes žaidimas vis dar pildo žurnalų failus
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Pridėti</translation>
+        <translation>Pridėti</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Pašalinti</translation>
+        <translation>Pašalinti</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -6358,7 +6356,7 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Bendra</translation>
+        <translation>Bendra</translation>
     </message>
 </context>
 <context>
@@ -6373,7 +6371,7 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     </message>
     <message>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="unfinished">Nepavyko rasti įvyniojimo komandos „%1“.</translation>
+        <translation>Nepavyko rasti įvyniojimo komandos „%1“.</translation>
     </message>
     <message>
         <source>Could not launch Minecraft: %1</source>
@@ -6388,18 +6386,18 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     </message>
     <message>
         <source>Game crashed.</source>
-        <translation type="unfinished">Žaidimas nulūžo.</translation>
+        <translation>Žaidimas nulūžo.</translation>
     </message>
 </context>
 <context>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Tikrinamos FML bibliotekos...</translation>
+        <translation>Tikrinamos FML bibliotekos...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Atsisiunčiamos FML bibliotekos...</translation>
+        <translation>Atsisiunčiamos FML bibliotekos...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6407,15 +6405,15 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopijuojamos FML bibliotekos į egzempliorių...</translation>
+        <translation>Kopijuojamos FML bibliotekos į egzempliorių...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Nepavyko sukurti FML bibliotekos aplanko egzemplioriuje.</translation>
+        <translation>Nepavyko sukurti FML bibliotekos aplanko egzemplioriuje.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Nepavyko nukopijuoti Forge/FML biliotekos: %1.</translation>
+        <translation>Nepavyko nukopijuoti Forge/FML biliotekos: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6423,11 +6421,7 @@ Rekomenduojama suteikti %1 prieiga prie jo per Flatseal.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Nepavyko atsisiųsti sekančių failų:
-%1
-
-Priežastis:%2
-Bandykite dar kartą.</translation>
+        <translation>Nepavyko atsisiųsti sekančių failų:</translation>
     </message>
 </context>
 <context>
@@ -6435,12 +6429,12 @@ Bandykite dar kartą.</translation>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Rūšiuoti pagal pavadinimą</translation>
+        <translation>Rūšiuoti pagal pavadinimą</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Rūšiuoti pagal žaidimo versiją</translation>
+        <translation>Rūšiuoti pagal žaidimo versiją</translation>
     </message>
 </context>
 <context>
@@ -6481,7 +6475,7 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Išpakuojamas modpack</translation>
+        <translation>Išpakuojamas modpack</translation>
     </message>
     <message>
         <source>Failed to open modpack file %1!</source>
@@ -6505,7 +6499,7 @@ Bandykite dar kartą.</translation>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Paieška ir filtravimas...</translation>
+        <translation>Paieška ir filtravimas...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -6533,11 +6527,11 @@ Bandykite dar kartą.</translation>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Pasirinkta versija:</translation>
+        <translation>Pasirinkta versija:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6631,7 +6625,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6650,7 +6644,7 @@ Reason:
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="unfinished">Neteisinga metadata</translation>
+        <translation>Neteisinga metadata</translation>
     </message>
 </context>
 <context>
@@ -6694,7 +6688,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Paieška</translation>
+        <translation>Paieška</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -6762,7 +6756,7 @@ Reason:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6862,11 +6856,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Prašome palaukti...</translation>
+        <translation>Prašome palaukti...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Būsena</translation>
+        <translation>Būsena</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -6894,7 +6888,7 @@ Reason:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -7024,7 +7018,7 @@ Reason:
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished">Aplankai</translation>
+        <translation>Aplankai</translation>
     </message>
     <message>
         <source>Open one of the folders shared between instances.</source>
@@ -7124,7 +7118,7 @@ Reason:
     </message>
     <message>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Naikinti</translation>
+        <translation>&amp;Naikinti</translation>
     </message>
     <message>
         <source>&amp;Launch</source>
@@ -7348,11 +7342,11 @@ Reason:
     </message>
     <message>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Ctrl+I</source>
-        <translation type="unfinished">Ctrl+I</translation>
+        <translation>Ctrl+I</translation>
     </message>
     <message>
         <source>&amp;Change Group...</source>
@@ -7380,7 +7374,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Paskyros</translation>
+        <translation>Paskyros</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -7526,7 +7520,7 @@ URL:
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Atsisiųsti modifikaciją</translation>
+        <translation>Atsisiųsti modifikaciją</translation>
     </message>
     <message>
         <source>No instance!</source>
@@ -7698,7 +7692,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Open %1 Discord guild.</source>
@@ -7753,11 +7747,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Įspėjimai</translation>
+        <translation>Įspėjimai</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -7809,7 +7803,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Atnaujinimas nepavyko</translation>
+        <translation>Atnaujinimas nepavyko</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -7825,7 +7819,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Patvirtinti atnaujinimą</translation>
+        <translation>Patvirtinti atnaujinimą</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -7847,7 +7841,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation>Pavadinimas</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -7867,7 +7861,7 @@ Are you sure?</source>
     <name>MinecraftAccount</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Nutraukta</translation>
+        <translation>Nutraukta</translation>
     </message>
 </context>
 <context>
@@ -7922,7 +7916,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <source>, last played on %1 for %2</source>
@@ -8063,7 +8057,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Šie parametrai nepaiso pagrindinių nustatymų.</translation>
+        <translation>Šie parametrai nepaiso pagrindinių nustatymų.</translation>
     </message>
     <message>
         <source>General</source>
@@ -8083,7 +8077,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Įjungti Minecraft pilname lange</translation>
+        <translation>Įjungti Minecraft pilname lange</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -8139,7 +8133,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -8151,11 +8145,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliuoja senųjų internetinių paslaugų, kurios jau nebeveikia, veikimą.&lt;/p&gt;&lt;p&gt;Dabartiniai pataisymai: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emuliuoja senųjų internetinių paslaugų, kurios jau nebeveikia, veikimą.&lt;/p&gt;&lt;p&gt;Dabartiniai pataisymai: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Įjungti online pataisymus (bandomasis)</translation>
+        <translation>Įjungti online pataisymus (bandomasis)</translation>
     </message>
     <message>
         <source>&amp;Native Libraries</source>
@@ -8163,7 +8157,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Naudoti sistemos instaliacija OpenAL</translation>
+        <translation>Naudoti sistemos instaliacija OpenAL</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -8171,7 +8165,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Naudoti sistemos instaliacija GLFW</translation>
+        <translation>Naudoti sistemos instaliacija GLFW</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -8324,35 +8318,35 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti Feral Interactive&apos;s GameMode, kad potencialiai pagerinti žaidimų našumą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti Feral Interactive&apos;s GameMode, kad potencialiai pagerinti žaidimų našumą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Įjungti Feral GameMode</translation>
+        <translation>Įjungti Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti MangoHud modifikacijos išplėstinę našumo perdangą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Įjungti MangoHud modifikacijos išplėstinę našumo perdangą.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Įjungti MangoHud</translation>
+        <translation>Įjungti MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Naudoti pasirinktiną GPU vietoje pagrindinės GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Naudoti pasirinktiną GPU vietoje pagrindinės GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Naudoti pagrindinį grafinį procesorių</translation>
+        <translation>Naudoti pagrindinį grafinį procesorių</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Naudoti Zink - Mesa OpenGL tvarkyklę, kuri įdiegia OpenGL į Vulkan. Našumas gali skirtis priklausomai nuo situacijos. Pastaba: Jeigu nebus rasta Vulkan tvarkyklė, bus naudojamas programinės įrangos vaizdavimas.</translation>
+        <translation>Naudoti Zink - Mesa OpenGL tvarkyklę, kuri įdiegia OpenGL į Vulkan. Našumas gali skirtis priklausomai nuo situacijos. Pastaba: Jeigu nebus rasta Vulkan tvarkyklė, bus naudojamas programinės įrangos vaizdavimas.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Naudoti Zink</translation>
+        <translation>Naudoti Zink</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -8360,11 +8354,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Paskyra:</translation>
+        <translation>Paskyra:</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Serverio adresas:</translation>
+        <translation>Serverio adresas:</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
@@ -8372,11 +8366,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Įvairios komandos</translation>
+        <translation>Įvairios komandos</translation>
     </message>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished">Aplinkos kintamieji</translation>
+        <translation>Aplinkos kintamieji</translation>
     </message>
     <message>
         <source>Show time &amp;playing this instance</source>
@@ -8396,11 +8390,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud nebuvo rastas jūsų sistemoje.</translation>
+        <translation>MangoHud nebuvo rastas jūsų sistemoje.</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Kelias į %1 bibliotekos failą</translation>
+        <translation>Kelias į %1 bibliotekos failą</translation>
     </message>
     <message>
         <source>Select Global Data Packs Folder</source>
@@ -8419,7 +8413,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Pašalinti</translation>
+        <translation>Pašalinti</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8427,7 +8421,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Pridėti</translation>
+        <translation>Pridėti</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -8445,7 +8439,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>ModFilterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -8457,7 +8451,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
@@ -8675,7 +8669,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Paskutinį kartą redaguota</translation>
+        <translation>Paskutinį kartą redaguota</translation>
     </message>
     <message>
         <source>Size</source>
@@ -8687,7 +8681,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Loaders</source>
-        <translation type="unfinished">Loader&apos;iai</translation>
+        <translation>Loader&apos;iai</translation>
     </message>
     <message>
         <source>Release Type</source>
@@ -8707,11 +8701,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Failo pavadinimas</translation>
+        <translation>Failo pavadinimas</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atnaujinti</translation>
+        <translation>Atnaujinti</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -8885,7 +8879,7 @@ Ignoring them may break the game.</source>
     </message>
     <message>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Patvirtinti pašalinimą</translation>
+        <translation>Patvirtinti pašalinimą</translation>
     </message>
     <message>
         <source>If you remove mods while the game is running it may crash your game.
@@ -8907,7 +8901,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -8919,7 +8913,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Įspėjimai</translation>
+        <translation>Įspėjimai</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -8931,7 +8925,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Patvirtinti atnaujinimą</translation>
+        <translation>Patvirtinti atnaujinimą</translation>
     </message>
     <message>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
@@ -8948,11 +8942,11 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Naujų versijų tikrintuvas</translation>
+        <translation>Naujų versijų tikrintuvas</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Patvirtinkite pašalinimą</translation>
+        <translation>Patvirtinkite pašalinimą</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 mods.
@@ -8983,7 +8977,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">„%1“ yra naujausias! :)</translation>
+        <translation>„%1“ yra naujausias! :)</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -9016,7 +9010,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished">Modifikacijos</translation>
+        <translation>Modifikacijos</translation>
     </message>
 </context>
 <context>
@@ -9112,7 +9106,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -9141,19 +9135,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Neinstaliuota</translation>
+        <translation>Neinstaliuota</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Nežinoma</translation>
+        <translation>Nežinoma</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Nėra tinkamos versijos šiam resursui. Galbūt tokios versijos net nėra šiai žaidimo versijai / mod loader&apos;iui.</translation>
+        <translation>Nėra tinkamos versijos šiam resursui. Galbūt tokios versijos net nėra šiai žaidimo versijai / mod loader&apos;iui.</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Nėra tinkamos versijos šiam resursui. Galbūt tokios versijos net nėra šiai žaidimo versijai.</translation>
+        <translation>Nėra tinkamos versijos šiam resursui. Galbūt tokios versijos net nėra šiai žaidimo versijai.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -9168,21 +9162,20 @@ Please update %1!</source>
     <name>ModrinthCreationTask</name>
     <message>
         <source> (version %1)</source>
-        <translation type="unfinished"> (versija % 1)</translation>
+        <translation>(versija % 1)</translation>
     </message>
     <message>
         <source>No index file.</source>
-        <translation type="unfinished">Nėra indekso failo.</translation>
+        <translation>Nėra indekso failo.</translation>
     </message>
     <message>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Nepavyko rasti tinkamo indekso failo senesnei versijai. Dėl to kai kurie failai gali būti dubliuoti. Ar norite tęsti?</translation>
+        <translation>Nepavyko rasti tinkamo indekso failo senesnei versijai. Dėl to kai kurie failai gali būti dubliuoti. Ar norite tęsti?</translation>
     </message>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Nepavyko pervardyti nepaisymo aplanko:
-</translation>
+        <translation>Nepavyko pervardyti nepaisymo aplanko:</translation>
     </message>
     <message>
         <source>Could not rename the client overrides folder:
@@ -9207,11 +9200,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">Įdiegta %1 iš %2</translation>
+        <translation>Įdiegta %1 iš %2</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Modifikacijas atsisiuntimas...</translation>
+        <translation>Modifikacijas atsisiuntimas...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -9224,18 +9217,18 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Šalinami seni nesuderinami failai...</translation>
+        <translation>Šalinami seni nesuderinami failai...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Nepavyko pašalinti senų konfliktuojančių failų.</translation>
+        <translation>Nepavyko pašalinti senų konfliktuojančių failų.</translation>
     </message>
 </context>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
         <source>%1 (Current)</source>
-        <translation type="unfinished">% 1 (dabartinis)</translation>
+        <translation>% 1 (dabartinis)</translation>
     </message>
     <message>
         <source>Fetching changelogs...</source>
@@ -9243,30 +9236,30 @@ Please update %1!</source>
     </message>
     <message>
         <source>Choose update file</source>
-        <translation type="unfinished">Pasirinkite atnaujinimo failą</translation>
+        <translation>Pasirinkite atnaujinimo failą</translation>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth paketas</translation>
+        <translation>Modrinth paketas</translation>
     </message>
 </context>
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
         <source>Searching for files...</source>
-        <translation type="unfinished">Ieškoma failų...</translation>
+        <translation>Ieškoma failų...</translation>
     </message>
     <message>
         <source>Could not search for files</source>
-        <translation type="unfinished">Nepavyko ieškoti failų</translation>
+        <translation>Nepavyko ieškoti failų</translation>
     </message>
     <message>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Ieškoma failo maišos...</translation>
+        <translation>Ieškoma failo maišos...</translation>
     </message>
     <message>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Ieškoma maišos versija...</translation>
+        <translation>Ieškoma maišos versija...</translation>
     </message>
     <message>
         <source>Failed to parse versions response: %1</source>
@@ -9274,19 +9267,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>Adding files...</source>
-        <translation type="unfinished">Pridedami failai...</translation>
+        <translation>Pridedami failai...</translation>
     </message>
 </context>
 <context>
     <name>ModrinthPage</name>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Filtruoti pasirinkimus</translation>
+        <translation>Filtruoti pasirinkimus</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Paieška ir filtravimas...</translation>
+        <translation>Paieška ir filtravimas...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -9298,7 +9291,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Pasirinkta versija:</translation>
+        <translation>Pasirinkta versija:</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -9307,7 +9300,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Rūšiuoti pagal atsisiuntimų skaičių</translation>
+        <translation>Rūšiuoti pagal atsisiuntimų skaičių</translation>
     </message>
     <message>
         <source>Sort by Follows</source>
@@ -9316,15 +9309,15 @@ Please update %1!</source>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Rūšiuoti pagal naujausiai atnaujintus</translation>
+        <translation>Rūšiuoti pagal naujausiai atnaujintus</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> pagal </translation>
+        <translation>pagal</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -9336,19 +9329,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Išorinės nuorodos:</translation>
+        <translation>Išorinės nuorodos:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Klaida: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Klaida: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wikipedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wikipedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Pagrindinis kodas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Pagrindinis kodas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -9361,7 +9354,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Modrinth</source>
-        <translation type="unfinished">Modrinth</translation>
+        <translation>Modrinth</translation>
     </message>
 </context>
 <context>
@@ -9435,7 +9428,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Vykdomos %1 užduotys (%2 iš %3 užduočių įvykdytos)</translation>
+        <translation>Vykdomos %1 užduotys (%2 iš %3 užduočių įvykdytos)</translation>
     </message>
 </context>
 <context>
@@ -9450,11 +9443,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -9493,11 +9486,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
 </context>
 <context>
@@ -9512,27 +9505,27 @@ Please update %1!</source>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="unfinished">&amp;Grupė:</translation>
+        <translation>&amp;Grupė:</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Pavadinimas:</translation>
+        <translation>&amp;Pavadinimas:</translation>
     </message>
     <message>
         <source>No group</source>
-        <translation type="unfinished">Be grupės</translation>
+        <translation>Be grupės</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Pagalba</translation>
+        <translation>Pagalba</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -9563,7 +9556,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Uždaryti</translation>
+        <translation>Uždaryti</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -9802,11 +9795,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Diegti</translation>
+        <translation>Diegti</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
 </context>
 <context>
@@ -9829,11 +9822,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
 </context>
 <context>
@@ -9872,7 +9865,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Tęsti Atnaujinimą</translation>
+        <translation>Tęsti Atnaujinimą</translation>
     </message>
     <message>
         <source>Wrap lines</source>
@@ -9888,7 +9881,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished">&amp;Kopijuoti</translation>
+        <translation>&amp;Kopijuoti</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
@@ -9908,7 +9901,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Paieška</translation>
+        <translation>Paieška</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9928,7 +9921,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Unable to open %1 for reading: %2</source>
@@ -9964,7 +9957,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Išvalyti</translation>
+        <translation>Išvalyti</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -9976,7 +9969,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Nepavyksta parodyti šio žurnalo, nes jo ilgis viršijo %1 eilučių.</translation>
+        <translation>Nepavyksta parodyti šio žurnalo, nes jo ilgis viršijo %1 eilučių.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -10000,87 +9993,87 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Nepalaikomas diegimo režimas</translation>
+        <translation>Nepalaikomas diegimo režimas</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
+        <translation>Nepavyko gauti vietinių meta duomenų indekso &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Naikinami esami failai...</translation>
+        <translation>Naikinami esami failai...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Nežinomas modifikacijos tipas: %1</translation>
+        <translation>Nežinomas modifikacijos tipas: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Nepavyko gauti vietinių meta duomenų indekso %1</translation>
+        <translation>Nepavyko gauti vietinių meta duomenų indekso %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Nepavyko rasti versijos %1 paleidėjui</translation>
+        <translation>Nepavyko rasti versijos %1 paleidėjui</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
+        <translation>Paleidėjo versija nebuvo nustatyta šiam modifikacijų paketui!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation>Nežinomas arba nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Siunčiamas konfigūracijos failas...</translation>
+        <translation>Siunčiamas konfigūracijos failas...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Atsisiųsti konfigūraciją</translation>
+        <translation>Atsisiųsti konfigūraciją</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Išpakuojamos konfigūracijos...</translation>
+        <translation>Išpakuojamos konfigūracijos...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Parenkamos pasirenkamos modifikacijos...</translation>
+        <translation>Parenkamos pasirenkamos modifikacijos...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Atsisiųsti modifikaciją</translation>
+        <translation>Atsisiųsti modifikaciją</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Nepalaikomas atsisiuntimo tipas: %1</translation>
+        <translation>Nepalaikomas atsisiuntimo tipas: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Rasta užblokuotų modifikacijų</translation>
+        <translation>Rasta užblokuotų modifikacijų</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
+        <translation>Toliau nurodytų failų negalima atsisiųsti naudojant trečiųjų šalių paleidimo priemones.&lt;br/&gt;Turėsite juos atsisiųsti rankiniu būdu ir pridėti prie egzemplioriaus.</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Nepavyko išpakuoti modifikacijas...</translation>
+        <translation>Nepavyko išpakuoti modifikacijas...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Modifikacijos išpakavimas...</translation>
+        <translation>Modifikacijos išpakavimas...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Nepavyko sukurti bibliotekos komponentų</translation>
+        <translation>Nepavyko sukurti bibliotekos komponentų</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Neatpažintas krautuvo tipas: </translation>
+        <translation>Neatpažintas krautuvo tipas:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Nepavyko sukurti rinkinio komponentų</translation>
+        <translation>Nepavyko sukurti rinkinio komponentų</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -10108,15 +10101,15 @@ Are you sure?</source>
     <name>PackProfile</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Nutraukta</translation>
+        <translation>Nutraukta</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation>Pavadinimas</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
 </context>
 <context>
@@ -10135,14 +10128,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Pagalba</translation>
+        <translation>Pagalba</translation>
     </message>
 </context>
 <context>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -10519,11 +10512,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
 </context>
 <context>
@@ -10540,11 +10533,11 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -10580,7 +10573,7 @@ HTTP Status: %2</source>
     <name>ProgressDialog</name>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Prašome palaukti...</translation>
+        <translation>Prašome palaukti...</translation>
     </message>
     <message>
         <source>Global Task Status...</source>
@@ -10592,11 +10585,11 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Praleisti</translation>
+        <translation>Praleisti</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Nutraukti</translation>
+        <translation>Nutraukti</translation>
     </message>
 </context>
 <context>
@@ -10614,7 +10607,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tipas</translation>
+        <translation>Tipas</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -10664,7 +10657,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Proxy</source>
-        <translation type="unfinished">Tarpinis serveris</translation>
+        <translation>Tarpinis serveris</translation>
     </message>
 </context>
 <context>
@@ -10715,7 +10708,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (naudojama)</translation>
+        <translation>%1 (naudojama)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -10751,7 +10744,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload finished</source>
-        <translation type="unfinished">Baigtas įkėlimas</translation>
+        <translation>Baigtas įkėlimas</translation>
     </message>
     <message>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
@@ -10888,7 +10881,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>h</source>
-        <translation type="unfinished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <source>m</source>
@@ -10896,7 +10889,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>ms</source>
@@ -10942,7 +10935,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Java tikrinimo biblioteka nerasta. Please check your installation. Patikrinkite savo įdiegimą.</translation>
+        <translation>Java tikrinimo biblioteka nerasta. Please check your installation. Patikrinkite savo įdiegimą.</translation>
     </message>
     <message>
         <source>Download of meta file %1</source>
@@ -11047,7 +11040,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished">modifikacija</translation>
+        <translation>modifikacija</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -11055,23 +11048,23 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Featured</source>
-        <translation type="unfinished">rūšiuoti pagal terminą</translation>
+        <translation>rūšiuoti pagal terminą</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Rūšiuoti pagal populiarumą</translation>
+        <translation>Rūšiuoti pagal populiarumą</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Rūšiuoti pagal naujausiai atnaujintus</translation>
+        <translation>Rūšiuoti pagal naujausiai atnaujintus</translation>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Rūšiuoti pagal pavadinimą</translation>
+        <translation>Rūšiuoti pagal pavadinimą</translation>
     </message>
     <message>
         <source>Sort by Author</source>
-        <translation type="unfinished">Rūšiuoti pagal autorių</translation>
+        <translation>Rūšiuoti pagal autorių</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -11083,7 +11076,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Rūšiuoti pagal žaidimo versiją</translation>
+        <translation>Rūšiuoti pagal žaidimo versiją</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -11119,7 +11112,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Nežinoma</translation>
+        <translation>Nežinoma</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -11152,47 +11145,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Nepažymėta</translation>
+        <translation>Nepažymėta</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Neprisijungta</translation>
+        <translation>Neprisijungta</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Paruošta</translation>
+        <translation>Paruošta</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Dirbantis</translation>
+        <translation>Dirbantis</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Nebegalioja</translation>
+        <translation>Nebegalioja</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Išjungtas</translation>
+        <translation>Išjungtas</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Pradingęs</translation>
+        <translation>Pradingęs</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Nežinoma</translation>
+        <translation>Nežinoma</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -11275,7 +11268,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Sukurti nuorodą</translation>
+        <translation>Sukurti nuorodą</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
@@ -11397,7 +11390,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Neatpažinta</translation>
+        <translation>Neatpažinta</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11407,7 +11400,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">Modifikacijos</translation>
+        <translation>Modifikacijos</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -11489,7 +11482,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <source>Confirmation Needed</source>
@@ -11510,11 +11503,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Įspėjimai</translation>
+        <translation>Įspėjimai</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11530,7 +11523,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">Modifikacijos</translation>
+        <translation>Modifikacijos</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -11561,7 +11554,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -11599,7 +11592,7 @@ Please update %1!</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> pagal </translation>
+        <translation>pagal</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -11611,19 +11604,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Išorinės nuorodos:</translation>
+        <translation>Išorinės nuorodos:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Klaida: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Klaida: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wikipedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wikipedia: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Pagrindinis kodas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Pagrindinis kodas: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -11674,11 +11667,11 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Ctrl+Return</source>
-        <translation type="unfinished">Ctrl+Return</translation>
+        <translation>Ctrl+Return</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -11707,19 +11700,16 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Įspėjimas: šis išteklius yra susietas simboline nuoroda iš kitos vietos. Redaguojant jį, bus pakeistas ir originalas.
-Kanoninis kelias: %1</translation>
+        <translation>Įspėjimas: šis išteklius yra susietas simboline nuoroda iš kitos vietos. Redaguojant jį, bus pakeistas ir originalas.</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Įspėjimas: šis išteklius yra susietas kitoje vietoje naudojant kietąją nuorodą. Redaguojant jį, bus pakeistas ir originalas.</translation>
+        <translation>Įspėjimas: šis išteklius yra susietas kitoje vietoje naudojant kietąją nuorodą. Redaguojant jį, bus pakeistas ir originalas.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation>Pavadinimas</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -11727,15 +11717,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Paskutinį kartą redaguota</translation>
+        <translation>Paskutinį kartą redaguota</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Dydis</translation>
+        <translation>Dydis</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -11743,11 +11733,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Failo pavadinimas</translation>
+        <translation>Failo pavadinimas</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atnaujinti</translation>
+        <translation>Atnaujinti</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -11801,7 +11791,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Paveikslas</translation>
+        <translation>Paveikslas</translation>
     </message>
 </context>
 <context>
@@ -11816,15 +11806,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Paskutinį kartą redaguota</translation>
+        <translation>Paskutinį kartą redaguota</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Dydis</translation>
+        <translation>Dydis</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -11832,11 +11822,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Failo pavadinimas</translation>
+        <translation>Failo pavadinimas</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atnaujinti</translation>
+        <translation>Atnaujinti</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -11887,11 +11877,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation>Pavadinimas</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Paketo formatas</translation>
+        <translation>Paketo formatas</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -11910,7 +11900,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Atsisiųsti paketus</translation>
+        <translation>Atsisiųsti paketus</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -11926,7 +11916,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -11938,7 +11928,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Įspėjimai</translation>
+        <translation>Įspėjimai</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11950,7 +11940,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Patvirtinti atnaujinimą</translation>
+        <translation>Patvirtinti atnaujinimą</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -11960,7 +11950,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">„%1“ yra naujausias! :)</translation>
+        <translation>„%1“ yra naujausias! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -11972,11 +11962,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Naujų versijų tikrintuvas</translation>
+        <translation>Naujų versijų tikrintuvas</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Patvirtinkite pašalinimą</translation>
+        <translation>Patvirtinkite pašalinimą</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -11996,11 +11986,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Pasirinkta versija:</translation>
+        <translation>Pasirinkta versija:</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Filtruoti pasirinkimus</translation>
+        <translation>Filtruoti pasirinkimus</translation>
     </message>
 </context>
 <context>
@@ -12035,11 +12025,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Įspėjimai</translation>
+        <translation>Įspėjimai</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12080,7 +12070,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Neinstaliuota</translation>
+        <translation>Neinstaliuota</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -12101,7 +12091,7 @@ Are you sure?</source>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Modifikacija buvo išjunkta, nes gali būti, kad jau buvo instaliuotą.</translation>
+        <translation>Modifikacija buvo išjunkta, nes gali būti, kad jau buvo instaliuotą.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
@@ -12140,16 +12130,16 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">Modifikacija buvo išjunkta, nes gali būti, kad jau buvo instaliuotą.</translation>
+        <translation>Modifikacija buvo išjunkta, nes gali būti, kad jau buvo instaliuotą.</translation>
     </message>
     <message>
         <source>Filename: %1</source>
@@ -12200,7 +12190,7 @@ Are you sure?</source>
     <name>ScreenshotsPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Veiksmai</translation>
+        <translation>Veiksmai</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -12232,7 +12222,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstinis meniu</translation>
+        <translation>Kontekstinis meniu</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to %2.
@@ -12307,18 +12297,18 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12341,7 +12331,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12357,11 +12347,11 @@ Dabar įdiegta versija: %1</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
 </context>
 <context>
@@ -12394,7 +12384,7 @@ Dabar įdiegta versija: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12402,7 +12392,7 @@ Dabar įdiegta versija: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Neprisijungta</translation>
+        <translation>Neprisijungta</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12413,11 +12403,11 @@ Dabar įdiegta versija: %1</translation>
     <name>ServersPage</name>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation>Pavadinimas</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">Adresas</translation>
+        <translation>Adresas</translation>
     </message>
     <message>
         <source>Reso&amp;urces</source>
@@ -12437,7 +12427,7 @@ Dabar įdiegta versija: %1</translation>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Veiksmai</translation>
+        <translation>Veiksmai</translation>
     </message>
     <message>
         <source>Add</source>
@@ -12445,7 +12435,7 @@ Dabar įdiegta versija: %1</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Pašalinti</translation>
+        <translation>Pašalinti</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -12461,7 +12451,7 @@ Dabar įdiegta versija: %1</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Atnaujinti</translation>
+        <translation>Atnaujinti</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -12469,7 +12459,7 @@ Dabar įdiegta versija: %1</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstinis meniu</translation>
+        <translation>Kontekstinis meniu</translation>
     </message>
     <message>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
@@ -12479,7 +12469,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Patvirtinkite pašalinimą</translation>
+        <translation>Patvirtinkite pašalinimą</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -12505,7 +12495,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Atnaujinti</translation>
+        <translation>Atnaujinti</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -12527,7 +12517,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Atsisiųsti paketus</translation>
+        <translation>Atsisiųsti paketus</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -12543,7 +12533,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -12555,7 +12545,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Įspėjimai</translation>
+        <translation>Įspėjimai</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12567,7 +12557,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Patvirtinti atnaujinimą</translation>
+        <translation>Patvirtinti atnaujinimą</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -12577,7 +12567,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">„%1“ yra naujausias! :)</translation>
+        <translation>„%1“ yra naujausias! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -12589,11 +12579,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Naujų versijų tikrintuvas</translation>
+        <translation>Naujų versijų tikrintuvas</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Patvirtinkite pašalinimą</translation>
+        <translation>Patvirtinkite pašalinimą</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -12660,7 +12650,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Atidaryti aplanką</translation>
+        <translation>Atidaryti aplanką</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -12680,7 +12670,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">Ištrinti Išvaizdą</translation>
+        <translation>Ištrinti Išvaizdą</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -12704,11 +12694,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -12744,15 +12734,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Ištrinti išvaizdą</translation>
+        <translation>Ištrinti išvaizdą</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Nepavyko ištrinti dabartinės išvaizdos!</translation>
+        <translation>Nepavyko ištrinti dabartinės išvaizdos!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstinis meniu</translation>
+        <translation>Kontekstinis meniu</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -12849,7 +12839,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -12864,7 +12854,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Nutraukta</translation>
+        <translation>Nutraukta</translation>
     </message>
 </context>
 <context>
@@ -12885,16 +12875,15 @@ Are you sure?</source>
     <message>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Atsiunčiamas modifikacijų rinkinys:
- %1</translation>
+        <translation>Atsiunčiamas modifikacijų rinkinys:</translation>
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Atsisiųsti modifikaciją</translation>
+        <translation>Atsisiųsti modifikaciją</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Išpakuojamas modpack</translation>
+        <translation>Išpakuojamas modpack</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -12910,7 +12899,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Nepavyko pakeisti leidimų %1</translation>
+        <translation>Nepavyko pakeisti leidimų %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -12930,12 +12919,11 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Negaliu suprasti manifesto paketo:
-</translation>
+        <translation>Negaliu suprasti manifesto paketo:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Išpakuojamas modpack</translation>
+        <translation>Išpakuojamas modpack</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -12947,7 +12935,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Nepavyko pakeisti leidimų %1</translation>
+        <translation>Nepavyko pakeisti leidimų %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -12996,12 +12984,12 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Pasirinkta versija:</translation>
+        <translation>Pasirinkta versija:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Paieška ir filtravimas...</translation>
+        <translation>Paieška ir filtravimas...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -13009,11 +12997,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> pagal </translation>
+        <translation>pagal</translation>
     </message>
 </context>
 <context>
@@ -13028,15 +13016,15 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation>Pavadinimas</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Paskutinį kartą redaguota</translation>
+        <translation>Paskutinį kartą redaguota</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Dydis</translation>
+        <translation>Dydis</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -13044,11 +13032,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Failo pavadinimas</translation>
+        <translation>Failo pavadinimas</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Atnaujinti</translation>
+        <translation>Atnaujinti</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -13101,7 +13089,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Atsisiųsti paketus</translation>
+        <translation>Atsisiųsti paketus</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -13121,7 +13109,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -13133,7 +13121,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Įspėjimai</translation>
+        <translation>Įspėjimai</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13145,7 +13133,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Patvirtinti atnaujinimą</translation>
+        <translation>Patvirtinti atnaujinimą</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -13155,7 +13143,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">„%1“ yra naujausias! :)</translation>
+        <translation>„%1“ yra naujausias! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -13167,11 +13155,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Naujų versijų tikrintuvas</translation>
+        <translation>Naujų versijų tikrintuvas</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Patvirtinkite pašalinimą</translation>
+        <translation>Patvirtinkite pašalinimą</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -13198,7 +13186,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Išvaizda</translation>
+        <translation>Išvaizda</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -13209,7 +13197,7 @@ Are you sure?</source>
     <name>TranslationsModel</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Kalba</translation>
+        <translation>Kalba</translation>
     </message>
     <message>
         <source>Completeness</source>
@@ -13369,7 +13357,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Veiksmai</translation>
+        <translation>Veiksmai</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -13413,15 +13401,15 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished">Perkrauti</translation>
+        <translation>Perkrauti</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Pakeisti Versiją</translation>
+        <translation>Pakeisti Versiją</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Paieška</translation>
+        <translation>Paieška</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -13429,7 +13417,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Pakelti aukštyn</translation>
+        <translation>Pakelti aukštyn</translation>
     </message>
     <message>
         <source>Make the selected component apply sooner.</source>
@@ -13437,7 +13425,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Perkelti žemyn</translation>
+        <translation>Perkelti žemyn</translation>
     </message>
     <message>
         <source>Make the selected component apply later.</source>
@@ -13461,7 +13449,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Install Loader</source>
-        <translation type="unfinished">Įdiekite įkroviklį</translation>
+        <translation>Įdiekite įkroviklį</translation>
     </message>
     <message>
         <source>Install a mod loader.</source>
@@ -13525,7 +13513,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstinis meniu</translation>
+        <translation>Kontekstinis meniu</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -13545,11 +13533,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Patvirtinkite pašalinimą</translation>
+        <translation>Patvirtinkite pašalinimą</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -13625,7 +13613,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Diegti</translation>
+        <translation>Diegti</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -13644,18 +13632,18 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
 </context>
 <context>
     <name>VersionProxyModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versija</translation>
+        <translation>Versija</translation>
     </message>
     <message>
         <source>Minecraft</source>
-        <translation type="unfinished">Minecraft</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -13663,7 +13651,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tipas</translation>
+        <translation>Tipas</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -13744,11 +13732,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Gerai</translation>
+        <translation>Gerai</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -13760,18 +13748,18 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">Atnaujinti</translation>
+        <translation>Atnaujinti</translation>
     </message>
 </context>
 <context>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Paieška</translation>
+        <translation>Paieška</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Klaida</translation>
+        <translation>Klaida</translation>
     </message>
     <message>
         <source>List update failed:
@@ -13812,7 +13800,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Pavadinimas</translation>
+        <translation>Pavadinimas</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -13825,12 +13813,12 @@ Canonical Path: %1</source>
     <message>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">Dydis</translation>
+        <translation>Dydis</translation>
     </message>
     <message>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished">Info</translation>
+        <translation>Info</translation>
     </message>
     <message>
         <source>The name of the world.</source>
@@ -13857,23 +13845,23 @@ Canonical Path: %1</source>
     <name>WorldListPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Veiksmai</translation>
+        <translation>Veiksmai</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Pridėti</translation>
+        <translation>Pridėti</translation>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Prisijungti</translation>
+        <translation>Prisijungti</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Pervadinti</translation>
+        <translation>Pervadinti</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Kopijuoti</translation>
+        <translation>Kopijuoti</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -13881,7 +13869,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Ištrinti</translation>
+        <translation>Ištrinti</translation>
     </message>
     <message>
         <source>MCEdit</source>
@@ -13893,11 +13881,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Atnaujinti</translation>
+        <translation>Atnaujinti</translation>
     </message>
     <message>
         <source>View Folder</source>
-        <translation type="unfinished">Peržiūrėti aplanką</translation>
+        <translation>Peržiūrėti aplanką</translation>
     </message>
     <message>
         <source>Reset Icon</source>
@@ -13909,7 +13897,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Įrankiai</translation>
+        <translation>Įrankiai</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -13929,7 +13917,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontekstinis meniu</translation>
+        <translation>Kontekstinis meniu</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -14145,11 +14133,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Slapyvardis</translation>
+        <translation>Slapyvardis</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Slaptažodis</translation>
+        <translation>Slaptažodis</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -14157,7 +14145,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Atšaukti</translation>
+        <translation>Atšaukti</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

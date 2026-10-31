@@ -1375,11 +1375,11 @@ Alcune versioni di Minecraft potrebbero non essere eseguibili.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installa</translation>
+        <translation>Installa</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
 </context>
 <context>
@@ -3793,7 +3793,7 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     </message>
     <message>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished">Il modpack sta tentando di scaricare un file al di fuori della cartella dell&apos;istanza (%1). Questo rappresenta un rischio per la sicurezza e non è consentito.</translation>
+        <translation>Il modpack sta tentando di scaricare un file al di fuori della cartella dell&apos;istanza (%1). Questo rappresenta un rischio per la sicurezza e non è consentito.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
@@ -5195,7 +5195,7 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     </message>
     <message>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished">Impossibile aprire il file zip fornito: %1</translation>
+        <translation>Impossibile aprire il file zip fornito: %1</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -8785,7 +8785,7 @@ Per pulire i metadati manualmente, premi Cartelle -&gt; Cartella del launcher, c
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> and e la sua scorciatoia %n</numerusform>
+            <numerusform>and e la sua scorciatoia %n</numerusform>
             <numerusform> e le sue scorciatoie registrate %n</numerusform>
         </translation>
     </message>
@@ -10221,10 +10221,8 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod sarà abilitata
-</numerusform>
-            <numerusform>%n mod saranno abilitate
-</numerusform>
+            <numerusform>%n mod sarà abilitata</numerusform>
+            <numerusform>%n mod saranno abilitate</numerusform>
         </translation>
     </message>
     <message>
@@ -10235,10 +10233,8 @@ Attenzione: Questa risorsa è fortemente collegata altrove. Modificandola cambie
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod sarà disabilitata
-</numerusform>
-            <numerusform>%n mod saranno disabilitate
-</numerusform>
+            <numerusform>%n mod sarà disabilitata</numerusform>
+            <numerusform>%n mod saranno disabilitate</numerusform>
         </translation>
     </message>
     <message>
@@ -11840,11 +11836,11 @@ NOTA: Assicurati di aver fatto un backup dei tuoi importanti dati di istanza pri
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installa</translation>
+        <translation>Installa</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
 </context>
 <context>
@@ -13718,20 +13714,14 @@ Nuovo nome: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>La seguente istanza potrebbe contenere riferimenti a file in quest&apos;istanza:
-
-%1
-
-%2 potrebbe danneggiare l&apos;altra istanza, 
-
-Vuoi procedere?</numerusform>
-            <numerusform>Le seguenti istanze potrebbero contenere riferimenti a file in quest&apos;instanza:
-
-%1
-
-%2 potrebbe danneggiare le altre istanze, 
-
-Vuoi procedere?</numerusform>
+            <numerusform>La seguente istanza potrebbe contenere riferimenti a file in quest&apos;istanza:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 potrebbe danneggiare l&apos;altra istanza, </numerusform>
+            <numerusform>Vuoi procedere?</numerusform>
+            <numerusform>Le seguenti istanze potrebbero contenere riferimenti a file in quest&apos;instanza:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 potrebbe danneggiare le altre istanze, </numerusform>
+            <numerusform>Vuoi procedere?</numerusform>
         </translation>
     </message>
     <message>
@@ -15082,7 +15072,7 @@ Versione attualmente installata: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versione</translation>
+        <translation>Versione</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -15090,7 +15080,7 @@ Versione attualmente installata: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -16733,7 +16723,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installa</translation>
+        <translation>Installa</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17526,7 +17516,7 @@ Si prega di seguire %1 per impostare l&apos;account.</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Password</translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17534,7 +17524,7 @@ Si prega di seguire %1 per impostare l&apos;account.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annulla</translation>
+        <translation>Annulla</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

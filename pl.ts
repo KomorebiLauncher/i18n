@@ -1379,11 +1379,11 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Zainstaluj</translation>
+        <translation>Zainstaluj</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -1477,7 +1477,7 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Ładowanie pliku lokalnego</translation>
+        <translation>Ładowanie pliku lokalnego</translation>
     </message>
 </context>
 <context>
@@ -2346,11 +2346,11 @@ Niektóre wersje Minecrafta mogą się nie załadować.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Wersja</translation>
+        <translation>Wersja</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Aktualizuj</translation>
+        <translation>Aktualizuj</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -6909,15 +6909,15 @@ Może być konieczne naprawienie modyfikacji, ponieważ gra nadal zapisuje logi 
     </message>
     <message>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished">Wszystkie (wydania, bety, alfy)</translation>
+        <translation>Wszystkie (wydania, bety, alfy)</translation>
     </message>
     <message>
         <source>Release only</source>
-        <translation type="unfinished">Tylko wydania</translation>
+        <translation>Tylko wydania</translation>
     </message>
     <message>
         <source>Release and Beta</source>
-        <translation type="unfinished">Wydanie i Beta</translation>
+        <translation>Wydanie i Beta</translation>
     </message>
     <message>
         <source>Instance Creation</source>
@@ -7418,7 +7418,7 @@ Powód:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8923,7 +8923,7 @@ Aby wyczyścić pamięć podręczną metadanych ręcznie, wybierz Foldery -&gt; 
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> i jego %n zarejestrowanego skrótu</numerusform>
+            <numerusform>i jego %n zarejestrowanego skrótu</numerusform>
             <numerusform> i ich %n zarejestrowanych skrótów</numerusform>
             <numerusform> i ich %n zarejestrowanych skrótów</numerusform>
         </translation>
@@ -9177,11 +9177,7 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished">Właśnie zamierzasz zaktualizować paczkę modyfikacji do nowszej wersji.
-Nieodwracalne zmiany mogą nastąpić w plikach instancji.
-Dlatego też zaleca się utworzenie lokalnej kopii zapasowej instancji.
-
-Kontynuować?</translation>
+        <translation>Właśnie zamierzasz zaktualizować paczkę modyfikacji do nowszej wersji.</translation>
     </message>
     <message>
         <source>Confirm Update</source>
@@ -9999,7 +9995,7 @@ Najprawdopodobniej trzeba będzie zmienić ścieżkę - sprawdź stronę moda.</
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Usuń</translation>
+        <translation>Usuń</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -10007,7 +10003,7 @@ Najprawdopodobniej trzeba będzie zmienić ścieżkę - sprawdź stronę moda.</
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Dodaj</translation>
+        <translation>Dodaj</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -10340,7 +10336,7 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Aktualizuj</translation>
+        <translation>Aktualizuj</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -10392,12 +10388,9 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod zostanie włączony
-</numerusform>
-            <numerusform>%n mody zostaną włączone
-</numerusform>
-            <numerusform>%n modów zostanie włączonych
-</numerusform>
+            <numerusform>%n mod zostanie włączony</numerusform>
+            <numerusform>%n mody zostaną włączone</numerusform>
+            <numerusform>%n modów zostanie włączonych</numerusform>
         </translation>
     </message>
     <message>
@@ -10408,12 +10401,9 @@ Uwaga: Ten zasób jest twardo dołączony skądś indziej. Edytowanie go także 
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod zostanie wyłączony
-</numerusform>
-            <numerusform>%n mody zostaną wyłączone
-</numerusform>
-            <numerusform>%n modów zostanie wyłączonych
-</numerusform>
+            <numerusform>%n mod zostanie wyłączony</numerusform>
+            <numerusform>%n mody zostaną wyłączone</numerusform>
+            <numerusform>%n modów zostanie wyłączonych</numerusform>
         </translation>
     </message>
     <message>
@@ -10767,11 +10757,11 @@ Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <source>Check for Updates (Release and Beta)</source>
-        <translation type="unfinished">Sprawdź aktualizacje (tylko wydania i Beta)</translation>
+        <translation>Sprawdź aktualizacje (tylko wydania i Beta)</translation>
     </message>
     <message>
         <source>Check for Updates (Release, Beta and Alpha)</source>
-        <translation type="unfinished">Sprawdź aktualizacje (wydania, Beta i Alpha)</translation>
+        <translation>Sprawdź aktualizacje (wydania, Beta i Alpha)</translation>
     </message>
     <message>
         <source>Change a mod&apos;s version.</source>
@@ -12065,11 +12055,11 @@ Uwaga: Upewnij się, że zrobiłeś kopię zapasową istotnych danych przed aktu
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Zainstaluj</translation>
+        <translation>Zainstaluj</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
 </context>
 <context>
@@ -13094,7 +13084,7 @@ Status HTTP: %2</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Przerwij</translation>
+        <translation>Przerwij</translation>
     </message>
 </context>
 <context>
@@ -13970,27 +13960,18 @@ Nowa nazwa: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Następujące instancja może odwoływać się do plików w tej instancji:
-
-%1
-
-%2 może to uszkodzić inną instancję, 
-
-Czy chcesz kontynuować?</numerusform>
-            <numerusform>Następujące instancje mogą odwoływać się do plików w tej instancji:
-
-%1
-
-%2 może to uszkodzić inną instancję, 
-
-Czy chcesz kontynuować?</numerusform>
-            <numerusform>Następujące instancje mogą odwoływać się do plików w tej instancji:
-
-%1
-
-%2 może to uszkodzić inną instancję, 
-
-Czy chcesz kontynuować?</numerusform>
+            <numerusform>Następujące instancja może odwoływać się do plików w tej instancji:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 może to uszkodzić inną instancję, </numerusform>
+            <numerusform>Czy chcesz kontynuować?</numerusform>
+            <numerusform>Następujące instancje mogą odwoływać się do plików w tej instancji:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 może to uszkodzić inną instancję, </numerusform>
+            <numerusform>Czy chcesz kontynuować?</numerusform>
+            <numerusform>Następujące instancje mogą odwoływać się do plików w tej instancji:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 może to uszkodzić inną instancję, </numerusform>
+            <numerusform>Czy chcesz kontynuować?</numerusform>
         </translation>
     </message>
     <message>
@@ -14598,7 +14579,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Wersja</translation>
+        <translation>Wersja</translation>
     </message>
     <message>
         <source>Size</source>
@@ -14614,7 +14595,7 @@ Uwaga: Ten zasób jest twardo dowiązany skądś indziej. Edytowanie go także z
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Aktualizuj</translation>
+        <translation>Aktualizuj</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -14673,7 +14654,7 @@ Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Obraz</translation>
+        <translation>Obraz</translation>
     </message>
 </context>
 <context>
@@ -14696,7 +14677,7 @@ Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Wersja</translation>
+        <translation>Wersja</translation>
     </message>
     <message>
         <source>Size</source>
@@ -14712,7 +14693,7 @@ Czy na pewno chcesz to zrobić?</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Aktualizuj</translation>
+        <translation>Aktualizuj</translation>
     </message>
     <message>
         <source>The file name of the resource pack.</source>
@@ -15345,7 +15326,7 @@ Aktualnie zainstalowana wersja: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Wersja</translation>
+        <translation>Wersja</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -16180,7 +16161,7 @@ Brakuje inheritsFrom</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Aktualizuj</translation>
+        <translation>Aktualizuj</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -16996,7 +16977,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Zainstaluj</translation>
+        <translation>Zainstaluj</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17786,11 +17767,11 @@ Skonfiguruj swoje konto zgodnie z %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nazwa użytkownika</translation>
+        <translation>Nazwa użytkownika</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Hasło</translation>
+        <translation>Hasło</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17798,7 +17779,7 @@ Skonfiguruj swoje konto zgodnie z %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anuluj</translation>
+        <translation>Anuluj</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

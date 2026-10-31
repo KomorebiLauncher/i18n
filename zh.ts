@@ -469,7 +469,7 @@
     <message>
         <source>Third-party</source>
         <comment>Account type</comment>
-        <translation type="unfinished">第三方</translation>
+        <translation>第三方</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -11959,22 +11959,22 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <message>
         <source>Looking up Minecraft %1</source>
         <comment>Finding the version OptiFine patches</comment>
-        <translation type="unfinished">正在查找 Minecraft %1</translation>
+        <translation>正在查找 Minecraft %1</translation>
     </message>
     <message>
         <source>Downloading the Minecraft %1 metadata</source>
         <comment>The version OptiFine patches</comment>
-        <translation type="unfinished">正在下载 Minecraft %1 的元数据</translation>
+        <translation>正在下载 Minecraft %1 的元数据</translation>
     </message>
     <message>
         <source>Downloading the Minecraft %1 client</source>
         <comment>The version OptiFine patches</comment>
-        <translation type="unfinished">正在下载 Minecraft %1 客户端</translation>
+        <translation>正在下载 Minecraft %1 客户端</translation>
     </message>
     <message>
         <source>Downloading OptiFine %1</source>
         <comment>The build being installed</comment>
-        <translation type="unfinished">正在下载 OptiFine %1</translation>
+        <translation>正在下载 OptiFine %1</translation>
     </message>
     <message>
         <source>Could not start looking for a Java runtime to run the installer with.</source>

@@ -1305,7 +1305,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">I-install</translation>
+        <translation>I-install</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1786,7 +1786,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Tulong</translation>
+        <translation>Tulong</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1794,7 +1794,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -2001,7 +2001,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>World:</source>
-        <translation type="unfinished">Mundo:</translation>
+        <translation>Mundo:</translation>
     </message>
     <message>
         <source>Server Address:</source>
@@ -2013,7 +2013,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Note: If a shortcut is moved after creation, it won&apos;t be deleted when deleting the instance.</source>
-        <translation type="unfinished">Tandaan: If na-lipat ang shortcut pagkatapos ng pag-gawa, Hindi na ito matatangal kapag tinanggal ang instance.</translation>
+        <translation>Tandaan: If na-lipat ang shortcut pagkatapos ng pag-gawa, Hindi na ito matatangal kapag tinanggal ang instance.</translation>
     </message>
     <message>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
@@ -2021,7 +2021,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Desktop</source>
-        <translation type="unfinished">Desktop</translation>
+        <translation>Desktop</translation>
     </message>
     <message>
         <source>Applications</source>
@@ -2033,7 +2033,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>%1 [%2] - Last Played: %3</source>
-        <translation type="unfinished">%1 [%2] - Huling Naglaro: %3</translation>
+        <translation>%1 [%2] - Huling Naglaro: %3</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
@@ -2041,11 +2041,11 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>%1 - %2</source>
-        <translation type="unfinished">%1 - %2</translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <source>%1 - Server %2</source>
-        <translation type="unfinished">%1 - Server %2</translation>
+        <translation>%1 - Server %2</translation>
     </message>
     <message>
         <source>instance</source>
@@ -2084,7 +2084,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">I-override ang &amp;Global Settings</translation>
+        <translation>I-override ang &amp;Global Settings</translation>
     </message>
     <message>
         <source>&amp;Pre-load Command</source>
@@ -2252,7 +2252,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Laki</translation>
+        <translation>Laki</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2264,7 +2264,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bersyon</translation>
+        <translation>Bersyon</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2289,7 +2289,7 @@ Ang mga ibang bersyon ng Minecraft ay maaring di gumana.
     <message>
         <source>The data pack format ID, as well as the Minecraft versions it was designed for.</source>
         <extracomment>The string being explained by this is in the format: ID (Lower version - Upper version)</extracomment>
-        <translation type="unfinished">Ang data pack format ID, pati rin ang mga bersyon ng Minecraft kung saan ito dinisensyo.</translation>
+        <translation>Ang data pack format ID, pati rin ang mga bersyon ng Minecraft kung saan ito dinisensyo.</translation>
     </message>
     <message>
         <source>
@@ -2354,7 +2354,7 @@ Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit ni
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Mga Babala</translation>
+        <translation>Mga Babala</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2398,7 +2398,7 @@ Sigurado ka bang gusto mong gawin ito?</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">I-kumpirma ang pag-tanggal</translation>
+        <translation>I-kumpirma ang pag-tanggal</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 data packs.
@@ -2551,7 +2551,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">I-override ang &amp;Global Settings</translation>
+        <translation>I-override ang &amp;Global Settings</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -2581,7 +2581,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2615,7 +2615,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Pangalan:</translation>
+        <translation>&amp;Pangalan:</translation>
     </message>
     <message>
         <source>&amp;Version:</source>
@@ -2680,7 +2680,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2756,12 +2756,7 @@ This instance cannot be launched because some libraries are missing or have not 
 {url}      - Mod URL
 {version}  - Mod version
 {authors}  - Mod authors</source>
-        <translation type="unfinished">Sinusuportahan ng tekstong ito ang mga sumusunod sa placeholders:
-{name}     - Mod name
-{mod_id}   - Mod ID
-{url}      - Mod URL
-{version}  - Mod version
-{authors}  - Mod authors</translation>
+        <translation>Sinusuportahan ng tekstong ito ang mga sumusunod sa placeholders:</translation>
     </message>
     <message>
         <source>Optional Info</source>
@@ -2861,7 +2856,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Hanapin</translation>
+        <translation>Hanapin</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2917,7 +2912,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Export List</source>
-        <translation type="unfinished">Lista ng Pag-export</translation>
+        <translation>Lista ng Pag-export</translation>
     </message>
     <message>
         <source>Export resource&apos;s metadata to text.</source>
@@ -3074,7 +3069,7 @@ Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
         <source>Used to edit component JSON files.</source>
-        <translation type="unfinished">Ginagamit upang i-edit ang mga component na JSON files.</translation>
+        <translation>Ginagamit upang i-edit ang mga component na JSON files.</translation>
     </message>
     <message>
         <source>World Tools</source>
@@ -3086,15 +3081,15 @@ Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;I-dagdag</translation>
+        <translation>&amp;I-dagdag</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Tanggalin</translation>
+        <translation>&amp;Tanggalin</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Pangalan</translation>
+        <translation>Pangalan</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3243,7 +3238,7 @@ Sigurado ka ba sa gagawin mo?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Mga Kagamitan</translation>
+        <translation>Mga Kagamitan</translation>
     </message>
 </context>
 <context>
@@ -3309,8 +3304,7 @@ Subukan muli.</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Hindi maintindihan ang manifest ng pack:
-</translation>
+        <translation>Hindi maintindihan ang manifest ng pack:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -3326,7 +3320,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
+        <translation>Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -3338,7 +3332,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Pag-download ng mod</translation>
+        <translation>Pag-download ng mod</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -3346,11 +3340,11 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Kinokopya ang mga Blocked Mods…</translation>
+        <translation>Kinokopya ang mga Blocked Mods…</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Kinokopya ang Blocked Mods (%1 ng %2 na ang tapos)</translation>
+        <translation>Kinokopya ang Blocked Mods (%1 ng %2 na ang tapos)</translation>
     </message>
 </context>
 <context>
@@ -3421,7 +3415,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Pina-parse ang API response na galing sa Curseforge para sa ‘1%’…</translation>
+        <translation>Pina-parse ang API response na galing sa Curseforge para sa ‘1%’…</translation>
     </message>
 </context>
 <context>
@@ -3429,7 +3423,7 @@ Subukan muli.</translation>
     <message>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">Hinahanda ang mga mods para sa CurseForge…</translation>
+        <translation>Hinahanda ang mga mods para sa CurseForge…</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3454,7 +3448,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Pina-parse ang API response na galing sa Curseforge para sa ‘1%’…</translation>
+        <translation>Pina-parse ang API response na galing sa Curseforge para sa ‘1%’…</translation>
     </message>
     <message>
         <source>Resource has a new update available, but is not downloadable using CurseForge.</source>
@@ -3466,7 +3460,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Hindi kilala</translation>
+        <translation>Hindi kilala</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -3546,7 +3540,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
-        <translation type="unfinished">Ang inirerekomendang memorya para sa modpack ay lumampas sa 90% ng RAM ng iyong system—binabawasan ito mula %1 MiB hanggang %2 MiB!</translation>
+        <translation>Ang inirerekomendang memorya para sa modpack ay lumampas sa 90% ng RAM ng iyong system—binabawasan ito mula %1 MiB hanggang %2 MiB!</translation>
     </message>
     <message>
         <source>Unable to resolve mod IDs:
@@ -3585,11 +3579,11 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Tinatanggal ang mga file na may tunggalian…</translation>
+        <translation>Tinatanggal ang mga file na may tunggalian…</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Hindi matanggal ang mga file na may tunggalian.</translation>
+        <translation>Hindi matanggal ang mga file na may tunggalian.</translation>
     </message>
     <message>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
@@ -3772,11 +3766,11 @@ Subukan muli.</translation>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Bersyong napili:</translation>
+        <translation>Bersyong napili:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Hanapin at i-filter...</translation>
+        <translation>Hanapin at i-filter...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3894,7 +3888,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Custom</translation>
+        <translation>Custom</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3910,7 +3904,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -4017,7 +4011,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -4036,17 +4030,17 @@ Subukan muli.</translation>
     <message>
         <source>No Java versions are currently available in the meta.</source>
         <oldsource>No java versions are currently available in the meta.</oldsource>
-        <translation type="unfinished">Walang mga bersyon ng java sa kasalukuyan sa loob ng meta.</translation>
+        <translation>Walang mga bersyon ng java sa kasalukuyan sa loob ng meta.</translation>
     </message>
     <message>
         <source>Couldn&apos;t load or download the Java version lists!</source>
         <oldsource>Couldn&apos;t load or download the java version lists!</oldsource>
-        <translation type="unfinished">Hindi ma-load o ma-download ang listahan ng bersyon ng java!</translation>
+        <translation>Hindi ma-load o ma-download ang listahan ng bersyon ng java!</translation>
     </message>
     <message>
         <source>No Java versions are currently available for your OS.</source>
         <oldsource>No java versions are currently available for your OS.</oldsource>
-        <translation type="unfinished">Wala as kasalukuyan ang bersyon ng java na nagtutugma sa iyong OS.</translation>
+        <translation>Wala as kasalukuyan ang bersyon ng java na nagtutugma sa iyong OS.</translation>
     </message>
 </context>
 <context>
@@ -4061,7 +4055,7 @@ Subukan muli.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4228,7 +4222,7 @@ What would you like to do with %2?</source>
     <message>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Mga ibang logs</translation>
+        <translation>Mga ibang logs</translation>
     </message>
     <message>
         <source>Edit Instance (%1)</source>
@@ -4547,7 +4541,7 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Laktawan</translation>
+        <translation>Laktawan</translation>
     </message>
     <message>
         <source>Error</source>
@@ -4662,11 +4656,11 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     <name>Java::ArchiveDownloadTask</name>
     <message>
         <source>Downloading Java</source>
-        <translation type="unfinished">I-dinodownload ang Java</translation>
+        <translation>I-dinodownload ang Java</translation>
     </message>
     <message>
         <source>Extracting Java</source>
-        <translation type="unfinished">Ine-extract ang java</translation>
+        <translation>Ine-extract ang java</translation>
     </message>
     <message>
         <source>Unable to open supplied zip file: %1</source>
@@ -4690,7 +4684,7 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
     <message>
         <source>No files were found in the supplied zip file.</source>
-        <translation type="unfinished">Walang nakitang files sa loob ng zip file,</translation>
+        <translation>Walang nakitang files sa loob ng zip file,</translation>
     </message>
     <message>
         <source>Could not determine archive type!</source>
@@ -4759,14 +4753,14 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     <name>Java::ManifestDownloadTask</name>
     <message>
         <source>Downloading Java</source>
-        <translation type="unfinished">I-dinodownload ang Java</translation>
+        <translation>I-dinodownload ang Java</translation>
     </message>
 </context>
 <context>
     <name>Java::SymlinkTask</name>
     <message>
         <source>Checking for Java binary path</source>
-        <translation type="unfinished">Tinitignan ang binary path ng Java</translation>
+        <translation>Tinitignan ang binary path ng Java</translation>
     </message>
     <message>
         <source>Searching for Java binary path</source>
@@ -4774,7 +4768,7 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
     <message>
         <source>Failed to find Java binary path</source>
-        <translation type="unfinished">Nabigo ang pag-hanap ng binary path ng Java</translation>
+        <translation>Nabigo ang pag-hanap ng binary path ng Java</translation>
     </message>
     <message>
         <source>Collecting folders to symlink</source>
@@ -4918,12 +4912,12 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     <message>
         <source>No managed Java versions are installed</source>
         <oldsource>No managed java versions are installed</oldsource>
-        <translation type="unfinished">Walang naka-install na managed na bersyon ng java</translation>
+        <translation>Walang naka-install na managed na bersyon ng java</translation>
     </message>
     <message>
         <source>Couldn&apos;t load the managed Java list!</source>
         <oldsource>Couldn&apos;t load the managed java list!</oldsource>
-        <translation type="unfinished">Hindi ma-load ang lista ng managed Java!</translation>
+        <translation>Hindi ma-load ang lista ng managed Java!</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -5044,7 +5038,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Pormularyo</translation>
+        <translation>Pormularyo</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -5076,11 +5070,11 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Skip Java setup prompt on startup</source>
-        <translation type="unfinished">Laktawan ang prompt ng pag-setup ng Java sa simula.</translation>
+        <translation>Laktawan ang prompt ng pag-setup ng Java sa simula.</translation>
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Kung naka-enable ito, hindi na i-checheck ng launcher kung natutugma ang bersyon ng Java sa instance na ito.</translation>
+        <translation>Kung naka-enable ito, hindi na i-checheck ng launcher kung natutugma ang bersyon ng Java sa instance na ito.</translation>
     </message>
     <message>
         <source>&amp;Detect</source>
@@ -5092,15 +5086,15 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Test S&amp;ettings</source>
-        <translation type="unfinished">I-try ang Settings</translation>
+        <translation>I-try ang Settings</translation>
     </message>
     <message>
         <source>Open Java &amp;Downloader</source>
-        <translation type="unfinished">Buksan ang Java &amp;Downloader</translation>
+        <translation>Buksan ang Java &amp;Downloader</translation>
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Laktawan ang pagsusuri ng Java sa kompatibilidad</translation>
+        <translation>Laktawan ang pagsusuri ng Java sa kompatibilidad</translation>
     </message>
     <message>
         <source>&amp;Allowed Java versions</source>
@@ -5128,7 +5122,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Memor&amp;y</translation>
+        <translation>Memor&amp;y</translation>
     </message>
     <message>
         <source>Memory suggestion</source>
@@ -5140,7 +5134,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Memory Notice</source>
-        <translation type="unfinished">Paunawa sa Memorya</translation>
+        <translation>Paunawa sa Memorya</translation>
     </message>
     <message>
         <source>Suggested arguments</source>
@@ -5168,7 +5162,7 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>&amp;PermGen Size:</source>
-        <translation type="unfinished">&amp;Sukat ng PermGen:</translation>
+        <translation>&amp;Sukat ng PermGen:</translation>
     </message>
     <message>
         <source>(-Xms)</source>
@@ -5176,11 +5170,11 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Ma&amp;ximum Memory Usage:</source>
-        <translation type="unfinished">Pinakamataas na Paggamit ng Memorya:</translation>
+        <translation>Pinakamataas na Paggamit ng Memorya:</translation>
     </message>
     <message>
         <source>M&amp;inimum Memory Usage:</source>
-        <translation type="unfinished">Minimum na Paggamit ng Memorya:</translation>
+        <translation>Minimum na Paggamit ng Memorya:</translation>
     </message>
     <message>
         <source>Warn when there is not enough free memory</source>
@@ -5212,19 +5206,17 @@ Pwede mo paltan ang bersyon ng Java sa settings mamaya.
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Pumili ng bersyon ng Java</translation>
+        <translation>Pumili ng bersyon ng Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Kumpirmahin ang seleksyon</translation>
+        <translation>Kumpirmahin ang seleksyon</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Nakapili ka ng 32-bit na bersyon ng Java.
-Ang installation na ito ay hindi nagsusuporta ng higit sa 2048MiB ng RAM.
-Suriin na mas mababa ang pinakamalaking memory value.</translation>
+        <translation>Nakapili ka ng 32-bit na bersyon ng Java.</translation>
     </message>
     <message>
         <source>%1 mods installed here, so %2 MiB of heap.</source>
@@ -5299,11 +5291,11 @@ Paki-select ng isa sa sumusunod o mag-browse para sa isang Java excecutable.</tr
     <name>JavaWizardWidget</name>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished">I-download ang Java</translation>
+        <translation>I-download ang Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
-        <translation type="unfinished">Na-detect ang 32-bit na Java</translation>
+        <translation>Na-detect ang 32-bit na Java</translation>
     </message>
     <message>
         <source>You selected a 32-bit installation of Java, but allocated more than 2048MiB as maximum memory.
@@ -5312,16 +5304,11 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Nakapili ka ng 32-bit na bersyon ng Java, pero nag-allocate ka ng higit sa 2048MiB bilang maximum memory.
-Hindi maiistart ng %1 ang Minecraft
-Gusto mo pa ba i-tuloy?
-
-Pwede mo paltan ang bersyon ng Java sa settings mamaya.
-</translation>
+        <translation>Nakapili ka ng 32-bit na bersyon ng Java, pero nag-allocate ka ng higit sa 2048MiB bilang maximum memory.</translation>
     </message>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished">Walang naka-select na bersyon ng Java</translation>
+        <translation>Walang naka-select na bersyon ng Java</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -5330,72 +5317,67 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Maaaring hindi ka pumili ng bersyon ng Java o pumili ng bersyon na hindi gumagana.
-Hindi maiistart ng %1 ang Minecraft
-Gusto mo pa ba i-tuloy?
-
-Pwede mo paltan ang bersyon ng Java sa settings mamaya.
-</translation>
+        <translation>Maaaring hindi ka pumili ng bersyon ng Java o pumili ng bersyon na hindi gumagana.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Hanapin ang Java executable</translation>
+        <translation>Hanapin ang Java executable</translation>
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Memorya</translation>
+        <translation>Memorya</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Yung pinaka-malaking amount ng memory na pwedeng gamitin ng Minecraft.</translation>
+        <translation>Yung pinaka-malaking amount ng memory na pwedeng gamitin ng Minecraft.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minimum na allokasyon ng memory:</translation>
+        <translation>Minimum na allokasyon ng memory:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Pinakamalaking memory allocation:</translation>
+        <translation>Pinakamalaking memory allocation:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Yung amount ng memory na nasa pag-start ng Minecraft.</translation>
+        <translation>Yung amount ng memory na nasa pag-start ng Minecraft.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Yung amount ng memory na available para i-store ang mga loaded Java classes.</translation>
+        <translation>Yung amount ng memory na available para i-store ang mga loaded Java classes.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Tingnan</translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">I-download ng automatic ang Mojang Java</translation>
+        <translation>I-download ng automatic ang Mojang Java</translation>
     </message>
     <message>
         <source>Auto-detect Java version</source>
-        <translation type="unfinished">Awtomatikong tukuyin ang bersyon ng Java</translation>
+        <translation>Awtomatikong tukuyin ang bersyon ng Java</translation>
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="unfinished">I-autodetect ang Java</translation>
+        <translation>I-autodetect ang Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Yung maximum memory allocation mo ay lumalampas sa capacity ng system memory mo.</translation>
+        <translation>Yung maximum memory allocation mo ay lumalampas sa capacity ng system memory mo.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">Yung maximum memory allocation mo ay lumalapit sa capacity ng system memory mo.</translation>
+        <translation>Yung maximum memory allocation mo ay lumalapit sa capacity ng system memory mo.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">Yung maximum memory allocation mo ay mas maliit sa minimum value</translation>
+        <translation>Yung maximum memory allocation mo ay mas maliit sa minimum value</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
-        <translation type="unfinished">Ine-exceed mo ang maximum na allocation na suportado ng 32-bit na installation ng Java.</translation>
+        <translation>Ine-exceed mo ang maximum na allocation na suportado ng 32-bit na installation ng Java.</translation>
     </message>
 </context>
 <context>
@@ -5903,7 +5885,7 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>On Launch</source>
-        <translation type="unfinished">Sa Paglulunsad</translation>
+        <translation>Sa Paglulunsad</translation>
     </message>
     <message>
         <source> hours</source>
@@ -5935,11 +5917,11 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">I-dagdag</translation>
+        <translation>I-dagdag</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Tanggalin</translation>
+        <translation>Tanggalin</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -5947,7 +5929,7 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>Check &amp;subfolders for blocked mods</source>
-        <translation type="unfinished">Tignan ang mga naka-block na mods sa &amp;subfolders</translation>
+        <translation>Tignan ang mga naka-block na mods sa &amp;subfolders</translation>
     </message>
     <message>
         <source>When enabled, it will move blocked resources instead of copying them.</source>
@@ -6004,7 +5986,7 @@ Maaaring kailanganin mong ayusin ang iyong mga mod dahil nagla-log pa rin siya s
     </message>
     <message>
         <source>Retry Limit:</source>
-        <translation type="unfinished">Limitasyon ng Pag-ulit:</translation>
+        <translation>Limitasyon ng Pag-ulit:</translation>
     </message>
     <message>
         <source>Concurrent Download Limit:</source>
@@ -6326,11 +6308,11 @@ Inirerekomenda ang pagbibigay ng %1 ng access dito gamit ng Flatseal.</translati
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Sinusuri ang mga FML libraries…</translation>
+        <translation>Sinusuri ang mga FML libraries…</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Nagdo-download ng FML libraries...</translation>
+        <translation>Nagdo-download ng FML libraries...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6338,15 +6320,15 @@ Inirerekomenda ang pagbibigay ng %1 ng access dito gamit ng Flatseal.</translati
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kinokopya ang mga FML libraries sa instance…</translation>
+        <translation>Kinokopya ang mga FML libraries sa instance…</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Hindi ma-gawa ang folder ng FML library sa loob ng instace.</translation>
+        <translation>Hindi ma-gawa ang folder ng FML library sa loob ng instace.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Nabigo ang pag-kopya ng Forge/FML library: %1.</translation>
+        <translation>Nabigo ang pag-kopya ng Forge/FML library: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6354,11 +6336,7 @@ Inirerekomenda ang pagbibigay ng %1 ng access dito gamit ng Flatseal.</translati
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Nabigo ang pag-download ng mga sumusunod na file:
-%1
-
-Dahilan: %2
-Subukan muli.</translation>
+        <translation>Nabigo ang pag-download ng mga sumusunod na file:</translation>
     </message>
 </context>
 <context>
@@ -6425,7 +6403,7 @@ Subukan muli.</translation>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Hindi ma-move ang unzipped na Minecraft!</translation>
+        <translation>Hindi ma-move ang unzipped na Minecraft!</translation>
     </message>
     <message>
         <source>No installation method found!</source>
@@ -6549,7 +6527,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6574,7 +6552,7 @@ Reason:
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="unfinished">Invalid na metadata</translation>
+        <translation>Invalid na metadata</translation>
     </message>
 </context>
 <context>
@@ -6617,7 +6595,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Hanapin</translation>
+        <translation>Hanapin</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -6681,7 +6659,7 @@ Reason:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Pormularyo</translation>
+        <translation>Pormularyo</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6849,7 +6827,7 @@ Reason:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Kanselahin</translation>
+        <translation>Kanselahin</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -7853,7 +7831,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Nabigo ang update</translation>
+        <translation>Nabigo ang update</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -7869,7 +7847,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Kumpirmahin ang pag-update</translation>
+        <translation>Kumpirmahin ang pag-update</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -8131,7 +8109,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Ang mga setting dito ay mga override para sa global settings.</translation>
+        <translation>Ang mga setting dito ay mga override para sa global settings.</translation>
     </message>
     <message>
         <source>General</source>
@@ -8151,7 +8129,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Simulan ang Minecraft na naka-maximized</translation>
+        <translation>Simulan ang Minecraft na naka-maximized</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -8207,7 +8185,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -8219,11 +8197,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ine-emulate ang paggamit ng lumang online services na hindi na gumagana.&lt;/p&gt;&lt;p&gt;Naka-include dito ang skin at online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Ine-emulate ang paggamit ng lumang online services na hindi na gumagana.&lt;/p&gt;&lt;p&gt;Naka-include dito ang skin at online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">I-enable ang online fixes (experimental)</translation>
+        <translation>I-enable ang online fixes (experimental)</translation>
     </message>
     <message>
         <source>&amp;Native Libraries</source>
@@ -8231,7 +8209,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Gamitin ang system installation kaysa sa OpenAL</translation>
+        <translation>Gamitin ang system installation kaysa sa OpenAL</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -8239,7 +8217,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Gamitin ang system installation ng GLFW</translation>
+        <translation>Gamitin ang system installation ng GLFW</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -8296,7 +8274,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Tingnan</translation>
+        <translation>Tingnan</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -8320,23 +8298,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -8392,35 +8370,35 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang GameMode ng Feral Interactive, para ma-improve ang gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang GameMode ng Feral Interactive, para ma-improve ang gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">I-enable ang Feral GameMode</translation>
+        <translation>I-enable ang Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang advanced performance overlay ng MangoHud&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;I-enable ang advanced performance overlay ng MangoHud&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">I-enable ang MangoHud</translation>
+        <translation>I-enable ang MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gamitin ang discrete GPU kaysa sa primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gamitin ang discrete GPU kaysa sa primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Gamitin ang discrete GPU</translation>
+        <translation>Gamitin ang discrete GPU</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Gamitin ang Zink, isang Mesa OpenGL driver na nag-iimplement ng OpenGL sa loob ng Vulkan. Performance ay pwedeng mag-bago depende sa sitwasyon. Note: Kung walang mahanap na Vulkan driver, gagamitin ang software rendering.</translation>
+        <translation>Gamitin ang Zink, isang Mesa OpenGL driver na nag-iimplement ng OpenGL sa loob ng Vulkan. Performance ay pwedeng mag-bago depende sa sitwasyon. Note: Kung walang mahanap na Vulkan driver, gagamitin ang software rendering.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Gamitin ang Zink</translation>
+        <translation>Gamitin ang Zink</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -8428,11 +8406,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Account:</translation>
+        <translation>Account:</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Direksyon (address) ng server:</translation>
+        <translation>Direksyon (address) ng server:</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
@@ -8440,11 +8418,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Mga Custom Command</translation>
+        <translation>Mga Custom Command</translation>
     </message>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished">Mga Pinagbago sa Environment</translation>
+        <translation>Mga Pinagbago sa Environment</translation>
     </message>
     <message>
         <source>Show time &amp;playing this instance</source>
@@ -8460,15 +8438,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Hindi mahanap ang Feral Interactive GameMode sa sistema mo.</translation>
+        <translation>Hindi mahanap ang Feral Interactive GameMode sa sistema mo.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">Hindi mahanap ang MangoHud sa sistema mo.</translation>
+        <translation>Hindi mahanap ang MangoHud sa sistema mo.</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Path na patungo sa %1 library file</translation>
+        <translation>Path na patungo sa %1 library file</translation>
     </message>
     <message>
         <source>Select Global Data Packs Folder</source>
@@ -8487,7 +8465,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Tanggalin</translation>
+        <translation>Tanggalin</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8495,7 +8473,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">I-dagdag</translation>
+        <translation>I-dagdag</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -8538,7 +8516,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -8606,7 +8584,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Hindi kilala</translation>
+        <translation>Hindi kilala</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -8674,7 +8652,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Lahat ng Bersyon</translation>
+        <translation>Lahat ng Bersyon</translation>
     </message>
 </context>
 <context>
@@ -8724,7 +8702,7 @@ Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit ni
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Huling Binago</translation>
+        <translation>Huling Binago</translation>
     </message>
     <message>
         <source>Size</source>
@@ -8945,7 +8923,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Kumpirmahin ang pag-update</translation>
+        <translation>Kumpirmahin ang pag-update</translation>
     </message>
     <message>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
@@ -8962,7 +8940,7 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Tagasuri ng pag-update</translation>
+        <translation>Tagasuri ng pag-update</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -8997,7 +8975,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; ay up-to-date! :)</translation>
+        <translation>&apos;%1&apos; ay up-to-date! :)</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -9115,19 +9093,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Hindi naka-install</translation>
+        <translation>Hindi naka-install</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Hindi kilala</translation>
+        <translation>Hindi kilala</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Walang nakitang wastong bersyon para sa mapagkukunang ito. Malamang na hindi ito available para sa kasalukuyang bersyon ng laro / mod loader.</translation>
+        <translation>Walang nakitang wastong bersyon para sa mapagkukunang ito. Malamang na hindi ito available para sa kasalukuyang bersyon ng laro / mod loader.</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Walang nakitang wastong bersyon para sa mapagkukunang ito. Malamang na hindi ito magagamit para sa kasalukuyang bersyon ng laro.</translation>
+        <translation>Walang nakitang wastong bersyon para sa mapagkukunang ito. Malamang na hindi ito magagamit para sa kasalukuyang bersyon ng laro.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -9194,11 +9172,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Tinatanggal ang mga file na may tunggalian…</translation>
+        <translation>Tinatanggal ang mga file na may tunggalian…</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Hindi matanggal ang mga file na may tunggalian.</translation>
+        <translation>Hindi matanggal ang mga file na may tunggalian.</translation>
     </message>
 </context>
 <context>
@@ -9314,11 +9292,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Mga opsyon sa filter</translation>
+        <translation>Mga opsyon sa filter</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Hanapin at i-filter...</translation>
+        <translation>Hanapin at i-filter...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -9417,7 +9395,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
@@ -9464,7 +9442,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9491,7 +9469,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9499,7 +9477,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Tulong</translation>
+        <translation>Tulong</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -9754,7 +9732,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">I-install</translation>
+        <translation>I-install</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9785,7 +9763,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9800,7 +9778,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">I-scroll papunta sa pinaka-baba</translation>
+        <translation>I-scroll papunta sa pinaka-baba</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -9824,11 +9802,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">I-update pa</translation>
+        <translation>I-update pa</translation>
     </message>
     <message>
         <source>Wrap lines</source>
-        <translation type="unfinished">I-wrap ang mga linya</translation>
+        <translation>I-wrap ang mga linya</translation>
     </message>
     <message>
         <source>Color lines</source>
@@ -9844,7 +9822,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">I-upload ang log sa paste service na naka-configure sa preferences</translation>
+        <translation>I-upload ang log sa paste service na naka-configure sa preferences</translation>
     </message>
     <message>
         <source>&amp;Upload</source>
@@ -9860,7 +9838,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Hanapin</translation>
+        <translation>Hanapin</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -9920,7 +9898,7 @@ Sigurado ka ba dito?</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Burahin</translation>
+        <translation>Burahin</translation>
     </message>
     <message>
         <source>Unable to delete %1: %2</source>
@@ -9928,7 +9906,7 @@ Sigurado ka ba dito?</translation>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Hindi maipapakita ang log dahil lumalagpas sa %1 mga linya ang haba ng log.</translation>
+        <translation>Hindi maipapakita ang log dahil lumalagpas sa %1 mga linya ang haba ng log.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -9958,88 +9936,87 @@ Sigurado ka ba dito?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Hindi maintindihan ang manifest ng pack:
-</translation>
+        <translation>Hindi maintindihan ang manifest ng pack:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Hindi suportadong mode ng installation</translation>
+        <translation>Hindi suportadong mode ng installation</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Nagkaproblema sa pagkuha ng lokal na metadata index para sa &apos;%1&apos; v%2</translation>
+        <translation>Nagkaproblema sa pagkuha ng lokal na metadata index para sa &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Binubura ang mga kasalukuyang file...</translation>
+        <translation>Binubura ang mga kasalukuyang file...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Hindi kilalang uri ng mod: %1</translation>
+        <translation>Hindi kilalang uri ng mod: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Nagkaproblema sa pagkuha ng lokal na metadata index para sa %1</translation>
+        <translation>Nagkaproblema sa pagkuha ng lokal na metadata index para sa %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Hindi kilala o suportadong uri ng download: %1</translation>
+        <translation>Hindi kilala o suportadong uri ng download: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Dina-download ang mga config...</translation>
+        <translation>Dina-download ang mga config...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Pag download ng config</translation>
+        <translation>Pag download ng config</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Ine-extract ang mga config...</translation>
+        <translation>Ine-extract ang mga config...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Pinipili ang mga opsyonal na mod...</translation>
+        <translation>Pinipili ang mga opsyonal na mod...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Pag-download ng mod</translation>
+        <translation>Pag-download ng mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Hindi kilalang uri ng pag-download: %1</translation>
+        <translation>Hindi kilalang uri ng pag-download: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">May nakitang pinagbabawalang mods</translation>
+        <translation>May nakitang pinagbabawalang mods</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
+        <translation>Ang mga file na ito ay hindi ma-dodownload gamit ng third party launchers.&lt;br/&gt;Kailangan mo i-download sila ng sarili mo at i-dagdag sila sa iyong instance.</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Nabigong i-extract ang mga mods...</translation>
+        <translation>Nabigong i-extract ang mga mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Ine-extract ang mga mods...</translation>
+        <translation>Ine-extract ang mga mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Ini-install ang modpack</translation>
+        <translation>Ini-install ang modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Nabigong gawin ang mga component ng libraries</translation>
+        <translation>Nabigong gawin ang mga component ng libraries</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Hindi kilalang uri ng loader: </translation>
+        <translation>Hindi kilalang uri ng loader:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Nabigong gawin ang component ng pack</translation>
+        <translation>Nabigong gawin ang component ng pack</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
@@ -10089,7 +10066,7 @@ Sigurado ka ba dito?</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Tulong</translation>
+        <translation>Tulong</translation>
     </message>
 </context>
 <context>
@@ -10583,7 +10560,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10604,7 +10581,7 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -10652,11 +10629,11 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Laktawan</translation>
+        <translation>Laktawan</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">I-pigil</translation>
+        <translation>I-pigil</translation>
     </message>
 </context>
 <context>
@@ -10864,7 +10841,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (ginagamit)</translation>
+        <translation>%1 (ginagamit)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -11182,7 +11159,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Hindi kilala</translation>
+        <translation>Hindi kilala</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -11215,47 +11192,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Hindi naka-tsek</translation>
+        <translation>Hindi naka-tsek</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Handa</translation>
+        <translation>Handa</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Gumagana</translation>
+        <translation>Gumagana</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">May nakuhang mali</translation>
+        <translation>May nakuhang mali</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Lumipas na</translation>
+        <translation>Lumipas na</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Hindi bukas</translation>
+        <translation>Hindi bukas</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Wala na</translation>
+        <translation>Wala na</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Hindi kilala</translation>
+        <translation>Hindi kilala</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -11300,7 +11277,7 @@ New name: %2</source>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="unfinished">May naka-link na instances</translation>
+        <translation>May naka-link na instances</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -11337,11 +11314,11 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Gumawa ng Shortcut</translation>
+        <translation>Gumawa ng Shortcut</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">Ang launcher ay nasa folder kung saan siya inextract, kaya hindi siya makakagawa ng shortcuts.</translation>
+        <translation>Ang launcher ay nasa folder kung saan siya inextract, kaya hindi siya makakagawa ng shortcuts.</translation>
     </message>
     <message>
         <source>Failed to create icon for application: %1</source>
@@ -11353,7 +11330,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Yung launcher ay nag-rurun bilang misconfigured AppImage? (Nawawala ang $APPIMAGE environment variable)</translation>
+        <translation>Yung launcher ay nag-rurun bilang misconfigured AppImage? (Nawawala ang $APPIMAGE environment variable)</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut: %1</source>
@@ -11361,11 +11338,11 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Hindi magawa ang icon para sa shortcut.</translation>
+        <translation>Hindi magawa ang icon para sa shortcut.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">Hindi sinusuporta ng plataporma mo!</translation>
+        <translation>Hindi sinusuporta ng plataporma mo!</translation>
     </message>
     <message>
         <source>Failed to create %1 shortcut!</source>
@@ -11373,7 +11350,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Hindi mahanap ang desktop?!</translation>
+        <translation>Hindi mahanap ang desktop?!</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1 on your desktop!</source>
@@ -11393,7 +11370,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Mga Desktop Entry</translation>
+        <translation>Mga Desktop Entry</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1!</source>
@@ -11413,7 +11390,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Error: %1 ay nag-balik ng magulong response body</translation>
+        <translation>Error: %1 ay nag-balik ng magulong response body</translation>
     </message>
     <message>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
@@ -11421,7 +11398,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Error: %1 ay nag-bigay ng error: %2</translation>
+        <translation>Error: %1 ay nag-bigay ng error: %2</translation>
     </message>
     <message>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
@@ -11430,8 +11407,7 @@ Do you wish to proceed?</source>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Error: %1 ay nagbigay ng error code: %2
-Mensahe ng Error: %3</translation>
+        <translation>Error: %1 ay nagbigay ng error code: %2</translation>
     </message>
     <message>
         <source>Unknown paste type</source>
@@ -11452,7 +11428,7 @@ Mensahe ng Error: %3</translation>
     </message>
     <message>
         <source>%1 Developers</source>
-        <translation type="unfinished">Mga Developer ng %1</translation>
+        <translation>Mga Developer ng %1</translation>
     </message>
     <message>
         <source>MultiMC Developers</source>
@@ -11468,7 +11444,7 @@ Mensahe ng Error: %3</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Hindi kinikilala</translation>
+        <translation>Hindi kinikilala</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11757,15 +11733,12 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.
-Totoong Path: %1</translation>
+        <translation>Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.</translation>
+        <translation>Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit nito ay mababago rin sa original.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -11777,11 +11750,11 @@ Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit ni
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Huling Binago</translation>
+        <translation>Huling Binago</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bersyon</translation>
+        <translation>Bersyon</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11851,7 +11824,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imahe</translation>
+        <translation>Imahe</translation>
     </message>
 </context>
 <context>
@@ -11866,11 +11839,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Huling Binago</translation>
+        <translation>Huling Binago</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bersyon</translation>
+        <translation>Bersyon</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11937,7 +11910,7 @@ Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit ni
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Format ng Pakete</translation>
+        <translation>Format ng Pakete</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -11996,7 +11969,7 @@ Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit ni
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Kumpirmahin ang pag-update</translation>
+        <translation>Kumpirmahin ang pag-update</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -12006,7 +11979,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; ay up-to-date! :)</translation>
+        <translation>&apos;%1&apos; ay up-to-date! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -12018,11 +11991,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Tagasuri ng pag-update</translation>
+        <translation>Tagasuri ng pag-update</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">I-kumpirma ang pag-tanggal</translation>
+        <translation>I-kumpirma ang pag-tanggal</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -12046,7 +12019,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Mga opsyon sa filter</translation>
+        <translation>Mga opsyon sa filter</translation>
     </message>
 </context>
 <context>
@@ -12085,7 +12058,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Mga Babala</translation>
+        <translation>Mga Babala</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12093,7 +12066,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Nag-checheck ng mga update…</translation>
+        <translation>Nag-checheck ng mga update…</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
@@ -12126,7 +12099,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Hindi naka-install</translation>
+        <translation>Hindi naka-install</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -12190,7 +12163,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -12349,7 +12322,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12397,7 +12370,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12430,7 +12403,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bersyon</translation>
+        <translation>Bersyon</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12438,7 +12411,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
 </context>
 <context>
@@ -12493,7 +12466,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">I-refresh</translation>
+        <translation>I-refresh</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -12599,7 +12572,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Kumpirmahin ang pag-update</translation>
+        <translation>Kumpirmahin ang pag-update</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -12609,7 +12582,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; ay up-to-date! :)</translation>
+        <translation>&apos;%1&apos; ay up-to-date! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -12621,11 +12594,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Tagasuri ng pag-update</translation>
+        <translation>Tagasuri ng pag-update</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">I-kumpirma ang pag-tanggal</translation>
+        <translation>I-kumpirma ang pag-tanggal</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -12740,7 +12713,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -12928,7 +12901,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Pinigil</translation>
+        <translation>Pinigil</translation>
     </message>
 </context>
 <context>
@@ -13088,7 +13061,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Huling Binago</translation>
+        <translation>Huling Binago</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13201,7 +13174,7 @@ Babala: Ang resource na ito ay naka-link mula sa ibang location. Ang pag-edit ni
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Kumpirmahin ang pag-update</translation>
+        <translation>Kumpirmahin ang pag-update</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -13211,7 +13184,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; ay up-to-date! :)</translation>
+        <translation>&apos;%1&apos; ay up-to-date! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -13223,11 +13196,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Tagasuri ng pag-update</translation>
+        <translation>Tagasuri ng pag-update</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">I-kumpirma ang pag-tanggal</translation>
+        <translation>I-kumpirma ang pag-tanggal</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -13266,7 +13239,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Hitsura</translation>
+        <translation>Hitsura</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -13467,11 +13440,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Baguhin ang Bersyon</translation>
+        <translation>Baguhin ang Bersyon</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Hanapin</translation>
+        <translation>Hanapin</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -13679,7 +13652,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">I-install</translation>
+        <translation>I-install</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -13798,7 +13771,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13969,7 +13942,7 @@ Kanonikal na Path: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Mga Kagamitan</translation>
+        <translation>Mga Kagamitan</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -14215,7 +14188,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Kontrasenya</translation>
+        <translation>Kontrasenya</translation>
     </message>
     <message>
         <source>Sign in</source>

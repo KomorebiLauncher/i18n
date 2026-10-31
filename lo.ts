@@ -971,11 +971,11 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">ຕິດຕັ້ງ</translation>
+        <translation>ຕິດຕັ້ງ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ຍົກເລີກ</translation>
+        <translation>ຍົກເລີກ</translation>
     </message>
 </context>
 <context>
@@ -1069,7 +1069,7 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">ກຳລັງໂຫຼດໄຟລ໌ໃນເຄື່ອງ</translation>
+        <translation>ກຳລັງໂຫຼດໄຟລ໌ໃນເຄື່ອງ</translation>
     </message>
 </context>
 <context>
@@ -1867,7 +1867,7 @@ Minecraft ບາງເວີຊັນອາດຈະເປີດບໍ່ໄດ�
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">ຂະໜາດ</translation>
+        <translation>ຂະໜາດ</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2602,15 +2602,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;ເພີ່ມ</translation>
+        <translation>&amp;ເພີ່ມ</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;ລຶບອອກ</translation>
+        <translation>&amp;ລຶບອອກ</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">ຊື່</translation>
+        <translation>ຊື່</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3005,11 +3005,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">ກຳລັງລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນ...</translation>
+        <translation>ກຳລັງລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນ...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">ລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນບໍ່ສຳເລັດ.</translation>
+        <translation>ລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນບໍ່ສຳເລັດ.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -3283,7 +3283,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">ກຳນົດເອງ</translation>
+        <translation>ກຳນົດເອງ</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3457,7 +3457,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ຕົກລົງ</translation>
+        <translation>ຕົກລົງ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3650,7 +3650,7 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">ຂ້າມ</translation>
+        <translation>ຂ້າມ</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3658,11 +3658,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">ບໍ່ສາມາດດາວໂຫຼດໄຟລ໌ເກມໄດ້: %1</translation>
+        <translation>ບໍ່ສາມາດດາວໂຫຼດໄຟລ໌ເກມໄດ້: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">ກຳລັງດາວໂຫຼດໄຟລ໌ເກມ</translation>
+        <translation>ກຳລັງດາວໂຫຼດໄຟລ໌ເກມ</translation>
     </message>
 </context>
 <context>
@@ -4653,7 +4653,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">ເພີ່ມ</translation>
+        <translation>ເພີ່ມ</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -5127,7 +5127,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6040,7 +6040,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> ແລະ ທາງລັດທີ່ລົງທະບຽນແລ້ວຂອງມັນ %n ອັນ</numerusform>
+            <numerusform>ແລະ ທາງລັດທີ່ລົງທະບຽນແລ້ວຂອງມັນ %n ອັນ</numerusform>
             <numerusform> ແລະ ທາງລັດທີ່ລົງທະບຽນແລ້ວຂອງມັນ %n ອັນ</numerusform>
         </translation>
     </message>
@@ -6259,7 +6259,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">ຢືນຢັນການອັບເດດ</translation>
+        <translation>ຢືນຢັນການອັບເດດ</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -6626,7 +6626,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">ລຸ້ນເຕັມ (Release)</translation>
+        <translation>ລຸ້ນເຕັມ (Release)</translation>
     </message>
     <message>
         <source>Any</source>
@@ -6749,7 +6749,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">ເພີ່ມ</translation>
+        <translation>ເພີ່ມ</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -7071,10 +7071,8 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod ຈະຖືກເປີດໃຊ້ງານ
-</numerusform>
-            <numerusform>%n mod ຈະຖືກເປີດໃຊ້ງານ
-</numerusform>
+            <numerusform>%n mod ຈະຖືກເປີດໃຊ້ງານ</numerusform>
+            <numerusform>%n mod ຈະຖືກເປີດໃຊ້ງານ</numerusform>
         </translation>
     </message>
     <message>
@@ -7085,10 +7083,8 @@ It is most likely you will need to change the path - please refer to the mod&apo
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod ຈະຖືກປິດໃຊ້ງານ
-</numerusform>
-            <numerusform>%n mod ຈະຖືກປິດໃຊ້ງານ
-</numerusform>
+            <numerusform>%n mod ຈະຖືກປິດໃຊ້ງານ</numerusform>
+            <numerusform>%n mod ຈະຖືກປິດໃຊ້ງານ</numerusform>
         </translation>
     </message>
     <message>
@@ -7457,11 +7453,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">ກຳລັງລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນ...</translation>
+        <translation>ກຳລັງລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນ...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">ລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນບໍ່ສຳເລັດ.</translation>
+        <translation>ລຶບໄຟລ໌ເກົ່າທີ່ຂັດແຍ້ງກັນບໍ່ສຳເລັດ.</translation>
     </message>
 </context>
 <context>
@@ -7645,26 +7641,26 @@ Please update %1!</source>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">ກຳລັງຮ້ອງຂໍ %1</translation>
+        <translation>ກຳລັງຮ້ອງຂໍ %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">ບໍ່ຮູ້ຈັກ</translation>
+        <translation>ບໍ່ຮູ້ຈັກ</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -7677,7 +7673,7 @@ Please update %1!</source>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>ການຮ້ອງຂໍຖືກຈຳກັດເວລາສຳລັບ %n ວິນາທີ: ລອງໃໝ່ຫຼັງຈາກ %1</numerusform>
             <numerusform>ການຮ້ອງຂໍຖືກຈຳກັດເວລາສຳລັບ %n ວິນາທີ: ລອງໃໝ່ຫຼັງຈາກ %1</numerusform>
         </translation>
@@ -7685,7 +7681,7 @@ Please update %1!</source>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>ຖືກຈຳກັດເວລາ: ກຳລັງລໍຖ້າ %n ວິນາທີ</numerusform>
             <numerusform>ຖືກຈຳກັດເວລາ: ກຳລັງລໍຖ້າ %n ວິນາທີ</numerusform>
         </translation>
@@ -8041,11 +8037,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">ຕິດຕັ້ງ</translation>
+        <translation>ຕິດຕັ້ງ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ຍົກເລີກ</translation>
+        <translation>ຍົກເລີກ</translation>
     </message>
 </context>
 <context>
@@ -8224,75 +8220,75 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
+        <translation>ໂໝດການຕິດຕັ້ງບໍ່ຮອງຮັບ</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
+        <translation>ບໍ່ສາມາດດຶງດັດຊະນີ metadata ທ້ອງຖິ່ນສຳລັບ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
+        <translation>ກຳລັງລຶບໄຟລ໌ທີ່ມີຢູ່...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
+        <translation>ບໍ່ຮູ້ຈັກປະເພດມອດ: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
+        <translation>ປະເພດການດາວໂຫຼດບໍ່ຮູ້ຈັກ ຫຼື ບໍ່ຮອງຮັບ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
+        <translation>ກຳລັງດາວໂຫຼດຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">ດາວໂຫຼດ Config</translation>
+        <translation>ດາວໂຫຼດ Config</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
+        <translation>ກຳລັງແຕກໄຟລ໌ຄ່າກຳນົດ (configs)...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">ກຳລັງເລືອກມອດເສີມ...</translation>
+        <translation>ກຳລັງເລືອກມອດເສີມ...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">ດາວໂຫຼດມອດ</translation>
+        <translation>ດາວໂຫຼດມອດ</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
+        <translation>ບໍ່ຮູ້ຈັກປະເພດການດາວໂຫຼດ: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">ພົບມອດທີ່ຖືກບລັອກ</translation>
+        <translation>ພົບມອດທີ່ຖືກບລັອກ</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
+        <translation>ບໍ່ສາມາດແຕກໄຟລ໌ມອດໄດ້...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
+        <translation>ກຳລັງແຕກໄຟລ໌ມອດ...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
+        <translation>ກຳລັງຕິດຕັ້ງມອດແພັກ</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
+        <translation>ບໍ່ສາມາດສ້າງສ່ວນປະກອບຄັງສຳຮອງ (libraries) ໄດ້</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ: </translation>
+        <translation>ບໍ່ຮູ້ຈັກປະເພດຕົວໂຫຼດ:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
+        <translation>ບໍ່ສາມາດສ້າງສ່ວນປະກອບແພັກໄດ້</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -8892,7 +8888,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">ຍົກເລີກ</translation>
+        <translation>ຍົກເລີກ</translation>
     </message>
 </context>
 <context>
@@ -9448,7 +9444,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">ບໍ່ຮູ້ຈັກ</translation>
+        <translation>ບໍ່ຮູ້ຈັກ</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -9580,20 +9576,14 @@ New name: %2</source>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>ອິນສະແຕນສ໌ຕໍ່ໄປນີ້ອາດຈະອ້າງອີງເຖິງໄຟລ໌ໃນອິນສະແຕນສ໌ນີ້:
-
-%1
-
-%2 ມັນອາດຈະເຮັດໃຫ້ອິນສະແຕນສ໌ອື່ນເສຍຫາຍໄດ້, 
-
-ເຈົ້າຕ້ອງການດຳເນີນການຕໍ່ບໍ່?</numerusform>
-            <numerusform>ອິນສະແຕນສ໌ຕໍ່ໄປນີ້ອາດຈະອ້າງອີງເຖິງໄຟລ໌ໃນອິນສະແຕນສ໌ນີ້:
-
-%1
-
-%2 ມັນອາດຈະເຮັດໃຫ້ອິນສະແຕນສ໌ອື່ນເສຍຫາຍໄດ້, 
-
-ເຈົ້າຕ້ອງການດຳເນີນການຕໍ່ບໍ່?</numerusform>
+            <numerusform>ອິນສະແຕນສ໌ຕໍ່ໄປນີ້ອາດຈະອ້າງອີງເຖິງໄຟລ໌ໃນອິນສະແຕນສ໌ນີ້:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 ມັນອາດຈະເຮັດໃຫ້ອິນສະແຕນສ໌ອື່ນເສຍຫາຍໄດ້, </numerusform>
+            <numerusform>ເຈົ້າຕ້ອງການດຳເນີນການຕໍ່ບໍ່?</numerusform>
+            <numerusform>ອິນສະແຕນສ໌ຕໍ່ໄປນີ້ອາດຈະອ້າງອີງເຖິງໄຟລ໌ໃນອິນສະແຕນສ໌ນີ້:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 ມັນອາດຈະເຮັດໃຫ້ອິນສະແຕນສ໌ອື່ນເສຍຫາຍໄດ້, </numerusform>
+            <numerusform>ເຈົ້າຕ້ອງການດຳເນີນການຕໍ່ບໍ່?</numerusform>
         </translation>
     </message>
     <message>
@@ -9749,35 +9739,35 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">ບໍ່ຮູ້ຈັກ</translation>
+        <translation>ບໍ່ຮູ້ຈັກ</translation>
     </message>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">ດາຕ້າແພັກ</translation>
+        <translation>ດາຕ້າແພັກ</translation>
     </message>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">ມັອດ</translation>
+        <translation>ມັອດ</translation>
     </message>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">ຊັບພະຍາກອນແພັກ</translation>
+        <translation>ຊັບພະຍາກອນແພັກ</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">ຊັບພະຍາກອນ</translation>
+        <translation>ຊັບພະຍາກອນ</translation>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">ຊັບພະຍາກອນ</translation>
+        <translation>ຊັບພະຍາກອນ</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">ຊາດເດີແພັກ</translation>
+        <translation>ຊາດເດີແພັກ</translation>
     </message>
     <message>
         <source>texture packs</source>
@@ -9786,7 +9776,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">ບໍ່ສາມາດເປີດໄຟລ໌ %1 ເພື່ອອ່ານໄດ້: %2</translation>
+        <translation>ບໍ່ສາມາດເປີດໄຟລ໌ %1 ເພື່ອອ່ານໄດ້: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -9904,11 +9894,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">ມັອດ</translation>
+        <translation>ມັອດ</translation>
     </message>
     <message>
         <source>resource packs</source>
-        <translation type="unfinished">ຊັບພະຍາກອນແພັກ</translation>
+        <translation>ຊັບພະຍາກອນແພັກ</translation>
     </message>
     <message>
         <source>texture packs</source>
@@ -9916,11 +9906,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">ຊາດເດີແພັກ</translation>
+        <translation>ຊາດເດີແພັກ</translation>
     </message>
     <message>
         <source>data packs</source>
-        <translation type="unfinished">ດາຕ້າແພັກ</translation>
+        <translation>ດາຕ້າແພັກ</translation>
     </message>
     <message>
         <source>resources</source>
@@ -10252,7 +10242,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">ຮູບພາບ</translation>
+        <translation>ຮູບພາບ</translation>
     </message>
 </context>
 <context>
@@ -10838,7 +10828,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">ອອບລາຍ</translation>
+        <translation>ອອບລາຍ</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12041,7 +12031,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">ຕິດຕັ້ງ</translation>
+        <translation>ຕິດຕັ້ງ</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -12171,7 +12161,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ຕົກລົງ</translation>
+        <translation>ຕົກລົງ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -12342,7 +12332,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">ເຄື່ອງມື</translation>
+        <translation>ເຄື່ອງມື</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -12603,7 +12593,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">ຊື່ຜູ້ໃຊ້</translation>
+        <translation>ຊື່ຜູ້ໃຊ້</translation>
     </message>
     <message>
         <source>Password</source>
@@ -12615,7 +12605,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ຍົກເລີກ</translation>
+        <translation>ຍົກເລີກ</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

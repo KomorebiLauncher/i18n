@@ -11,7 +11,7 @@
     <message>
         <source>Paste Service &amp;Type</source>
         <oldsource>Paste Service Type</oldsource>
-        <translation type="unfinished">Տեղադրել ծառայության &amp;տեսակը</translation>
+        <translation>Տեղադրել ծառայության &amp;տեսակը</translation>
     </message>
     <message>
         <source>Base &amp;URL</source>
@@ -96,7 +96,7 @@
     </message>
     <message>
         <source>Mod&amp;rinth</source>
-        <translation type="unfinished">Mod&amp;rinth</translation>
+        <translation>Mod&amp;rinth</translation>
     </message>
     <message>
         <source>Use None</source>
@@ -104,7 +104,7 @@
     </message>
     <message>
         <source>&amp;CurseForge</source>
-        <translation type="unfinished">&amp;CurseForge</translation>
+        <translation>&amp;CurseForge</translation>
     </message>
     <message>
         <source>Look blocked mods up on Modrinth</source>
@@ -233,7 +233,7 @@
     <message>
         <source>Build Date:</source>
         <oldsource>Build Number:</oldsource>
-        <translation type="unfinished">Տարբերակի համարը:</translation>
+        <translation>Տարբերակի համարը:</translation>
     </message>
     <message>
         <source>Commit:</source>
@@ -340,7 +340,7 @@
     <message>
         <source>Remo&amp;ve</source>
         <oldsource>Remove</oldsource>
-        <translation type="unfinished">Հեռացնել</translation>
+        <translation>Հեռացնել</translation>
     </message>
     <message>
         <source>&amp;Set Default</source>
@@ -410,7 +410,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;Microsoft sign-in is currently unavailable because this build&apos;s application has not been approved by Mojang, so an offline profile cannot be created yet. Third-party server accounts are not affected.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
@@ -550,7 +550,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Կարգավորումներ</translation>
+        <translation>Կարգավորումներ</translation>
     </message>
     <message>
         <source>This installation has a update lock file present at: %1
@@ -1007,7 +1007,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
     <message>
         <source>Skip</source>
@@ -1081,7 +1081,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
 </context>
 <context>
@@ -1335,7 +1335,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Օգնություն</translation>
+        <translation>Օգնություն</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1343,7 +1343,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
 </context>
 <context>
@@ -1526,7 +1526,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Անուն</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -1730,7 +1730,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>DataPackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Անուն</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -1814,7 +1814,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -1984,15 +1984,15 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Անուն</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Արժեքը</translation>
+        <translation>Արժեքը</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Ավելացնել</translation>
+        <translation>&amp;Ավելացնել</translation>
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
@@ -2000,7 +2000,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Հեռացնել</translation>
+        <translation>&amp;Հեռացնել</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -2019,7 +2019,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2061,7 +2061,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Անուն:</translation>
+        <translation>&amp;Անուն:</translation>
     </message>
     <message>
         <source>&amp;Version:</source>
@@ -2118,7 +2118,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2134,7 +2134,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2149,7 +2149,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Կարգավորումներ</translation>
+        <translation>Կարգավորումներ</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -2238,7 +2238,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Ֆայլ</translation>
+        <translation>Ֆայլ</translation>
     </message>
 </context>
 <context>
@@ -2257,7 +2257,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Հեռացնել</translation>
+        <translation>&amp;Հեռացնել</translation>
     </message>
     <message>
         <source>&amp;Enable</source>
@@ -2433,7 +2433,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Դիտել</translation>
+        <translation>Դիտել</translation>
     </message>
     <message>
         <source>Used to edit component JSON files.</source>
@@ -2449,15 +2449,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Ավելացնել</translation>
+        <translation>&amp;Ավելացնել</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Հեռացնել</translation>
+        <translation>&amp;Հեռացնել</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Անուն</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2930,7 +2930,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source> by </source>
@@ -3118,7 +3118,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -3173,7 +3173,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -3225,7 +3225,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
 </context>
 <context>
@@ -3272,7 +3272,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3458,7 +3458,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -3612,7 +3612,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -3690,7 +3690,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Հեռացնել</translation>
+        <translation>Հեռացնել</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -3992,7 +3992,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Հիշողություն</translation>
+        <translation>Հիշողություն</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -4016,7 +4016,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Դիտել</translation>
+        <translation>Դիտել</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -4282,7 +4282,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Kill Minecraft?</source>
-        <translation type="unfinished">Սպանե՞լ Minecraft- ը?</translation>
+        <translation>Սպանե՞լ Minecraft- ը?</translation>
     </message>
     <message>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
@@ -4341,7 +4341,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished">Թղթապանակներ</translation>
+        <translation>Թղթապանակներ</translation>
     </message>
     <message>
         <source>I&amp;nstances:</source>
@@ -4378,7 +4378,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Դիտել</translation>
+        <translation>Դիտել</translation>
     </message>
     <message>
         <source>Instance Sorting</source>
@@ -4438,11 +4438,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Ավելացնել</translation>
+        <translation>Ավելացնել</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Հեռացնել</translation>
+        <translation>Հեռացնել</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -4826,7 +4826,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>FTB private packs</source>
@@ -5291,7 +5291,7 @@ Reason:
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Օգնություն</translation>
+        <translation>Օգնություն</translation>
     </message>
     <message>
         <source>Get help with %1 or Minecraft.</source>
@@ -5906,7 +5906,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -5992,7 +5992,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Անուն</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -6180,7 +6180,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -6265,7 +6265,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Դիտել</translation>
+        <translation>Դիտել</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -6452,7 +6452,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Հեռացնել</translation>
+        <translation>Հեռացնել</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -6460,7 +6460,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Ավելացնել</translation>
+        <translation>Ավելացնել</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -6880,7 +6880,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -7016,7 +7016,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -7190,7 +7190,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source> by </source>
@@ -7334,7 +7334,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -7377,7 +7377,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
 </context>
 <context>
@@ -7404,7 +7404,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7412,7 +7412,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Օգնություն</translation>
+        <translation>Օգնություն</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -7443,7 +7443,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Փակել</translation>
+        <translation>Փակել</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -7701,7 +7701,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
 </context>
 <context>
@@ -7824,7 +7824,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Մաքրել</translation>
+        <translation>Մաքրել</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -7972,7 +7972,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Անուն</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
         <source>Version</source>
@@ -7995,7 +7995,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Օգնություն</translation>
+        <translation>Օգնություն</translation>
     </message>
 </context>
 <context>
@@ -8379,7 +8379,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
 </context>
 <context>
@@ -8400,7 +8400,7 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -8452,7 +8452,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Դադարեցնել</translation>
+        <translation>Դադարեցնել</translation>
     </message>
 </context>
 <context>
@@ -8498,7 +8498,7 @@ HTTP Status: %2</source>
     <message>
         <source>&amp;Address and Port</source>
         <oldsource>Address and Port</oldsource>
-        <translation type="unfinished">Հասցե և նավահանգիստ</translation>
+        <translation>Հասցե և նավահանգիստ</translation>
     </message>
     <message>
         <source>Authentication</source>
@@ -8507,7 +8507,7 @@ HTTP Status: %2</source>
     <message>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">Անունը:</translation>
+        <translation>Անունը:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
@@ -9320,7 +9320,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -9371,7 +9371,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -9526,7 +9526,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Անուն</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -9664,7 +9664,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Անուն</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -9703,7 +9703,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -9800,7 +9800,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -9909,7 +9909,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -10060,7 +10060,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
 </context>
 <context>
@@ -10108,7 +10108,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
 </context>
 <context>
@@ -10156,7 +10156,7 @@ Currently installed version: %1</source>
     <name>ServersPage</name>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">Անուն</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
         <source>Address</source>
@@ -10286,7 +10286,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -10443,7 +10443,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -10714,7 +10714,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source> by </source>
@@ -10725,7 +10725,7 @@ inheritsFrom is missing</source>
     <name>TexturePackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Անուն</translation>
+        <translation>Անուն</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -10804,7 +10804,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Սխալ</translation>
+        <translation>Սխալ</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -10869,7 +10869,7 @@ Are you sure?</source>
     <name>TranslationsModel</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Լեզու</translation>
+        <translation>Լեզու</translation>
     </message>
     <message>
         <source>Completeness</source>
@@ -11361,7 +11361,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Լավ</translation>
+        <translation>Լավ</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11498,7 +11498,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Ջնջել</translation>
+        <translation>Ջնջել</translation>
     </message>
     <message>
         <source>Copy Seed</source>

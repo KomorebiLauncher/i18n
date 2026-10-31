@@ -1358,11 +1358,11 @@ Některé verze Minecraftu se nemusí spustit.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Nainstalovat</translation>
+        <translation>Nainstalovat</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
@@ -8840,7 +8840,7 @@ Pro ruční vymazání mezipaměti klikněte na Složky -&gt; Otevřít kořenov
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> a její %n registrovaný zástupce</numerusform>
+            <numerusform>a její %n registrovaný zástupce</numerusform>
             <numerusform> a její %n registrovaní zástupci</numerusform>
             <numerusform> a jejích %n registrovaných zástupců</numerusform>
         </translation>
@@ -9908,7 +9908,7 @@ Nejspíše budete muset změnit cestu – pro více informací viz web modifikac
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Přidat</translation>
+        <translation>Přidat</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -10269,12 +10269,9 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>Bude povolen %n mod
-</numerusform>
-            <numerusform>Budou povoleny %n mody
-</numerusform>
-            <numerusform>Bude povoleno %n modů
-</numerusform>
+            <numerusform>Bude povolen %n mod</numerusform>
+            <numerusform>Budou povoleny %n mody</numerusform>
+            <numerusform>Bude povoleno %n modů</numerusform>
         </translation>
     </message>
     <message>
@@ -10285,12 +10282,9 @@ Varování: Tento zdroj je pevně propojen odjinud. Jeho úpravou se změní i o
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>Bude zakázán %n mod
-</numerusform>
-            <numerusform>Budou zakázány %n mody
-</numerusform>
-            <numerusform>Bude zakázáno %n modů
-</numerusform>
+            <numerusform>Bude zakázán %n mod</numerusform>
+            <numerusform>Budou zakázány %n mody</numerusform>
+            <numerusform>Bude zakázáno %n modů</numerusform>
         </translation>
     </message>
     <message>
@@ -11963,11 +11957,11 @@ POZNÁMKA: Před aktualizací se ujistěte, že jste si vytvořili zálohu důle
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Nainstalovat</translation>
+        <translation>Nainstalovat</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
 </context>
 <context>
@@ -13841,27 +13835,18 @@ Nové jméno: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Následující instance může referovat na soubory této instance:
-
-%1
-
-%2 druhá instance by tím mohla být poškozena, 
-
-Přejete si pokračovat?</numerusform>
-            <numerusform>Následující instance mohou referovat na soubory této instance:
-
-%1
-
-%2 druhé instance by tím mohly být poškozeny, 
-
-Přejete si pokračovat?</numerusform>
-            <numerusform>Následující instance mohou referovat na soubory této instance:
-
-%1
-
-%2 druhé instance by tím mohly být poškozeny, 
-
-Přejete si pokračovat?</numerusform>
+            <numerusform>Následující instance může referovat na soubory této instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 druhá instance by tím mohla být poškozena, </numerusform>
+            <numerusform>Přejete si pokračovat?</numerusform>
+            <numerusform>Následující instance mohou referovat na soubory této instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 druhé instance by tím mohly být poškozeny, </numerusform>
+            <numerusform>Přejete si pokračovat?</numerusform>
+            <numerusform>Následující instance mohou referovat na soubory této instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 druhé instance by tím mohly být poškozeny, </numerusform>
+            <numerusform>Přejete si pokračovat?</numerusform>
         </translation>
     </message>
     <message>
@@ -15216,7 +15201,7 @@ Aktuálně nainstalovaná verze: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verze</translation>
+        <translation>Verze</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -15224,7 +15209,7 @@ Aktuálně nainstalovaná verze: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -16865,7 +16850,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Nainstalovat</translation>
+        <translation>Nainstalovat</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17382,18 +17367,15 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>Chystáte se smazat %n svět.
-Svět tím bude navždy odstraněn (FAKT HODNĚ DLOUHO).
-
-Jste si jistí?</numerusform>
-            <numerusform>Chystáte se smazat %n světy.
-Světy tím budou navždy odstraněny (FAKT HODNĚ DLOUHO).
-
-Jste si jistí?</numerusform>
-            <numerusform>Chystáte se smazat %n světů.
-Světy tím budou navždy odstraněny (FAKT HODNĚ DLOUHO).
-
-Jste si jistí?</numerusform>
+            <numerusform>Chystáte se smazat %n svět.</numerusform>
+            <numerusform>Svět tím bude navždy odstraněn (FAKT HODNĚ DLOUHO).</numerusform>
+            <numerusform>Jste si jistí?</numerusform>
+            <numerusform>Chystáte se smazat %n světy.</numerusform>
+            <numerusform>Světy tím budou navždy odstraněny (FAKT HODNĚ DLOUHO).</numerusform>
+            <numerusform>Jste si jistí?</numerusform>
+            <numerusform>Chystáte se smazat %n světů.</numerusform>
+            <numerusform>Světy tím budou navždy odstraněny (FAKT HODNĚ DLOUHO).</numerusform>
+            <numerusform>Jste si jistí?</numerusform>
         </translation>
     </message>
     <message>
@@ -17664,11 +17646,11 @@ Nastavte prosím svůj účet podle %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Uživatelské jméno</translation>
+        <translation>Uživatelské jméno</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Heslo</translation>
+        <translation>Heslo</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17676,7 +17658,7 @@ Nastavte prosím svůj účet podle %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Zrušit</translation>
+        <translation>Zrušit</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

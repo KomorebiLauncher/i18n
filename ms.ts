@@ -791,11 +791,11 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     </message>
     <message>
         <source>Theme:</source>
-        <translation type="unfinished">Tema:</translation>
+        <translation>Tema:</translation>
     </message>
     <message>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Ikon:</translation>
+        <translation>&amp;Ikon:</translation>
     </message>
     <message>
         <source>Console Font:</source>
@@ -811,7 +811,7 @@ Sila kemas kini kedua-dua sistem pengendalian dan %1 anda.</translation>
     </message>
     <message>
         <source>Fit</source>
-        <translation type="unfinished">Muat</translation>
+        <translation>Muat</translation>
     </message>
     <message>
         <source>Fill</source>
@@ -1258,11 +1258,11 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Pasang</translation>
+        <translation>Pasang</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -1332,7 +1332,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <name>AutoJavaWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Borang</translation>
+        <translation>Borang</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1356,7 +1356,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Memuatkan fail lokal</translation>
+        <translation>Memuatkan fail lokal</translation>
     </message>
 </context>
 <context>
@@ -1382,7 +1382,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1390,7 +1390,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Langkau</translation>
+        <translation>Langkau</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1463,7 +1463,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nama pengguna</translation>
+        <translation>Nama pengguna</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1475,11 +1475,11 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1934,7 +1934,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nama</translation>
+        <translation>Nama</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -2193,19 +2193,19 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nama</translation>
+        <translation>Nama</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Format Pek</translation>
+        <translation>Format Pek</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Kali Terakhir Diubah Suai</translation>
+        <translation>Kali Terakhir Diubah Suai</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Saiz</translation>
+        <translation>Saiz</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2217,7 +2217,7 @@ Sesetengah versi Minecraft mungkin tidak dilancarkan.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versi</translation>
+        <translation>Versi</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2295,7 +2295,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2307,7 +2307,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Amaran</translation>
+        <translation>Amaran</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2319,7 +2319,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Sahkan Pengemaskinian</translation>
+        <translation>Sahkan Pengemaskinian</translation>
     </message>
     <message>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
@@ -2347,7 +2347,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Penyemak kemas kini</translation>
+        <translation>Penyemak kemas kini</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -2545,11 +2545,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2631,7 +2631,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nama:</translation>
+        <translation>&amp;Nama:</translation>
     </message>
     <message>
         <source>&amp;Version:</source>
@@ -2700,11 +2700,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2825,7 +2825,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2885,7 +2885,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cari</translation>
+        <translation>Cari</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2937,7 +2937,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">Sahkan Kebergantungan</translation>
+        <translation>Sahkan Kebergantungan</translation>
     </message>
     <message>
         <source>Export List</source>
@@ -2949,7 +2949,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Ubah Versi</translation>
+        <translation>Ubah Versi</translation>
     </message>
     <message>
         <source>Change a resource&apos;s version.</source>
@@ -3114,11 +3114,11 @@ Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">Alih Kelua&amp;r</translation>
+        <translation>Alih Kelua&amp;r</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nama</translation>
+        <translation>Nama</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3267,7 +3267,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Alatan</translation>
+        <translation>Alatan</translation>
     </message>
 </context>
 <context>
@@ -3333,8 +3333,7 @@ Sila cuba lagi.</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Tidak dapat memahami manifest pek:
-</translation>
+        <translation>Tidak dapat memahami manifest pek:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -3350,7 +3349,7 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Fail berikut tidak tersedia untuk dimuat turun dalam pelancar pihak ketiga.&lt;br/&gt;Anda perlu memuat turunnya secara manual dan menambahkannya ke dalam pemasangan.</translation>
+        <translation>Fail berikut tidak tersedia untuk dimuat turun dalam pelancar pihak ketiga.&lt;br/&gt;Anda perlu memuat turunnya secara manual dan menambahkannya ke dalam pemasangan.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -3362,7 +3361,7 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Muat turun mod</translation>
+        <translation>Muat turun mod</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -3370,11 +3369,11 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Menyalin Mod yang Disekat...</translation>
+        <translation>Menyalin Mod yang Disekat...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Menyalin Mod Disekat (%1 daripada %2 telah selesai)</translation>
+        <translation>Menyalin Mod Disekat (%1 daripada %2 telah selesai)</translation>
     </message>
 </context>
 <context>
@@ -3453,7 +3452,7 @@ Sila cuba lagi.</translation>
     <message>
         <source>Preparing resources for CurseForge...</source>
         <oldsource>Preparing mods for CurseForge...</oldsource>
-        <translation type="unfinished">Menyediakan mod untuk CurseForge...</translation>
+        <translation>Menyediakan mod untuk CurseForge...</translation>
     </message>
     <message>
         <source>Disabled mods won&apos;t be updated, to prevent mod duplication issues!</source>
@@ -3486,11 +3485,11 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Tidak dipasang</translation>
+        <translation>Tidak dipasang</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Tidak diketahui</translation>
+        <translation>Tidak diketahui</translation>
     </message>
     <message>
         <source>Preparing mods for CurseForge...</source>
@@ -3613,11 +3612,11 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Sedang mengalih keluar fail lama yang bercanggah...</translation>
+        <translation>Sedang mengalih keluar fail lama yang bercanggah...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Gagal mengalih keluar fail lama yang bercanggah.</translation>
+        <translation>Gagal mengalih keluar fail lama yang bercanggah.</translation>
     </message>
     <message>
         <source>This &apos;Folder&apos; may need extracting: %1</source>
@@ -3703,7 +3702,7 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Pilihan penapis</translation>
+        <translation>Pilihan penapis</translation>
     </message>
     <message>
         <source>Search and filter...</source>
@@ -3793,18 +3792,18 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Isih Mengikut Nama</translation>
+        <translation>Isih Mengikut Nama</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Versi yang dipilih:</translation>
+        <translation>Versi yang dipilih:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Cari dan tapis...</translation>
+        <translation>Cari dan tapis...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3914,7 +3913,7 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished">Legasi</translation>
+        <translation>Legasi</translation>
     </message>
     <message>
         <source>Modpacks</source>
@@ -3922,7 +3921,7 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Tersuai</translation>
+        <translation>Tersuai</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3934,11 +3933,11 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -4041,11 +4040,11 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -4089,11 +4088,11 @@ Sila cuba lagi.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>NeoForge</source>
@@ -4260,7 +4259,7 @@ What would you like to do with %2?</source>
     <message>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Log-log lain</translation>
+        <translation>Log-log lain</translation>
     </message>
     <message>
         <source>Edit Instance (%1)</source>
@@ -4579,11 +4578,11 @@ Sila pastikan nilai memori maximum rendah.</translation>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Langkau</translation>
+        <translation>Langkau</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -4737,7 +4736,7 @@ Sila pastikan nilai memori maximum rendah.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Mojang</source>
@@ -4757,15 +4756,15 @@ Sila pastikan nilai memori maximum rendah.</translation>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Pasang Java</translation>
+        <translation>Pasang Java</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Tidak dapat menentukan jenis muat turun Java!</translation>
+        <translation>Tidak dapat menentukan jenis muat turun Java!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4906,11 +4905,11 @@ Sila pastikan nilai memori maximum rendah.</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Alih keluar</translation>
+        <translation>Alih keluar</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Segar Semula</translation>
+        <translation>Segar Semula</translation>
     </message>
     <message>
         <source>&amp;Auto-detect...</source>
@@ -4987,7 +4986,7 @@ Sila pastikan nilai memori maximum rendah.</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Pastikan Pemadaman</translation>
+        <translation>Pastikan Pemadaman</translation>
     </message>
     <message>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
@@ -5070,7 +5069,7 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Borang</translation>
+        <translation>Borang</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -5106,7 +5105,7 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     </message>
     <message>
         <source>If enabled, the launcher will not check if an instance is compatible with the selected Java version.</source>
-        <translation type="unfinished">Jika didayakan, pelancar tidak akan menyemak sama ada pemasangan itu serasi dengan versi Java yang dipilih.</translation>
+        <translation>Jika didayakan, pelancar tidak akan menyemak sama ada pemasangan itu serasi dengan versi Java yang dipilih.</translation>
     </message>
     <message>
         <source>&amp;Detect</source>
@@ -5126,7 +5125,7 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Langkau semakan keserasian Java</translation>
+        <translation>Langkau semakan keserasian Java</translation>
     </message>
     <message>
         <source>&amp;Allowed Java versions</source>
@@ -5234,19 +5233,17 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Pilih versi Java</translation>
+        <translation>Pilih versi Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Sahkan Pemilihan</translation>
+        <translation>Sahkan Pemilihan</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Anda telah pilih Java versi 32-bit.
-Pemasangan ini tidak menyokong lebih daripada 2048MiB RAM.
-Sila pastikan nilai memori maximum rendah.</translation>
+        <translation>Anda telah pilih Java versi 32-bit.</translation>
     </message>
     <message>
         <source>%1 mods installed here, so %2 MiB of heap.</source>
@@ -5317,7 +5314,7 @@ Sila pilih salah satu daripada yang berikut atau semak imbas untuk executable Ja
     <name>JavaWizardWidget</name>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished">Muat turun Java</translation>
+        <translation>Muat turun Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
@@ -5330,16 +5327,11 @@ Do you wish to proceed?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Anda memilih pemasangan Java 32-bit, tetapi memperuntukkan lebih daripada 2048MiB sebagai memori maksimum.
-%1 tidak akan dapat memulakan Minecraft.
-Adakah anda ingin meneruskan?
-
-Anda boleh menukar versi Java dalam tetapan kemudian.
-</translation>
+        <translation>Anda memilih pemasangan Java 32-bit, tetapi memperuntukkan lebih daripada 2048MiB sebagai memori maksimum.</translation>
     </message>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished">Tiada versi Java dipilih</translation>
+        <translation>Tiada versi Java dipilih</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -5348,20 +5340,15 @@ Do you wish to proceed without a functional version of Java?
 
 You can change the Java version in the settings later.
 </source>
-        <translation type="unfinished">Anda sama ada tidak memilih versi Java atau memilih versi yang tidak berfungsi.
-%1 tidak akan dapat memulakan Minecraft.
-Adakah anda ingin meneruskan tanpa versi Java yang berfungsi?
-
-Anda boleh menukar versi Java dalam tetapan kemudian.
-</translation>
+        <translation>Anda sama ada tidak memilih versi Java atau memilih versi yang tidak berfungsi.</translation>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Cari fail Java</translation>
+        <translation>Cari fail Java</translation>
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Ingatan</translation>
+        <translation>Ingatan</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -5385,11 +5372,11 @@ Anda boleh menukar versi Java dalam tetapan kemudian.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Gelintar</translation>
+        <translation>Gelintar</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Memuat turun Mojang Java secara automatik</translation>
+        <translation>Memuat turun Mojang Java secara automatik</translation>
     </message>
     <message>
         <source>Auto-detect Java version</source>
@@ -5957,7 +5944,7 @@ Anda mungkin perlu membetulkan mod anda kerana permainan masih mengelog masuk ke
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Tambah</translation>
+        <translation>Tambah</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -6299,7 +6286,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Umum</translation>
+        <translation>Umum</translation>
     </message>
 </context>
 <context>
@@ -6336,11 +6323,11 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Menyemak pustaka FML...</translation>
+        <translation>Menyemak pustaka FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Memuat turun pustaka FML...</translation>
+        <translation>Memuat turun pustaka FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6348,15 +6335,15 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Menyalin pustaka FML ke dalam pemasangan...</translation>
+        <translation>Menyalin pustaka FML ke dalam pemasangan...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Gagal membuat folder pustaka FML di dalam pemasangan.</translation>
+        <translation>Gagal membuat folder pustaka FML di dalam pemasangan.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Gagal menyalin pustaka Forge/FML: %1.</translation>
+        <translation>Gagal menyalin pustaka Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6364,11 +6351,7 @@ Memberi %1 akses kepadanya melalui Flatseal adalah disyorkan.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Gagal memuat turun fail berikut:
-%1
-
-Sebab:%2
-Sila cuba lagi.</translation>
+        <translation>Gagal memuat turun fail berikut:</translation>
     </message>
 </context>
 <context>
@@ -6435,7 +6418,7 @@ Sila cuba lagi.</translation>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Gagal memindahkan Minecraft yang dinyahzip!</translation>
+        <translation>Gagal memindahkan Minecraft yang dinyahzip!</translation>
     </message>
     <message>
         <source>No installation method found!</source>
@@ -6559,7 +6542,7 @@ Sebab:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6585,7 +6568,7 @@ Sebab:
     </message>
     <message>
         <source>Invalid metadata</source>
-        <translation type="unfinished">Metadata tidak sah</translation>
+        <translation>Metadata tidak sah</translation>
     </message>
 </context>
 <context>
@@ -6628,7 +6611,7 @@ Sebab:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cari</translation>
+        <translation>Cari</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -6700,7 +6683,7 @@ Sebab:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Borang</translation>
+        <translation>Borang</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6876,7 +6859,7 @@ Sebab:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -7875,7 +7858,7 @@ Pastikan anda juga mempercayai URL tersebut.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Kemas Kini Gagal</translation>
+        <translation>Kemas Kini Gagal</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -7891,7 +7874,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Sahkan Pengemaskinian</translation>
+        <translation>Sahkan Pengemaskinian</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -8190,11 +8173,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Tetapan di sini adalah penggantian untuk tetapan global.</translation>
+        <translation>Tetapan di sini adalah penggantian untuk tetapan global.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Umum</translation>
+        <translation>Umum</translation>
     </message>
     <message>
         <source>Game &amp;Window</source>
@@ -8210,7 +8193,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Mulakan Minecraft dalam skrin penuh</translation>
+        <translation>Mulakan Minecraft dalam skrin penuh</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -8266,11 +8249,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="unfinished">Penyesuaian</translation>
+        <translation>Penyesuaian</translation>
     </message>
     <message>
         <source>&amp;Legacy Tweaks</source>
@@ -8278,11 +8261,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Meniru penggunaan perkhidmatan dalam talian lama yang tidak lagi beroperasi.&lt;/p&gt;&lt;p&gt;Pembetulan semasa termasuk: sokongan kekulit dan mod dalam talian.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Meniru penggunaan perkhidmatan dalam talian lama yang tidak lagi beroperasi.&lt;/p&gt;&lt;p&gt;Pembetulan semasa termasuk: sokongan kekulit dan mod dalam talian.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Dayakan pembetulan dalam talian (percubaan)</translation>
+        <translation>Dayakan pembetulan dalam talian (percubaan)</translation>
     </message>
     <message>
         <source>&amp;Native Libraries</source>
@@ -8290,7 +8273,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Gunakan pemasangan OpenAL sistem</translation>
+        <translation>Gunakan pemasangan OpenAL sistem</translation>
     </message>
     <message>
         <source>&amp;GLFW library path</source>
@@ -8298,7 +8281,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Gunakan pemasangan GLFW sistem</translation>
+        <translation>Gunakan pemasangan GLFW sistem</translation>
     </message>
     <message>
         <source>&amp;OpenAL library path</source>
@@ -8356,7 +8339,7 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Gelintar</translation>
+        <translation>Gelintar</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -8380,23 +8363,23 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -8424,7 +8407,7 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Terbitan</translation>
+        <translation>Terbitan</translation>
     </message>
     <message>
         <source>Any</source>
@@ -8452,35 +8435,35 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dayakan Mod Permainan Feral Interactive, untuk berpotensi meningkatkan prestasi permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dayakan Mod Permainan Feral Interactive, untuk berpotensi meningkatkan prestasi permainan.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Dayakan Mod Permainan Feral</translation>
+        <translation>Dayakan Mod Permainan Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dayakan tindanan prestasi lanjutan MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Dayakan tindanan prestasi lanjutan MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Dayakan MangoHud</translation>
+        <translation>Dayakan MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU diskret dan bukan GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Gunakan GPU diskret dan bukan GPU utama.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Gunakan GPU diskret</translation>
+        <translation>Gunakan GPU diskret</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Gunakan Zink, sebuah pemacu Mesa OpenGL yang melaksanakan OpenGL di atas Vulkan. Prestasi mungkin berbeza bergantung pada keadaan. Nota: Jika tiada pemacu Vulkan yang sesuai ditemui, pemaparan perisian akan digunakan.</translation>
+        <translation>Gunakan Zink, sebuah pemacu Mesa OpenGL yang melaksanakan OpenGL di atas Vulkan. Prestasi mungkin berbeza bergantung pada keadaan. Nota: Jika tiada pemacu Vulkan yang sesuai ditemui, pemaparan perisian akan digunakan.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Gunakan Zink</translation>
+        <translation>Gunakan Zink</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -8488,11 +8471,11 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Akaun:</translation>
+        <translation>Akaun:</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Alamat pelayan:</translation>
+        <translation>Alamat pelayan:</translation>
     </message>
     <message>
         <source>Singleplayer world</source>
@@ -8500,7 +8483,7 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Perintah Tersuai</translation>
+        <translation>Perintah Tersuai</translation>
     </message>
     <message>
         <source>Environment Variables</source>
@@ -8520,11 +8503,11 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">Mod Permainan Feral Interactive tidak ditemui pada sistem anda.</translation>
+        <translation>Mod Permainan Feral Interactive tidak ditemui pada sistem anda.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">MangoHud tidak dapat ditemui pada sistem anda.</translation>
+        <translation>MangoHud tidak dapat ditemui pada sistem anda.</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
@@ -8562,7 +8545,7 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Tambah</translation>
+        <translation>Tambah</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -8613,7 +8596,7 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -8681,7 +8664,7 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Tidak diketahui</translation>
+        <translation>Tidak diketahui</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -8749,7 +8732,7 @@ Kemungkinan besar anda perlu menukar laluan - sila rujuk laman sesawang mod ters
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Semua Versi</translation>
+        <translation>Semua Versi</translation>
     </message>
 </context>
 <context>
@@ -9311,19 +9294,19 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Tidak dipasang</translation>
+        <translation>Tidak dipasang</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Tidak diketahui</translation>
+        <translation>Tidak diketahui</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Tiada versi yang sah dijumpai untuk sumber ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod.</translation>
+        <translation>Tiada versi yang sah dijumpai untuk sumber ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod.</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Tiada versi yang sah dijumpai untuk sumber ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod.</translation>
+        <translation>Tiada versi yang sah dijumpai untuk sumber ini. Ia mungkin tidak tersedia untuk versi permainan / pemuat mod.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -9382,11 +9365,11 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Sedang mengalih keluar fail lama yang bercanggah...</translation>
+        <translation>Sedang mengalih keluar fail lama yang bercanggah...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Gagal mengalih keluar fail lama yang bercanggah.</translation>
+        <translation>Gagal mengalih keluar fail lama yang bercanggah.</translation>
     </message>
     <message>
         <source>One or more mods from this modpack are optional. They will be downloaded, but disabled by default!</source>
@@ -9520,11 +9503,11 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Pilihan penapis</translation>
+        <translation>Pilihan penapis</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Cari dan tapis...</translation>
+        <translation>Cari dan tapis...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -9610,26 +9593,26 @@ Sila kemas kini %1!</translation>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">Sedang meminta %1</translation>
+        <translation>Sedang meminta %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 daripada %2</translation>
+        <translation>%1 daripada %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">tidak diketahui</translation>
+        <translation>tidak diketahui</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /saat (%2)</translation>
+        <translation>%1 /saat (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -9642,14 +9625,14 @@ Sila kemas kini %1!</translation>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Kadar Permintaan Terhad untuk %n saat: Cuba Semula Selepas %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Kadar Terhad: Menunggu %n saat</numerusform>
         </translation>
     </message>
@@ -9684,11 +9667,11 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -9727,11 +9710,11 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -9758,15 +9741,15 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Bantuan</translation>
+        <translation>Bantuan</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -10049,11 +10032,11 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Pasang</translation>
+        <translation>Pasang</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
 </context>
 <context>
@@ -10076,11 +10059,11 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10119,11 +10102,11 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Teruskan mengemas kini</translation>
+        <translation>Teruskan mengemas kini</translation>
     </message>
     <message>
         <source>Wrap lines</source>
-        <translation type="unfinished">Bungkus baris</translation>
+        <translation>Bungkus baris</translation>
     </message>
     <message>
         <source>Color lines</source>
@@ -10155,7 +10138,7 @@ Sila kemas kini %1!</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cari</translation>
+        <translation>Cari</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -10223,7 +10206,7 @@ Adakah anda pasti?</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Bersihkan</translation>
+        <translation>Bersihkan</translation>
     </message>
     <message>
         <source>Unable to delete %1: %2</source>
@@ -10231,7 +10214,7 @@ Adakah anda pasti?</translation>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Tidak dapat memaparkan log tersebut kerana panjang log melebihi % 1 baris.</translation>
+        <translation>Tidak dapat memaparkan log tersebut kerana panjang log melebihi % 1 baris.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -10261,96 +10244,95 @@ Adakah anda pasti?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Tidak dapat memahami manifest pek:
-</translation>
+        <translation>Tidak dapat memahami manifest pek:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Mod pemasangan tidak disokong</translation>
+        <translation>Mod pemasangan tidak disokong</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Gagal mendapatkan indeks metadata tempatan untuk &apos;%1&apos; v%2</translation>
+        <translation>Gagal mendapatkan indeks metadata tempatan untuk &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Memadamkan fail sedia ada...</translation>
+        <translation>Memadamkan fail sedia ada...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Jenis mod tidak diketahui: %1</translation>
+        <translation>Jenis mod tidak diketahui: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Gagal mendapatkan indeks metadata tempatan untuk %1</translation>
+        <translation>Gagal mendapatkan indeks metadata tempatan untuk %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Gagal mencari versi untuk pemuat %1</translation>
+        <translation>Gagal mencari versi untuk pemuat %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Tiada versi pemuat ditetapkan untuk pek mod!</translation>
+        <translation>Tiada versi pemuat ditetapkan untuk pek mod!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Jenis muat turun tidak diketahui atau tidak disokong: %1</translation>
+        <translation>Jenis muat turun tidak diketahui atau tidak disokong: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Memuat turun konfigurasi...</translation>
+        <translation>Memuat turun konfigurasi...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Muat turun konfigurasi</translation>
+        <translation>Muat turun konfigurasi</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Mengekstrak konfigurasi...</translation>
+        <translation>Mengekstrak konfigurasi...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Memilih mod pilihan...</translation>
+        <translation>Memilih mod pilihan...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Muat turun mod</translation>
+        <translation>Muat turun mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Jenis muat turun tidak diketahui: %1</translation>
+        <translation>Jenis muat turun tidak diketahui: %1</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Fail berikut tidak tersedia untuk dimuat turun dalam pelancar pihak ketiga.&lt;br/&gt;Anda perlu memuat turunnya secara manual dan menambahkannya ke dalam pemasangan.</translation>
+        <translation>Fail berikut tidak tersedia untuk dimuat turun dalam pelancar pihak ketiga.&lt;br/&gt;Anda perlu memuat turunnya secara manual dan menambahkannya ke dalam pemasangan.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 daripada %2 selesai</translation>
+        <translation>%1 daripada %2 selesai</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Gagal untuk mengekstrak mod...</translation>
+        <translation>Gagal untuk mengekstrak mod...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Mengekstrak mod...</translation>
+        <translation>Mengekstrak mod...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Memasang pek mod</translation>
+        <translation>Memasang pek mod</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Gagal mencipta komponen pustaka</translation>
+        <translation>Gagal mencipta komponen pustaka</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Jenis pemuat tidak diketahui: </translation>
+        <translation>Jenis pemuat tidak diketahui:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Gagal untuk membuat komponen pakej</translation>
+        <translation>Gagal untuk membuat komponen pakej</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -10396,7 +10378,7 @@ Adakah anda pasti?</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Bantuan</translation>
+        <translation>Bantuan</translation>
     </message>
 </context>
 <context>
@@ -10827,11 +10809,11 @@ Untuk menulis ganti kunci ini dan teruskan dengan kemas kini ini, pilih &quot;Ab
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10850,11 +10832,11 @@ Pilih nama anda dengan teliti:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -10906,7 +10888,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Batalkan</translation>
+        <translation>Batalkan</translation>
     </message>
 </context>
 <context>
@@ -11117,7 +11099,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (sedang digunakan)</translation>
+        <translation>%1 (sedang digunakan)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -11488,7 +11470,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Tidak diketahui</translation>
+        <translation>Tidak diketahui</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -11521,47 +11503,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Tidak diperiksa</translation>
+        <translation>Tidak diperiksa</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Luar talian</translation>
+        <translation>Luar talian</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Bersedia</translation>
+        <translation>Bersedia</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Berfungsi</translation>
+        <translation>Berfungsi</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Telah ralat</translation>
+        <translation>Telah ralat</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Telah luput</translation>
+        <translation>Telah luput</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Dinyahdaya</translation>
+        <translation>Dinyahdaya</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Hilang</translation>
+        <translation>Hilang</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Tidak diketahui</translation>
+        <translation>Tidak diketahui</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -11606,7 +11588,7 @@ New name: %2</source>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="unfinished">Terdapat pemasangan yang dipaut</translation>
+        <translation>Terdapat pemasangan yang dipaut</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -11642,7 +11624,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Cipta Pintasan</translation>
+        <translation>Cipta Pintasan</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
@@ -11678,7 +11660,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Tidak dapat menemukan desktop?!</translation>
+        <translation>Tidak dapat menemukan desktop?!</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1 on your desktop!</source>
@@ -11698,7 +11680,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Entri Desktop</translation>
+        <translation>Entri Desktop</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1!</source>
@@ -11752,7 +11734,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>%1 Developers</source>
-        <translation type="unfinished">Pembangun %1</translation>
+        <translation>Pembangun %1</translation>
     </message>
     <message>
         <source>MultiMC Developers</source>
@@ -11768,7 +11750,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Tidak dikenali</translation>
+        <translation>Tidak dikenali</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11778,30 +11760,30 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">mod</translation>
+        <translation>mod</translation>
     </message>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">pek sumber</translation>
+        <translation>pek sumber</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">sumber</translation>
+        <translation>sumber</translation>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">sumber</translation>
+        <translation>sumber</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">pek pembayang</translation>
+        <translation>pek pembayang</translation>
     </message>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">pek tekstur</translation>
+        <translation>pek tekstur</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
@@ -11909,19 +11891,19 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">mod</translation>
+        <translation>mod</translation>
     </message>
     <message>
         <source>resource packs</source>
-        <translation type="unfinished">pek sumber</translation>
+        <translation>pek sumber</translation>
     </message>
     <message>
         <source>texture packs</source>
-        <translation type="unfinished">pek tekstur</translation>
+        <translation>pek tekstur</translation>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">pek pembayang</translation>
+        <translation>pek pembayang</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -12079,7 +12061,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -12184,7 +12166,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versi</translation>
+        <translation>Versi</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12192,7 +12174,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Penyedia</translation>
+        <translation>Penyedia</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -12204,7 +12186,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Sahkan togol</translation>
+        <translation>Sahkan togol</translation>
     </message>
     <message>
         <source>If you enable/disable this resource while the game is running it may crash your game.
@@ -12254,7 +12236,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imej</translation>
+        <translation>Imej</translation>
     </message>
 </context>
 <context>
@@ -12273,7 +12255,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versi</translation>
+        <translation>Versi</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12281,7 +12263,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Penyedia</translation>
+        <translation>Penyedia</translation>
     </message>
     <message>
         <source>Update</source>
@@ -12367,7 +12349,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Muat Turun Pek</translation>
+        <translation>Muat Turun Pek</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -12379,7 +12361,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Tukar versi mod.</translation>
+        <translation>Tukar versi mod.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -12407,7 +12389,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Sahkan Pengemaskinian</translation>
+        <translation>Sahkan Pengemaskinian</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -12419,7 +12401,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; sudah dikemas kini! :)</translation>
+        <translation>&apos;%1&apos; sudah dikemas kini! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -12431,7 +12413,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Penyemak kemas kini</translation>
+        <translation>Penyemak kemas kini</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -12482,7 +12464,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">Penjanaan metadata gagal</translation>
+        <translation>Penjanaan metadata gagal</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
@@ -12490,15 +12472,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="unfinished">Menyemak untuk kemas kini</translation>
+        <translation>Menyemak untuk kemas kini</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Ralat</translation>
+        <translation>Ralat</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Amaran</translation>
+        <translation>Amaran</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12506,15 +12488,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Sedang menyemak untuk sebarang kemas kini...</translation>
+        <translation>Sedang menyemak untuk sebarang kemas kini...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Nama mod: %1</translation>
+        <translation>Nama mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="unfinished">Sebab: %1</translation>
+        <translation>Sebab: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
@@ -12539,11 +12521,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Tidak dipasang</translation>
+        <translation>Tidak dipasang</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Sedang mencari metadata</translation>
+        <translation>Sedang mencari metadata</translation>
     </message>
     <message>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
@@ -12551,7 +12533,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Menjana metadata...</translation>
+        <translation>Menjana metadata...</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -12564,15 +12546,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="unfinished">Penyedia: %1</translation>
+        <translation>Penyedia: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="unfinished">Versi lama: %1</translation>
+        <translation>Versi lama: %1</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="unfinished">Versi baharu: %1</translation>
+        <translation>Versi baharu: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
@@ -12584,7 +12566,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="unfinished">Diperlukan oleh:</translation>
+        <translation>Diperlukan oleh:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
@@ -12599,11 +12581,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -12770,11 +12752,11 @@ Adakah anda pasti?</translation>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12818,11 +12800,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -12855,7 +12837,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versi</translation>
+        <translation>Versi</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12863,7 +12845,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Luar talian</translation>
+        <translation>Luar talian</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12926,7 +12908,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Segar Semula</translation>
+        <translation>Segar Semula</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -13003,7 +12985,7 @@ Adakah anda pasti?</translation>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Muat Turun Pek</translation>
+        <translation>Muat Turun Pek</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -13043,7 +13025,7 @@ Adakah anda pasti?</translation>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Sahkan Pengemaskinian</translation>
+        <translation>Sahkan Pengemaskinian</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -13055,7 +13037,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; sudah dikemas kini! :)</translation>
+        <translation>&apos;%1&apos; sudah dikemas kini! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -13067,7 +13049,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Penyemak kemas kini</translation>
+        <translation>Penyemak kemas kini</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -13189,11 +13171,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -13376,22 +13358,20 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Dibatalkan</translation>
+        <translation>Dibatalkan</translation>
     </message>
 </context>
 <context>
     <name>TaskStepWrapper</name>
     <message>
         <source>Task aborted.</source>
-        <translation type="unfinished">Tugasan dibatalkan.</translation>
+        <translation>Tugasan dibatalkan.</translation>
     </message>
     <message>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">Pengemaskinian pemasangan gagal kerana: %1
-
-</translation>
+        <translation>Pengemaskinian pemasangan gagal kerana: %1</translation>
     </message>
 </context>
 <context>
@@ -13558,7 +13538,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Penyedia</translation>
+        <translation>Penyedia</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -13623,7 +13603,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Muat Turun Pek</translation>
+        <translation>Muat Turun Pek</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -13667,7 +13647,7 @@ Amaran: Sumber ini dipautkan secara keras di tempat lain. Menyuntingnya juga aka
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Sahkan Pengemaskinian</translation>
+        <translation>Sahkan Pengemaskinian</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -13679,7 +13659,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; sudah dikemas kini! :)</translation>
+        <translation>&apos;%1&apos; sudah dikemas kini! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -13691,7 +13671,7 @@ Adakah anda pasti mahu melakukan ini?</translation>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Penyemak kemas kini</translation>
+        <translation>Penyemak kemas kini</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -13987,7 +13967,7 @@ Sila tukar kepada salah satu daripada versi Java berikut untuk pemasangan ini:</
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cari</translation>
+        <translation>Cari</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -14202,7 +14182,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Pasang</translation>
+        <translation>Pasang</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -14329,11 +14309,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -14451,7 +14431,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Sertai</translation>
+        <translation>Sertai</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -14491,7 +14471,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Alatan</translation>
+        <translation>Alatan</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -14782,7 +14762,7 @@ Sila sediakan akaun anda mengikut %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nama pengguna</translation>
+        <translation>Nama pengguna</translation>
     </message>
     <message>
         <source>Password</source>
@@ -14794,7 +14774,7 @@ Sila sediakan akaun anda mengikut %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Batal</translation>
+        <translation>Batal</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

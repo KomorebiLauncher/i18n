@@ -1379,11 +1379,11 @@ Algumas versões do Minecraft podem não iniciar.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -8906,7 +8906,7 @@ Para limpar a metadata de cache manualmente, vá em Pastas -&gt; Raiz do Launche
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> -e seu atalho registrado %n</numerusform>
+            <numerusform>-e seu atalho registrado %n</numerusform>
             <numerusform> -e seus atalhos registrados %n</numerusform>
         </translation>
     </message>
@@ -10374,10 +10374,8 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod será ativado
-</numerusform>
-            <numerusform>%n mods serão ativados
-</numerusform>
+            <numerusform>%n mod será ativado</numerusform>
+            <numerusform>%n mods serão ativados</numerusform>
         </translation>
     </message>
     <message>
@@ -10388,10 +10386,8 @@ Aviso: Este recurso tem links físicos em outro lugar. Sua edição também alte
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod será desabilitado
-</numerusform>
-            <numerusform>%n mods serão desabilitados
-</numerusform>
+            <numerusform>%n mod será desabilitado</numerusform>
+            <numerusform>%n mods serão desabilitados</numerusform>
         </translation>
     </message>
     <message>
@@ -12038,11 +12034,11 @@ NOTA: Certifique-se de fazer um backup dos dados importantes da instância antes
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -13931,20 +13927,14 @@ Nome novo: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>A seguinte instância pode referenciar arquivos nesta instância:
-
-%1
-
-%2 pode fazer com que a outra instância pare de funcionar,
-
-Você quer prosseguir?</numerusform>
-            <numerusform>As seguintes instâncias podem referenciar arquivos nesta instância:
-
-%1
-
-%2 pode fazer com que as outras instâncias parem de funcionar,
-
-Você quer prosseguir?</numerusform>
+            <numerusform>A seguinte instância pode referenciar arquivos nesta instância:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 pode fazer com que a outra instância pare de funcionar,</numerusform>
+            <numerusform>Você quer prosseguir?</numerusform>
+            <numerusform>As seguintes instâncias podem referenciar arquivos nesta instância:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 pode fazer com que as outras instâncias parem de funcionar,</numerusform>
+            <numerusform>Você quer prosseguir?</numerusform>
         </translation>
     </message>
     <message>
@@ -15303,7 +15293,7 @@ Versão atualmente instalada: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versão</translation>
+        <translation>Versão</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -15311,7 +15301,7 @@ Versão atualmente instalada: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -16956,7 +16946,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17473,14 +17463,12 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>Você está prestes a deletar %n world.
-Esse mundo talvez pode ser perdido para sempre (UM LONGO TEMPO).
-
-Você tem certeza?</numerusform>
-            <numerusform>Você está prestes a deletar %n worlds.
-Esses mundos talvez podem ser perdidos para sempre (UM LONGO TEMPO).
-
-Você tem certeza?</numerusform>
+            <numerusform>Você está prestes a deletar %n world.</numerusform>
+            <numerusform>Esse mundo talvez pode ser perdido para sempre (UM LONGO TEMPO).</numerusform>
+            <numerusform>Você tem certeza?</numerusform>
+            <numerusform>Você está prestes a deletar %n worlds.</numerusform>
+            <numerusform>Esses mundos talvez podem ser perdidos para sempre (UM LONGO TEMPO).</numerusform>
+            <numerusform>Você tem certeza?</numerusform>
         </translation>
     </message>
     <message>
@@ -17751,11 +17739,11 @@ Configure a sua conta conforme o %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nome de usuário</translation>
+        <translation>Nome de usuário</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Senha</translation>
+        <translation>Senha</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17763,7 +17751,7 @@ Configure a sua conta conforme o %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

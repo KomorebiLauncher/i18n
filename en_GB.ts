@@ -1375,11 +1375,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Install</translation>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -1473,7 +1473,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Loading local file</translation>
+        <translation>Loading local file</translation>
     </message>
 </context>
 <context>
@@ -2346,11 +2346,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -3152,19 +3152,19 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Lock Updates</source>
-        <translation type="unfinished">Lock Updates</translation>
+        <translation>Lock Updates</translation>
     </message>
     <message>
         <source>Lock the resource to prevent it from being updated</source>
-        <translation type="unfinished">Lock the resource to prevent it from being updated</translation>
+        <translation>Lock the resource to prevent it from being updated</translation>
     </message>
     <message>
         <source>Unlock Updates</source>
-        <translation type="unfinished">Unlock Updates</translation>
+        <translation>Unlock Updates</translation>
     </message>
     <message>
         <source>Unlock the resource to allow it to be updated</source>
-        <translation type="unfinished">Unlock the resource to allow it to be updated</translation>
+        <translation>Unlock the resource to allow it to be updated</translation>
     </message>
     <message>
         <source>Download a new resource</source>
@@ -3305,15 +3305,15 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Add</translation>
+        <translation>&amp;Add</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Remove</translation>
+        <translation>&amp;Remove</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>Command</source>
@@ -6213,7 +6213,7 @@ Do you want to play the demo?</translation>
     </message>
     <message>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished">Disable profiler on next launch</translation>
+        <translation>Disable profiler on next launch</translation>
     </message>
     <message>
         <source>&amp;Launch</source>
@@ -6722,7 +6722,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance &amp;Icons:</source>
-        <translation type="unfinished">Instance &amp; Icons:</translation>
+        <translation>Instance &amp; Icons:</translation>
     </message>
     <message>
         <source>&amp;Mods (Quick Access):</source>
@@ -6730,7 +6730,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Additional Instance Folders</source>
-        <translation type="unfinished">Additional Instance Folders</translation>
+        <translation>Additional Instance Folders</translation>
     </message>
     <message>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
@@ -6893,7 +6893,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished">All (Release, Beta, Alpha)</translation>
+        <translation>All (Release, Beta, Alpha)</translation>
     </message>
     <message>
         <source>Release only</source>
@@ -7386,7 +7386,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8871,7 +8871,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> and its %n registered shortcut</numerusform>
+            <numerusform>and its %n registered shortcut</numerusform>
             <numerusform> and its %n registered shortcuts</numerusform>
         </translation>
     </message>
@@ -9124,7 +9124,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirm Update</translation>
+        <translation>Confirm Update</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -9796,7 +9796,7 @@ It is most likely you will need to change the path—please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Release</translation>
+        <translation>Release</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9934,7 +9934,7 @@ It is most likely you will need to change the path—please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9942,7 +9942,7 @@ It is most likely you will need to change the path—please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Add</translation>
+        <translation>Add</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -10267,7 +10267,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <source>The source provider of the mod.</source>
@@ -10287,7 +10287,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished">Should this mod be updated?</translation>
+        <translation>Should this mod be updated?</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -10303,10 +10303,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod will be enabled
-</numerusform>
-            <numerusform>%n mods will be enabled
-</numerusform>
+            <numerusform>%n mod will be enabled</numerusform>
+            <numerusform>%n mods will be enabled</numerusform>
         </translation>
     </message>
     <message>
@@ -10317,10 +10315,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod will be disabled
-</numerusform>
-            <numerusform>%n mods will be disabled
-</numerusform>
+            <numerusform>%n mod will be disabled</numerusform>
+            <numerusform>%n mods will be disabled</numerusform>
         </translation>
     </message>
     <message>
@@ -11994,11 +11990,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Install</translation>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
 </context>
 <context>
@@ -13012,7 +13008,7 @@ HTTP Status: %2</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Abort</translation>
+        <translation>Abort</translation>
     </message>
 </context>
 <context>
@@ -13889,20 +13885,14 @@ New name: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>The following instance might reference files in this instance:
-
-%1
-
-%2 it could break the other instance, 
-
-Do you wish to proceed?</numerusform>
-            <numerusform>The following instances might reference files in this instance:
-
-%1
-
-%2 it could break the other instances, 
-
-Do you wish to proceed?</numerusform>
+            <numerusform>The following instance might reference files in this instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 it could break the other instance, </numerusform>
+            <numerusform>Do you wish to proceed?</numerusform>
+            <numerusform>The following instances might reference files in this instance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 it could break the other instances, </numerusform>
+            <numerusform>Do you wish to proceed?</numerusform>
         </translation>
     </message>
     <message>
@@ -14095,7 +14085,7 @@ Error message: %3</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Could not open file %1 for reading: %2</translation>
+        <translation>Could not open file %1 for reading: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -14510,7 +14500,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Size</source>
@@ -14526,7 +14516,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -14573,7 +14563,7 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished">Should this mod be updated?</translation>
+        <translation>Should this mod be updated?</translation>
     </message>
     <message>
         <source>Override Columns Visibility</source>
@@ -14585,7 +14575,7 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Image</translation>
+        <translation>Image</translation>
     </message>
 </context>
 <context>
@@ -14608,7 +14598,7 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Size</source>
@@ -14624,7 +14614,7 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <source>The file name of the resource pack.</source>
@@ -15257,7 +15247,7 @@ Currently installed version: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -15265,7 +15255,7 @@ Currently installed version: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -16092,7 +16082,7 @@ inheritsFrom is missing</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Update</translation>
+        <translation>Update</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -16100,7 +16090,7 @@ inheritsFrom is missing</translation>
     </message>
     <message>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished">Should this mod be updated?</translation>
+        <translation>Should this mod be updated?</translation>
     </message>
     <message>
         <source>
@@ -16908,7 +16898,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Install</translation>
+        <translation>Install</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17317,7 +17307,7 @@ Canonical Path: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Tools</translation>
+        <translation>Tools</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -17453,7 +17443,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Invalid command</source>
-        <translation type="unfinished">Invalid command</translation>
+        <translation>Invalid command</translation>
     </message>
     <message>
         <source>The tool command is empty.</source>
@@ -17698,11 +17688,11 @@ Please set up your account according to %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Username</translation>
+        <translation>Username</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Password</translation>
+        <translation>Password</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17710,7 +17700,7 @@ Please set up your account according to %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel</translation>
+        <translation>Cancel</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

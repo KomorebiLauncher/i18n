@@ -1351,7 +1351,7 @@ Beberapa versi Minecraft mungkin tidak dapat dijalankan.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instal</translation>
+        <translation>Instal</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9526,7 +9526,7 @@ Kemungkinan besar kamu akan perlu mengubah path - silakan merujuk ke situs mod.<
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Hapus</translation>
+        <translation>Hapus</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -11331,7 +11331,7 @@ Mohon perbarui %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instal</translation>
+        <translation>Instal</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13021,7 +13021,7 @@ Apakah Anda ingin menghapus berkas penyimpanan yang sudah ada sebagai bagian dar
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Tidak dikenal</translation>
+        <translation>Tidak diketahui</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -14488,7 +14488,7 @@ Versi sekarang diinstal: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versi</translation>
+        <translation>Versi</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -16099,7 +16099,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instal</translation>
+        <translation>Instal</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -16878,7 +16878,7 @@ Mohon atur akun anda menurut %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nama pengguna</translation>
+        <translation>Nama pengguna</translation>
     </message>
     <message>
         <source>Password</source>

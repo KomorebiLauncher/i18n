@@ -1387,11 +1387,11 @@ Manche Versionen von Minecraft starten vielleicht nicht.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installieren</translation>
+        <translation>Installieren</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -3787,7 +3787,7 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished">Die Overrides weisen einen Pfad auf, der zu einem beliebigen Ort (%1) führt. Das ist ein Sicherheitsrisiko und ist nicht erlaubt.</translation>
+        <translation>Die Overrides weisen einen Pfad auf, der zu einem beliebigen Ort (%1) führt. Das ist ein Sicherheitsrisiko und ist nicht erlaubt.</translation>
     </message>
     <message>
         <source>Could not rename the overrides folder:
@@ -8906,7 +8906,7 @@ Um den Metadaten-Cache manuell zu bereinigen, klicke auf Ordner -&gt; Launcher-S
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> and seine %n registrierte Verknüpfunge</numerusform>
+            <numerusform>and seine %n registrierte Verknüpfunge</numerusform>
             <numerusform> and seine %n registrierten Verknüpfungen</numerusform>
         </translation>
     </message>
@@ -9835,7 +9835,7 @@ Du musst wahrscheinlich den Pfad ändern - berücksichtige hierzu die Mods Websi
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished">Beliebige</translation>
+        <translation>Beliebige</translation>
     </message>
     <message>
         <source>&amp;GLFW library path:</source>
@@ -9969,7 +9969,7 @@ Du musst wahrscheinlich den Pfad ändern - berücksichtige hierzu die Mods Websi
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Entfernen</translation>
+        <translation>Entfernen</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9977,7 +9977,7 @@ Du musst wahrscheinlich den Pfad ändern - berücksichtige hierzu die Mods Websi
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Hinzufügen</translation>
+        <translation>Hinzufügen</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -10310,7 +10310,7 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Aktualisieren</translation>
+        <translation>Aktualisieren</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -10362,10 +10362,8 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n Mod wird aktiviert
-</numerusform>
-            <numerusform>%n Mods werden aktiviert
-</numerusform>
+            <numerusform>%n Mod wird aktiviert</numerusform>
+            <numerusform>%n Mods werden aktiviert</numerusform>
         </translation>
     </message>
     <message>
@@ -10376,10 +10374,8 @@ Warnung: Diese Resource ist anderswo fest verknüpft. Durch die Bearbeitung wird
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n Mod wird deaktiviert
-</numerusform>
-            <numerusform>%n Mods werden deaktiviert
-</numerusform>
+            <numerusform>%n Mod wird deaktiviert</numerusform>
+            <numerusform>%n Mods werden deaktiviert</numerusform>
         </translation>
     </message>
     <message>
@@ -12047,11 +12043,11 @@ HINWEIS: Stellen Sie sicher, dass Sie vor der Aktualisierung eine Sicherungskopi
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installieren</translation>
+        <translation>Installieren</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
 </context>
 <context>
@@ -12350,7 +12346,7 @@ Bist Du Dir sicher?</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished">Pfadsuche bei %1 blockiert</translation>
+        <translation>Pfadsuche bei %1 blockiert</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
@@ -13944,20 +13940,14 @@ Neuer Name: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Die folgende Instanz bezieht sich womöglich auf Dateien in dieser Instanz:
-
-%1
-
-%2 es könnte die andere Instanz beschädigen, 
-
-Möchtest du fortfahren?</numerusform>
-            <numerusform>Die folgenden Instanzen beziehen sich womöglich auf Dateien in dieser Instanz:
-
-%1
-
-%2 es könnte die anderen Instanzen beschädigen, 
-
-Möchtest du fortfahren?</numerusform>
+            <numerusform>Die folgende Instanz bezieht sich womöglich auf Dateien in dieser Instanz:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 es könnte die andere Instanz beschädigen, </numerusform>
+            <numerusform>Möchtest du fortfahren?</numerusform>
+            <numerusform>Die folgenden Instanzen beziehen sich womöglich auf Dateien in dieser Instanz:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 es könnte die anderen Instanzen beschädigen, </numerusform>
+            <numerusform>Möchtest du fortfahren?</numerusform>
         </translation>
     </message>
     <message>
@@ -14640,7 +14630,7 @@ Bist du dir sicher, dass du fortfahren möchtest?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Bild</translation>
+        <translation>Bild</translation>
     </message>
 </context>
 <context>
@@ -15312,7 +15302,7 @@ Aktuell installierte Version: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -15320,7 +15310,7 @@ Aktuell installierte Version: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -16963,7 +16953,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installieren</translation>
+        <translation>Installieren</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17752,11 +17742,11 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Benutzername</translation>
+        <translation>Benutzername</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Passwort</translation>
+        <translation>Passwort</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17764,7 +17754,7 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Abbrechen</translation>
+        <translation>Abbrechen</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

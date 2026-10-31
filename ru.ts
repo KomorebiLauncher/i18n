@@ -1383,11 +1383,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Установить</translation>
+        <translation>Установить</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -8935,7 +8935,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> и его %n зарегистрированного ярлыка</numerusform>
+            <numerusform>и его %n зарегистрированного ярлыка</numerusform>
             <numerusform> и его %n зарегистрированных ярлыка</numerusform>
             <numerusform> и его %n зарегистрированных ярлыков</numerusform>
         </translation>
@@ -10011,7 +10011,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Удалить</translation>
+        <translation>Удалить</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -10019,7 +10019,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добавить</translation>
+        <translation>Добавить</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -10380,12 +10380,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n мод будет включен
-</numerusform>
-            <numerusform>%n мода будет включено
-</numerusform>
-            <numerusform>%n модов будет включено
-</numerusform>
+            <numerusform>%n мод будет включен</numerusform>
+            <numerusform>%n мода будет включено</numerusform>
+            <numerusform>%n модов будет включено</numerusform>
         </translation>
     </message>
     <message>
@@ -10396,12 +10393,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n мод будет выключен
-</numerusform>
-            <numerusform>%n мода будет выключено
-</numerusform>
-            <numerusform>%n модов будет выключено
-</numerusform>
+            <numerusform>%n мод будет выключен</numerusform>
+            <numerusform>%n мода будет выключено</numerusform>
+            <numerusform>%n модов будет выключено</numerusform>
         </translation>
     </message>
     <message>
@@ -12105,11 +12099,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Установить</translation>
+        <translation>Установить</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
 </context>
 <context>
@@ -13998,27 +13992,18 @@ New name: %2</source>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Следующий экземпляр может ссылаться на файлы в этом экземпляре:
-
-&lt;br/&gt; %1
-
-&lt;br/&gt; %2 его может повредить другой экземпляр.
-
-&lt;br/&gt; Продолжить?</numerusform>
-            <numerusform>Следующие экземпляры могут ссылаться на файлы в этом экземпляре:
-
-&lt;br/&gt; %1
-
-&lt;br/&gt; %2 их может повредить другие экземпляры.
-
-&lt;br/&gt; Продолжить?</numerusform>
-            <numerusform>Следующие экземпляры могут ссылаться на файлы в этом экземпляре:
-
-&lt;br/&gt; %1
-
-&lt;br/&gt; %2 их может повредить другие экземпляры.
-
-&lt;br/&gt; Продолжить?</numerusform>
+            <numerusform>Следующий экземпляр может ссылаться на файлы в этом экземпляре:</numerusform>
+            <numerusform>&lt;br/&gt; %1</numerusform>
+            <numerusform>&lt;br/&gt; %2 его может повредить другой экземпляр.</numerusform>
+            <numerusform>&lt;br/&gt; Продолжить?</numerusform>
+            <numerusform>Следующие экземпляры могут ссылаться на файлы в этом экземпляре:</numerusform>
+            <numerusform>&lt;br/&gt; %1</numerusform>
+            <numerusform>&lt;br/&gt; %2 их может повредить другие экземпляры.</numerusform>
+            <numerusform>&lt;br/&gt; Продолжить?</numerusform>
+            <numerusform>Следующие экземпляры могут ссылаться на файлы в этом экземпляре:</numerusform>
+            <numerusform>&lt;br/&gt; %1</numerusform>
+            <numerusform>&lt;br/&gt; %2 их может повредить другие экземпляры.</numerusform>
+            <numerusform>&lt;br/&gt; Продолжить?</numerusform>
         </translation>
     </message>
     <message>
@@ -15381,7 +15366,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -17035,7 +17020,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Установить</translation>
+        <translation>Установить</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17552,18 +17537,15 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>Вы собираетесь удалить %n мир.
-Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).
-
-Вы уверены?</numerusform>
-            <numerusform>Вы собираетесь удалить %n мира.
-Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).
-
-Вы уверены?</numerusform>
-            <numerusform>Вы собираетесь удалить %n миров.
-Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).
-
-Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n мир.</numerusform>
+            <numerusform>Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).</numerusform>
+            <numerusform>Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n мира.</numerusform>
+            <numerusform>Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).</numerusform>
+            <numerusform>Вы уверены?</numerusform>
+            <numerusform>Вы собираетесь удалить %n миров.</numerusform>
+            <numerusform>Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).</numerusform>
+            <numerusform>Вы уверены?</numerusform>
         </translation>
     </message>
     <message>
@@ -17834,11 +17816,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Имя пользователя</translation>
+        <translation>Имя пользователя</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Пароль</translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17846,7 +17828,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отмена</translation>
+        <translation>Отмена</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

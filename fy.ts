@@ -92,7 +92,7 @@
     <message>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">&amp;Microsoft Autintikaasje</translation>
+        <translation>&amp;Microsoft Autintikaasje</translation>
     </message>
     <message>
         <source>Mod&amp;rinth</source>

@@ -1293,11 +1293,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Инсталирай</translation>
+        <translation>Инсталирай</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
 </context>
 <context>
@@ -2251,11 +2251,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Актуализирай</translation>
+        <translation>Актуализирай</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -2969,11 +2969,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Reset Update Metadata</source>
-        <translation type="unfinished">Нулиране на метаданните за актуализация</translation>
+        <translation>Нулиране на метаданните за актуализация</translation>
     </message>
     <message>
         <source>Verify Dependencies</source>
-        <translation type="unfinished">Проверете зависимостите</translation>
+        <translation>Проверете зависимостите</translation>
     </message>
     <message>
         <source>Export List</source>
@@ -3130,7 +3130,7 @@ Are you sure you want to do this?</source>
     <name>ExternalToolsPage</name>
     <message>
         <source>&amp;Editors</source>
-        <translation type="unfinished">&amp;Редактори</translation>
+        <translation>&amp;Редактори</translation>
     </message>
     <message>
         <source>&amp;Text Editor</source>
@@ -3154,15 +3154,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Добави</translation>
+        <translation>&amp;Добави</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Премахни</translation>
+        <translation>&amp;Премахни</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3178,19 +3178,19 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Profilers</source>
-        <translation type="unfinished">&amp;Профилатори</translation>
+        <translation>&amp;Профилатори</translation>
     </message>
     <message>
         <source>Profilers are accessible through the Launch dropdown menu.</source>
-        <translation type="unfinished">Профилатори са достъпни чрез падащото меню „Стартиране“.</translation>
+        <translation>Профилатори са достъпни чрез падащото меню „Стартиране“.</translation>
     </message>
     <message>
         <source>J&amp;Profiler</source>
-        <translation type="unfinished">J&amp;Профилатор</translation>
+        <translation>J&amp;Профилатор</translation>
     </message>
     <message>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished">&amp;VisualVM</translation>
+        <translation>&amp;VisualVM</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3254,16 +3254,15 @@ Are you sure you want to do this?</source>
     <message>
         <source>Error while checking VisualVM install:
 %1</source>
-        <translation type="unfinished">Грешка при проверка на инсталацията на VisualVM:
-%1</translation>
+        <translation>Грешка при проверка на инсталацията на VisualVM:</translation>
     </message>
     <message>
         <source>VisualVM setup seems to be OK</source>
-        <translation type="unfinished">Настройката на VisualVM изглежда е в ред.</translation>
+        <translation>Настройката на VisualVM изглежда е в ред.</translation>
     </message>
     <message>
         <source>Text Editor</source>
-        <translation type="unfinished">Текстов редактор</translation>
+        <translation>Текстов редактор</translation>
     </message>
     <message>
         <source>JVisualVM Executable</source>
@@ -3418,7 +3417,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Копиране на блокирани модификации...(%1 от %2 готови)</translation>
+        <translation>Копиране на блокирани модификации...(%1 от %2 готови)</translation>
     </message>
 </context>
 <context>
@@ -3489,7 +3488,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Parsing API response from CurseForge for &apos;%1&apos;...</source>
-        <translation type="unfinished">Анализ на API отговор от CurseForge за &apos;%1&apos;...</translation>
+        <translation>Анализ на API отговор от CurseForge за &apos;%1&apos;...</translation>
     </message>
 </context>
 <context>
@@ -3657,11 +3656,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Премахване на стари конфликтни файлове...</translation>
+        <translation>Премахване на стари конфликтни файлове...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Неуспешно премахване на стари конфликтни файлове.</translation>
+        <translation>Неуспешно премахване на стари конфликтни файлове.</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -3858,12 +3857,12 @@ Please try again.</source>
     <message>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Сортирай по изигравания</translation>
+        <translation>Сортирай по изигравания</translation>
     </message>
     <message>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Сортирай по инсталации</translation>
+        <translation>Сортирай по инсталации</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -3880,7 +3879,7 @@ Please try again.</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Търси и филтрирай...</translation>
+        <translation>Търси и филтрирай...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3947,7 +3946,7 @@ Please try again.</source>
     <name>GetModDependenciesTask</name>
     <message>
         <source>Get dependencies</source>
-        <translation type="unfinished">Вземи зависимости</translation>
+        <translation>Вземи зависимости</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project dependencies:%1</source>
@@ -4029,7 +4028,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished">Стари</translation>
+        <translation>Стари</translation>
     </message>
     <message>
         <source>Modpacks</source>
@@ -4037,7 +4036,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Собствен</translation>
+        <translation>Собствен</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -4049,11 +4048,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -4167,7 +4166,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>OK</source>
@@ -4222,11 +4221,11 @@ Please try again.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>NeoForge</source>
@@ -4372,7 +4371,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Attempting to determine instance type</source>
-        <translation type="unfinished">Опит на идентифициране на типа на инстанцията</translation>
+        <translation>Опит на идентифициране на типа на инстанцията</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
@@ -4384,7 +4383,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Archive does not contain a recognized modpack type.</source>
-        <translation type="unfinished">Архивър не съдържа разпознат тип модпак.</translation>
+        <translation>Архивър не съдържа разпознат тип модпак.</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -4437,7 +4436,7 @@ What would you like to do with %2?</source>
     <message>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Други дневници</translation>
+        <translation>Други дневници</translation>
     </message>
     <message>
         <source>Edit Instance (%1)</source>
@@ -4691,19 +4690,19 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Пропусни</translation>
+        <translation>Пропусни</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">Неуспешно изтегляне на файловете на играта: %1</translation>
+        <translation>Неуспешно изтегляне на файловете на играта: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">Изтегляне на файловете на играта</translation>
+        <translation>Изтегляне на файловете на играта</translation>
     </message>
 </context>
 <context>
@@ -4802,7 +4801,7 @@ What would you like to do with %2?</source>
     <name>Java::ArchiveDownloadTask</name>
     <message>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java се изтегля</translation>
+        <translation>Java се изтегля</translation>
     </message>
     <message>
         <source>Extracting Java</source>
@@ -4833,11 +4832,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -4853,7 +4852,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Инсталиране на Java</translation>
+        <translation>Инсталиране на Java</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
@@ -4861,7 +4860,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4956,11 +4955,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Премахни</translation>
+        <translation>Премахни</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Обновяване</translation>
+        <translation>Обновяване</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -5026,7 +5025,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Намери изпълнимият файл на Java</translation>
+        <translation>Намери изпълнимият файл на Java</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -5042,7 +5041,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -5126,7 +5125,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Па&amp;мет</translation>
+        <translation>Па&amp;мет</translation>
     </message>
     <message>
         <source>Suggested arguments</source>
@@ -5158,7 +5157,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Количеството памет, с което Minecraft се стартира.</translation>
+        <translation>Количеството памет, с което Minecraft се стартира.</translation>
     </message>
     <message>
         <source>&amp;PermGen Size:</source>
@@ -5194,7 +5193,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Количеството памет, което може да се използва за съхранение на заредени Java класове.</translation>
+        <translation>Количеството памет, което може да се използва за съхранение на заредени Java класове.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -5202,7 +5201,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Избери версия на Java</translation>
+        <translation>Избери версия на Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
@@ -5212,9 +5211,7 @@ Are you sure?</source>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Вие избрахте 32-битова версия на Java.
-Тази инсталация не поддържа повече от 2048MiB RAM памет.
-Моля, уверете се че стойността за максимална памет е по-малка.</translation>
+        <translation>Вие избрахте 32-битова версия на Java.</translation>
     </message>
     <message>
         <source>%1 mods installed here, so %2 MiB of heap.</source>
@@ -5238,7 +5235,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Вашето максимално разпределение на паметта надвишава капацитета за памет на вашата система.</translation>
+        <translation>Вашето максимално разпределение на паметта надвишава капацитета за памет на вашата система.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
@@ -5269,7 +5266,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaWizardWidget</name>
     <message>
         <source>Download Java</source>
-        <translation type="unfinished">Изтегли Java</translation>
+        <translation>Изтегли Java</translation>
     </message>
     <message>
         <source>32-bit Java detected</source>
@@ -5309,15 +5306,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Намери изпълнимият файл на Java</translation>
+        <translation>Намери изпълнимият файл на Java</translation>
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Памет</translation>
+        <translation>Памет</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Максималното количество памет, което Minecraft може да ползва.</translation>
+        <translation>Максималното количество памет, което Minecraft може да ползва.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -5325,19 +5322,19 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Максимално разпределение на паметта:</translation>
+        <translation>Максимално разпределение на паметта:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">Количеството памет, с което Minecraft се стартира.</translation>
+        <translation>Количеството памет, с което Minecraft се стартира.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Количеството памет, което може да се използва за съхранение на заредени Java класове.</translation>
+        <translation>Количеството памет, което може да се използва за съхранение на заредени Java класове.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Разгледай</translation>
+        <translation>Разгледай</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -5353,7 +5350,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">Вашето максимално разпределение на паметта надвишава капацитета за памет на вашата система.</translation>
+        <translation>Вашето максимално разпределение на паметта надвишава капацитета за памет на вашата система.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
@@ -5383,7 +5380,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Use system regional standards</source>
-        <translation type="unfinished">Използвай системни настройки за регионални стандарти</translation>
+        <translation>Използвай системни настройки за регионални стандарти</translation>
     </message>
 </context>
 <context>
@@ -5465,7 +5462,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Play Offline</source>
@@ -5501,15 +5498,13 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Стартирай</translation>
+        <translation>&amp;Стартирай</translation>
     </message>
     <message>
         <source>The game launch is delayed until you press the button. This is the right time to setup the profiler, as the profiler server is running now.
 
 %1</source>
-        <translation type="unfinished">Пускането на играта е спряно докато не натиснете бутона. Това е правилното време да настроите профaйлър, тъй като диагностичният съръвр върви.
-
-%1</translation>
+        <translation>Пускането на играта е спряно докато не натиснете бутона. Това е правилното време да настроите профaйлър, тъй като диагностичният съръвр върви.</translation>
     </message>
     <message>
         <source>In order to play Minecraft, you must have at least one account added: a Microsoft account that owns Minecraft, or an account on a third-party authentication server. Would you like to open the account manager to add an account now?</source>
@@ -5571,7 +5566,7 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>Couldn&apos;t start the profiler: %1</source>
-        <translation type="unfinished">Не може да се стартира диагностика: %1</translation>
+        <translation>Не може да се стартира диагностика: %1</translation>
     </message>
     <message>
         <source>Error</source>
@@ -5600,12 +5595,11 @@ Install the agent into this instance now?</source>
     <message>
         <source>This account does not own Minecraft.
 You need to purchase the game first to play the full version.</source>
-        <translation type="unfinished">Този акаунт не притежава Minecraft.
-Трябва да купите играта да играете пулната версия.</translation>
+        <translation>Този акаунт не притежава Minecraft.</translation>
     </message>
     <message>
         <source>No account was selected for launch.</source>
-        <translation type="unfinished">Няма избран акаунт за старт.</translation>
+        <translation>Няма избран акаунт за старт.</translation>
     </message>
     <message>
         <source>
@@ -5617,7 +5611,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Choose your demo mode player name</source>
-        <translation type="unfinished">Изберете името за демо режим играч</translation>
+        <translation>Изберете името за демо режим играч</translation>
     </message>
     <message>
         <source>You are not connected to the Internet, launching in offline mode
@@ -5629,7 +5623,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Choose your offline mode player name</source>
-        <translation type="unfinished">Изберете името за офлайн играч</translation>
+        <translation>Изберете името за офлайн играч</translation>
     </message>
     <message>
         <source>No account selected for launch</source>
@@ -5637,7 +5631,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>%1. Do you want to reauthenticate this account?</source>
-        <translation type="unfinished">%1. Искате ли да удостоверите повторно този акаунт?</translation>
+        <translation>%1. Искате ли да удостоверите повторно този акаунт?</translation>
     </message>
     <message>
         <source>Kill Minecraft?</source>
@@ -5673,7 +5667,7 @@ You may have to fix your mods because the game is still logging to files and lik
     <name>LauncherLoginStep</name>
     <message>
         <source>Fetching Minecraft access token</source>
-        <translation type="unfinished">Извличане жетон за достъп на Minecraft</translation>
+        <translation>Извличане жетон за достъп на Minecraft</translation>
     </message>
     <message>
         <source>This build&apos;s application is not approved by Mojang yet, so it cannot sign in to Minecraft. Third-party server accounts still work.</source>
@@ -5681,7 +5675,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Failed to get Minecraft access token: %1</source>
-        <translation type="unfinished">Неупсешно извличане на жетон за достъп за Minecraft: %1</translation>
+        <translation>Неупсешно извличане на жетон за достъп за Minecraft: %1</translation>
     </message>
     <message>
         <source>Failed to parse the Minecraft access token response.</source>
@@ -5689,7 +5683,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Got Minecraft access token</source>
-        <translation type="unfinished">Придобит жетон за достъп на Minecraft</translation>
+        <translation>Придобит жетон за достъп на Minecraft</translation>
     </message>
 </context>
 <context>
@@ -5701,7 +5695,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished">Папки</translation>
+        <translation>Папки</translation>
     </message>
     <message>
         <source>I&amp;nstances:</source>
@@ -5709,11 +5703,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Разгледай</translation>
+        <translation>Разгледай</translation>
     </message>
     <message>
         <source>Ask what to do</source>
-        <translation type="unfinished">Питай какво да правя</translation>
+        <translation>Питай какво да правя</translation>
     </message>
     <message>
         <source>Never rename the folder</source>
@@ -5737,7 +5731,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>User Interface</source>
-        <translation type="unfinished">Потребителски интерфейс</translation>
+        <translation>Потребителски интерфейс</translation>
     </message>
     <message>
         <source>&amp;By last launched</source>
@@ -5876,7 +5870,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Премахни</translation>
+        <translation>Премахни</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -5994,7 +5988,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Instance Folder</source>
-        <translation type="unfinished">Папка с инстанциите</translation>
+        <translation>Папка с инстанциите</translation>
     </message>
     <message>
         <source>You&apos;re trying to specify an instance folder which&apos;s path contains at least one &apos;!&apos;. Java is known to cause problems if that is the case, your instances (probably) won&apos;t start!</source>
@@ -6094,23 +6088,23 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Проверяване на FML библиотеки...</translation>
+        <translation>Проверяване на FML библиотеки...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Изтегляне на FML библиотеки...</translation>
+        <translation>Изтегляне на FML библиотеки...</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Копиране на FML библиотеки в инстанцията...</translation>
+        <translation>Копиране на FML библиотеки в инстанцията...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Неуспешно създаване на папка с FML библиотека в екземпляра.</translation>
+        <translation>Неуспешно създаване на папка с FML библиотека в екземпляра.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Провалено копиране на Forge/FML библиотека: %1.</translation>
+        <translation>Провалено копиране на Forge/FML библиотека: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6118,11 +6112,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Провалено изтегляне на следните файлове:
-%1
-
-Причина: %2
-Моля опитайте отново.</translation>
+        <translation>Провалено изтегляне на следните файлове:</translation>
     </message>
 </context>
 <context>
@@ -6130,12 +6120,12 @@ Please try again.</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Подреждане по име</translation>
+        <translation>Подреждане по име</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Подреждане по версия на играта</translation>
+        <translation>Подреждане по версия на играта</translation>
     </message>
 </context>
 <context>
@@ -6193,7 +6183,7 @@ Please try again.</source>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Неуспешно преместване на разархивирания minecraft!</translation>
+        <translation>Неуспешно преместване на разархивирания minecraft!</translation>
     </message>
     <message>
         <source>No installation method found!</source>
@@ -6204,7 +6194,7 @@ Please try again.</source>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Търси и филтрирай...</translation>
+        <translation>Търси и филтрирай...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -6240,7 +6230,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6334,7 +6324,7 @@ Should it be removed now?</source>
     <message>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Взимане библиотечните файлове от Mojang...</translation>
+        <translation>Взимане библиотечните файлове от Mojang...</translation>
     </message>
     <message>
         <source>Libraries for instance %1</source>
@@ -6363,7 +6353,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6419,7 +6409,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Търси</translation>
+        <translation>Търси</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -6491,7 +6481,7 @@ Reason:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6587,11 +6577,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Моля, изчакайте...</translation>
+        <translation>Моля, изчакайте...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -6619,7 +6609,7 @@ Reason:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -6813,11 +6803,11 @@ Reason:
     </message>
     <message>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Прекрати</translation>
+        <translation>&amp;Прекрати</translation>
     </message>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Стартирай</translation>
+        <translation>&amp;Стартирай</translation>
     </message>
     <message>
         <source>Add Instanc&amp;e...</source>
@@ -7073,7 +7063,7 @@ Reason:
     </message>
     <message>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Ctrl+I</source>
@@ -7101,7 +7091,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Профили</translation>
+        <translation>Профили</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -7109,7 +7099,7 @@ Reason:
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Потвърди Изтриване</translation>
+        <translation>Потвърди Изтриване</translation>
     </message>
     <message>
         <source>Edit Instance</source>
@@ -7130,7 +7120,7 @@ Reason:
     <message>
         <source>Delete the selected instance.</source>
         <oldsource>View the worlds of this instance.</oldsource>
-        <translation type="unfinished">Изтрий избраната инстанция.</translation>
+        <translation>Изтрий избраната инстанция.</translation>
     </message>
     <message>
         <source>Change Group</source>
@@ -7189,12 +7179,12 @@ Reason:
     <message>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Създай инстанция</translation>
+        <translation>Създай инстанция</translation>
     </message>
     <message>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Изтрий група &apos;%1&apos;</translation>
+        <translation>Изтрий група &apos;%1&apos;</translation>
     </message>
     <message>
         <source>No accounts added!</source>
@@ -7222,7 +7212,7 @@ Reason:
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Предупреждения</translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -7268,7 +7258,7 @@ URL:
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Изтегляне на пакет с модификации</translation>
+        <translation>Изтегляне на пакет с модификации</translation>
     </message>
     <message>
         <source>No instance!</source>
@@ -7461,11 +7451,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Предупреждения</translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -7517,7 +7507,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Актуализацията се провали</translation>
+        <translation>Актуализацията се провали</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -7533,7 +7523,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Потвърди актуализацията</translation>
+        <translation>Потвърди актуализацията</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -7555,7 +7545,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -7582,7 +7572,7 @@ Are you sure?</source>
     <name>MinecraftInstance</name>
     <message>
         <source>&amp;Launch</source>
-        <translation type="unfinished">&amp;Стартирай</translation>
+        <translation>&amp;Стартирай</translation>
     </message>
     <message>
         <source>Launch &amp;Offline</source>
@@ -7630,7 +7620,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <source>, last played on %1 for %2</source>
@@ -7773,7 +7763,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Настройките тук заместват глобалните настройки.</translation>
+        <translation>Настройките тук заместват глобалните настройки.</translation>
     </message>
     <message>
         <source>General</source>
@@ -7789,7 +7779,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Start Minecraft maximized</source>
-        <translation type="unfinished">Пусни Minecraft максимизиран</translation>
+        <translation>Пусни Minecraft максимизиран</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -7845,7 +7835,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -7857,11 +7847,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулира използването на стари онлайн услуги, които вече не функционират.&lt;/p&gt;&lt;p&gt;Текущите поправки включват: поддръжка на скинове и онлайн режим.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Емулира използването на стари онлайн услуги, които вече не функционират.&lt;/p&gt;&lt;p&gt;Текущите поправки включват: поддръжка на скинове и онлайн режим.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Активиране на онлайн поправки (експериментално)</translation>
+        <translation>Активиране на онлайн поправки (експериментално)</translation>
     </message>
     <message>
         <source>&amp;Native Libraries</source>
@@ -7869,11 +7859,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Използвай системна инсталация на OpenAL</translation>
+        <translation>Използвай системна инсталация на OpenAL</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Използвай системна инсталация на GLFW</translation>
+        <translation>Използвай системна инсталация на GLFW</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
@@ -7930,7 +7920,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Разгледай</translation>
+        <translation>Разгледай</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -8030,7 +8020,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Активиране на Feral GameMode</translation>
+        <translation>Активиране на Feral GameMode</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -8038,23 +8028,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Активирай MangoHud</translation>
+        <translation>Активирай MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Използвайте дискретния GPU вместо основния GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Използвайте дискретния GPU вместо основния GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Използвайте дискретен графичен процесор</translation>
+        <translation>Използвайте дискретен графичен процесор</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Използвай Zink, драйвер за Mesa OpenGL, който имплементира OpenGL върху Vulkan. Производителността може да варира в зависимост от ситуацията. Забележка: Ако не бъде намерен подходящ драйвер за Vulkan, ще се използва софтуерно рендиране.</translation>
+        <translation>Използвай Zink, драйвер за Mesa OpenGL, който имплементира OpenGL върху Vulkan. Производителността може да варира в зависимост от ситуацията. Забележка: Ако не бъде намерен подходящ драйвер за Vulkan, ще се използва софтуерно рендиране.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Използвай Zink</translation>
+        <translation>Използвай Zink</translation>
     </message>
     <message>
         <source>Launch</source>
@@ -8062,19 +8052,19 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Акаунт:</translation>
+        <translation>Акаунт:</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Адрес на сървър:</translation>
+        <translation>Адрес на сървър:</translation>
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Собствени команди</translation>
+        <translation>Собствени команди</translation>
     </message>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished">Променливи на средата</translation>
+        <translation>Променливи на средата</translation>
     </message>
     <message>
         <source>Show time &amp;playing this instance</source>
@@ -8124,7 +8114,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Премахни</translation>
+        <translation>Премахни</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8150,7 +8140,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>ModFilterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -8162,19 +8152,19 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge (НеоФордж)</translation>
+        <translation>NeoForge (НеоФордж)</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge (Фордж)</translation>
+        <translation>Forge (Фордж)</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric (Фабрик)</translation>
+        <translation>Fabric (Фабрик)</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt (Куилт)</translation>
+        <translation>Quilt (Куилт)</translation>
     </message>
     <message>
         <source>Show More</source>
@@ -8250,7 +8240,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Неизвестно</translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -8318,7 +8308,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Всички версии</translation>
+        <translation>Всички версии</translation>
     </message>
 </context>
 <context>
@@ -8376,11 +8366,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Последна промяна</translation>
+        <translation>Последна промяна</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Side</source>
@@ -8408,11 +8398,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Име на файла</translation>
+        <translation>Име на файла</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Актуализирай</translation>
+        <translation>Актуализирай</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -8605,7 +8595,7 @@ Ignoring them may break the game.</source>
     </message>
     <message>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Потвърдете изтриването</translation>
+        <translation>Потвърдете изтриването</translation>
     </message>
     <message>
         <source>If you remove mods while the game is running it may crash your game.
@@ -8627,7 +8617,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -8635,7 +8625,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Предупреждения</translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -8647,7 +8637,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Потвърди актуализацията</translation>
+        <translation>Потвърди актуализацията</translation>
     </message>
     <message>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
@@ -8664,11 +8654,11 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Проверка за актуализации</translation>
+        <translation>Проверка за актуализации</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Потвърди за премахване</translation>
+        <translation>Потвърди за премахване</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 mods.
@@ -8699,7 +8689,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; е актуален! :)</translation>
+        <translation>&apos;%1&apos; е актуален! :)</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -8828,7 +8818,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -8857,19 +8847,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Не е инсталирано</translation>
+        <translation>Не е инсталирано</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Неизвестно</translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">Не е намерена валидна версия за този ресурс. Вероятно не е наличен за текущата версия на играта / мод лоудър.</translation>
+        <translation>Не е намерена валидна версия за този ресурс. Вероятно не е наличен за текущата версия на играта / мод лоудър.</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">Не е намерена валидна версия за този ресурс. Вероятно той не е наличен за текущата версия на играта.</translation>
+        <translation>Не е намерена валидна версия за този ресурс. Вероятно той не е наличен за текущата версия на играта.</translation>
     </message>
     <message>
         <source>No valid version found for this mod. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -8884,21 +8874,20 @@ Please update %1!</source>
     <name>ModrinthCreationTask</name>
     <message>
         <source> (version %1)</source>
-        <translation type="unfinished"> .(версия %1)</translation>
+        <translation>.(версия %1)</translation>
     </message>
     <message>
         <source>No index file.</source>
-        <translation type="unfinished">Няма индексен файл.</translation>
+        <translation>Няма индексен файл.</translation>
     </message>
     <message>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">Не успяхме да намерим подходящ индекс файл за по-старата версия. Това може да доведе до дублиране на някои от файловете. Желаете ли да продължите?</translation>
+        <translation>Не успяхме да намерим подходящ индекс файл за по-старата версия. Това може да доведе до дублиране на някои от файловете. Желаете ли да продължите?</translation>
     </message>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">Папката за заместване, не можа да бъде преименувана:
-</translation>
+        <translation>Папката за заместване, не можа да бъде преименувана:</translation>
     </message>
     <message>
         <source>Could not rename the client overrides folder:
@@ -8923,11 +8912,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 от %2 готово</translation>
+        <translation>%1 от %2 готово</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Изтегляне на модификациите...</translation>
+        <translation>Изтегляне на модификациите...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -8940,18 +8929,18 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Премахване на стари конфликтни файлове...</translation>
+        <translation>Премахване на стари конфликтни файлове...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Неуспешно премахване на стари конфликтни файлове.</translation>
+        <translation>Неуспешно премахване на стари конфликтни файлове.</translation>
     </message>
 </context>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Текущ)</translation>
+        <translation>%1 (Текущ)</translation>
     </message>
     <message>
         <source>Fetching changelogs...</source>
@@ -8959,30 +8948,30 @@ Please update %1!</source>
     </message>
     <message>
         <source>Choose update file</source>
-        <translation type="unfinished">Изберете обновяващ файл</translation>
+        <translation>Изберете обновяващ файл</translation>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth пакети</translation>
+        <translation>Modrinth пакети</translation>
     </message>
 </context>
 <context>
     <name>ModrinthPackExportTask</name>
     <message>
         <source>Searching for files...</source>
-        <translation type="unfinished">Търсене на файлове...</translation>
+        <translation>Търсене на файлове...</translation>
     </message>
     <message>
         <source>Could not search for files</source>
-        <translation type="unfinished">Неуспешно търсене на файлове</translation>
+        <translation>Неуспешно търсене на файлове</translation>
     </message>
     <message>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Намиране на файлови хешове...</translation>
+        <translation>Намиране на файлови хешове...</translation>
     </message>
     <message>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Намиране на версии за хешове...</translation>
+        <translation>Намиране на версии за хешове...</translation>
     </message>
     <message>
         <source>Failed to parse versions response: %1</source>
@@ -8990,7 +8979,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Adding files...</source>
-        <translation type="unfinished">Добавяне на файлове...</translation>
+        <translation>Добавяне на файлове...</translation>
     </message>
 </context>
 <context>
@@ -9001,12 +8990,12 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Опции за филтриране</translation>
+        <translation>Опции за филтриране</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Търси и филтрирай...</translation>
+        <translation>Търси и филтрирай...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -9014,7 +9003,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Избрана версия:</translation>
+        <translation>Избрана версия:</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -9028,11 +9017,11 @@ Please update %1!</source>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Сортиране по последно обновени</translation>
+        <translation>Сортиране по последно обновени</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -9044,19 +9033,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Външни връзки:</translation>
+        <translation>Външни връзки:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Проблеми: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Проблеми: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Уики: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Уики: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Програмен код: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Програмен код: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -9069,11 +9058,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Сортиране по общо изтегляния</translation>
+        <translation>Сортиране по общо изтегляния</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> по </translation>
+        <translation>по</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -9155,7 +9144,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Изпълнява се задача(и) %1 (%2 от %3 са изпълнени)</translation>
+        <translation>Изпълнява се задача(и) %1 (%2 от %3 са изпълнени)</translation>
     </message>
 </context>
 <context>
@@ -9170,11 +9159,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -9213,11 +9202,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
 </context>
 <context>
@@ -9244,15 +9233,15 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Помощ</translation>
+        <translation>Помощ</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -9530,11 +9519,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Инсталирай</translation>
+        <translation>Инсталирай</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
 </context>
 <context>
@@ -9557,11 +9546,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
 </context>
 <context>
@@ -9576,7 +9565,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Скролни до края на прозореца</translation>
+        <translation>Скролни до края на прозореца</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -9600,7 +9589,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Продължаване на актуализирането</translation>
+        <translation>Продължаване на актуализирането</translation>
     </message>
     <message>
         <source>Wrap lines</source>
@@ -9612,11 +9601,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Copy the whole log into the clipboard</source>
-        <translation type="unfinished">Копирай целия дневник в клипборда</translation>
+        <translation>Копирай целия дневник в клипборда</translation>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished">&amp;Копирай</translation>
+        <translation>&amp;Копирай</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
@@ -9636,11 +9625,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Търси</translation>
+        <translation>Търси</translation>
     </message>
     <message>
         <source>Clear the log</source>
-        <translation type="unfinished">Изчисти дневника</translation>
+        <translation>Изчисти дневника</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9656,7 +9645,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Не може да се покаже този лог, тъй като дължината на лога надхвърли %1 реда.</translation>
+        <translation>Не може да се покаже този лог, тъй като дължината на лога надхвърли %1 реда.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -9664,7 +9653,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Unable to open %1 for reading: %2</source>
@@ -9680,7 +9669,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Потвърди Изтриване</translation>
+        <translation>Потвърди Изтриване</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -9704,7 +9693,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Изчисти</translation>
+        <translation>Изчисти</translation>
     </message>
     <message>
         <source>Unable to delete %1: %2</source>
@@ -9732,63 +9721,63 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Неподдържан инсталационен режим</translation>
+        <translation>Неподдържан инсталационен режим</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Неуспешно извличане на локалния индекс с метаданни за &apos;%1&apos; v%2</translation>
+        <translation>Неуспешно извличане на локалния индекс с метаданни за &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Изтриване на съществуващи файлове...</translation>
+        <translation>Изтриване на съществуващи файлове...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Неизвестен тип мод: %1</translation>
+        <translation>Неизвестен тип мод: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Неизвестен или неподдържан тип на изтегляне: %1</translation>
+        <translation>Неизвестен или неподдържан тип на изтегляне: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Изтегляне на конфигурации...</translation>
+        <translation>Изтегляне на конфигурации...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Изтегляне на конфигурация</translation>
+        <translation>Изтегляне на конфигурация</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Извличане на конфигурации...</translation>
+        <translation>Извличане на конфигурации...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Избиране на незадължителни модове...</translation>
+        <translation>Избиране на незадължителни модове...</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Неизвестен тип на изтегляне: %1</translation>
+        <translation>Неизвестен тип на изтегляне: %1</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Неуспешно извличане на модове...</translation>
+        <translation>Неуспешно извличане на модове...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Извличане на модове...</translation>
+        <translation>Извличане на модове...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Неуспешно създаване на библиотечен компонент</translation>
+        <translation>Неуспешно създаване на библиотечен компонент</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Неизвестен тип лоудър: </translation>
+        <translation>Неизвестен тип лоудър:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Неуспешно създаване на пакетен компонент</translation>
+        <translation>Неуспешно създаване на пакетен компонент</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -9863,7 +9852,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Помощ</translation>
+        <translation>Помощ</translation>
     </message>
 </context>
 <context>
@@ -9877,7 +9866,7 @@ Are you sure?</source>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -10254,11 +10243,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
 </context>
 <context>
@@ -10275,11 +10264,11 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -10315,7 +10304,7 @@ HTTP Status: %2</source>
     <name>ProgressDialog</name>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Моля, изчакайте...</translation>
+        <translation>Моля, изчакайте...</translation>
     </message>
     <message>
         <source>Global Task Status...</source>
@@ -10327,11 +10316,11 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Пропусни</translation>
+        <translation>Пропусни</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Отмени</translation>
+        <translation>Отмени</translation>
     </message>
 </context>
 <context>
@@ -10349,7 +10338,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Тип</translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -10386,12 +10375,12 @@ HTTP Status: %2</source>
     <message>
         <source>&amp;Username:</source>
         <oldsource>Username:</oldsource>
-        <translation type="unfinished">Потребителско име:</translation>
+        <translation>Потребителско име:</translation>
     </message>
     <message>
         <source>&amp;Password:</source>
         <oldsource>Password:</oldsource>
-        <translation type="unfinished">Парола:</translation>
+        <translation>Парола:</translation>
     </message>
     <message>
         <source>Note: Proxy username and password are stored in plain text inside the launcher&apos;s configuration file!</source>
@@ -10455,7 +10444,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">(използван)</translation>
+        <translation>(използван)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -10684,7 +10673,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Не беше намерена библиотека за проверка на Java. Моля, проверете инсталацията си.</translation>
+        <translation>Не беше намерена библиотека за проверка на Java. Моля, проверете инсталацията си.</translation>
     </message>
     <message>
         <source>Download of meta file %1</source>
@@ -10799,15 +10788,15 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Сортиране по особеност</translation>
+        <translation>Сортиране по особеност</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Сортирай по популярност</translation>
+        <translation>Сортирай по популярност</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Сортиране по последно обновени</translation>
+        <translation>Сортиране по последно обновени</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -10815,7 +10804,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Author</source>
-        <translation type="unfinished">Сортиране по създател</translation>
+        <translation>Сортиране по създател</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -10863,7 +10852,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Неизвестно</translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -10896,47 +10885,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Не отметнато</translation>
+        <translation>Не отметнато</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Офлайн</translation>
+        <translation>Офлайн</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Готов</translation>
+        <translation>Готов</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Работейки</translation>
+        <translation>Работейки</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Изтекал</translation>
+        <translation>Изтекал</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Изключен</translation>
+        <translation>Изключен</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Изчезнал</translation>
+        <translation>Изчезнал</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Неизвестно</translation>
+        <translation>Неизвестно</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -11140,7 +11129,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Неразпознато</translation>
+        <translation>Неразпознато</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11177,7 +11166,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Неуспешно отваряне на файла %1 за четене: %2</translation>
+        <translation>Неуспешно отваряне на файла %1 за четене: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -11232,11 +11221,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Предупреждения</translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11283,7 +11272,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -11321,7 +11310,7 @@ Please update %1!</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> по </translation>
+        <translation>по</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -11333,19 +11322,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Външни връзки:</translation>
+        <translation>Външни връзки:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Проблеми: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Проблеми: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Уики: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Уики: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Програмен код: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Програмен код: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -11400,7 +11389,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -11429,19 +11418,16 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Внимание: Този ресурс е символично свързан от друго място. Редактирането му ще промени и оригинала.
-Каноничен път: %1</translation>
+        <translation>Внимание: Този ресурс е символично свързан от друго място. Редактирането му ще промени и оригинала.</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Внимание: Този ресурс е свързан чрез твърда връзка другаде. Редактирането му ще промени и оригинала.</translation>
+        <translation>Внимание: Този ресурс е свързан чрез твърда връзка другаде. Редактирането му ще промени и оригинала.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -11449,15 +11435,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Последна промяна</translation>
+        <translation>Последна промяна</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -11465,11 +11451,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Име на файла</translation>
+        <translation>Име на файла</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Актуализирай</translation>
+        <translation>Актуализирай</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -11523,7 +11509,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Снимка</translation>
+        <translation>Снимка</translation>
     </message>
 </context>
 <context>
@@ -11538,15 +11524,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Последна промяна</translation>
+        <translation>Последна промяна</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -11554,11 +11540,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Име на файла</translation>
+        <translation>Име на файла</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Актуализирай</translation>
+        <translation>Актуализирай</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -11609,11 +11595,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Формат на пакета</translation>
+        <translation>Формат на пакета</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -11636,7 +11622,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Изтегли пакети</translation>
+        <translation>Изтегли пакети</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -11652,7 +11638,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -11660,7 +11646,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Предупреждения</translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11672,7 +11658,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Потвърди актуализацията</translation>
+        <translation>Потвърди актуализацията</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -11682,7 +11668,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; е актуален! :)</translation>
+        <translation>&apos;%1&apos; е актуален! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -11694,11 +11680,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Проверка за актуализации</translation>
+        <translation>Проверка за актуализации</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Потвърди за премахване</translation>
+        <translation>Потвърди за премахване</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -11718,11 +11704,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Избрана версия:</translation>
+        <translation>Избрана версия:</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Опции за филтриране</translation>
+        <translation>Опции за филтриране</translation>
     </message>
 </context>
 <context>
@@ -11757,11 +11743,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Предупреждения</translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11802,7 +11788,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Не е инсталирано</translation>
+        <translation>Не е инсталирано</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -11862,11 +11848,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -11976,7 +11962,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Upload finished</source>
-        <translation type="unfinished">Качването завърши</translation>
+        <translation>Качването завърши</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12010,7 +11996,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Потвърди Изтриване</translation>
+        <translation>Потвърди Изтриване</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -12021,18 +12007,18 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12055,7 +12041,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12069,11 +12055,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
 </context>
 <context>
@@ -12106,7 +12092,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12114,7 +12100,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Офлайн</translation>
+        <translation>Офлайн</translation>
     </message>
 </context>
 <context>
@@ -12169,7 +12155,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Обновяване</translation>
+        <translation>Обновяване</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -12187,7 +12173,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Потвърди за премахване</translation>
+        <translation>Потвърди за премахване</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -12235,7 +12221,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Изтегли пакети</translation>
+        <translation>Изтегли пакети</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -12251,7 +12237,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -12259,7 +12245,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Предупреждения</translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12271,7 +12257,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Потвърди актуализацията</translation>
+        <translation>Потвърди актуализацията</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -12281,7 +12267,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; е актуален! :)</translation>
+        <translation>&apos;%1&apos; е актуален! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -12293,11 +12279,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Проверка за актуализации</translation>
+        <translation>Проверка за актуализации</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Потвърди за премахване</translation>
+        <translation>Потвърди за премахване</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -12371,7 +12357,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Отвори папка</translation>
+        <translation>Отвори папка</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -12391,7 +12377,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Изтрий Облик</translation>
+        <translation>&amp;Изтрий Облик</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -12415,11 +12401,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -12455,15 +12441,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Изтриване на облика</translation>
+        <translation>Изтриване на облика</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Неуспешно изтриване на настоящия облик!</translation>
+        <translation>Неуспешно изтриване на настоящия облик!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Контекстно меню</translation>
+        <translation>Контекстно меню</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -12475,7 +12461,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Потвърди Изтриване</translation>
+        <translation>Потвърди Изтриване</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -12548,7 +12534,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -12609,11 +12595,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Неуспешна поправка на разрешенията за %1</translation>
+        <translation>Неуспешна поправка на разрешенията за %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">Внасяането на инстанцията бе спряно.</translation>
+        <translation>Внасяането на инстанцията бе спряно.</translation>
     </message>
 </context>
 <context>
@@ -12629,12 +12615,11 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Нямаше възможност да се разбере манифестът на пакета:
-</translation>
+        <translation>Нямаше възможност да се разбере манифестът на пакета:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Извличане на пакет с модификации</translation>
+        <translation>Извличане на пакет с модификации</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -12646,11 +12631,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Неуспешна поправка на разрешенията за %1</translation>
+        <translation>Неуспешна поправка на разрешенията за %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">Внасяането на инстанцията бе спряно.</translation>
+        <translation>Внасяането на инстанцията бе спряно.</translation>
     </message>
 </context>
 <context>
@@ -12695,12 +12680,12 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Избрана версия:</translation>
+        <translation>Избрана версия:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Търси и филтрирай...</translation>
+        <translation>Търси и филтрирай...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -12708,7 +12693,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source> by </source>
@@ -12731,15 +12716,15 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Последна промяна</translation>
+        <translation>Последна промяна</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -12747,11 +12732,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Име на файла</translation>
+        <translation>Име на файла</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Актуализирай</translation>
+        <translation>Актуализирай</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -12804,7 +12789,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Изтегли пакети</translation>
+        <translation>Изтегли пакети</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -12824,7 +12809,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -12832,7 +12817,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Предупреждения</translation>
+        <translation>Предупреждения</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12844,7 +12829,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Потвърди актуализацията</translation>
+        <translation>Потвърди актуализацията</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -12854,7 +12839,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; е актуален! :)</translation>
+        <translation>&apos;%1&apos; е актуален! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -12866,11 +12851,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Проверка за актуализации</translation>
+        <translation>Проверка за актуализации</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Потвърди за премахване</translation>
+        <translation>Потвърди за премахване</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -12905,7 +12890,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Изглед</translation>
+        <translation>Изглед</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -12916,7 +12901,7 @@ Are you sure?</source>
     <name>TranslationsModel</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Език</translation>
+        <translation>Език</translation>
     </message>
     <message>
         <source>Completeness</source>
@@ -12989,7 +12974,7 @@ Are you sure?</source>
     <name>VanillaCreationTask</name>
     <message>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">Създаване на инстанция от версия %1</translation>
+        <translation>Създаване на инстанция от версия %1</translation>
     </message>
 </context>
 <context>
@@ -13034,11 +13019,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Действия</translation>
+        <translation>Действия</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Премахни</translation>
+        <translation>Премахни</translation>
     </message>
     <message>
         <source>Customize</source>
@@ -13082,11 +13067,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Промяна на версия</translation>
+        <translation>Промяна на версия</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Търси</translation>
+        <translation>Търси</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -13094,7 +13079,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Премести нагоре</translation>
+        <translation>Премести нагоре</translation>
     </message>
     <message>
         <source>Make the selected component apply sooner.</source>
@@ -13102,7 +13087,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Премести надолу</translation>
+        <translation>Премести надолу</translation>
     </message>
     <message>
         <source>Make the selected component apply later.</source>
@@ -13126,7 +13111,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Install Loader</source>
-        <translation type="unfinished">Инсталирайте Стартер</translation>
+        <translation>Инсталирайте Стартер</translation>
     </message>
     <message>
         <source>Install a mod loader.</source>
@@ -13190,7 +13175,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Контекстно меню</translation>
+        <translation>Контекстно меню</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -13210,7 +13195,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>Couldn&apos;t load the instance profile.</source>
@@ -13218,7 +13203,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Потвърди за премахване</translation>
+        <translation>Потвърди за премахване</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -13294,7 +13279,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Инсталирай</translation>
+        <translation>Инсталирай</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -13313,18 +13298,18 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
 </context>
 <context>
     <name>VersionProxyModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версия</translation>
+        <translation>Версия</translation>
     </message>
     <message>
         <source>Minecraft</source>
-        <translation type="unfinished">Minecraft</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -13332,7 +13317,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Тип</translation>
+        <translation>Тип</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -13398,7 +13383,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Recommended</source>
-        <translation type="unfinished">Препоръчва се</translation>
+        <translation>Препоръчва се</translation>
     </message>
     <message>
         <source>Latest</source>
@@ -13413,11 +13398,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Добре</translation>
+        <translation>Добре</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -13429,18 +13414,18 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Обнови</translation>
+        <translation>&amp;Обнови</translation>
     </message>
 </context>
 <context>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Търси</translation>
+        <translation>Търси</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Грешка</translation>
+        <translation>Грешка</translation>
     </message>
     <message>
         <source>List update failed:
@@ -13481,7 +13466,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Име</translation>
+        <translation>Име</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -13494,7 +13479,7 @@ Canonical Path: %1</source>
     <message>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">Размер</translation>
+        <translation>Размер</translation>
     </message>
     <message>
         <source>Info</source>
@@ -13526,11 +13511,11 @@ Canonical Path: %1</source>
     <name>WorldListPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Действия</translation>
+        <translation>Действия</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Добави</translation>
+        <translation>Добави</translation>
     </message>
     <message>
         <source>Join</source>
@@ -13538,11 +13523,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Преименувай</translation>
+        <translation>Преименувай</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Копирай</translation>
+        <translation>Копирай</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -13550,7 +13535,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Изтрий</translation>
+        <translation>Изтрий</translation>
     </message>
     <message>
         <source>Copy Seed</source>
@@ -13558,11 +13543,11 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Обновяване</translation>
+        <translation>Обновяване</translation>
     </message>
     <message>
         <source>View Folder</source>
-        <translation type="unfinished">Разгледай папката</translation>
+        <translation>Разгледай папката</translation>
     </message>
     <message>
         <source>Reset Icon</source>
@@ -13574,7 +13559,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Инструменти</translation>
+        <translation>Инструменти</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -13598,7 +13583,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Контекстно меню</translation>
+        <translation>Контекстно меню</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -13623,7 +13608,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Потвърди Изтриване</translation>
+        <translation>Потвърди Изтриване</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -13664,7 +13649,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Invalid command</source>
-        <translation type="unfinished">Невалидна команда</translation>
+        <translation>Невалидна команда</translation>
     </message>
     <message>
         <source>The tool command is empty.</source>
@@ -13810,11 +13795,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Потребителско име</translation>
+        <translation>Потребителско име</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Парола</translation>
+        <translation>Парола</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -13822,7 +13807,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Отказ</translation>
+        <translation>Отказ</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

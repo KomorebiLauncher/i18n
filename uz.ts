@@ -1135,11 +1135,11 @@ Minecraftning ba&apos;zi versiyalari ishga tushmashi mumkin.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Oʻrnatish</translation>
+        <translation>Oʻrnatish</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
 </context>
 <context>
@@ -6229,7 +6229,7 @@ Metadata keshini qo&apos;lda tozalash uchun Papkalar -&gt; Launcher ildiz papkas
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> va uning ro&apos;yxatdan o&apos;tgan %nx ta yorlig&apos;i</numerusform>
+            <numerusform>va uning ro&apos;yxatdan o&apos;tgan %nx ta yorlig&apos;i</numerusform>
             <numerusform> va uning ro&apos;yxatdan o&apos;tgan %nx ta yorliqlari</numerusform>
         </translation>
     </message>
@@ -6949,7 +6949,7 @@ Katta ehtimol bilan yoʻlni oʻzgartirishingiz kerak boʻladi — modning veb-sa
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Olib tashlash</translation>
+        <translation>Olib tashlash</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -6957,7 +6957,7 @@ Katta ehtimol bilan yoʻlni oʻzgartirishingiz kerak boʻladi — modning veb-sa
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Qoʻshish</translation>
+        <translation>Qoʻshish</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -7284,10 +7284,8 @@ Katta ehtimol bilan yoʻlni oʻzgartirishingiz kerak boʻladi — modning veb-sa
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%nx ta mod yoqiladi
-</numerusform>
-            <numerusform>%nx ta mod yoqiladi
-</numerusform>
+            <numerusform>%nx ta mod yoqiladi</numerusform>
+            <numerusform>%nx ta mod yoqiladi</numerusform>
         </translation>
     </message>
     <message>
@@ -7298,10 +7296,8 @@ Katta ehtimol bilan yoʻlni oʻzgartirishingiz kerak boʻladi — modning veb-sa
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%nx ta mod oʻchiriladi
-</numerusform>
-            <numerusform>%nx ta mod oʻchiriladi
-</numerusform>
+            <numerusform>%nx ta mod oʻchiriladi</numerusform>
+            <numerusform>%nx ta mod oʻchiriladi</numerusform>
         </translation>
     </message>
     <message>
@@ -8274,11 +8270,11 @@ Iltimos, %1 ni yangilang!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Oʻrnatish</translation>
+        <translation>Oʻrnatish</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
 </context>
 <context>
@@ -9815,20 +9811,14 @@ Yangi nom: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Quyidagi nusxa ushbu nusxadagi fayllarga murojaat qilishi mumkin:
-
-%1
-
-%2 u boshqa nusxani buzib qoʻyishi mumkin, 
-
-Davom etishni xohlaysizmi?</numerusform>
-            <numerusform>Quyidagi nusxalar ushbu nusxadagi fayllarga murojaat qilishi mumkin:
-
-%1
-
-%2 u boshqa nusxani buzib qoʻyishi mumkin, 
-
-Davom etishni xohlaysizmi?</numerusform>
+            <numerusform>Quyidagi nusxa ushbu nusxadagi fayllarga murojaat qilishi mumkin:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 u boshqa nusxani buzib qoʻyishi mumkin, </numerusform>
+            <numerusform>Davom etishni xohlaysizmi?</numerusform>
+            <numerusform>Quyidagi nusxalar ushbu nusxadagi fayllarga murojaat qilishi mumkin:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 u boshqa nusxani buzib qoʻyishi mumkin, </numerusform>
+            <numerusform>Davom etishni xohlaysizmi?</numerusform>
         </translation>
     </message>
     <message>
@@ -11065,7 +11055,7 @@ Hozirda oʻrnatilgan versiya: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versiya</translation>
+        <translation>Versiya</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12268,7 +12258,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Oʻrnatish</translation>
+        <translation>Oʻrnatish</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -12653,14 +12643,12 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>Siz %nx ta dunyoni yoʻq qilish arafasidasiz.
-Bu dunyolar butunlay yoʻqolib ketishi mumkin (JUDA UZOQ VAQTGA).
-
-Ishonchingiz komilmi?</numerusform>
-            <numerusform>Siz %nx ta dunyoni yoʻq qilish arafasidasiz.
-Bu dunyolar butunlay yoʻqolib ketishi mumkin (JUDA UZOQ VAQTGA).
-
-Ishonchingiz komilmi?</numerusform>
+            <numerusform>Siz %nx ta dunyoni yoʻq qilish arafasidasiz.</numerusform>
+            <numerusform>Bu dunyolar butunlay yoʻqolib ketishi mumkin (JUDA UZOQ VAQTGA).</numerusform>
+            <numerusform>Ishonchingiz komilmi?</numerusform>
+            <numerusform>Siz %nx ta dunyoni yoʻq qilish arafasidasiz.</numerusform>
+            <numerusform>Bu dunyolar butunlay yoʻqolib ketishi mumkin (JUDA UZOQ VAQTGA).</numerusform>
+            <numerusform>Ishonchingiz komilmi?</numerusform>
         </translation>
     </message>
     <message>
@@ -12832,7 +12820,7 @@ Iltimos, akkauntingizni %1 ga muvofiq sozlang.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Foydalanuvchi nomi</translation>
+        <translation>Foydalanuvchi nomi</translation>
     </message>
     <message>
         <source>Password</source>
@@ -12844,7 +12832,7 @@ Iltimos, akkauntingizni %1 ga muvofiq sozlang.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Bekor qilish</translation>
+        <translation>Bekor qilish</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

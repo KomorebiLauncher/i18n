@@ -92,7 +92,7 @@
     <message>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">Autenticazion &amp;Microsoft</translation>
+        <translation>Autenticazion &amp;Microsoft</translation>
     </message>
     <message>
         <source>Mod&amp;rinth</source>
@@ -615,19 +615,19 @@ Sêstu gnûf/gnove achì? Tu puedis selezionâ il boton &quot;Zonte Microsoft&qu
     <name>AppearanceWidget</name>
     <message>
         <source>View cat packs folder.</source>
-        <translation type="unfinished">Visualize la cartele dai pachets di gjats.</translation>
+        <translation>Visualize la cartele dai pachets di gjats.</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Vierç cartele</translation>
+        <translation>Vierç cartele</translation>
     </message>
     <message>
         <source>View widget themes folder.</source>
-        <translation type="unfinished">Visualize la cartele dai temis dai widgets.</translation>
+        <translation>Visualize la cartele dai temis dai widgets.</translation>
     </message>
     <message>
         <source>View icon themes folder.</source>
-        <translation type="unfinished">Visualize la cartele dai temis des iconis.</translation>
+        <translation>Visualize la cartele dai temis des iconis.</translation>
     </message>
     <message>
         <source>&amp;Cat Pack:</source>
@@ -643,7 +643,7 @@ Sêstu gnûf/gnove achì? Tu puedis selezionâ il boton &quot;Zonte Microsoft&qu
     </message>
     <message>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Iconis:</translation>
+        <translation>&amp;Iconis:</translation>
     </message>
     <message>
         <source>Console Font:</source>
@@ -714,7 +714,7 @@ Sêstu gnûf/gnove achì? Tu puedis selezionâ il boton &quot;Zonte Microsoft&qu
     <name>Application</name>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">Impussibil visualizâ chest regjistri stant che la lungjece dal regjistri e à superât lis %1 riis.</translation>
+        <translation>Impussibil visualizâ chest regjistri stant che la lungjece dal regjistri e à superât lis %1 riis.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -849,12 +849,12 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">Daûr a otignî i files des risorsis di %1...</translation>
+        <translation>Daûr a otignî i files des risorsis di %1...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1094,11 +1094,11 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instale</translation>
+        <translation>Instale</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
 </context>
 <context>
@@ -1192,7 +1192,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Daûr a cjariâ il file locâl</translation>
+        <translation>Daûr a cjariâ il file locâl</translation>
     </message>
 </context>
 <context>
@@ -1226,7 +1226,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Salte</translation>
+        <translation>Salte</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1299,7 +1299,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Non utent</translation>
+        <translation>Non utent</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1311,11 +1311,11 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
 </context>
 <context>
@@ -1770,7 +1770,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -1826,11 +1826,11 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (in ûs)</translation>
+        <translation>%1 (in ûs)</translation>
     </message>
     <message>
         <source>%1 - %2</source>
-        <translation type="unfinished">%1 - %2</translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <source>%1 - Server %2</source>
@@ -2025,19 +2025,19 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Formât pachet</translation>
+        <translation>Formât pachet</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Ultime modifiche</translation>
+        <translation>Ultime modifiche</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Dimension</translation>
+        <translation>Dimension</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2049,7 +2049,7 @@ Tu podaressis risolvi chest probleme tornant a montâ /tmp come &apos;exec&apos;
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2099,7 +2099,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     <name>DataPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Discjame pachets</translation>
+        <translation>Discjame pachets</translation>
     </message>
     <message>
         <source>Download data packs from online mod platforms</source>
@@ -2119,7 +2119,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2131,7 +2131,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avîs</translation>
+        <translation>Avîs</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2143,7 +2143,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Conferme l&apos;inzornament</translation>
+        <translation>Conferme l&apos;inzornament</translation>
     </message>
     <message>
         <source>Updating data packs while the game is running may cause pack duplication and game crashes.
@@ -2153,7 +2153,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; al è inzornât! :)</translation>
+        <translation>&apos;%1&apos; al è inzornât! :)</translation>
     </message>
     <message>
         <source>All data packs are up-to-date! :)</source>
@@ -2165,11 +2165,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Verificadôr di inzornaments</translation>
+        <translation>Verificadôr di inzornaments</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Conferme rimozion</translation>
+        <translation>Conferme rimozion</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 data packs.
@@ -2302,7 +2302,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">Passe sore aes impostazions &amp;globâls</translation>
+        <translation>Passe sore aes impostazions &amp;globâls</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -2359,7 +2359,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Non:</translation>
+        <translation>&amp;Non:</translation>
     </message>
     <message>
         <source>&amp;Version:</source>
@@ -2589,7 +2589,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cîr</translation>
+        <translation>Cîr</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2829,15 +2829,15 @@ Vuelistu pardabon fâlu?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Zonte</translation>
+        <translation>&amp;Zonte</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Gjave</translation>
+        <translation>&amp;Gjave</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2981,7 +2981,7 @@ Vuelistu pardabon fâlu?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Struments</translation>
+        <translation>Struments</translation>
     </message>
 </context>
 <context>
@@ -3047,8 +3047,7 @@ Par plasê, prove di gnûf.</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Impussibil interpretâ il manifest dal pachet:
-</translation>
+        <translation>Impussibil interpretâ il manifest dal pachet:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -3064,7 +3063,7 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
+        <translation>Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -3072,11 +3071,11 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Daûr a discjariâ lis mods...</translation>
+        <translation>Daûr a discjariâ lis mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Discjariament des mods</translation>
+        <translation>Discjariament des mods</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -3084,11 +3083,11 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Daûr a copiâ lis mods blocadis...</translation>
+        <translation>Daûr a copiâ lis mods blocadis...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Daûr a copiâ lis mods blocadis (%1 su %2 a son prontis)</translation>
+        <translation>Daûr a copiâ lis mods blocadis (%1 su %2 a son prontis)</translation>
     </message>
 </context>
 <context>
@@ -3318,11 +3317,11 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Daûr a gjavâi files vecjos in conflit...</translation>
+        <translation>Daûr a gjavâi files vecjos in conflit...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Impussibil gjavâ i files vecjos in conflit.</translation>
+        <translation>Impussibil gjavâ i files vecjos in conflit.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -3478,18 +3477,18 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ordene par non</translation>
+        <translation>Ordene par non</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selezionade:</translation>
+        <translation>Version selezionade:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Cîr e filtre...</translation>
+        <translation>Cîr e filtre...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3607,7 +3606,7 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Personalizât</translation>
+        <translation>Personalizât</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3774,7 +3773,7 @@ Par plasê, prove di gnûf.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3941,7 +3940,7 @@ What would you like to do with %2?</source>
     <message>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Altris regjistris</translation>
+        <translation>Altris regjistris</translation>
     </message>
     <message>
         <source>Edit Instance (%1)</source>
@@ -4252,11 +4251,11 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Salte</translation>
+        <translation>Salte</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -5620,11 +5619,11 @@ Al è pussibil che tu vedis di corezi lis mods parcè che il zûc al sta continu
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Zonte</translation>
+        <translation>Zonte</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Gjave</translation>
+        <translation>Gjave</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -5978,7 +5977,7 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">Gjenerâl</translation>
+        <translation>Gjenerâl</translation>
     </message>
 </context>
 <context>
@@ -6015,11 +6014,11 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Daûr a verificâ lis librariis FML...</translation>
+        <translation>Daûr a verificâ lis librariis FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Daûr a discjariâ lis librariis FML...</translation>
+        <translation>Daûr a discjariâ lis librariis FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6027,15 +6026,15 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Daûr a copiâ lis librariis FML te istance...</translation>
+        <translation>Daûr a copiâ lis librariis FML te istance...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Impussibil creâ la cartele des librariis FML te istance.</translation>
+        <translation>Impussibil creâ la cartele des librariis FML te istance.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Impussibil copiâ la librarie Forge/FML: %1.</translation>
+        <translation>Impussibil copiâ la librarie Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6043,11 +6042,7 @@ Al è conseât di concedii l&apos;acès a %1 midiant Flatseal.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Impussibil discjariâ chescj files:
-%1
-
-Motîf: %2
-Par plasê, prove di gnûf.</translation>
+        <translation>Impussibil discjariâ chescj files:</translation>
     </message>
 </context>
 <context>
@@ -6234,7 +6229,7 @@ Motîf:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6303,7 +6298,7 @@ Motîf:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cîr</translation>
+        <translation>Cîr</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7523,7 +7518,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Conferme l&apos;inzornament</translation>
+        <translation>Conferme l&apos;inzornament</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -8041,7 +8036,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Sgarfe</translation>
+        <translation>Sgarfe</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -8065,23 +8060,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -8109,7 +8104,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Publicazion</translation>
+        <translation>Publicazion</translation>
     </message>
     <message>
         <source>Any</source>
@@ -8240,7 +8235,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Gjave</translation>
+        <translation>Gjave</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8248,7 +8243,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Zonte</translation>
+        <translation>Zonte</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -8572,7 +8567,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     </message>
     <message>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Conferme comutazion</translation>
+        <translation>Conferme comutazion</translation>
     </message>
     <message>
         <source>Toggling these mod(s) will cause changes to other mods.
@@ -9108,11 +9103,11 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Daûr a gjavâi files vecjos in conflit...</translation>
+        <translation>Daûr a gjavâi files vecjos in conflit...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Impussibil gjavâ i files vecjos in conflit.</translation>
+        <translation>Impussibil gjavâ i files vecjos in conflit.</translation>
     </message>
 </context>
 <context>
@@ -9280,26 +9275,26 @@ Inzorne %1!</translation>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">Daûr a domandâ %1</translation>
+        <translation>Daûr a domandâ %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">no cognossût</translation>
+        <translation>no cognossût</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -9349,11 +9344,11 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -9703,11 +9698,11 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instale</translation>
+        <translation>Instale</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
 </context>
 <context>
@@ -9773,7 +9768,7 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Continue a inzornâ</translation>
+        <translation>Continue a inzornâ</translation>
     </message>
     <message>
         <source>Wrap lines</source>
@@ -9809,7 +9804,7 @@ Inzorne %1!</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cîr</translation>
+        <translation>Cîr</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -9911,7 +9906,7 @@ Eliminâ pardabon?</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Nete</translation>
+        <translation>Nete</translation>
     </message>
     <message>
         <source>Other logs</source>
@@ -9923,104 +9918,103 @@ Eliminâ pardabon?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Impussibil interpretâ il manifest dal pachet:
-</translation>
+        <translation>Impussibil interpretâ il manifest dal pachet:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Modalitât di instalazion no supuartade</translation>
+        <translation>Modalitât di instalazion no supuartade</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Impussibil otignî la tabele dai metadâts locâi par &apos;%1&apos; v%2</translation>
+        <translation>Impussibil otignî la tabele dai metadâts locâi par &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Daûr a eliminâ i files esistents...</translation>
+        <translation>Daûr a eliminâ i files esistents...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Gjenar di mod no cognossût: %1</translation>
+        <translation>Gjenar di mod no cognossût: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Impussibil otignî la tabele dai metadâts locâi par %1</translation>
+        <translation>Impussibil otignî la tabele dai metadâts locâi par %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Impussibil cjatâ une version pal cjariadôr %1</translation>
+        <translation>Impussibil cjatâ une version pal cjariadôr %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Nissune version di cjariadôr configurade pal modpack!</translation>
+        <translation>Nissune version di cjariadôr configurade pal modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Gjenar di contignût discjariât no cognossût o no supuartât: %1</translation>
+        <translation>Gjenar di contignût discjariât no cognossût o no supuartât: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Daûr a discjariâ lis configurazions...</translation>
+        <translation>Daûr a discjariâ lis configurazions...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Discjariament des configurazions</translation>
+        <translation>Discjariament des configurazions</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Daûr a tirâ fûr lis configurazions...</translation>
+        <translation>Daûr a tirâ fûr lis configurazions...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Daûr a selezionâ lis mods facoltativis...</translation>
+        <translation>Daûr a selezionâ lis mods facoltativis...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Daûr a discjariâ lis mods...</translation>
+        <translation>Daûr a discjariâ lis mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Discjariament des mods</translation>
+        <translation>Discjariament des mods</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Gjenar di discjariament no cognossût: %1</translation>
+        <translation>Gjenar di discjariament no cognossût: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Cjatadis mods blocadis</translation>
+        <translation>Cjatadis mods blocadis</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
+        <translation>Chescj files no son disponibii di discjariâ midiant inviadôrs di tierçs.&lt;br/&gt;Tu varâs di discjariâju e zontâju a man ae istance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 di %2 completâts</translation>
+        <translation>%1 di %2 completâts</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Impussibil estrai lis mods...</translation>
+        <translation>Impussibil estrai lis mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Daûr a tirâ fûr lis mods...</translation>
+        <translation>Daûr a tirâ fûr lis mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Daûr a instalâ il modpack</translation>
+        <translation>Daûr a instalâ il modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Impussibil creâ il component des librariis</translation>
+        <translation>Impussibil creâ il component des librariis</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Gjenar di cjariadôr no cognossût: </translation>
+        <translation>Gjenar di cjariadôr no cognossût:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Impussibil creâ il component dal pachet</translation>
+        <translation>Impussibil creâ il component dal pachet</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -10670,7 +10664,7 @@ Stât HTTP: %2</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Interomp</translation>
+        <translation>Interomp</translation>
     </message>
 </context>
 <context>
@@ -11040,7 +11034,7 @@ Continuâ cu la çoncjade?</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="unfinished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <source>m</source>
@@ -11268,7 +11262,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">No cognossût</translation>
+        <translation>No cognossût</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -11400,20 +11394,14 @@ Non gnûf: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Cheste istance e podarès fâ riferiments a files di cheste istance:
-
-%1
-
-%2 al podarès corompi chê altre istance, 
-
-Desideristu continuâ?</numerusform>
-            <numerusform>Chestis istancis a podaressin fâ riferiment a files di cheste istance:
-
-%1
-
-%2 al podarès corompi chês altris istancis, 
-
-Desideristu continuâ?</numerusform>
+            <numerusform>Cheste istance e podarès fâ riferiments a files di cheste istance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 al podarès corompi chê altre istance, </numerusform>
+            <numerusform>Desideristu continuâ?</numerusform>
+            <numerusform>Chestis istancis a podaressin fâ riferiment a files di cheste istance:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 al podarès corompi chês altris istancis, </numerusform>
+            <numerusform>Desideristu continuâ?</numerusform>
         </translation>
     </message>
     <message>
@@ -11438,11 +11426,11 @@ Desideristu continuâ?</numerusform>
     </message>
     <message>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Cree scurte</translation>
+        <translation>Cree scurte</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">L&apos;inviadôr al è te cartele di dulà che al è stât estrat, duncje nol pues creâ scurtis.</translation>
+        <translation>L&apos;inviadôr al è te cartele di dulà che al è stât estrat, duncje nol pues creâ scurtis.</translation>
     </message>
     <message>
         <source>Failed to create icon for application: %1</source>
@@ -11454,7 +11442,7 @@ Desideristu continuâ?</numerusform>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">L&apos;inviadôr staial zirant come AppImage mal configurade? (e mancje la variabile di ambient $APPIMAGE)</translation>
+        <translation>L&apos;inviadôr staial zirant come AppImage mal configurade? (e mancje la variabile di ambient $APPIMAGE)</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut: %1</source>
@@ -11462,11 +11450,11 @@ Desideristu continuâ?</numerusform>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">Impussibil creâ une icone pe scurte.</translation>
+        <translation>Impussibil creâ une icone pe scurte.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">No supuartât te tô plateforme!</translation>
+        <translation>No supuartât te tô plateforme!</translation>
     </message>
     <message>
         <source>Failed to create %1 shortcut!</source>
@@ -11474,7 +11462,7 @@ Desideristu continuâ?</numerusform>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">Impussibil cjatâ il scritori?!</translation>
+        <translation>Impussibil cjatâ il scritori?!</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1 on your desktop!</source>
@@ -11494,7 +11482,7 @@ Desideristu continuâ?</numerusform>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Vôs di Scritori</translation>
+        <translation>Vôs di Scritori</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1!</source>
@@ -11514,7 +11502,7 @@ Desideristu continuâ?</numerusform>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Erôr: %1 al à tornât un cuarp di rispueste malformât</translation>
+        <translation>Erôr: %1 al à tornât un cuarp di rispueste malformât</translation>
     </message>
     <message>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
@@ -11522,7 +11510,7 @@ Desideristu continuâ?</numerusform>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Erôr: %1 al à tornât un erôr: %2</translation>
+        <translation>Erôr: %1 al à tornât un erôr: %2</translation>
     </message>
     <message>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
@@ -11531,8 +11519,7 @@ Desideristu continuâ?</numerusform>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Erôr: %1 al à tornât un codiç di erôr: %2
-Messaç dal erôr: %3</translation>
+        <translation>Erôr: %1 al à tornât un codiç di erôr: %2</translation>
     </message>
     <message>
         <source>Unknown paste type</source>
@@ -11553,7 +11540,7 @@ Messaç dal erôr: %3</translation>
     </message>
     <message>
         <source>%1 Developers</source>
-        <translation type="unfinished">Svilupadôrs di %1</translation>
+        <translation>Svilupadôrs di %1</translation>
     </message>
     <message>
         <source>MultiMC Developers</source>
@@ -11569,7 +11556,7 @@ Messaç dal erôr: %3</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">No ricognossût</translation>
+        <translation>No ricognossût</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11579,30 +11566,30 @@ Messaç dal erôr: %3</translation>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">mods</translation>
+        <translation>mods</translation>
     </message>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">pachets risorsis</translation>
+        <translation>pachets risorsis</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">risorse</translation>
+        <translation>risorse</translation>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">risorsis</translation>
+        <translation>risorsis</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">pachets shaders</translation>
+        <translation>pachets shaders</translation>
     </message>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">pachets tramis</translation>
+        <translation>pachets tramis</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
@@ -11715,19 +11702,19 @@ Sierâ pardabon chest dialic?</translation>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">mods</translation>
+        <translation>mods</translation>
     </message>
     <message>
         <source>resource packs</source>
-        <translation type="unfinished">pachets risorsis</translation>
+        <translation>pachets risorsis</translation>
     </message>
     <message>
         <source>texture packs</source>
-        <translation type="unfinished">pachets tramis</translation>
+        <translation>pachets tramis</translation>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">pachets shaders</translation>
+        <translation>pachets shaders</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11992,7 +11979,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12063,7 +12050,7 @@ Desideristu pardabon fâlu?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imagjin</translation>
+        <translation>Imagjin</translation>
     </message>
 </context>
 <context>
@@ -12082,7 +12069,7 @@ Desideristu pardabon fâlu?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12533,7 +12520,7 @@ Cjariâ pardabon?</translation>
     </message>
     <message>
         <source>Upload finished</source>
-        <translation type="unfinished">Cjariament copletât</translation>
+        <translation>Cjariament copletât</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12683,7 +12670,7 @@ Version instalade in chest moment: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12691,7 +12678,7 @@ Version instalade in chest moment: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Fûr rêt</translation>
+        <translation>Fûr rêt</translation>
     </message>
     <message>
         <source>Online</source>
@@ -12855,7 +12842,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avîs</translation>
+        <translation>Avîs</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12867,7 +12854,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Conferme l&apos;inzornament</translation>
+        <translation>Conferme l&apos;inzornament</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -12883,7 +12870,7 @@ Desideristu pardabon fâlu?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; al è inzornât! :)</translation>
+        <translation>&apos;%1&apos; al è inzornât! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -12895,11 +12882,11 @@ Desideristu pardabon fâlu?</translation>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Verificadôr di inzornaments</translation>
+        <translation>Verificadôr di inzornaments</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Conferme rimozion</translation>
+        <translation>Conferme rimozion</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -12982,7 +12969,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Vierç cartele</translation>
+        <translation>Vierç cartele</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -13026,11 +13013,11 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -13074,7 +13061,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menù contestuâl</translation>
+        <translation>Menù contestuâl</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -13086,7 +13073,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Conferme eliminazion</translation>
+        <translation>Conferme eliminazion</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -13108,7 +13095,7 @@ Eliminâ pardabon?</translation>
     </message>
     <message>
         <source>Skin images must be 64x64 or 64x32 pixel PNG files.</source>
-        <translation type="unfinished">Lis imagjins pal aspiet a scugnin jessi files PNG di 64x64 o di 64x32 pixel.</translation>
+        <translation>Lis imagjins pal aspiet a scugnin jessi files PNG di 64x64 o di 64x32 pixel.</translation>
     </message>
     <message>
         <source>Unable to download the skin: &apos;%1&apos;.</source>
@@ -13169,7 +13156,7 @@ Eliminâ pardabon?</translation>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Formulari</translation>
+        <translation>Formulari</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -13184,7 +13171,7 @@ Eliminâ pardabon?</translation>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Interot</translation>
+        <translation>Interot</translation>
     </message>
 </context>
 <context>
@@ -13207,16 +13194,15 @@ Eliminâ pardabon?</translation>
     <message>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">Daûr a diascjariâ il modpack:
-%1</translation>
+        <translation>Daûr a diascjariâ il modpack:</translation>
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Daûr a discjariâ il modpack</translation>
+        <translation>Daûr a discjariâ il modpack</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Daûr a tirâ fûr il modpack</translation>
+        <translation>Daûr a tirâ fûr il modpack</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -13232,7 +13218,7 @@ Eliminâ pardabon?</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Impussibil risolvi i permès par %1</translation>
+        <translation>Impussibil risolvi i permès par %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -13252,12 +13238,11 @@ Eliminâ pardabon?</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Impussibil interpretâ il manifest dal pachet:
-</translation>
+        <translation>Impussibil interpretâ il manifest dal pachet:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Daûr a tirâ fûr il modpack</translation>
+        <translation>Daûr a tirâ fûr il modpack</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -13269,7 +13254,7 @@ Eliminâ pardabon?</translation>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">Impussibil risolvi i permès par %1</translation>
+        <translation>Impussibil risolvi i permès par %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
@@ -13336,20 +13321,20 @@ al mancje inheritsFrom</translation>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Version selezionade:</translation>
+        <translation>Version selezionade:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cîr e filtre...</translation>
+        <translation>Cîr e filtre...</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> di </translation>
+        <translation>di</translation>
     </message>
 </context>
 <context>
@@ -13437,7 +13422,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Discjame pachets</translation>
+        <translation>Discjame pachets</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -13457,7 +13442,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -13469,7 +13454,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avîs</translation>
+        <translation>Avîs</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13481,7 +13466,7 @@ Atenzion: cheste risorse e je colegade in maniere rigjide di altris bandis. La s
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Conferme l&apos;inzornament</translation>
+        <translation>Conferme l&apos;inzornament</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -13497,7 +13482,7 @@ Desideristu fâlu pardabon?</translation>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; al è inzornât! :)</translation>
+        <translation>&apos;%1&apos; al è inzornât! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -13509,11 +13494,11 @@ Desideristu fâlu pardabon?</translation>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Verificadôr di inzornaments</translation>
+        <translation>Verificadôr di inzornaments</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Conferme rimozion</translation>
+        <translation>Conferme rimozion</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -13589,7 +13574,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Aspiet</translation>
+        <translation>Aspiet</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -13610,7 +13595,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Lenghe</translation>
+        <translation>Lenghe</translation>
     </message>
     <message>
         <source>Completeness</source>
@@ -13735,11 +13720,11 @@ Par plasê passe a une di chestis versions di Java par cheste istance:</translat
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Azions</translation>
+        <translation>Azions</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Gjave</translation>
+        <translation>Gjave</translation>
     </message>
     <message>
         <source>Customize</source>
@@ -13779,15 +13764,15 @@ Par plasê passe a une di chestis versions di Java par cheste istance:</translat
     </message>
     <message>
         <source>Reload</source>
-        <translation type="unfinished">Torne cjame</translation>
+        <translation>Torne cjame</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Cambie version</translation>
+        <translation>Cambie version</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cîr</translation>
+        <translation>Cîr</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -13795,7 +13780,7 @@ Par plasê passe a une di chestis versions di Java par cheste istance:</translat
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Môf in sù</translation>
+        <translation>Môf in sù</translation>
     </message>
     <message>
         <source>Make the selected component apply sooner.</source>
@@ -13803,7 +13788,7 @@ Par plasê passe a une di chestis versions di Java par cheste istance:</translat
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Môf in jù</translation>
+        <translation>Môf in jù</translation>
     </message>
     <message>
         <source>Make the selected component apply later.</source>
@@ -13827,7 +13812,7 @@ Par plasê passe a une di chestis versions di Java par cheste istance:</translat
     </message>
     <message>
         <source>Install Loader</source>
-        <translation type="unfinished">Instale il cjariadôr</translation>
+        <translation>Instale il cjariadôr</translation>
     </message>
     <message>
         <source>Install a mod loader.</source>
@@ -13891,7 +13876,7 @@ Par plasê passe a une di chestis versions di Java par cheste istance:</translat
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menù contestuâl</translation>
+        <translation>Menù contestuâl</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -13911,7 +13896,7 @@ Par plasê passe a une di chestis versions di Java par cheste istance:</translat
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <source>Couldn&apos;t load the instance profile.</source>
@@ -13919,7 +13904,7 @@ Par plasê passe a une di chestis versions di Java par cheste istance:</translat
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Conferme rimozion</translation>
+        <translation>Conferme rimozion</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -13977,7 +13962,7 @@ Gjavâ pardabon?</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">Cambie la version di %1</translation>
+        <translation>Cambie la version di %1</translation>
     </message>
     <message>
         <source>No intermediary mappings versions are currently available.</source>
@@ -13998,7 +13983,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instale</translation>
+        <translation>Instale</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -14028,18 +14013,18 @@ Pardabon tornâ indaûr?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
 </context>
 <context>
     <name>VersionProxyModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Minecraft</source>
-        <translation type="unfinished">Minecraft</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <source>Branch</source>
@@ -14047,7 +14032,7 @@ Pardabon tornâ indaûr?</translation>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Gjenar</translation>
+        <translation>Gjenar</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -14128,11 +14113,11 @@ Pardabon tornâ indaûr?</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Va ben</translation>
+        <translation>Va ben</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -14144,7 +14129,7 @@ Pardabon tornâ indaûr?</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Inzorne</translation>
+        <translation>&amp;Inzorne</translation>
     </message>
 </context>
 <context>
@@ -14155,7 +14140,7 @@ Pardabon tornâ indaûr?</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Erôr</translation>
+        <translation>Erôr</translation>
     </message>
     <message>
         <source>List update failed:
@@ -14206,7 +14191,7 @@ Percors canonic: %1</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Non</translation>
+        <translation>Non</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -14219,12 +14204,12 @@ Percors canonic: %1</translation>
     <message>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">Dimension</translation>
+        <translation>Dimension</translation>
     </message>
     <message>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished">Informazions</translation>
+        <translation>Informazions</translation>
     </message>
     <message>
         <source>The name of the world.</source>
@@ -14251,27 +14236,27 @@ Percors canonic: %1</translation>
     <name>WorldListPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Azions</translation>
+        <translation>Azions</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Zonte</translation>
+        <translation>Zonte</translation>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Jentre</translation>
+        <translation>Jentre</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Cambie non</translation>
+        <translation>Cambie non</translation>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Copie</translation>
+        <translation>Copie</translation>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Elimine</translation>
+        <translation>Elimine</translation>
     </message>
     <message>
         <source>MCEdit</source>
@@ -14283,11 +14268,11 @@ Percors canonic: %1</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Inzorne</translation>
+        <translation>Inzorne</translation>
     </message>
     <message>
         <source>View Folder</source>
-        <translation type="unfinished">Visualize cartele</translation>
+        <translation>Visualize cartele</translation>
     </message>
     <message>
         <source>Reset Icon</source>
@@ -14299,7 +14284,7 @@ Percors canonic: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Struments</translation>
+        <translation>Struments</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -14327,7 +14312,7 @@ Percors canonic: %1</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menù contestuâl</translation>
+        <translation>Menù contestuâl</translation>
     </message>
     <message>
         <source>Open World Datapacks Folder</source>
@@ -14377,7 +14362,7 @@ Desideristu continuâ?</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Conferme eliminazion</translation>
+        <translation>Conferme eliminazion</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -14603,7 +14588,7 @@ Par plasê configure il to account secont di %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Non utent</translation>
+        <translation>Non utent</translation>
     </message>
     <message>
         <source>Password</source>
@@ -14615,7 +14600,7 @@ Par plasê configure il to account secont di %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anule</translation>
+        <translation>Anule</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

@@ -1358,11 +1358,11 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installera</translation>
+        <translation>Installera</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
@@ -8722,7 +8722,7 @@ Om du vill göra det själv väljer du Mappar → Visa startprogrammets rotmapp.
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> och dess %n registrerade genväg</numerusform>
+            <numerusform>och dess %n registrerade genväg</numerusform>
             <numerusform> och dess %n registrerade genvägar</numerusform>
         </translation>
     </message>
@@ -9769,7 +9769,7 @@ Det är sannolikt att du måste ändra sökvägen - var snäll och vänd dig til
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ta bort</translation>
+        <translation>Ta bort</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -10138,10 +10138,8 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n modd aktiveras
-</numerusform>
-            <numerusform>%n moddar aktiveras
-</numerusform>
+            <numerusform>%n modd aktiveras</numerusform>
+            <numerusform>%n moddar aktiveras</numerusform>
         </translation>
     </message>
     <message>
@@ -10152,10 +10150,8 @@ Varning: Denna resurs är hårt länkad till en annan plats. Ändringar till den
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n modd inaktiveras
-</numerusform>
-            <numerusform>%n moddar inaktiveras
-</numerusform>
+            <numerusform>%n modd inaktiveras</numerusform>
+            <numerusform>%n moddar inaktiveras</numerusform>
         </translation>
     </message>
     <message>
@@ -11774,11 +11770,11 @@ Obs: Se till att du har gjort en säkerhetskopia av din viktiga instansdata inna
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installera</translation>
+        <translation>Installera</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
 </context>
 <context>
@@ -13648,20 +13644,14 @@ Nytt namn: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Följande instans kan använda filer från den här instansen:
-
-%1
-
-%2 det kan påverka den andra instansen.
-
-Vill du fortsätta?</numerusform>
-            <numerusform>Följande instanser kan använda filer från den här instansen:
-
-%1
-
-%2 det kan påverka de andra instanserna.
-
-Vill du fortsätta?</numerusform>
+            <numerusform>Följande instans kan använda filer från den här instansen:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 det kan påverka den andra instansen.</numerusform>
+            <numerusform>Vill du fortsätta?</numerusform>
+            <numerusform>Följande instanser kan använda filer från den här instansen:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 det kan påverka de andra instanserna.</numerusform>
+            <numerusform>Vill du fortsätta?</numerusform>
         </translation>
     </message>
     <message>
@@ -15016,7 +15006,7 @@ För närvarande installerad version: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -16665,7 +16655,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installera</translation>
+        <translation>Installera</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17184,14 +17174,12 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>Du håller på att ta bort %n värld.
-Den kan försvinna för gott.
-
-Vill du fortsätta?</numerusform>
-            <numerusform>Du håller på att ta bort %n världar.
-De kan försvinna för gott.
-
-Vill du fortsätta?</numerusform>
+            <numerusform>Du håller på att ta bort %n värld.</numerusform>
+            <numerusform>Den kan försvinna för gott.</numerusform>
+            <numerusform>Vill du fortsätta?</numerusform>
+            <numerusform>Du håller på att ta bort %n världar.</numerusform>
+            <numerusform>De kan försvinna för gott.</numerusform>
+            <numerusform>Vill du fortsätta?</numerusform>
         </translation>
     </message>
     <message>
@@ -17454,11 +17442,11 @@ Ställ in kontot enligt %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Användarnamn</translation>
+        <translation>Användarnamn</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Lösenord</translation>
+        <translation>Lösenord</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17466,7 +17454,7 @@ Ställ in kontot enligt %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Avbryt</translation>
+        <translation>Avbryt</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

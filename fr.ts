@@ -1383,11 +1383,11 @@ Certaines versions de Minecraft peuvent ne pas se lancer.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installer</translation>
+        <translation>Installer</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -8879,7 +8879,7 @@ Pour vider manuellement le cache de métadonnées, cliquez sur Dossiers -&gt; Af
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> et ce %n raccourci enregistré</numerusform>
+            <numerusform>et ce %n raccourci enregistré</numerusform>
             <numerusform> et ces %n raccourcis enregistrés</numerusform>
         </translation>
     </message>
@@ -9954,7 +9954,7 @@ Il est fort probable que vous deviez modifier le chemin d&apos;accès - veuillez
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Supprimer</translation>
+        <translation>Supprimer</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -10347,10 +10347,8 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod sera activé
-</numerusform>
-            <numerusform>%n mods seront activés
-</numerusform>
+            <numerusform>%n mod sera activé</numerusform>
+            <numerusform>%n mods seront activés</numerusform>
         </translation>
     </message>
     <message>
@@ -10361,10 +10359,8 @@ Avertissement : Cette ressource est liée directement à d&apos;autres ressource
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod sera désactivé
-</numerusform>
-            <numerusform>%n mods seront désactivés
-</numerusform>
+            <numerusform>%n mod sera désactivé</numerusform>
+            <numerusform>%n mods seront désactivés</numerusform>
         </translation>
     </message>
     <message>
@@ -11557,16 +11553,16 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>Nombre de requêtes limité pour %n seconde&#xa0;: Réessayez après %1</numerusform>
-            <numerusform>Nombre de requêtes limité pour %n secondes&#xa0;: Réessayez après %1</numerusform>
+            <numerusform>Nombre de requêtes limité pour %n seconde : Réessayez après %1</numerusform>
+            <numerusform>Nombre de requêtes limité pour %n secondes : Réessayez après %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>Débit du réseau limité&#xa0;: Attendez %n seconde</numerusform>
-            <numerusform>Débit du réseau limité&#xa0;: Attendez %n secondes</numerusform>
+            <numerusform>Débit du réseau limité : Attendez %n seconde</numerusform>
+            <numerusform>Débit du réseau limité : Attendez %n secondes</numerusform>
         </translation>
     </message>
 </context>
@@ -11986,11 +11982,11 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installer</translation>
+        <translation>Installer</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
 </context>
 <context>
@@ -13886,20 +13882,14 @@ Nouveau nom&#xa0;: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>L&apos;instance suivante pourrait référencer des fichiers dans cette instance&#xa0;:
-
-%1
-
-%2 cela pourrait endommager l&apos;autre instance.
-
-Souhaitez-vous continuer&#x202f;?</numerusform>
-            <numerusform>Les instances suivantes pourraient référencer des fichiers dans cette instance&#xa0;:
-
-%1
-
-%2 cela pourrait endommager les autres instances.
-
-Souhaitez-vous continuer&#x202f;?</numerusform>
+            <numerusform>L&apos;instance suivante pourrait référencer des fichiers dans cette instance :</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 cela pourrait endommager l&apos;autre instance.</numerusform>
+            <numerusform>Souhaitez-vous continuer ?</numerusform>
+            <numerusform>Les instances suivantes pourraient référencer des fichiers dans cette instance :</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 cela pourrait endommager les autres instances.</numerusform>
+            <numerusform>Souhaitez-vous continuer ?</numerusform>
         </translation>
     </message>
     <message>
@@ -15254,7 +15244,7 @@ Version actuellement installée : %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Version</translation>
+        <translation>Version</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -15262,7 +15252,7 @@ Version actuellement installée : %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Hors-ligne</translation>
+        <translation>Hors-ligne</translation>
     </message>
     <message>
         <source>Online</source>
@@ -16907,7 +16897,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installer</translation>
+        <translation>Installer</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17424,14 +17414,12 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>Vous allez supprimer %n monde.
-Ce monde sera peut-être perdu pour toujours (C&apos;est très long&#x202f;!).
-
-Êtes vous sûr·e&#x202f;?</numerusform>
-            <numerusform>Vous allez supprimer %n mondes.
-Ces mondes seront peut-être perdus pour toujours (C&apos;est très long&#x202f;!).
-
-Êtes vous sûr·e&#x202f;?</numerusform>
+            <numerusform>Vous allez supprimer %n monde.</numerusform>
+            <numerusform>Ce monde sera peut-être perdu pour toujours (C&apos;est très long !).</numerusform>
+            <numerusform>Êtes vous sûr·e ?</numerusform>
+            <numerusform>Vous allez supprimer %n mondes.</numerusform>
+            <numerusform>Ces mondes seront peut-être perdus pour toujours (C&apos;est très long !).</numerusform>
+            <numerusform>Êtes vous sûr·e ?</numerusform>
         </translation>
     </message>
     <message>
@@ -17702,11 +17690,11 @@ Veuillez configurer votre compte selon %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nom d&apos;utilisateur</translation>
+        <translation>Nom d&apos;utilisateur</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Mot de passe</translation>
+        <translation>Mot de passe</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17714,7 +17702,7 @@ Veuillez configurer votre compte selon %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Annuler</translation>
+        <translation>Annuler</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

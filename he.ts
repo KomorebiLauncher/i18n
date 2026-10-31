@@ -1347,7 +1347,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">התקנה</translation>
+        <translation>התקנה</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1445,7 +1445,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">הקובץ המקומי נטען</translation>
+        <translation>הקובץ המקומי נטען</translation>
     </message>
 </context>
 <context>
@@ -2306,7 +2306,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">עדכן</translation>
+        <translation>עדכן</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -3224,7 +3224,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">שם</translation>
+        <translation>שם</translation>
     </message>
     <message>
         <source>Command</source>
@@ -6595,7 +6595,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">‎Minecraft %1</translation>
+        <translation>‎Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7907,7 +7907,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">אישור עדכון</translation>
+        <translation>אישור עדכון</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -8380,7 +8380,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">גרסה</translation>
+        <translation>גרסה</translation>
     </message>
     <message>
         <source>Any</source>
@@ -8794,7 +8794,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">עדכן</translation>
+        <translation>עדכן</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -8865,10 +8865,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>המוד יימחק
-</numerusform>
-            <numerusform>יימחקו %n מודים
-</numerusform>
+            <numerusform>המוד יימחק</numerusform>
+            <numerusform>יימחקו %n מודים</numerusform>
         </translation>
     </message>
     <message>
@@ -8879,10 +8877,8 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>המוד יושבת
-</numerusform>
-            <numerusform>יושבתו %n מודים
-</numerusform>
+            <numerusform>המוד יושבת</numerusform>
+            <numerusform>יושבתו %n מודים</numerusform>
         </translation>
     </message>
     <message>
@@ -9387,11 +9383,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">הקבצים הישנים והמתנגשים מוסרים...</translation>
+        <translation>הקבצים הישנים והמתנגשים מוסרים...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">נכשלה מחיקת הקבצים המתנגשים הישנים.</translation>
+        <translation>נכשלה מחיקת הקבצים המתנגשים הישנים.</translation>
     </message>
 </context>
 <context>
@@ -9436,7 +9432,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">מציאת גרסאות עבור גיבוב...</translation>
+        <translation>מציאת גרסאות עבור גיבוב...</translation>
     </message>
     <message>
         <source>Failed to parse versions response: %1</source>
@@ -9572,7 +9568,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">לא ידוע</translation>
+        <translation>לא ידוע</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
@@ -9997,7 +9993,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">התקנה</translation>
+        <translation>התקנה</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10131,7 +10127,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">לא ניתן להציג יומן רישום זה מכיוון שגודל יומן הרישום עולה על %1 שורות.</translation>
+        <translation>לא ניתן להציג יומן רישום זה מכיוון שגודל יומן הרישום עולה על %1 שורות.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -10236,7 +10232,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">מודים אופציונליים נבחרים...</translation>
+        <translation>מודים אופציונליים נבחרים...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -10276,11 +10272,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">סוג טוען מודים לא ידוע: </translation>
+        <translation>סוג טוען מודים לא ידוע:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">נכשלה יצירת רכיב החבילה</translation>
+        <translation>נכשלה יצירת רכיב החבילה</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -11367,7 +11363,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">לא ידוע</translation>
+        <translation>לא ידוע</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -11415,12 +11411,12 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">בעבודה</translation>
+        <translation>בעבודה</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">תקול</translation>
+        <translation>תקול</translation>
     </message>
     <message>
         <source>Expired</source>
@@ -11435,7 +11431,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">אבוד</translation>
+        <translation>אבוד</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -11672,7 +11668,7 @@ Error message: %3</source>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">ערכות הרהבה (Shaders)</translation>
+        <translation>ערכות הרהבה (Shaders)</translation>
     </message>
     <message>
         <source>texture packs</source>
@@ -11681,7 +11677,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">לא ניתן היה לפתוח את הקובץ 1% לקריאה: 2%</translation>
+        <translation>לא ניתן היה לפתוח את הקובץ 1% לקריאה: 2%</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -11768,7 +11764,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">ערכות הרהבה (Shaders)</translation>
+        <translation>ערכות הרהבה (Shaders)</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11834,7 +11830,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Donate information: </source>
-        <translation type="unfinished">מידע על התרומה: </translation>
+        <translation>מידע על התרומה:</translation>
     </message>
     <message>
         <source>External links:</source>
@@ -11955,15 +11951,12 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-אזהרה: משאב זה מקושר באופן סמלי ממקום אחר. עריכתו תשנה גם את המקור.
-נתיב קנוני: %1</translation>
+        <translation>אזהרה: משאב זה מקושר באופן סמלי ממקום אחר. עריכתו תשנה גם את המקור.</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-אזהרה: משאב זה מקושר באופן קשיח למקום אחר. עריכתו תשנה גם את המקור.</translation>
+        <translation>אזהרה: משאב זה מקושר באופן קשיח למקום אחר. עריכתו תשנה גם את המקור.</translation>
     </message>
     <message>
         <source>Name</source>
@@ -11991,11 +11984,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">שם קובץ</translation>
+        <translation>שם קובץ</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">עדכן</translation>
+        <translation>עדכן</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -12049,7 +12042,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">תמונה</translation>
+        <translation>תמונה</translation>
     </message>
 </context>
 <context>
@@ -12080,11 +12073,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">שם קובץ</translation>
+        <translation>שם קובץ</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">עדכן</translation>
+        <translation>עדכן</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -12174,7 +12167,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">שינוי גרסה של מוד.</translation>
+        <translation>שינוי גרסה של מוד.</translation>
     </message>
     <message>
         <source>Error</source>
@@ -13352,11 +13345,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">שם קובץ</translation>
+        <translation>שם קובץ</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">עדכן</translation>
+        <translation>עדכן</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -14039,7 +14032,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">התקנה</translation>
+        <translation>התקנה</translation>
     </message>
     <message>
         <source>Select Forge version</source>
@@ -14339,7 +14332,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">כלים</translation>
+        <translation>כלים</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -14635,11 +14628,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">שם משתמש</translation>
+        <translation>שם משתמש</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">סיסמא</translation>
+        <translation>סיסמא</translation>
     </message>
     <message>
         <source>Sign in</source>

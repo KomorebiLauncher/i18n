@@ -401,7 +401,7 @@
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation>Niyznōny</translation>
+        <translation>Niyznōne</translation>
     </message>
     <message>
         <location filename="src/launcher/minecraft/auth/AccountList.cpp" line="361"/>

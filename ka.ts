@@ -92,7 +92,7 @@
     <message>
         <source>&amp;Microsoft Authentication</source>
         <oldsource>&amp;Microsoft Authentation</oldsource>
-        <translation type="unfinished">&amp;Microsoft აუტენტიფიკაცია</translation>
+        <translation>&amp;Microsoft აუტენტიფიკაცია</translation>
     </message>
     <message>
         <source>Mod&amp;rinth</source>
@@ -1157,11 +1157,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">დაყენება</translation>
+        <translation>დაყენება</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
 </context>
 <context>
@@ -1231,7 +1231,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>AutoJavaWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ფორმა</translation>
+        <translation>ფორმა</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;New Feature Alert!&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1281,7 +1281,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1289,7 +1289,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">გამოტოვება</translation>
+        <translation>გამოტოვება</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1354,7 +1354,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">მომხმარებელი</translation>
+        <translation>მომხმარებელი</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1366,7 +1366,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1626,11 +1626,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">დახმარება</translation>
+        <translation>დახმარება</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1817,7 +1817,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">სახელი</translation>
+        <translation>სახელი</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -2000,7 +2000,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">ამჟამად Minecraft %1-ისთვის არცერთი ვერსია არ არის ხელმისაწვდომი</translation>
+        <translation>ამჟამად Minecraft %1-ისთვის არცერთი ვერსია არ არის ხელმისაწვდომი</translation>
     </message>
 </context>
 <context>
@@ -2045,7 +2045,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">სახელი</translation>
+        <translation>სახელი</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -2053,11 +2053,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">ბოლოს შეიცვლა</translation>
+        <translation>ბოლოს შეიცვლა</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">ზომა</translation>
+        <translation>ზომა</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2069,7 +2069,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">ვერსია</translation>
+        <translation>ვერსია</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2133,7 +2133,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">შეცდომა</translation>
+        <translation>შეცდომა</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2141,7 +2141,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">გაფრთხილებები</translation>
+        <translation>გაფრთხილებები</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2179,7 +2179,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">წაშლის დადასტურება</translation>
+        <translation>წაშლის დადასტურება</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 data packs.
@@ -2327,7 +2327,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">უპირატესობის მინიჭება და გლობალური პარამეტრები</translation>
+        <translation>უპირატესობის მინიჭება და გლობალური პარამეტრები</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -2353,11 +2353,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2391,7 +2391,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;სახელი:</translation>
+        <translation>&amp;სახელი:</translation>
     </message>
     <message>
         <source>&amp;Version:</source>
@@ -2447,11 +2447,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
     <message>
         <source>Export %1</source>
@@ -2563,7 +2563,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2611,7 +2611,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">ძებნა</translation>
+        <translation>ძებნა</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2786,15 +2786,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;დამატება</translation>
+        <translation>&amp;დამატება</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;წაშლა</translation>
+        <translation>&amp;წაშლა</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">სახელი</translation>
+        <translation>სახელი</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2892,7 +2892,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">ხელსაწყოები</translation>
+        <translation>ხელსაწყოები</translation>
     </message>
 </context>
 <context>
@@ -2922,8 +2922,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
-</translation>
+        <translation>პაკეტის მანიფესტის გაგება ვერ მოხერხდა.</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -2939,7 +2938,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
+        <translation>ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -2947,11 +2946,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">მიმდინარეობს მოდების გადმოწერა...</translation>
+        <translation>მიმდინარეობს მოდების გადმოწერა...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">მოდის გადმოწერა</translation>
+        <translation>მოდის გადმოწერა</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -2974,7 +2973,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">თამაშის ვერსიის მიხედვით დალაგება</translation>
+        <translation>თამაშის ვერსიის მიხედვით დალაგება</translation>
     </message>
 </context>
 <context>
@@ -2989,7 +2988,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">ძებნა და დალაგება...</translation>
+        <translation>ძებნა და დალაგება...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3059,7 +3058,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">უცნობი</translation>
+        <translation>უცნობი</translation>
     </message>
 </context>
 <context>
@@ -3067,8 +3066,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
-</translation>
+        <translation>პაკეტის მანიფესტის გაგება ვერ მოხერხდა.</translation>
     </message>
     <message>
         <source> (version %1)</source>
@@ -3096,15 +3094,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
+        <translation>ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
+        <translation>ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
+        <translation>არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3138,12 +3136,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">ნაპოვნია დაბლოკილი მოდები</translation>
+        <translation>ნაპოვნია დაბლოკილი მოდები</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
+        <translation>ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -3155,7 +3153,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 -იდან %2 -ია დასრულებული</translation>
+        <translation>%1 -იდან %2 -ია დასრულებული</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3175,7 +3173,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">მიმდინარეობს მოდების გადმოწერა...</translation>
+        <translation>მიმდინარეობს მოდების გადმოწერა...</translation>
     </message>
 </context>
 <context>
@@ -3232,7 +3230,7 @@ Are you sure you want to do this?</source>
     <name>FlamePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">არჩეული ვერსია:</translation>
+        <translation>არჩეული ვერსია:</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3250,7 +3248,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">ძებნა და დალაგება...</translation>
+        <translation>ძებნა და დალაგება...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3264,7 +3262,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">პოპულარობის მიხედვით დალაგება</translation>
+        <translation>პოპულარობის მიხედვით დალაგება</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -3335,18 +3333,18 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">სახელის მიხედვით დალაგება</translation>
+        <translation>სახელის მიხედვით დალაგება</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">არჩეული ვერსია:</translation>
+        <translation>არჩეული ვერსია:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">ძებნა და დალაგება...</translation>
+        <translation>ძებნა და დალაგება...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3460,7 +3458,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">ხელით მითითება</translation>
+        <translation>ხელით მითითება</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3472,15 +3470,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">ფოლდერის გახსნა</translation>
+        <translation>ფოლდერის გახსნა</translation>
     </message>
     <message>
         <source>Select Icons</source>
@@ -3579,11 +3577,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
 </context>
 <context>
@@ -3627,15 +3625,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">ნეო-ფორჯი (neoforge)</translation>
+        <translation>ნეო-ფორჯი (neoforge)</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">ფორგი (forge )</translation>
+        <translation>ფორგი (forge )</translation>
     </message>
     <message>
         <source>Fabric</source>
@@ -3643,11 +3641,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">კვილტი (quilt)</translation>
+        <translation>კვილტი (quilt)</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">ლაიტ-ჩამტვირთველი (liteloader)</translation>
+        <translation>ლაიტ-ჩამტვირთველი (liteloader)</translation>
     </message>
     <message>
         <source>Install Loader</source>
@@ -3680,7 +3678,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">ამჟამად Minecraft %1-ისთვის არცერთი ვერსია არ არის ხელმისაწვდომი</translation>
+        <translation>ამჟამად Minecraft %1-ისთვის არცერთი ვერსია არ არის ხელმისაწვდომი</translation>
     </message>
 </context>
 <context>
@@ -3836,11 +3834,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">გამოტოვება</translation>
+        <translation>გამოტოვება</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">შეცდომა</translation>
+        <translation>შეცდომა</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -3931,11 +3929,11 @@ What would you like to do with %2?</source>
     <name>Java::ArchiveDownloadTask</name>
     <message>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java-ს გადმოწერა</translation>
+        <translation>Java-ს გადმოწერა</translation>
     </message>
     <message>
         <source>Extracting Java</source>
-        <translation type="unfinished">Java-ს ამოღება</translation>
+        <translation>Java-ს ამოღება</translation>
     </message>
     <message>
         <source>Unable to open supplied zip file: %1</source>
@@ -3954,7 +3952,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;განახლება</translation>
+        <translation>&amp;განახლება</translation>
     </message>
     <message>
         <source>Download</source>
@@ -3962,11 +3960,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">მოჯანგი/მოჯანგის სტუდიო (Mojang Studios)</translation>
+        <translation>მოჯანგი/მოჯანგის სტუდიო (Mojang Studios)</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -3982,15 +3980,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Java-ის დაყენება</translation>
+        <translation>Java-ის დაყენება</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Java-ის გადმოწერის ტიპის დადგენა ვერ ხერხდება!</translation>
+        <translation>Java-ის გადმოწერის ტიპის დადგენა ვერ ხერხდება!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">შეცდომა</translation>
+        <translation>შეცდომა</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4012,7 +4010,7 @@ What would you like to do with %2?</source>
     <name>Java::ManifestDownloadTask</name>
     <message>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java-ს გადმოწერა</translation>
+        <translation>Java-ს გადმოწერა</translation>
     </message>
 </context>
 <context>
@@ -4068,11 +4066,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">წაშლა</translation>
+        <translation>წაშლა</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">განახლება</translation>
+        <translation>განახლება</translation>
     </message>
     <message>
         <source>&amp;Test</source>
@@ -4099,7 +4097,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">წაშლის დადასტურება</translation>
+        <translation>წაშლის დადასტურება</translation>
     </message>
     <message>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
@@ -4123,7 +4121,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ფორმა</translation>
+        <translation>ფორმა</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -4370,7 +4368,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">მეხსიერება</translation>
+        <translation>მეხსიერება</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -4394,7 +4392,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">ნუსხა</translation>
+        <translation>ნუსხა</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -4824,11 +4822,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">დამატება</translation>
+        <translation>დამატება</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">წაშლა</translation>
+        <translation>წაშლა</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -5063,7 +5061,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">ზოგადი</translation>
+        <translation>ზოგადი</translation>
     </message>
 </context>
 <context>
@@ -5135,7 +5133,7 @@ Please try again.</source>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">თამაშის ვერსიის მიხედვით დალაგება</translation>
+        <translation>თამაშის ვერსიის მიხედვით დალაგება</translation>
     </message>
 </context>
 <context>
@@ -5180,7 +5178,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">მიმდინარეობს modpack-ის ინსტალაცია</translation>
+        <translation>მიმდინარეობს modpack-ის ინსტალაცია</translation>
     </message>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
@@ -5196,7 +5194,7 @@ Please try again.</source>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">ძებნა და დალაგება...</translation>
+        <translation>ძებნა და დალაგება...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -5224,7 +5222,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">არჩეული ვერსია:</translation>
+        <translation>არჩეული ვერსია:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -5354,7 +5352,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">ძებნა</translation>
+        <translation>ძებნა</translation>
     </message>
     <message>
         <source>Find</source>
@@ -5403,7 +5401,7 @@ Reason:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ფორმა</translation>
+        <translation>ფორმა</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -5527,7 +5525,7 @@ Reason:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -6319,7 +6317,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">განახლების შეცდომა</translation>
+        <translation>განახლების შეცდომა</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -6539,7 +6537,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">ზოგადი</translation>
+        <translation>ზოგადი</translation>
     </message>
     <message>
         <source>Game &amp;Window</source>
@@ -6579,11 +6577,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
-        <translation type="unfinished">მცირე ცვლილებები</translation>
+        <translation>მცირე ცვლილებები</translation>
     </message>
     <message>
         <source>&amp;Legacy Tweaks</source>
@@ -6664,7 +6662,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">ნუსხა</translation>
+        <translation>ნუსხა</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -6688,23 +6686,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">ნეო-ფორჯი (neoforge)</translation>
+        <translation>ნეო-ფორჯი (neoforge)</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">ფორგი (forge )</translation>
+        <translation>ფორგი (forge )</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">ნაჭერი</translation>
+        <translation>ნაჭერი</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">კვილტი (quilt)</translation>
+        <translation>კვილტი (quilt)</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">ლაიტ-ჩამტვირთველი (liteloader)</translation>
+        <translation>ლაიტ-ჩამტვირთველი (liteloader)</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -6764,7 +6762,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Feral GameMode-ის ჩართვა</translation>
+        <translation>Feral GameMode-ის ჩართვა</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6792,11 +6790,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">ანგარიში:</translation>
+        <translation>ანგარიში:</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">სერვერის მისამართი:</translation>
+        <translation>სერვერის მისამართი:</translation>
     </message>
     <message>
         <source>Custom Commands</source>
@@ -6804,7 +6802,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished">გარემოს ცვლადები</translation>
+        <translation>გარემოს ცვლადები</translation>
     </message>
     <message>
         <source>Show time &amp;playing this instance</source>
@@ -6847,7 +6845,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">წაშლა</translation>
+        <translation>წაშლა</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -6855,7 +6853,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">დამატება</translation>
+        <translation>დამატება</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -6878,11 +6876,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">ნეო-ფორჯი (neoforge)</translation>
+        <translation>ნეო-ფორჯი (neoforge)</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">ფორგი (forge )</translation>
+        <translation>ფორგი (forge )</translation>
     </message>
     <message>
         <source>Fabric</source>
@@ -6890,7 +6888,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">კვილტი (quilt)</translation>
+        <translation>კვილტი (quilt)</translation>
     </message>
     <message>
         <source>Show More</source>
@@ -6898,7 +6896,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">ლაიტ-ჩამტვირთველი (liteloader)</translation>
+        <translation>ლაიტ-ჩამტვირთველი (liteloader)</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -6966,7 +6964,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">უცნობი</translation>
+        <translation>უცნობი</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -7034,7 +7032,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">ყველა ვერსია</translation>
+        <translation>ყველა ვერსია</translation>
     </message>
 </context>
 <context>
@@ -7458,7 +7456,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">უცნობი</translation>
+        <translation>უცნობი</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -7511,11 +7509,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 -იდან %2 -ია დასრულებული</translation>
+        <translation>%1 -იდან %2 -ია დასრულებული</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">მიმდინარეობს მოდების გადმოწერა...</translation>
+        <translation>მიმდინარეობს მოდების გადმოწერა...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -7652,7 +7650,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">ძებნა და დალაგება...</translation>
+        <translation>ძებნა და დალაგება...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -7660,7 +7658,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">არჩეული ვერსია:</translation>
+        <translation>არჩეული ვერსია:</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -7698,7 +7696,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">უცნობი</translation>
+        <translation>უცნობი</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
@@ -7743,7 +7741,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">ვასრულებ %1 მოქმედებას /მოქმედებებს (%2-იდან %3 არის შესრულებული, ცოტახანიც დამაცადე)</translation>
+        <translation>ვასრულებ %1 მოქმედებას /მოქმედებებს (%2-იდან %3 არის შესრულებული, ცოტახანიც დამაცადე)</translation>
     </message>
 </context>
 <context>
@@ -7758,11 +7756,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">შეცდომა</translation>
+        <translation>შეცდომა</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -7801,11 +7799,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
 </context>
 <context>
@@ -7832,15 +7830,15 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">დახმარება</translation>
+        <translation>დახმარება</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -8110,11 +8108,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">დაყენება</translation>
+        <translation>დაყენება</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
 </context>
 <context>
@@ -8137,11 +8135,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
 </context>
 <context>
@@ -8216,7 +8214,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">ძებნა</translation>
+        <translation>ძებნა</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -8276,7 +8274,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">სუფთა ცა</translation>
+        <translation>სუფთა ცა</translation>
     </message>
     <message>
         <source>Unable to delete %1: %2</source>
@@ -8284,7 +8282,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">ვერ ვაჩვენებთ ამ ლოგს რადგან მისი სიდედემ გადააჭარბა %1-ს.</translation>
+        <translation>ვერ ვაჩვენებთ ამ ლოგს რადგან მისი სიდედემ გადააჭარბა %1-ს.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -8309,104 +8307,103 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
-</translation>
+        <translation>პაკეტის მანიფესტის გაგება ვერ მოხერხდა.</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">მხარდაუჭერელი ინსტალაციის რეჟიმი</translation>
+        <translation>მხარდაუჭერელი ინსტალაციის რეჟიმი</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">ვწრ მოხერხდა ადგილობრივი მეტამონაცემების ინდექსის პოვნა &apos;%1&apos; v%2 - ისთვის</translation>
+        <translation>ვწრ მოხერხდა ადგილობრივი მეტამონაცემების ინდექსის პოვნა &apos;%1&apos; v%2 - ისთვის</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">მიმდინარეობს არსებული ფაილების წაშლა...</translation>
+        <translation>მიმდინარეობს არსებული ფაილების წაშლა...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">უცნობი mod -ის ტიპი: %1</translation>
+        <translation>უცნობი mod -ის ტიპი: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
+        <translation>ადგილობრივი მეტამონაცემების ინდექსის მიღება ვერ მოხერხდა %1 -ისთვის</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
+        <translation>ვერ მოხერხდა ვერსიის პოვნა %1 -ისთვის</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
+        <translation>არანაირი ჩამტვირთვის ვერსია არ არის დაყენებული modpack -ისთვის!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">უცნობი ან არამხარდაჭერილი download -ის ტიპი: %1</translation>
+        <translation>უცნობი ან არამხარდაჭერილი download -ის ტიპი: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">მიმდინარეობს კონფიგურაციის გადმოწერა...</translation>
+        <translation>მიმდინარეობს კონფიგურაციის გადმოწერა...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">კონფიგურაციის გადმოწერა</translation>
+        <translation>კონფიგურაციის გადმოწერა</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">მიმდინარეობს კონფიგურაციის ექსტრაქცია...</translation>
+        <translation>მიმდინარეობს კონფიგურაციის ექსტრაქცია...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
+        <translation>მიმდინარეობს არჩევითი მოდების შერჩევა...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">მიმდინარეობს მოდების გადმოწერა...</translation>
+        <translation>მიმდინარეობს მოდების გადმოწერა...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">მოდის გადმოწერა</translation>
+        <translation>მოდის გადმოწერა</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">უცნობი გადმოწერის ტიპი: %1</translation>
+        <translation>უცნობი გადმოწერის ტიპი: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">ნაპოვნია დაბლოკილი მოდები</translation>
+        <translation>ნაპოვნია დაბლოკილი მოდები</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
+        <translation>ეს ფაილები გადმოსაწერად ხელმისაწვდომი არ არის მესამე პარტიის ლაუნჩერებზე&lt;br/&gt;შენ დაგჭირდება ხელით გადმოწერა და დამატება ამ ინსტანციაში.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 -იდან %2 -ია დასრულებული</translation>
+        <translation>%1 -იდან %2 -ია დასრულებული</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
+        <translation>ვერ მოხერხდა მოდების ექსტრაქცია...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">მიმდინარეობს მოდების ექსტრაქცია...</translation>
+        <translation>მიმდინარეობს მოდების ექსტრაქცია...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">მიმდინარეობს modpack-ის ინსტალაცია</translation>
+        <translation>მიმდინარეობს modpack-ის ინსტალაცია</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
+        <translation>ვერ მოხერხდა libraries კომპონენტების შექმნა</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">უცნობი მტვირთავის ტიპი: </translation>
+        <translation>უცნობი მტვირთავის ტიპი:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
+        <translation>ვერ მოხერხდა პაკის კომპონენტის შექმნა</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -8444,7 +8441,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">დახმარება</translation>
+        <translation>დახმარება</translation>
     </message>
 </context>
 <context>
@@ -8831,11 +8828,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
 </context>
 <context>
@@ -8852,11 +8849,11 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -8908,7 +8905,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">შეწყვეტა</translation>
+        <translation>შეწყვეტა</translation>
     </message>
 </context>
 <context>
@@ -9031,7 +9028,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (ახლა გამოიყენება)</translation>
+        <translation>%1 (ახლა გამოიყენება)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -9252,7 +9249,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">ჯავა (Java Platform by Oracle) მნახველის ბიბლიოთეკა ვერ ვიპოვე. შეამოწმეთ თქვენი ინსტალაცია. (აქ გადმოიწერება ეს შემმოწმებელი: https://checkerframework.org/).</translation>
+        <translation>ჯავა (Java Platform by Oracle) მნახველის ბიბლიოთეკა ვერ ვიპოვე. შეამოწმეთ თქვენი ინსტალაცია. (აქ გადმოიწერება ეს შემმოწმებელი: https://checkerframework.org/).</translation>
     </message>
     <message>
         <source>Download of meta file %1</source>
@@ -9367,7 +9364,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">პოპულარობის მიხედვით დალაგება</translation>
+        <translation>პოპულარობის მიხედვით დალაგება</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -9391,7 +9388,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">თამაშის ვერსიის მიხედვით დალაგება</translation>
+        <translation>თამაშის ვერსიის მიხედვით დალაგება</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -9423,7 +9420,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">უცნობი</translation>
+        <translation>უცნობი</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -9456,47 +9453,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">გადაუმოწმებელი</translation>
+        <translation>გადაუმოწმებელი</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">ხაზგარეშე</translation>
+        <translation>ხაზგარეშე</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">მზადაა</translation>
+        <translation>მზადაა</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">ვმუშაობ</translation>
+        <translation>ვმუშაობ</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">შეცდა</translation>
+        <translation>შეცდა</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">ვადაგასული</translation>
+        <translation>ვადაგასული</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">გამორთული</translation>
+        <translation>გამორთული</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">წავიდა</translation>
+        <translation>წავიდა</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">უცნობი</translation>
+        <translation>უცნობი</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -9704,7 +9701,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">უცნობი</translation>
+        <translation>უცნობი</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -9723,7 +9720,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">რესურსი</translation>
+        <translation>რესურსი</translation>
     </message>
     <message>
         <source>resources</source>
@@ -9732,7 +9729,7 @@ Error message: %3</source>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">შეიდერის ნაკრებები</translation>
+        <translation>შეიდერის ნაკრებები</translation>
     </message>
     <message>
         <source>texture packs</source>
@@ -9836,7 +9833,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">შეიდერის ნაკრებები</translation>
+        <translation>შეიდერის ნაკრებები</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -9972,7 +9969,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -10043,7 +10040,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">ვერსია</translation>
+        <translation>ვერსია</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10051,7 +10048,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">პროვაიდერი</translation>
+        <translation>პროვაიდერი</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -10113,7 +10110,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">გამოსახულება</translation>
+        <translation>გამოსახულება</translation>
     </message>
 </context>
 <context>
@@ -10132,7 +10129,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">ვერსია</translation>
+        <translation>ვერსია</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10140,7 +10137,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">პროვაიდერი</translation>
+        <translation>პროვაიდერი</translation>
     </message>
     <message>
         <source>Update</source>
@@ -10266,7 +10263,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">წაშლის დადასტურება</translation>
+        <translation>წაშლის დადასტურება</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -10286,7 +10283,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">არჩეული ვერსია:</translation>
+        <translation>არჩეული ვერსია:</translation>
     </message>
     <message>
         <source>Filter options</source>
@@ -10321,15 +10318,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="unfinished">განახლებების შემოწმება</translation>
+        <translation>განახლებების შემოწმება</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">შეცდომა</translation>
+        <translation>შეცდომა</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">გაფრთხილებები</translation>
+        <translation>გაფრთხილებები</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10337,7 +10334,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished">განახლებების შემოწმება...</translation>
+        <translation>განახლებების შემოწმება...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
@@ -10345,7 +10342,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="unfinished">მიზეზი: %1</translation>
+        <translation>მიზეზი: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
@@ -10395,7 +10392,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="unfinished">მომწოდებელი: %1</translation>
+        <translation>მომწოდებელი: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
@@ -10403,7 +10400,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="unfinished">ახალი ვერსია: %1</translation>
+        <translation>ახალი ვერსია: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
@@ -10430,11 +10427,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -10581,11 +10578,11 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
 </context>
 <context>
@@ -10629,11 +10626,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
 </context>
 <context>
@@ -10666,7 +10663,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">ვერსია</translation>
+        <translation>ვერსია</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -10674,7 +10671,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">ხაზგარეშე</translation>
+        <translation>ხაზგარეშე</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -10733,7 +10730,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">განახლება</translation>
+        <translation>განახლება</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -10861,7 +10858,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">წაშლის დადასტურება</translation>
+        <translation>წაშლის დადასტურება</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -10928,7 +10925,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">ფოლდერის გახსნა</translation>
+        <translation>ფოლდერის გახსნა</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -10972,11 +10969,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">დიახ</translation>
+        <translation>დიახ</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -11124,7 +11121,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">გაუქმებულია</translation>
+        <translation>გაუქმებულია</translation>
     </message>
 </context>
 <context>
@@ -11181,8 +11178,7 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">პაკეტის მანიფესტის გაგება ვერ მოხერხდა.
-</translation>
+        <translation>პაკეტის მანიფესტის გაგება ვერ მოხერხდა.</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
@@ -11243,12 +11239,12 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">არჩეული ვერსია:</translation>
+        <translation>არჩეული ვერსია:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">ძებნა და დალაგება...</translation>
+        <translation>ძებნა და დალაგება...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -11287,7 +11283,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">პროვაიდერი</translation>
+        <translation>პროვაიდერი</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -11400,7 +11396,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">წაშლის დადასტურება</translation>
+        <translation>წაშლის დადასტურება</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -11431,7 +11427,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">შეხედულება</translation>
+        <translation>შეხედულება</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -11615,7 +11611,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">ძებნა</translation>
+        <translation>ძებნა</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -11819,7 +11815,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">დაყენება</translation>
+        <translation>დაყენება</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -11938,7 +11934,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -12055,7 +12051,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">შეერთება</translation>
+        <translation>შეერთება</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -12095,7 +12091,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">ხელსაწყოები</translation>
+        <translation>ხელსაწყოები</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -12319,11 +12315,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">მომხმარებელი</translation>
+        <translation>მომხმარებელი</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">პაროლი</translation>
+        <translation>პაროლი</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -12331,7 +12327,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">გაუქმება</translation>
+        <translation>გაუქმება</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

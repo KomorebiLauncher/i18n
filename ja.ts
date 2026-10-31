@@ -1343,11 +1343,11 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">インストール</translation>
+        <translation>インストール</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
@@ -1441,7 +1441,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">ローカルファイルを読み込み中</translation>
+        <translation>ローカルファイルを読み込み中</translation>
     </message>
 </context>
 <context>
@@ -2302,11 +2302,11 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">バージョン</translation>
+        <translation>バージョン</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">今すぐアップデート</translation>
+        <translation>今すぐアップデート</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -3265,7 +3265,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>Command</source>
@@ -4942,19 +4942,19 @@ Please make sure that the maximum memory value is lower.</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">スキップ</translation>
+        <translation>スキップ</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">エラー</translation>
+        <translation>エラー</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">ゲームファイルをダウンロードできませんでした: %1</translation>
+        <translation>ゲームファイルをダウンロードできませんでした: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">ゲームファイルをダウンロード中</translation>
+        <translation>ゲームファイルをダウンロード中</translation>
     </message>
 </context>
 <context>
@@ -6589,7 +6589,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -7131,7 +7131,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8725,7 +8725,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">アップデートの確認</translation>
+        <translation>アップデートの確認</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -9377,7 +9377,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">正式リリース</translation>
+        <translation>正式リリース</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9515,7 +9515,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9827,7 +9827,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">今すぐアップデート</translation>
+        <translation>今すぐアップデート</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -10639,11 +10639,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">古い競合ファイルを削除中…</translation>
+        <translation>古い競合ファイルを削除中…</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">古い競合ファイルの削除に失敗しました。</translation>
+        <translation>古い競合ファイルの削除に失敗しました。</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -10895,21 +10895,21 @@ Please update %1!</source>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">%1 を取得中</translation>
+        <translation>%1 を取得中</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">不明</translation>
+        <translation>不明</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
@@ -10927,14 +10927,14 @@ Please update %1!</source>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>%n 秒間のリクエストレート制限: %1 秒後に再試行してください</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>レート制限: %n 秒待機中</numerusform>
         </translation>
     </message>
@@ -11355,11 +11355,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">インストール</translation>
+        <translation>インストール</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
 </context>
 <context>
@@ -13075,7 +13075,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">不明</translation>
+        <translation>不明</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -13371,44 +13371,44 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">認識不能</translation>
+        <translation>認識不能</translation>
     </message>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">データパック</translation>
+        <translation>データパック</translation>
     </message>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">Mod</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">リソースパック</translation>
+        <translation>リソースパック</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">リソース</translation>
+        <translation>リソース</translation>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">リソース</translation>
+        <translation>リソース</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">シェーダーパック</translation>
+        <translation>シェーダーパック</translation>
     </message>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">テクスチャパック</translation>
+        <translation>テクスチャパック</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">ファイル %1 を読み取れませんでした: %2</translation>
+        <translation>ファイル %1 を読み取れませんでした: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -13538,23 +13538,23 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">Mod</translation>
+        <translation>Mod</translation>
     </message>
     <message>
         <source>resource packs</source>
-        <translation type="unfinished">リソースパック</translation>
+        <translation>リソースパック</translation>
     </message>
     <message>
         <source>texture packs</source>
-        <translation type="unfinished">テクスチャパック</translation>
+        <translation>テクスチャパック</translation>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">シェーダーパック</translation>
+        <translation>シェーダーパック</translation>
     </message>
     <message>
         <source>data packs</source>
-        <translation type="unfinished">データパック</translation>
+        <translation>データパック</translation>
     </message>
     <message>
         <source>resources</source>
@@ -13819,7 +13819,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">バージョン</translation>
+        <translation>バージョン</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13835,7 +13835,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">今すぐアップデート</translation>
+        <translation>今すぐアップデート</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -13894,7 +13894,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">画像</translation>
+        <translation>画像</translation>
     </message>
 </context>
 <context>
@@ -13917,7 +13917,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">バージョン</translation>
+        <translation>バージョン</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13933,7 +13933,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">今すぐアップデート</translation>
+        <translation>今すぐアップデート</translation>
     </message>
     <message>
         <source>The file name of the resource pack.</source>
@@ -14554,7 +14554,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">バージョン</translation>
+        <translation>バージョン</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14562,7 +14562,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">オフライン</translation>
+        <translation>オフライン</translation>
     </message>
     <message>
         <source>Online</source>
@@ -15389,7 +15389,7 @@ inheritsFromがありません</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">今すぐアップデート</translation>
+        <translation>今すぐアップデート</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -16201,7 +16201,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">インストール</translation>
+        <translation>インストール</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -16610,7 +16610,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">ツール</translation>
+        <translation>ツール</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -16745,7 +16745,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Invalid command</source>
-        <translation type="unfinished">無効なコマンド</translation>
+        <translation>無効なコマンド</translation>
     </message>
     <message>
         <source>The tool command is empty.</source>
@@ -16982,11 +16982,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">ユーザー名</translation>
+        <translation>ユーザー名</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">パスワード</translation>
+        <translation>パスワード</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -16994,7 +16994,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">キャンセル</translation>
+        <translation>キャンセル</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

@@ -1383,11 +1383,11 @@ Es posible que algunas versiones de Minecraft no funcionen correctamente.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -8881,7 +8881,7 @@ Para borrar la caché de metadatos manualmente, pulsa Carpetas (O) -&gt; Raíz d
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> y su acceso directo registrado %n</numerusform>
+            <numerusform>y su acceso directo registrado %n</numerusform>
             <numerusform> y sus %n accesos directos registrados</numerusform>
         </translation>
     </message>
@@ -9952,7 +9952,7 @@ Es muy probable que tengas que cambiar la ruta - consulta el sitio web del mod.<
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -10321,10 +10321,8 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod se activará
-</numerusform>
-            <numerusform>%n mods se activarán
-</numerusform>
+            <numerusform>%n mod se activará</numerusform>
+            <numerusform>%n mods se activarán</numerusform>
         </translation>
     </message>
     <message>
@@ -10335,10 +10333,8 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo editas, también s
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod se desactivará
-</numerusform>
-            <numerusform>%n mods se desactivarán
-</numerusform>
+            <numerusform>%n mod se desactivará</numerusform>
+            <numerusform>%n mods se desactivarán</numerusform>
         </translation>
     </message>
     <message>
@@ -11988,11 +11984,11 @@ NOTA: Asegúrate de haber hecho una copia de seguridad de tus datos de instancia
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -13891,20 +13887,14 @@ Nombre nuevo: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>La siguiente instancia podría hacer referencia a archivos en esta instancia:
-
-%1
-
-%2 Podría dañar la otra instancia.
-
-¿Desea continuar?</numerusform>
-            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:
-
-%1
-
-%2 Podría dañar las demás instancias.
-
-¿Desea continuar?</numerusform>
+            <numerusform>La siguiente instancia podría hacer referencia a archivos en esta instancia:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 Podría dañar la otra instancia.</numerusform>
+            <numerusform>¿Desea continuar?</numerusform>
+            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 Podría dañar las demás instancias.</numerusform>
+            <numerusform>¿Desea continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -16912,7 +16902,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17429,14 +17419,12 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>Estás a punto de eliminar el mundo %n.
-Este mundo podría desaparecer para siempre (ESO ES MUCHO TIEMPO).
-
-¿Estás seguro?</numerusform>
-            <numerusform>Estás a punto de eliminar los mundos %n.
-Estos mundos podrían desaparecer para siempre (ESO ES MUCHO TIEMPO).
-
-¿Estás seguro?</numerusform>
+            <numerusform>Estás a punto de eliminar el mundo %n.</numerusform>
+            <numerusform>Este mundo podría desaparecer para siempre (ESO ES MUCHO TIEMPO).</numerusform>
+            <numerusform>¿Estás seguro?</numerusform>
+            <numerusform>Estás a punto de eliminar los mundos %n.</numerusform>
+            <numerusform>Estos mundos podrían desaparecer para siempre (ESO ES MUCHO TIEMPO).</numerusform>
+            <numerusform>¿Estás seguro?</numerusform>
         </translation>
     </message>
     <message>
@@ -17707,11 +17695,11 @@ Por favor, configure su cuenta como se indica en %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nombre de usuario</translation>
+        <translation>Nombre de usuario</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Contraseña</translation>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17719,7 +17707,7 @@ Por favor, configure su cuenta como se indica en %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

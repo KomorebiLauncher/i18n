@@ -1322,7 +1322,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installeer</translation>
+        <translation>Installeer</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2297,7 +2297,7 @@ Sommige versies van Minecraft starten mogelijk niet op.
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Updaten</translation>
+        <translation>Updaten</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -7249,7 +7249,7 @@ Reden:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8649,7 +8649,7 @@ Om de metadata-cache handmatig op te ruimen, druk je op Mappen -&gt; Hoofdmap va
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> en zijn %n gekoppelde snelkoppeling</numerusform>
+            <numerusform>en zijn %n gekoppelde snelkoppeling</numerusform>
             <numerusform> en zijn %n gekoppelde snelkoppelingen</numerusform>
         </translation>
     </message>
@@ -9657,7 +9657,7 @@ Je gaat hoogst waarschijnlijk het pad moeten veranderen - kijk hiervoor naar de 
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Verwijderen</translation>
+        <translation>Verwijderen</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9998,7 +9998,7 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Updaten</translation>
+        <translation>Updaten</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -10050,10 +10050,8 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod zal worden ingeschakeld
-</numerusform>
-            <numerusform>%n mods zullen worden ingeschakeld
-</numerusform>
+            <numerusform>%n mod zal worden ingeschakeld</numerusform>
+            <numerusform>%n mods zullen worden ingeschakeld</numerusform>
         </translation>
     </message>
     <message>
@@ -10064,10 +10062,8 @@ Waarschuwing: Deze bron is ergens ander hard gelinkt. Hem bijwerken zal ook de o
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod zal worden uitgeschakeld
-</numerusform>
-            <numerusform>%n mods zullen worden uitgeschakeld
-</numerusform>
+            <numerusform>%n mod zal worden uitgeschakeld</numerusform>
+            <numerusform>%n mods zullen worden uitgeschakeld</numerusform>
         </translation>
     </message>
     <message>
@@ -11667,7 +11663,7 @@ NB: Zorg dat je een back-up hebt gemaakt van je belangrijke instantie-data voord
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installeer</translation>
+        <translation>Installeer</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13533,20 +13529,14 @@ Nieuwe naam: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>De volgende instantie refereert mogelijks bestanden in deze instantie:
-
-%1
-
-%2 dit kan de andere instantie breken,
-
-Wenst u door te gaan?</numerusform>
-            <numerusform>De volgende instanties refereert mogelijks bestanden in deze instanties:
-
-%1
-
-%2 dit kan de andere instanties breken,
-
-Wenst u door te gaan?</numerusform>
+            <numerusform>De volgende instantie refereert mogelijks bestanden in deze instantie:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 dit kan de andere instantie breken,</numerusform>
+            <numerusform>Wenst u door te gaan?</numerusform>
+            <numerusform>De volgende instanties refereert mogelijks bestanden in deze instanties:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 dit kan de andere instanties breken,</numerusform>
+            <numerusform>Wenst u door te gaan?</numerusform>
         </translation>
     </message>
     <message>
@@ -14154,7 +14144,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versie</translation>
+        <translation>Versie</translation>
     </message>
     <message>
         <source>Size</source>
@@ -14170,7 +14160,7 @@ Waarschuwing: Deze bron is al ergens anders hard gelinkt. Hem bijwerken zal ook 
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Updaten</translation>
+        <translation>Updaten</translation>
     </message>
     <message>
         <source>Last modified</source>
@@ -14229,7 +14219,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Afbeelding</translation>
+        <translation>Afbeelding</translation>
     </message>
 </context>
 <context>
@@ -14252,7 +14242,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versie</translation>
+        <translation>Versie</translation>
     </message>
     <message>
         <source>Size</source>
@@ -14268,7 +14258,7 @@ Weet je zeker dat je dit wilt doen?</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Updaten</translation>
+        <translation>Updaten</translation>
     </message>
     <message>
         <source>The file name of the resource pack.</source>
@@ -14901,7 +14891,7 @@ Momenteel geïnstalleerde versie: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versie</translation>
+        <translation>Versie</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14909,7 +14899,7 @@ Momenteel geïnstalleerde versie: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Offline</translation>
+        <translation>Offline</translation>
     </message>
     <message>
         <source>Online</source>
@@ -15713,7 +15703,7 @@ inheritsFrom ontbreekt</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Updaten</translation>
+        <translation>Updaten</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -16529,7 +16519,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Installeer</translation>
+        <translation>Installeer</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17317,11 +17307,11 @@ Stel uw account in volgens %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Gebruikersnaam</translation>
+        <translation>Gebruikersnaam</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Wachtwoord</translation>
+        <translation>Wachtwoord</translation>
     </message>
     <message>
         <source>Sign in</source>

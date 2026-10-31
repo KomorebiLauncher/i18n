@@ -200,7 +200,7 @@
     </message>
     <message>
         <source>Credits</source>
-        <translation type="unfinished">Credjal</translation>
+        <translation>Credjal</translation>
     </message>
     <message>
         <source>License</source>
@@ -212,7 +212,7 @@
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Dooin</translation>
+        <translation>Dooin</translation>
     </message>
     <message>
         <source>About %1</source>
@@ -1016,7 +1016,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Ennym ymmydeyr</translation>
+        <translation>Ennym ymmydeyr</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1150,7 +1150,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>&amp;Group</source>
@@ -1477,7 +1477,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -1685,7 +1685,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -1920,7 +1920,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Value</source>
@@ -2357,7 +2357,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3363,7 +3363,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Dooin</translation>
+        <translation>Dooin</translation>
     </message>
     <message>
         <source>Kill the running instance</source>
@@ -5721,7 +5721,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -6371,7 +6371,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Version</source>
@@ -7044,7 +7044,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>uid</source>
@@ -7122,7 +7122,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Dooin</translation>
+        <translation>Dooin</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -7625,7 +7625,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Version</source>
@@ -9172,7 +9172,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -9250,7 +9250,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Jalloo</translation>
+        <translation>Jalloo</translation>
     </message>
 </context>
 <context>
@@ -9314,7 +9314,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -9763,7 +9763,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Address</source>
@@ -11045,7 +11045,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Ennym</translation>
+        <translation>Ennym</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -11359,7 +11359,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Ennym ymmydeyr</translation>
+        <translation>Ennym ymmydeyr</translation>
     </message>
     <message>
         <source>Password</source>

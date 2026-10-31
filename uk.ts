@@ -1355,11 +1355,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Встановити</translation>
+        <translation>Встановити</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -8746,7 +8746,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> та його %n зареєстрованого ярлика</numerusform>
+            <numerusform>та його %n зареєстрованого ярлика</numerusform>
             <numerusform> та його %n зареєстрованих ярлика</numerusform>
             <numerusform> та його %n зареєстрованих ярликів</numerusform>
         </translation>
@@ -9798,7 +9798,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Видалити</translation>
+        <translation>Видалити</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -10167,12 +10167,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>мод
-</numerusform>
-            <numerusform>моди
-</numerusform>
-            <numerusform>модів
-</numerusform>
+            <numerusform>мод</numerusform>
+            <numerusform>моди</numerusform>
+            <numerusform>модів</numerusform>
         </translation>
     </message>
     <message>
@@ -10183,12 +10180,9 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>мод
-</numerusform>
-            <numerusform>моди
-</numerusform>
-            <numerusform>модів
-</numerusform>
+            <numerusform>мод</numerusform>
+            <numerusform>моди</numerusform>
+            <numerusform>модів</numerusform>
         </translation>
     </message>
     <message>
@@ -11794,11 +11788,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Встановити</translation>
+        <translation>Встановити</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
 </context>
 <context>
@@ -13540,7 +13534,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Невідомо</translation>
+        <translation>Невідомий</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -13674,27 +13668,18 @@ New name: %2</source>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Наступна збірка може посилатися на файли в цій збірці:
-
-&lt;br/&gt; %1
-
-&lt;br/&gt; %2 Це може пошкодити іншу збірку.
-
-&lt;br/&gt; Бажаєте продовжити?</numerusform>
-            <numerusform>Наступні збірки можуть посилатися на файли в цій збірці:
-
-&lt;br/&gt; %1
-
-&lt;br/&gt; %2 Це може пошкодити інші збірки.
-
-&lt;br/&gt; Бажаєте продовжити?</numerusform>
-            <numerusform>Наступні збірки можуть посилатися на файли в цій збірці:
-
-&lt;br/&gt; %1
-
-&lt;br/&gt; %2 Це може пошкодити інші збірки.
-
-&lt;br/&gt; Бажаєте продовжити?</numerusform>
+            <numerusform>Наступна збірка може посилатися на файли в цій збірці:</numerusform>
+            <numerusform>&lt;br/&gt; %1</numerusform>
+            <numerusform>&lt;br/&gt; %2 Це може пошкодити іншу збірку.</numerusform>
+            <numerusform>&lt;br/&gt; Бажаєте продовжити?</numerusform>
+            <numerusform>Наступні збірки можуть посилатися на файли в цій збірці:</numerusform>
+            <numerusform>&lt;br/&gt; %1</numerusform>
+            <numerusform>&lt;br/&gt; %2 Це може пошкодити інші збірки.</numerusform>
+            <numerusform>&lt;br/&gt; Бажаєте продовжити?</numerusform>
+            <numerusform>Наступні збірки можуть посилатися на файли в цій збірці:</numerusform>
+            <numerusform>&lt;br/&gt; %1</numerusform>
+            <numerusform>&lt;br/&gt; %2 Це може пошкодити інші збірки.</numerusform>
+            <numerusform>&lt;br/&gt; Бажаєте продовжити?</numerusform>
         </translation>
     </message>
     <message>
@@ -14373,7 +14358,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Зображення</translation>
+        <translation>Зображення</translation>
     </message>
 </context>
 <context>
@@ -15045,7 +15030,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Версія</translation>
+        <translation>Версія</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -16696,7 +16681,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Встановити</translation>
+        <translation>Встановити</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17480,11 +17465,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Ім&apos;я користувача</translation>
+        <translation>Ім&apos;я користувача</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Пароль</translation>
+        <translation>Пароль</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -17492,7 +17477,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Скасувати</translation>
+        <translation>Скасувати</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

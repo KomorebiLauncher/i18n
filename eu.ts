@@ -812,18 +812,7 @@ Check the Komorebi Launcher updater log at:
 for details on the last update attempt.
 
 To delete this lock and proceed select &quot;Ignore&quot; below.</source>
-        <translation type="unfinished">Instalazio honek eguneraketa blokeatzeko fitxategi bat dauka hemen: %1
-
-Timestamp: %2
-%3 bertsiotik %4 bertsiora eguneratzea
-Helburua instalatzea: %5
-Datuen bidea: %6
-Horrek esan nahi du eguneratze saio batek porrot egin duela. Ziurtatu zure instalazioa behar bezala dagoela aurrera egin aurretik.
-Begiratu Komorebi Launcher updaterraren erregistroan:
-%7
-azken eguneratze-saioari buruzko xehetasunetarako.
-
-Sarraila hau ezabatzeko eta beheko &quot;Ez ikusiarena&quot; hautatzeko.</translation>
+        <translation>Instalazio honek eguneraketa blokeatzeko fitxategi bat dauka hemen: %1</translation>
     </message>
     <message>
         <source>Update In Progress</source>
@@ -1089,7 +1078,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">...</translation>
+        <translation>...</translation>
     </message>
     <message>
         <source>Unknown account task state: %1</source>
@@ -1163,11 +1152,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalatu</translation>
+        <translation>Instalatu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
 </context>
 <context>
@@ -1291,15 +1280,15 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Saltatu</translation>
+        <translation>Saltatu</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Your configured global mods folder and default downloads folder are automatically checked for the downloaded mods and they will be copied to the instance if found.&lt;/p&gt;&lt;p&gt;Optionally, you may drag and drop the downloaded mods onto this dialog or add a folder to watch if you did not download the mods to a default location.&lt;/p&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600;&quot;&gt;Click &apos;Open Missing&apos; to open all the download links in the browser. &lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -1360,7 +1349,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Erabiltzaile-izena</translation>
+        <translation>Erabiltzaile-izena</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1372,11 +1361,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
@@ -1471,7 +1460,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Itxaron mesedez...</translation>
+        <translation>Itxaron mesedez...</translation>
     </message>
     <message>
         <source>Waiting for a task to start...</source>
@@ -1630,15 +1619,15 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Laguntza</translation>
+        <translation>Laguntza</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
@@ -1821,7 +1810,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -1931,7 +1920,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>CustomPage</name>
     <message>
         <source>Filter</source>
-        <translation type="unfinished">Iragazkia</translation>
+        <translation>Iragazkia</translation>
     </message>
     <message>
         <source>Releases</source>
@@ -1943,19 +1932,19 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Betas</source>
-        <translation type="unfinished">Betak</translation>
+        <translation>Betak</translation>
     </message>
     <message>
         <source>Alphas</source>
-        <translation type="unfinished">Alfak</translation>
+        <translation>Alfak</translation>
     </message>
     <message>
         <source>Experiments</source>
-        <translation type="unfinished">Experimentuak</translation>
+        <translation>Experimentuak</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Freskatu</translation>
+        <translation>Freskatu</translation>
     </message>
     <message>
         <source>Mod Loader</source>
@@ -1963,7 +1952,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>None</source>
-        <translation type="unfinished">Ezta bat</translation>
+        <translation>Ezta bat</translation>
     </message>
     <message>
         <source>NeoForge</source>
@@ -1971,15 +1960,15 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
@@ -1999,7 +1988,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Gaur egun ez dago Minecraft %1en bertsiorik erabilgarri</translation>
+        <translation>Gaur egun ez dago Minecraft %1en bertsiorik erabilgarri</translation>
     </message>
 </context>
 <context>
@@ -2029,11 +2018,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>DataPackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Pakete-formatua</translation>
+        <translation>Pakete-formatua</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -2041,7 +2030,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamaina</translation>
+        <translation>Tamaina</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2049,7 +2038,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bertsioa</translation>
+        <translation>Bertsioa</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2113,7 +2102,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2302,11 +2291,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Value</source>
-        <translation type="unfinished">Balioa</translation>
+        <translation>Balioa</translation>
     </message>
     <message>
         <source>&amp;Add</source>
@@ -2341,11 +2330,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Error</source>
@@ -2440,19 +2429,19 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Export %1</source>
-        <translation type="unfinished">Esportatu %1</translation>
+        <translation>Esportatu %1</translation>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth paketea</translation>
+        <translation>Modrinth paketea</translation>
     </message>
     <message>
         <source>CurseForge pack</source>
@@ -2460,7 +2449,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
 </context>
 <context>
@@ -2471,7 +2460,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Ezarpenak</translation>
+        <translation>Ezarpenak</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -2516,7 +2505,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bertsioa</translation>
+        <translation>Bertsioa</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -2544,11 +2533,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Kopiatu</translation>
+        <translation>Kopiatu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>Save</source>
@@ -2556,11 +2545,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Export %1</source>
-        <translation type="unfinished">Esportatu %1</translation>
+        <translation>Esportatu %1</translation>
     </message>
     <message>
         <source>File</source>
-        <translation type="unfinished">Fitxategia</translation>
+        <translation>Fitxategia</translation>
     </message>
 </context>
 <context>
@@ -2604,7 +2593,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Bilatu</translation>
+        <translation>Bilatu</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2791,7 +2780,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2913,7 +2902,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Erramintak</translation>
+        <translation>Erramintak</translation>
     </message>
 </context>
 <context>
@@ -2951,8 +2940,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Ezin izan da paketearen manifest paketea ulertu:
-</translation>
+        <translation>Ezin izan da paketearen manifest paketea ulertu:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -2968,7 +2956,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.&lt;br/&gt; Eskuz deskargatu behar dituzu eta instanziari gehitu.</translation>
+        <translation>Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.&lt;br/&gt; Eskuz deskargatu behar dituzu eta instanziari gehitu.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -2976,7 +2964,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Mod-ak deskargatzen...</translation>
+        <translation>Mod-ak deskargatzen...</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -2999,11 +2987,11 @@ Are you sure you want to do this?</source>
     <name>FTBImportAPP::FilterModel</name>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ordenatu izenaren arabera</translation>
+        <translation>Ordenatu izenaren arabera</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Ordenatu jokoaren bertsioaren arabera</translation>
+        <translation>Ordenatu jokoaren bertsioaren arabera</translation>
     </message>
 </context>
 <context>
@@ -3018,7 +3006,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Bilatu eta iragazi...</translation>
+        <translation>Bilatu eta iragazi...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3084,11 +3072,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Instalatu gabe</translation>
+        <translation>Instalatu gabe</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ezezaguna</translation>
+        <translation>Ezezaguna</translation>
     </message>
 </context>
 <context>
@@ -3096,8 +3084,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Ezin izan da paketearen manifest paketea ulertu:
-</translation>
+        <translation>Ezin izan da paketearen manifest paketea ulertu:</translation>
     </message>
     <message>
         <source> (version %1)</source>
@@ -3125,15 +3112,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Ezin izan da lortu % 1eko metadatuen indizea</translation>
+        <translation>Ezin izan da lortu % 1eko metadatuen indizea</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Ezin izan da %1 kargatzailearentzat bertsioa aurkitu</translation>
+        <translation>Ezin izan da %1 kargatzailearentzat bertsioa aurkitu</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Ez da modpack-arentzat vertsioa ezarri!</translation>
+        <translation>Ez da modpack-arentzat vertsioa ezarri!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3167,12 +3154,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blokeatutako modak aurkitu dira</translation>
+        <translation>Blokeatutako modak aurkitu dira</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.&lt;br/&gt; Eskuz deskargatu behar dituzu eta instanziari gehitu.</translation>
+        <translation>Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.&lt;br/&gt; Eskuz deskargatu behar dituzu eta instanziari gehitu.</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -3184,7 +3171,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 /%2 tik osatuta</translation>
+        <translation>%1 /%2 tik osatuta</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3272,7 +3259,7 @@ Are you sure you want to do this?</source>
     <name>FlamePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Hautatutako bertsioa:</translation>
+        <translation>Hautatutako bertsioa:</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3290,7 +3277,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Bilatu eta iragazi...</translation>
+        <translation>Bilatu eta iragazi...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3304,7 +3291,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Ospearen arabera ordenatu</translation>
+        <translation>Ospearen arabera ordenatu</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -3314,7 +3301,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordenatu izenaren arabera</translation>
+        <translation>Ordenatu izenaren arabera</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -3332,7 +3319,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source> by </source>
@@ -3376,19 +3363,19 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordenatu izenaren arabera</translation>
+        <translation>Ordenatu izenaren arabera</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Hautatutako bertsioa:</translation>
+        <translation>Hautatutako bertsioa:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Bilatu eta iragazi...</translation>
+        <translation>Bilatu eta iragazi...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3494,7 +3481,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished">Egonkorra</translation>
+        <translation>Egonkorra</translation>
     </message>
     <message>
         <source>Modpacks</source>
@@ -3514,11 +3501,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -3568,7 +3555,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -3617,11 +3604,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
@@ -3657,7 +3644,7 @@ Are you sure you want to do this?</source>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Freskatu</translation>
+        <translation>&amp;Freskatu</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -3665,11 +3652,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>NeoForge</source>
@@ -3677,19 +3664,19 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Install Loader</source>
@@ -3722,7 +3709,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Gaur egun ez dago Minecraft %1en bertsiorik erabilgarri</translation>
+        <translation>Gaur egun ez dago Minecraft %1en bertsiorik erabilgarri</translation>
     </message>
 </context>
 <context>
@@ -3867,11 +3854,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Saltatu</translation>
+        <translation>Saltatu</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -3921,7 +3908,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ktrl+K</translation>
+        <translation>Ktrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -3933,7 +3920,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Itxi</translation>
+        <translation>Itxi</translation>
     </message>
     <message>
         <source>Kill</source>
@@ -3997,7 +3984,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Freskatu</translation>
+        <translation>&amp;Freskatu</translation>
     </message>
     <message>
         <source>Download</source>
@@ -4005,7 +3992,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>Mojang</source>
@@ -4033,7 +4020,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
 </context>
 <context>
@@ -4115,11 +4102,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ezabatu</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Freskatu</translation>
+        <translation>Freskatu</translation>
     </message>
     <message>
         <source>No managed Java versions are installed</source>
@@ -4133,7 +4120,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Ezabapena baieztatu</translation>
+        <translation>Ezabapena baieztatu</translation>
     </message>
     <message>
         <source>You are about to remove  the Java installation named &quot;%1&quot;.
@@ -4400,7 +4387,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Memoria</translation>
+        <translation>Memoria</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -4531,11 +4518,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Play demo?</source>
-        <translation type="unfinished">Demoa jokatu?</translation>
+        <translation>Demoa jokatu?</translation>
     </message>
     <message>
         <source>Play Demo</source>
-        <translation type="unfinished">Demoa jokatu</translation>
+        <translation>Demoa jokatu</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4613,7 +4600,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
@@ -4833,11 +4820,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Gehitu</translation>
+        <translation>Gehitu</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ezabatu</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -5136,11 +5123,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">FML liburutegiak bilatzen...</translation>
+        <translation>FML liburutegiak bilatzen...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">FML liburutegiak deskargatzen...</translation>
+        <translation>FML liburutegiak deskargatzen...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -5172,12 +5159,12 @@ Please try again.</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Ordenatu izenaren arabera</translation>
+        <translation>Ordenatu izenaren arabera</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Ordenatu jokoaren bertsioaren arabera</translation>
+        <translation>Ordenatu jokoaren bertsioaren arabera</translation>
     </message>
 </context>
 <context>
@@ -5238,7 +5225,7 @@ Please try again.</source>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Bilatu eta iragazi...</translation>
+        <translation>Bilatu eta iragazi...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -5266,11 +5253,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Hautatutako bertsioa:</translation>
+        <translation>Hautatutako bertsioa:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>FTB private packs</source>
@@ -5391,7 +5378,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Bilatu</translation>
+        <translation>Bilatu</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -5547,11 +5534,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Itxaron mesedez...</translation>
+        <translation>Itxaron mesedez...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Egoera</translation>
+        <translation>Egoera</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -5571,7 +5558,7 @@ Reason:
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished">informazioa</translation>
+        <translation>informazioa</translation>
     </message>
     <message>
         <source>Microsoft refused the application ID this build uses, not your account. Third-party server accounts are unaffected; offline profiles require a signed-in Microsoft account, which this build cannot obtain yet. An app ID registered by hand would not be approved either; sign-in stays unavailable until the review passes.</source>
@@ -5665,7 +5652,7 @@ Reason:
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished">Karpetak</translation>
+        <translation>Karpetak</translation>
     </message>
     <message>
         <source>Open one of the folders shared between instances.</source>
@@ -5689,7 +5676,7 @@ Reason:
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Laguntza</translation>
+        <translation>Laguntza</translation>
     </message>
     <message>
         <source>Get help with %1 or Minecraft.</source>
@@ -6047,7 +6034,7 @@ Reason:
     <message>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Instantzia sortu</translation>
+        <translation>Instantzia sortu</translation>
     </message>
     <message>
         <source>&amp;Delete group</source>
@@ -6080,7 +6067,7 @@ Reason:
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -6118,7 +6105,7 @@ URL:
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Mod-paketea deskargatu</translation>
+        <translation>Mod-paketea deskargatu</translation>
     </message>
     <message>
         <source>No instance!</source>
@@ -6197,7 +6184,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Ezabapena baieztatu</translation>
+        <translation>Ezabapena baieztatu</translation>
     </message>
     <message>
         <source>&amp;Rename group</source>
@@ -6319,7 +6306,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Changelog</source>
-        <translation type="unfinished">Aldaketak</translation>
+        <translation>Aldaketak</translation>
     </message>
     <message>
         <source>No changelog available for this version!</source>
@@ -6335,7 +6322,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -6379,7 +6366,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Eguneraketa huts egin du</translation>
+        <translation>Eguneraketa huts egin du</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -6417,7 +6404,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -6460,7 +6447,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished">Ktrl+Alt+O</translation>
+        <translation>Ktrl+Alt+O</translation>
     </message>
     <message>
         <source>Launch &amp;As</source>
@@ -6636,7 +6623,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -6749,19 +6736,19 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -6829,7 +6816,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">MangoHud gaitu</translation>
+        <translation>MangoHud gaitu</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -6853,11 +6840,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Kontua:</translation>
+        <translation>Kontua:</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Zerbitzariaren helbidea:</translation>
+        <translation>Zerbitzariaren helbidea:</translation>
     </message>
     <message>
         <source>Custom Commands</source>
@@ -6908,7 +6895,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ezabatu</translation>
+        <translation>Ezabatu</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -6916,7 +6903,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Gehitu</translation>
+        <translation>Gehitu</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -6951,15 +6938,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>Show More</source>
@@ -6967,7 +6954,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -7035,7 +7022,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ezezaguna</translation>
+        <translation>Ezezaguna</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -7103,7 +7090,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Bertsio guztiak</translation>
+        <translation>Bertsio guztiak</translation>
     </message>
 </context>
 <context>
@@ -7123,7 +7110,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Version</source>
@@ -7143,7 +7130,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamaina</translation>
+        <translation>Tamaina</translation>
     </message>
     <message>
         <source>Side</source>
@@ -7336,7 +7323,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -7433,7 +7420,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished">Mod-ak</translation>
+        <translation>Mod-ak</translation>
     </message>
 </context>
 <context>
@@ -7495,7 +7482,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -7520,11 +7507,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Instalatu gabe</translation>
+        <translation>Instalatu gabe</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ezezaguna</translation>
+        <translation>Ezezaguna</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -7581,7 +7568,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 /%2 tik osatuta</translation>
+        <translation>%1 /%2 tik osatuta</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -7621,7 +7608,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth paketea</translation>
+        <translation>Modrinth paketea</translation>
     </message>
 </context>
 <context>
@@ -7673,7 +7660,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source> by </source>
@@ -7722,7 +7709,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Bilatu eta iragazi...</translation>
+        <translation>Bilatu eta iragazi...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -7730,7 +7717,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Hautatutako bertsioa:</translation>
+        <translation>Hautatutako bertsioa:</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -7775,7 +7762,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">ezezaguna</translation>
+        <translation>ezezaguna</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
@@ -7839,7 +7826,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -7870,7 +7857,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>uid</source>
@@ -7878,11 +7865,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
@@ -7905,19 +7892,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>No group</source>
-        <translation type="unfinished">Talderik ez</translation>
+        <translation>Talderik ez</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Laguntza</translation>
+        <translation>Laguntza</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -7948,7 +7935,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Itxi</translation>
+        <translation>Itxi</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -8180,11 +8167,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalatu</translation>
+        <translation>Instalatu</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
 </context>
 <context>
@@ -8207,11 +8194,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
@@ -8250,7 +8237,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Jarraitu eguneraketarekin</translation>
+        <translation>Jarraitu eguneraketarekin</translation>
     </message>
     <message>
         <source>Wrap lines</source>
@@ -8286,7 +8273,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Bilatu</translation>
+        <translation>Bilatu</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -8310,7 +8297,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Unable to open %1 for reading: %2</source>
@@ -8322,7 +8309,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Ezabapena baieztatu</translation>
+        <translation>Ezabapena baieztatu</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -8346,7 +8333,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Garbitu</translation>
+        <translation>Garbitu</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -8383,100 +8370,99 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Ezin izan da paketearen manifest paketea ulertu:
-</translation>
+        <translation>Ezin izan da paketearen manifest paketea ulertu:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Instalazio Modua ez dago onartuta</translation>
+        <translation>Instalazio Modua ez dago onartuta</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Ezin izan da lortu metadatuen indizea % 1 eta % 2 artean</translation>
+        <translation>Ezin izan da lortu metadatuen indizea % 1 eta % 2 artean</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Dauden artxiboak ezabatzen...</translation>
+        <translation>Dauden artxiboak ezabatzen...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Ezezaguna den mod mota: %1</translation>
+        <translation>Ezezaguna den mod mota: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Ezin izan da lortu % 1eko metadatuen indizea</translation>
+        <translation>Ezin izan da lortu % 1eko metadatuen indizea</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Ezin izan da %1 kargatzailearentzat bertsioa aurkitu</translation>
+        <translation>Ezin izan da %1 kargatzailearentzat bertsioa aurkitu</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Ez da modpack-arentzat vertsioa ezarri!</translation>
+        <translation>Ez da modpack-arentzat vertsioa ezarri!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Ezezaguna edo onartezina den download mota: %1</translation>
+        <translation>Ezezaguna edo onartezina den download mota: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Konfigurazioak deskargatzen...</translation>
+        <translation>Konfigurazioak deskargatzen...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Konfigurazioak deskargatuta</translation>
+        <translation>Konfigurazioak deskargatuta</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Konfigurazioak erauzten...</translation>
+        <translation>Konfigurazioak erauzten...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Aukerako moda -ak hautatzen...</translation>
+        <translation>Aukerako moda -ak hautatzen...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Mod-ak deskargatzen...</translation>
+        <translation>Mod-ak deskargatzen...</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Ezezaguna den download mota: %1</translation>
+        <translation>Ezezaguna den download mota: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Blokeatutako modak aurkitu dira</translation>
+        <translation>Blokeatutako modak aurkitu dira</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.&lt;br/&gt; Eskuz deskargatu behar dituzu eta instanziari gehitu.</translation>
+        <translation>Hurrengo fitxategiak ez daude eskuragarri hirugarren mailako launcherretan deskargatzeko.&lt;br/&gt; Eskuz deskargatu behar dituzu eta instanziari gehitu.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 /%2 tik osatuta</translation>
+        <translation>%1 /%2 tik osatuta</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Arazoa Mod-ak erauzten...</translation>
+        <translation>Arazoa Mod-ak erauzten...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Mod-ak erauzten...</translation>
+        <translation>Mod-ak erauzten...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Mod-paketea instalatzen</translation>
+        <translation>Mod-paketea instalatzen</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Errorea liburutegien osagaia sortzean</translation>
+        <translation>Errorea liburutegien osagaia sortzean</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Ezezaguna den loader-a: </translation>
+        <translation>Ezezaguna den loader-a:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Ez da sortu pakete-osagairik</translation>
+        <translation>Ez da sortu pakete-osagairik</translation>
     </message>
     <message>
         <source>Mod download</source>
@@ -8495,7 +8481,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Version</source>
@@ -8518,7 +8504,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Laguntza</translation>
+        <translation>Laguntza</translation>
     </message>
 </context>
 <context>
@@ -8898,11 +8884,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
@@ -8919,11 +8905,11 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -8993,7 +8979,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Mota</translation>
+        <translation>Mota</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -9426,7 +9412,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>mod</source>
         <extracomment>The singular version of &apos;mods&apos;</extracomment>
-        <translation type="unfinished">mod-ak</translation>
+        <translation>mod-ak</translation>
     </message>
     <message>
         <source>unknown</source>
@@ -9438,7 +9424,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Ospearen arabera ordenatu</translation>
+        <translation>Ospearen arabera ordenatu</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -9446,7 +9432,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Ordenatu izenaren arabera</translation>
+        <translation>Ordenatu izenaren arabera</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -9462,7 +9448,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Ordenatu jokoaren bertsioaren arabera</translation>
+        <translation>Ordenatu jokoaren bertsioaren arabera</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -9494,7 +9480,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Ezezaguna</translation>
+        <translation>Ezezaguna</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -9527,47 +9513,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Markatu gabea</translation>
+        <translation>Markatu gabea</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Konexiorik gabe</translation>
+        <translation>Konexiorik gabe</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Prest</translation>
+        <translation>Prest</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Lanean</translation>
+        <translation>Lanean</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Erroreagaz</translation>
+        <translation>Erroreagaz</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Iraungia</translation>
+        <translation>Iraungia</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desgaituta</translation>
+        <translation>Desgaituta</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desagertua</translation>
+        <translation>Desagertua</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Ezezaguna</translation>
+        <translation>Ezezaguna</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -9781,7 +9767,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">mod-ak</translation>
+        <translation>mod-ak</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -9888,7 +9874,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -9900,11 +9886,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">%1 Bertsioa aldatu</translation>
+        <translation>%1 Bertsioa aldatu</translation>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">mod-ak</translation>
+        <translation>mod-ak</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -9935,7 +9921,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -9985,7 +9971,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Kanpo-loturak:</translation>
+        <translation>Kanpo-loturak:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -10052,7 +10038,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -10090,7 +10076,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -10098,11 +10084,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bertsioa</translation>
+        <translation>Bertsioa</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamaina</translation>
+        <translation>Tamaina</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -10183,11 +10169,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bertsioa</translation>
+        <translation>Bertsioa</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamaina</translation>
+        <translation>Tamaina</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -10232,7 +10218,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -10271,7 +10257,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -10333,7 +10319,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Hautatutako bertsioa:</translation>
+        <translation>Hautatutako bertsioa:</translation>
     </message>
     <message>
         <source>Filter options</source>
@@ -10372,7 +10358,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -10413,7 +10399,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Instalatu gabe</translation>
+        <translation>Instalatu gabe</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -10425,7 +10411,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Metadata sortzen...</translation>
+        <translation>Metadata sortzen...</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
@@ -10473,11 +10459,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -10601,7 +10587,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Ezabapena baieztatu</translation>
+        <translation>Ezabapena baieztatu</translation>
     </message>
     <message>
         <source>Screenshots</source>
@@ -10620,18 +10606,18 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bertsioa</translation>
+        <translation>Bertsioa</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -10654,7 +10640,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bertsioa</translation>
+        <translation>Bertsioa</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -10668,11 +10654,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
 </context>
 <context>
@@ -10693,7 +10679,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Address</source>
@@ -10705,7 +10691,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Bertsioa</translation>
+        <translation>Bertsioa</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -10713,7 +10699,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Konexiorik gabe</translation>
+        <translation>Konexiorik gabe</translation>
     </message>
     <message>
         <source>Latency</source>
@@ -10724,7 +10710,7 @@ Currently installed version: %1</source>
     <name>ServersPage</name>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Address</source>
@@ -10752,7 +10738,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Gehitu</translation>
+        <translation>Gehitu</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -10772,7 +10758,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Freskatu</translation>
+        <translation>Freskatu</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -10816,7 +10802,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Freskatu</translation>
+        <translation>&amp;Freskatu</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -10854,7 +10840,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -10955,7 +10941,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cape</source>
-        <translation type="unfinished">Kapa</translation>
+        <translation>Kapa</translation>
     </message>
     <message>
         <source>Preview Elytra</source>
@@ -10963,7 +10949,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Karpeta ireki</translation>
+        <translation>Karpeta ireki</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -11007,11 +10993,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -11067,7 +11053,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Ezabapena baieztatu</translation>
+        <translation>Ezabapena baieztatu</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -11155,7 +11141,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Bertan behera utzita</translation>
+        <translation>Bertan behera utzita</translation>
     </message>
 </context>
 <context>
@@ -11180,11 +11166,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Mod-paketea deskargatu</translation>
+        <translation>Mod-paketea deskargatu</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Mod-paketea erauzten</translation>
+        <translation>Mod-paketea erauzten</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -11212,12 +11198,11 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Ezin izan da paketearen manifest paketea ulertu:
-</translation>
+        <translation>Ezin izan da paketearen manifest paketea ulertu:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Mod-paketea erauzten</translation>
+        <translation>Mod-paketea erauzten</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -11274,12 +11259,12 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Hautatutako bertsioa:</translation>
+        <translation>Hautatutako bertsioa:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Bilatu eta iragazi...</translation>
+        <translation>Bilatu eta iragazi...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -11287,7 +11272,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source> by </source>
@@ -11298,7 +11283,7 @@ inheritsFrom is missing</source>
     <name>TexturePackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Izena</translation>
+        <translation>Izena</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -11306,7 +11291,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Tamaina</translation>
+        <translation>Tamaina</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -11377,7 +11362,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -11438,7 +11423,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Itxura</translation>
+        <translation>Itxura</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -11673,7 +11658,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Bilatu</translation>
+        <translation>Bilatu</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -11681,7 +11666,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Gora mugitu</translation>
+        <translation>Gora mugitu</translation>
     </message>
     <message>
         <source>Make the selected component apply sooner.</source>
@@ -11689,7 +11674,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Behera mugitu</translation>
+        <translation>Behera mugitu</translation>
     </message>
     <message>
         <source>Make the selected component apply later.</source>
@@ -11797,7 +11782,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -11877,7 +11862,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalatu</translation>
+        <translation>Instalatu</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -11923,7 +11908,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Mota</translation>
+        <translation>Mota</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -12004,11 +11989,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">Ados</translation>
+        <translation>Ados</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -12020,18 +12005,18 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Freskatu</translation>
+        <translation>&amp;Freskatu</translation>
     </message>
 </context>
 <context>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Bilatu</translation>
+        <translation>Bilatu</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Errorea</translation>
+        <translation>Errorea</translation>
     </message>
     <message>
         <source>List update failed:
@@ -12133,7 +12118,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Sartu</translation>
+        <translation>Sartu</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -12173,7 +12158,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Erramintak</translation>
+        <translation>Erramintak</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -12473,11 +12458,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Erabiltzaile-izena</translation>
+        <translation>Erabiltzaile-izena</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Pasahitza</translation>
+        <translation>Pasahitza</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -12485,7 +12470,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Ezeztatu</translation>
+        <translation>Ezeztatu</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

@@ -1314,11 +1314,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">نصب</translation>
+        <translation>نصب</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">لغو</translation>
+        <translation>لغو</translation>
     </message>
 </context>
 <context>
@@ -8930,7 +8930,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">ارائه دهنده</translation>
+        <translation>ارائه دهنده</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -10117,11 +10117,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">نصب</translation>
+        <translation>نصب</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">لغو</translation>
+        <translation>لغو</translation>
     </message>
 </context>
 <context>
@@ -11536,12 +11536,12 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>data pack</source>
         <extracomment>The singular version of &apos;data packs&apos;</extracomment>
-        <translation type="unfinished">دیتا پک</translation>
+        <translation>دیتا پک</translation>
     </message>
     <message>
         <source>shader pack</source>
         <extracomment>The singular version of &apos;shader packs&apos;</extracomment>
-        <translation type="unfinished">شیدر</translation>
+        <translation>شیدر</translation>
     </message>
     <message>
         <source>world save</source>
@@ -11899,7 +11899,7 @@ Error message: %3</source>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">دیتا پک ها</translation>
+        <translation>دیتا پک ها</translation>
     </message>
     <message>
         <source>mods</source>
@@ -12079,8 +12079,7 @@ Are you sure you want to close this dialog?</source>
     <message>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished">نسخهٔ API خیلی قدیمی است!
-لطفاً %1 را به‌روزرسانی کنید!</translation>
+        <translation>نسخهٔ API خیلی قدیمی است!</translation>
     </message>
 </context>
 <context>
@@ -12145,7 +12144,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">دیسکورد: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>دیسکورد: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>No version available for the selected pack</source>
@@ -12275,7 +12274,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">ارائه دهنده</translation>
+        <translation>ارائه دهنده</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -12337,7 +12336,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">تصویر</translation>
+        <translation>تصویر</translation>
     </message>
 </context>
 <context>
@@ -12906,7 +12905,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">نسخه</translation>
+        <translation>نسخه</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12914,7 +12913,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">آفلاین</translation>
+        <translation>آفلاین</translation>
     </message>
     <message>
         <source>Online</source>
@@ -13673,7 +13672,7 @@ inheritsFrom گم شده</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">ارائه دهنده</translation>
+        <translation>ارائه دهنده</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -14406,7 +14405,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">نصب</translation>
+        <translation>نصب</translation>
     </message>
     <message>
         <source>Confirm Reversion</source>
@@ -14867,7 +14866,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Invalid command</source>
-        <translation type="unfinished">دستور اشتباه</translation>
+        <translation>دستور اشتباه</translation>
     </message>
     <message>
         <source>The tool command is empty.</source>
@@ -15030,11 +15029,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">نام کاربری</translation>
+        <translation>نام کاربری</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">رمز عبور</translation>
+        <translation>رمز عبور</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -15042,7 +15041,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">لغو</translation>
+        <translation>لغو</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

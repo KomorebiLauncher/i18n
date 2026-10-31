@@ -1351,11 +1351,11 @@ Algunas versiones de Minecraft podrían no iniciar.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -1449,7 +1449,7 @@ Algunas versiones de Minecraft podrían no iniciar.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Cargando archivo local</translation>
+        <translation>Cargando archivo local</translation>
     </message>
 </context>
 <context>
@@ -2314,11 +2314,11 @@ Algunas versiones de Minecraft podrían no iniciar.
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -3207,11 +3207,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Remover</translation>
+        <translation>&amp;Remover</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nombre</translation>
+        <translation>Nombre</translation>
     </message>
     <message>
         <source>Command</source>
@@ -6546,7 +6546,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -6771,7 +6771,7 @@ Se recomienda conceder acceso a Komorebi Launcher a través de Flatseal.</transl
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
 </context>
 <context>
@@ -6808,11 +6808,11 @@ Se recomienda conceder acceso a Komorebi Launcher a través de Flatseal.</transl
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Comprobando librerías de FML...</translation>
+        <translation>Comprobando librerías de FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Descargando librerías de FML...</translation>
+        <translation>Descargando librerías de FML...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6820,15 +6820,15 @@ Se recomienda conceder acceso a Komorebi Launcher a través de Flatseal.</transl
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Copiando librerías FML en la instancia...</translation>
+        <translation>Copiando librerías FML en la instancia...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Error al crear la carpeta para la librería FML dentro de la instancia.</translation>
+        <translation>Error al crear la carpeta para la librería FML dentro de la instancia.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Error copiando la librería Forge/FML: %1.</translation>
+        <translation>Error copiando la librería Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6836,11 +6836,7 @@ Se recomienda conceder acceso a Komorebi Launcher a través de Flatseal.</transl
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Error al descargar los siguientes archivos:
-%1
-
-Motivo:%2
-Por favor inténtalo nuevamente.</translation>
+        <translation>Error al descargar los siguientes archivos:</translation>
     </message>
 </context>
 <context>
@@ -7100,7 +7096,7 @@ Motivo:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7169,7 +7165,7 @@ Motivo:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7777,12 +7773,12 @@ Motivo:
     <message>
         <source>View logs</source>
         <oldsource>Upload logs</oldsource>
-        <translation type="unfinished">Subir registros</translation>
+        <translation>Subir registros</translation>
     </message>
     <message>
         <source>View current and previous launcher logs</source>
         <oldsource>Upload launcher logs to the selected log provider</oldsource>
-        <translation type="unfinished">Subir registros de launcher al proveedor de registros seleccionado</translation>
+        <translation>Subir registros de launcher al proveedor de registros seleccionado</translation>
     </message>
     <message>
         <source>%1 &amp;Wiki</source>
@@ -9201,23 +9197,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -9245,7 +9241,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Lanzamiento</translation>
+        <translation>Lanzamiento</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9375,7 +9371,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remover</translation>
+        <translation>Remover</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9683,11 +9679,11 @@ Advertencia: Este recurso está enlazado desde otro sitio. Si se edita, también
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nombre del archivo</translation>
+        <translation>Nombre del archivo</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -9727,7 +9723,7 @@ Advertencia: Este recurso está enlazado desde otro sitio. Si se edita, también
     </message>
     <message>
         <source>Confirm toggle</source>
-        <translation type="unfinished">Confirmar cambio</translation>
+        <translation>Confirmar cambio</translation>
     </message>
     <message>
         <source>Toggling these mod(s) will cause changes to other mods.
@@ -10458,11 +10454,11 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Eliminando archivos antiguos en conflicto...</translation>
+        <translation>Eliminando archivos antiguos en conflicto...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">No se pudieron eliminar los archivos antiguos en conflicto.</translation>
+        <translation>No se pudieron eliminar los archivos antiguos en conflicto.</translation>
     </message>
 </context>
 <context>
@@ -10658,26 +10654,26 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">Solicitando %1</translation>
+        <translation>Solicitando %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">desconocido</translation>
+        <translation>desconocido</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -10733,7 +10729,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
@@ -11102,11 +11098,11 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
 </context>
 <context>
@@ -11172,7 +11168,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Seguir actualizando</translation>
+        <translation>Seguir actualizando</translation>
     </message>
     <message>
         <source>Wrap lines</source>
@@ -11180,7 +11176,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <source>Color lines</source>
-        <translation type="unfinished">Líneas de color</translation>
+        <translation>Líneas de color</translation>
     </message>
     <message>
         <source>Copy the whole log into the clipboard</source>
@@ -11208,7 +11204,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -11240,7 +11236,7 @@ AVISO: Asegurese de realizar una copia de seguridad de su instancia antes de act
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">No se puede mostrar este registro ya que su largo ha superado las %1 lineas.</translation>
+        <translation>No se puede mostrar este registro ya que su largo ha superado las %1 lineas.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -11296,7 +11292,7 @@ Esto puede ser permanente desaparecerá de la carpeta de registros.
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Borrar</translation>
+        <translation>Borrar</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -11340,88 +11336,87 @@ Esto puede ser permanente desaparecerá de la carpeta de registros.
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">No se pudo entender el manifiesto del paquete:
-</translation>
+        <translation>No se pudo entender el manifiesto del paquete:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Modo de instalación no soportado</translation>
+        <translation>Modo de instalación no soportado</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Error al obtener el índice de metadatos local para &apos;%1&apos; v%2</translation>
+        <translation>Error al obtener el índice de metadatos local para &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Eliminando archivos existentes...</translation>
+        <translation>Eliminando archivos existentes...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Tipo de mod desconocido: %1</translation>
+        <translation>Tipo de mod desconocido: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Error al obtener el índice de metadatos local para %1</translation>
+        <translation>Error al obtener el índice de metadatos local para %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Tipo de descarga desconocida o no soportada: %1</translation>
+        <translation>Tipo de descarga desconocida o no soportada: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Descargando configuraciones...</translation>
+        <translation>Descargando configuraciones...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Descargar configuración</translation>
+        <translation>Descargar configuración</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Extrayendo configuraciones...</translation>
+        <translation>Extrayendo configuraciones...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Seleccionando mods opcionales...</translation>
+        <translation>Seleccionando mods opcionales...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Descargando mods...</translation>
+        <translation>Descargando mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Descarga de mod</translation>
+        <translation>Descarga de mod</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Tipo de descarga desconocida: %1</translation>
+        <translation>Tipo de descarga desconocida: %1</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 de %2 completado</translation>
+        <translation>%1 de %2 completado</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Error al extraer mods...</translation>
+        <translation>Error al extraer mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Extrayendo mods...</translation>
+        <translation>Extrayendo mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Instalando modpack</translation>
+        <translation>Instalando modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Error al crear el componente de librerías</translation>
+        <translation>Error al crear el componente de librerías</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Tipo de cargador desconocido: </translation>
+        <translation>Tipo de cargador desconocido:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Error al crear el componente del paquete</translation>
+        <translation>Error al crear el componente del paquete</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
@@ -12772,7 +12767,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Desconocido</translation>
+        <translation>Desconocido</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -12927,11 +12922,11 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Crear atajo</translation>
+        <translation>Crear atajo</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">El launcher está en la carpeta donde se extrajo, por lo tanto no se pueden crear accesos directos.</translation>
+        <translation>El launcher está en la carpeta donde se extrajo, por lo tanto no se pueden crear accesos directos.</translation>
     </message>
     <message>
         <source>Failed to create icon for application: %1</source>
@@ -12943,7 +12938,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">¿El launcher está utilizando una AppImage mal configurada? (Falta la variable de entorno de $APPIMAGE)</translation>
+        <translation>¿El launcher está utilizando una AppImage mal configurada? (Falta la variable de entorno de $APPIMAGE)</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut: %1</source>
@@ -12951,11 +12946,11 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">No se pudo crear un icono para el acceso directo.</translation>
+        <translation>No se pudo crear un icono para el acceso directo.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">¡No soportado en tu plataforma!</translation>
+        <translation>¡No soportado en tu plataforma!</translation>
     </message>
     <message>
         <source>Failed to create %1 shortcut!</source>
@@ -12963,7 +12958,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">¡¿No se encontró el escritorio?!</translation>
+        <translation>¡¿No se encontró el escritorio?!</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1 on your desktop!</source>
@@ -12983,7 +12978,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Entradas del escritorio</translation>
+        <translation>Entradas del escritorio</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1!</source>
@@ -13003,7 +12998,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Error: %1 regreso una respuesta de cuerpo mal-formada</translation>
+        <translation>Error: %1 regreso una respuesta de cuerpo mal-formada</translation>
     </message>
     <message>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
@@ -13011,7 +13006,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Error: %1 regreso un error: %2</translation>
+        <translation>Error: %1 regreso un error: %2</translation>
     </message>
     <message>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
@@ -13020,8 +13015,7 @@ Do you wish to proceed?</source>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Error: %1 regreso un error: %2
-Mensaje de error: %3</translation>
+        <translation>Error: %1 regreso un error: %2</translation>
     </message>
     <message>
         <source>Unknown paste type</source>
@@ -13042,7 +13036,7 @@ Mensaje de error: %3</translation>
     </message>
     <message>
         <source>%1 Developers</source>
-        <translation type="unfinished">Desarrolladores de %1</translation>
+        <translation>Desarrolladores de %1</translation>
     </message>
     <message>
         <source>MultiMC Developers</source>
@@ -13058,7 +13052,7 @@ Mensaje de error: %3</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">No reconocido</translation>
+        <translation>No reconocido</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -13068,34 +13062,34 @@ Mensaje de error: %3</translation>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">mods</translation>
+        <translation>mods</translation>
     </message>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">paquetes de recursos</translation>
+        <translation>paquetes de recursos</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">recurso</translation>
+        <translation>recurso</translation>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">recursos</translation>
+        <translation>recursos</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">packs de shaders</translation>
+        <translation>packs de shaders</translation>
     </message>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">packs de texturas</translation>
+        <translation>packs de texturas</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">No se pudo abrir el archivo %1 para leer: %2</translation>
+        <translation>No se pudo abrir el archivo %1 para leer: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -13204,19 +13198,19 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">mods</translation>
+        <translation>mods</translation>
     </message>
     <message>
         <source>resource packs</source>
-        <translation type="unfinished">paquetes de recursos</translation>
+        <translation>paquetes de recursos</translation>
     </message>
     <message>
         <source>texture packs</source>
-        <translation type="unfinished">packs de texturas</translation>
+        <translation>packs de texturas</translation>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">packs de shaders</translation>
+        <translation>packs de shaders</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -13480,7 +13474,7 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13492,11 +13486,11 @@ Advertencia: Este recurso está enlazado en otro sitio. Si lo edita, también mo
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nombre del archivo</translation>
+        <translation>Nombre del archivo</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -13551,7 +13545,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imagen</translation>
+        <translation>Imagen</translation>
     </message>
 </context>
 <context>
@@ -13574,7 +13568,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13586,11 +13580,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nombre del archivo</translation>
+        <translation>Nombre del archivo</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>The file name of the resource pack.</source>
@@ -14191,7 +14185,7 @@ Versión instalada actualmente: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versión</translation>
+        <translation>Versión</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14774,7 +14768,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Abortado</translation>
+        <translation>Abortado</translation>
     </message>
 </context>
 <context>
@@ -15018,11 +15012,11 @@ falta inheritsFrom</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nombre del archivo</translation>
+        <translation>Nombre del archivo</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizar</translation>
+        <translation>Actualizar</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -15234,7 +15228,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Apariencia</translation>
+        <translation>Apariencia</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -15618,7 +15612,7 @@ Cambia a una de las versiones siguientes para esta instancia:</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Buscar</translation>
+        <translation>Buscar</translation>
     </message>
     <message>
         <source>Change Version</source>
@@ -15841,7 +15835,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalar</translation>
+        <translation>Instalar</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -16013,7 +16007,7 @@ Por favor, agrega tu cuenta de Mojang o de Minecraft.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -16188,7 +16182,7 @@ Ruta canónica: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Herramientas</translation>
+        <translation>Herramientas</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -16561,11 +16555,11 @@ Por favor, configura tu cuenta como se indica en %1.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Nombre de usuario</translation>
+        <translation>Nombre de usuario</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Contraseña</translation>
+        <translation>Contraseña</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -16573,7 +16567,7 @@ Por favor, configura tu cuenta como se indica en %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancelar</translation>
+        <translation>Cancelar</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

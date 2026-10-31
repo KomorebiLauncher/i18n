@@ -499,7 +499,7 @@
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="74"/>
         <source>&amp;No Default</source>
         <oldsource>No Default</oldsource>
-        <translation type="unfinished">&amp;No Predeterminat</translation>
+        <translation>&amp;No Predeterminat</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/AccountListPage.ui" line="79"/>

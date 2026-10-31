@@ -150,7 +150,7 @@
     </message>
     <message>
         <source>User Agent</source>
-        <translation type="unfinished">L-Aġent tal-User</translation>
+        <translation>L-Aġent tal-User</translation>
     </message>
     <message>
         <source>Enter a custom User Agent here. The special string $LAUNCHER_VER will be replaced with the version of the launcher.</source>
@@ -340,7 +340,7 @@ Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translatio
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tip</translation>
+        <translation>Tip</translation>
     </message>
     <message>
         <source>Status</source>
@@ -413,7 +413,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menù tal-kuntest</translation>
+        <translation>Menù tal-kuntest</translation>
     </message>
     <message>
         <source>Remove account?</source>
@@ -570,7 +570,7 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Issettjar</translation>
+        <translation>Issettjar</translation>
     </message>
     <message>
         <source>This installation has a update lock file present at: %1
@@ -668,7 +668,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Getting the asset files from %1...</source>
@@ -962,7 +962,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Niżżel Java</translation>
+        <translation>Niżżel Java</translation>
     </message>
     <message>
         <source>No versions of Java were found for your operating system: %1-%2</source>
@@ -1219,7 +1219,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>&amp;Group</source>
@@ -1355,7 +1355,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Għajnuna</translation>
+        <translation>Għajnuna</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1546,7 +1546,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -1750,7 +1750,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>DataPackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -1762,7 +1762,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Qies</translation>
+        <translation>Qies</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -1770,7 +1770,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verżjoni</translation>
+        <translation>Verżjoni</translation>
     </message>
     <message>
         <source>Update</source>
@@ -1872,7 +1872,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ikkonferma t-Tneħħija</translation>
+        <translation>Ikkonferma t-Tneħħija</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 data packs.
@@ -1985,7 +1985,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Value</source>
@@ -2122,7 +2122,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Issettjar</translation>
+        <translation>Issettjar</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -2167,7 +2167,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verżjoni</translation>
+        <translation>Verżjoni</translation>
     </message>
     <message>
         <source>Authors</source>
@@ -2195,7 +2195,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Ikkopja</translation>
+        <translation>Ikkopja</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -2218,7 +2218,7 @@ This instance cannot be launched because some libraries are missing or have not 
     <name>ExternalResourcesPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Azzjonijiet</translation>
+        <translation>Azzjonijiet</translation>
     </message>
     <message>
         <source>Add</source>
@@ -2243,7 +2243,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Fittex</translation>
+        <translation>Fittex</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2343,7 +2343,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menù tal-kuntest</translation>
+        <translation>Menù tal-kuntest</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -2366,7 +2366,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ikkonferma t-Tneħħija</translation>
+        <translation>Ikkonferma t-Tneħħija</translation>
     </message>
     <message>
         <source>Confirm Delete</source>
@@ -2426,7 +2426,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2543,8 +2543,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Ma stajtx nifhem il-manifest tal-pakkett:
-</translation>
+        <translation>Ma stajtx nifhem il-manifest tal-pakkett:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -2560,8 +2559,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.
-Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translation>
+        <translation>Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -2685,8 +2683,7 @@ Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translatio
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Ma stajtx nifhem il-manifest tal-pakkett:
-</translation>
+        <translation>Ma stajtx nifhem il-manifest tal-pakkett:</translation>
     </message>
     <message>
         <source> (version %1)</source>
@@ -2718,7 +2715,7 @@ Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translatio
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Falla biex jinsab verżjoni għall-%1 loader</translation>
+        <translation>Falla biex jinsab verżjoni għall-%1 loader</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
@@ -2761,8 +2758,7 @@ Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translatio
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.
-Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translation>
+        <translation>Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -2774,7 +2770,7 @@ Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translatio
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 minn %2 lesti</translation>
+        <translation>%1 minn %2 lesti</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3626,7 +3622,7 @@ Jekk jogħġbok ara li l-ammont massimu ta&apos; memorja huwa iktar baxx.</trans
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished">Niżżel</translation>
+        <translation>Niżżel</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -3696,7 +3692,7 @@ Are you sure?</source>
     <name>JavaSettingsWidget</name>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Sib executable ta&apos; Java</translation>
+        <translation>Sib executable ta&apos; Java</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
@@ -3844,19 +3840,17 @@ Are you sure?</source>
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Agħżel verżjoni ta&apos; Java</translation>
+        <translation>Agħżel verżjoni ta&apos; Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
-        <translation type="unfinished">Ikkonferma l-għażla</translation>
+        <translation>Ikkonferma l-għażla</translation>
     </message>
     <message>
         <source>You selected a 32-bit version of Java.
 This installation does not support more than 2048MiB of RAM.
 Please make sure that the maximum memory value is lower.</source>
-        <translation type="unfinished">Inti għażilt verżjoni 32-bit ta&apos; java.
-Din l-installazjoni ma jappoġġjax iktar min 2048MiB ta&apos; RAM.
-Jekk jogħġbok ara li l-ammont massimu ta&apos; memorja huwa iktar baxx.</translation>
+        <translation>Inti għażilt verżjoni 32-bit ta&apos; java.</translation>
     </message>
     <message>
         <source>%1 mods installed here, so %2 MiB of heap.</source>
@@ -3880,7 +3874,7 @@ Jekk jogħġbok ara li l-ammont massimu ta&apos; memorja huwa iktar baxx.</trans
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">L-allokazzjoni massima tal-memorja tiegħek taqbeż il-kapaċità tal-memorja tas-sistema tiegħek.</translation>
+        <translation>L-allokazzjoni massima tal-memorja tiegħek taqbeż il-kapaċità tal-memorja tas-sistema tiegħek.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is close to your system memory capacity.</source>
@@ -3949,7 +3943,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Find Java executable</source>
-        <translation type="unfinished">Sib executable ta&apos; Java</translation>
+        <translation>Sib executable ta&apos; Java</translation>
     </message>
     <message>
         <source>Memory</source>
@@ -3993,15 +3987,15 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
-        <translation type="unfinished">L-allokazzjoni massima tal-memorja tiegħek taqbeż il-kapaċità tal-memorja tas-sistema tiegħek.</translation>
+        <translation>L-allokazzjoni massima tal-memorja tiegħek taqbeż il-kapaċità tal-memorja tas-sistema tiegħek.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
-        <translation type="unfinished">L-allokazzjoni massima tal-memorja tiegħek qed joqrob lejn il-kapaċità tal-memorja tas-sistema tiegħek.</translation>
+        <translation>L-allokazzjoni massima tal-memorja tiegħek qed joqrob lejn il-kapaċità tal-memorja tas-sistema tiegħek.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is smaller than the minimum value</source>
-        <translation type="unfinished">L-allokazzjoni massima tal-memorja tiegħek hija iżgħar mill-valur minimu</translation>
+        <translation>L-allokazzjoni massima tal-memorja tiegħek hija iżgħar mill-valur minimu</translation>
     </message>
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
@@ -4150,7 +4144,7 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>Couldn&apos;t load the instance profile.</source>
-        <translation type="unfinished">Ma setax jillowdja l-profil tal-istanza.</translation>
+        <translation>Ma setax jillowdja l-profil tal-istanza.</translation>
     </message>
     <message>
         <source>Couldn&apos;t instantiate a launcher.</source>
@@ -4391,7 +4385,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Żid</translation>
+        <translation>Żid</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -4731,7 +4725,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installazjoni ta&apos; modpack</translation>
+        <translation>Installazjoni ta&apos; modpack</translation>
     </message>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
@@ -4892,7 +4886,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Fittex</translation>
+        <translation>Fittex</translation>
     </message>
     <message>
         <source>Find</source>
@@ -5053,7 +5047,7 @@ Reason:
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished">Informazzjoni</translation>
+        <translation>Informazzjoni</translation>
     </message>
     <message>
         <source>Microsoft refused the application ID this build uses, not your account. Third-party server accounts are unaffected; offline profiles require a signed-in Microsoft account, which this build cannot obtain yet. An app ID registered by hand would not be approved either; sign-in stays unavailable until the review passes.</source>
@@ -5167,7 +5161,7 @@ Reason:
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Għajnuna</translation>
+        <translation>Għajnuna</translation>
     </message>
     <message>
         <source>Get help with %1 or Minecraft.</source>
@@ -5419,7 +5413,7 @@ Reason:
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Biddel l-isem</translation>
+        <translation>Biddel l-isem</translation>
     </message>
     <message>
         <source>Rename the selected instance.</source>
@@ -5869,7 +5863,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -5975,7 +5969,7 @@ Are you sure?</source>
     <name>MinecraftPage</name>
     <message>
         <source>Minecraft</source>
-        <translation type="unfinished">Minecraft</translation>
+        <translation>Minecraft</translation>
     </message>
 </context>
 <context>
@@ -6329,7 +6323,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Żid</translation>
+        <translation>Żid</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -6519,11 +6513,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verżjoni</translation>
+        <translation>Verżjoni</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -6535,7 +6529,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Qies</translation>
+        <translation>Qies</translation>
     </message>
     <message>
         <source>Side</source>
@@ -6761,7 +6755,7 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ikkonferma t-Tneħħija</translation>
+        <translation>Ikkonferma t-Tneħħija</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 mods.
@@ -6921,7 +6915,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 minn %2 lesti</translation>
+        <translation>%1 minn %2 lesti</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -7192,7 +7186,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>uid</source>
@@ -7239,7 +7233,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Għajnuna</translation>
+        <translation>Għajnuna</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -7270,7 +7264,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Agħlaq</translation>
+        <translation>Agħlaq</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -7585,7 +7579,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Fittex</translation>
+        <translation>Fittex</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -7666,45 +7660,43 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Ma stajtx nifhem il-manifest tal-pakkett:
-</translation>
+        <translation>Ma stajtx nifhem il-manifest tal-pakkett:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Mod ta&apos; installazjoni mhux appoġjata</translation>
+        <translation>Mod ta&apos; installazjoni mhux appoġjata</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Jitħassru fajls eżistenti...</translation>
+        <translation>Jitħassru fajls eżistenti...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Tip ta&apos; mod mhux magħruf: %1</translation>
+        <translation>Tip ta&apos; mod mhux magħruf: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Falla biex jinsab verżjoni għall-%1 loader</translation>
+        <translation>Falla biex jinsab verżjoni għall-%1 loader</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.
-Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translation>
+        <translation>Dawn il-fajls mhumiex disponibble għat-tniżżil f&apos;launchers ta&apos; partit terzjarju.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 minn %2 lesti</translation>
+        <translation>%1 minn %2 lesti</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Ma rnexxilniex nestrattaw il-mods...</translation>
+        <translation>Ma rnexxilniex nestrattaw il-mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Qedhin nestrattaw il-mods...</translation>
+        <translation>Qedhin nestrattaw il-mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installazjoni ta&apos; modpack</translation>
+        <translation>Installazjoni ta&apos; modpack</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
@@ -7779,11 +7771,11 @@ Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translatio
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verżjoni</translation>
+        <translation>Verżjoni</translation>
     </message>
 </context>
 <context>
@@ -7802,7 +7794,7 @@ Hemm il-bżonn li tniżżilhom b&apos;idejk u żżidhom fl-instance.</translatio
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Għajnuna</translation>
+        <translation>Għajnuna</translation>
     </message>
 </context>
 <context>
@@ -8277,7 +8269,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Tip</translation>
+        <translation>Tip</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -8795,7 +8787,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Mhux iċċekkjat</translation>
+        <translation>Mhux iċċekkjat</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -9331,7 +9323,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -9339,11 +9331,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verżjoni</translation>
+        <translation>Verżjoni</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Qies</translation>
+        <translation>Qies</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -9420,11 +9412,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verżjoni</translation>
+        <translation>Verżjoni</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Qies</translation>
+        <translation>Qies</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -9469,7 +9461,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -9542,7 +9534,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ikkonferma t-Tneħħija</translation>
+        <translation>Ikkonferma t-Tneħħija</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -9754,7 +9746,7 @@ Are you sure?</source>
     <name>ScreenshotsPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Azzjonijiet</translation>
+        <translation>Azzjonijiet</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -9762,11 +9754,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Ħassar</translation>
+        <translation>Ħassar</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">Biddel l-isem</translation>
+        <translation>Biddel l-isem</translation>
     </message>
     <message>
         <source>View Folder</source>
@@ -9774,7 +9766,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menù tal-kuntest</translation>
+        <translation>Menù tal-kuntest</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to %2.
@@ -9856,7 +9848,7 @@ Are you sure?</source>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verżjoni</translation>
+        <translation>Verżjoni</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -9879,7 +9871,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verżjoni</translation>
+        <translation>Verżjoni</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -9918,7 +9910,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Address</source>
@@ -9930,7 +9922,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Verżjoni</translation>
+        <translation>Verżjoni</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -9969,11 +9961,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Azzjonijiet</translation>
+        <translation>Azzjonijiet</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Żid</translation>
+        <translation>Żid</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -9989,7 +9981,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Ingħaqad</translation>
+        <translation>Ingħaqad</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -10001,7 +9993,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menù tal-kuntest</translation>
+        <translation>Menù tal-kuntest</translation>
     </message>
     <message>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
@@ -10011,7 +10003,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ikkonferma t-Tneħħija</translation>
+        <translation>Ikkonferma t-Tneħħija</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -10113,7 +10105,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ikkonferma t-Tneħħija</translation>
+        <translation>Ikkonferma t-Tneħħija</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -10272,7 +10264,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menù tal-kuntest</translation>
+        <translation>Menù tal-kuntest</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -10422,8 +10414,7 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Ma stajtx nifhem il-manifest tal-pakkett:
-</translation>
+        <translation>Ma stajtx nifhem il-manifest tal-pakkett:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
@@ -10504,7 +10495,7 @@ inheritsFrom is missing</source>
     <name>TexturePackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Isem</translation>
+        <translation>Isem</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -10512,7 +10503,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Qies</translation>
+        <translation>Qies</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -10621,7 +10612,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Ikkonferma t-Tneħħija</translation>
+        <translation>Ikkonferma t-Tneħħija</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -10758,7 +10749,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Azzjonijiet</translation>
+        <translation>Azzjonijiet</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -10810,7 +10801,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Fittex</translation>
+        <translation>Fittex</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -11314,7 +11305,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menù tal-kuntest</translation>
+        <translation>Menù tal-kuntest</translation>
     </message>
     <message>
         <source>Select a Minecraft world zip</source>

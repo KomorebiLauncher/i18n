@@ -1368,7 +1368,7 @@ Minecraft&apos;ın bazı sürümleri başlatılamayabilir.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Yükle</translation>
+        <translation>Yükle</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -9896,7 +9896,7 @@ Büyük olasılıkla yolu değiştirmeniz gerekecektir - lütfen modun web sites
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Kaldır</translation>
+        <translation>Kaldır</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9904,7 +9904,7 @@ Büyük olasılıkla yolu değiştirmeniz gerekecektir - lütfen modun web sites
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Ekle</translation>
+        <translation>Ekle</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -11897,7 +11897,7 @@ NOT: Güncellemeden önce önemli profil verilerinizin bir yedeklemesini yaptı�
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Yükle</translation>
+        <translation>Yükle</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -13651,7 +13651,7 @@ Bu güncelleme için eski kayıt dosyalarını silmek ister misiniz?</translatio
     </message>
     <message>
         <source>Unknown</source>
-        <translation>Bilinmiyor</translation>
+        <translation>Bilinmeyen</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -15150,7 +15150,7 @@ Mevcut yüklü sürüm: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Sürüm</translation>
+        <translation>Sürüm</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -16801,7 +16801,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Yükle</translation>
+        <translation>Yükle</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17593,7 +17593,7 @@ Lütfen hesabınızı %1 sayfasındaki yönergelere göre kurun.</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Parola</translation>
+        <translation>Parola</translation>
     </message>
     <message>
         <source>Sign in</source>

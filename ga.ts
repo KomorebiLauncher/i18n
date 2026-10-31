@@ -1102,11 +1102,11 @@ Is féidir leat an fhadhb seo a réiteach trí /tmp a athfheistiú mar &apos;exe
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Suiteáil</translation>
+        <translation>Suiteáil</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cealaigh</translation>
+        <translation>Cealaigh</translation>
     </message>
 </context>
 <context>
@@ -7273,7 +7273,7 @@ Chun an taisce meiteashonraí a ghlanadh de láimh, brúigh Fillteáin -&gt; Fé
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> agus a aicearra cláraithe %n</numerusform>
+            <numerusform>agus a aicearra cláraithe %n</numerusform>
             <numerusform> agus a %n aicearraí cláraithe</numerusform>
             <numerusform> agus a %n aicearraí cláraithe</numerusform>
         </translation>
@@ -8274,7 +8274,7 @@ Is dóichí go mbeidh ort an cosán a athrú - féach ar shuíomh Gréasáin an 
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Bain</translation>
+        <translation>Bain</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8618,12 +8618,9 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>Cuirfear %n mod ar siúl
-</numerusform>
-            <numerusform>Cumasófar %n mod
-</numerusform>
-            <numerusform>Cumasófar %n mod
-</numerusform>
+            <numerusform>Cuirfear %n mod ar siúl</numerusform>
+            <numerusform>Cumasófar %n mod</numerusform>
+            <numerusform>Cumasófar %n mod</numerusform>
         </translation>
     </message>
     <message>
@@ -8634,12 +8631,9 @@ Rabhadh: Tá nasc crua ag an acmhainn seo in áit eile. Má dhéantar í a chur 
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>Díchumasófar %n mod
-</numerusform>
-            <numerusform>Díchumasófar %n modhanna
-</numerusform>
-            <numerusform>Díchumasófar %n modhanna
-</numerusform>
+            <numerusform>Díchumasófar %n mod</numerusform>
+            <numerusform>Díchumasófar %n modhanna</numerusform>
+            <numerusform>Díchumasófar %n modhanna</numerusform>
         </translation>
     </message>
     <message>
@@ -9826,11 +9820,11 @@ Nuashonraigh %1 le do thoil!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Suiteáil</translation>
+        <translation>Suiteáil</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cealaigh</translation>
+        <translation>Cealaigh</translation>
     </message>
 </context>
 <context>
@@ -11500,27 +11494,18 @@ Ainm nua: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>D’fhéadfadh an sampla seo a leanas tagairt a dhéanamh do chomhaid sa sampla seo:
-
-%1
-
-%2 d’fhéadfadh sé an sampla eile a bhriseadh,
-
-Ar mhaith leat dul ar aghaidh?</numerusform>
-            <numerusform>D’fhéadfadh na samplaí seo a leanas tagairt a dhéanamh do chomhaid sa chás seo:
-
-%1
-
-%2 d’fhéadfadh sé na samplaí eile a bhriseadh,
-
-Ar mhaith leat dul ar aghaidh?</numerusform>
-            <numerusform>D’fhéadfadh na samplaí seo a leanas tagairt a dhéanamh do chomhaid sa chás seo:
-
-%1
-
-%2 d’fhéadfadh sé na samplaí eile a bhriseadh,
-
-Ar mhaith leat dul ar aghaidh?</numerusform>
+            <numerusform>D’fhéadfadh an sampla seo a leanas tagairt a dhéanamh do chomhaid sa sampla seo:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 d’fhéadfadh sé an sampla eile a bhriseadh,</numerusform>
+            <numerusform>Ar mhaith leat dul ar aghaidh?</numerusform>
+            <numerusform>D’fhéadfadh na samplaí seo a leanas tagairt a dhéanamh do chomhaid sa chás seo:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 d’fhéadfadh sé na samplaí eile a bhriseadh,</numerusform>
+            <numerusform>Ar mhaith leat dul ar aghaidh?</numerusform>
+            <numerusform>D’fhéadfadh na samplaí seo a leanas tagairt a dhéanamh do chomhaid sa chás seo:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 d’fhéadfadh sé na samplaí eile a bhriseadh,</numerusform>
+            <numerusform>Ar mhaith leat dul ar aghaidh?</numerusform>
         </translation>
     </message>
     <message>
@@ -12842,7 +12827,7 @@ Leagan suiteáilte faoi láthair: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Leagan</translation>
+        <translation>Leagan</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12850,7 +12835,7 @@ Leagan suiteáilte faoi láthair: %1</translation>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">As líne</translation>
+        <translation>As líne</translation>
     </message>
     <message>
         <source>Online</source>
@@ -14156,7 +14141,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Suiteáil</translation>
+        <translation>Suiteáil</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -14545,18 +14530,15 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>Tá tú ar tí an domhan %n a scriosadh.
-D’fhéadfadh na domhain seo a bheith imithe go deo (AR FEADH I bhFAD).
-
-An bhfuil tú cinnte?</numerusform>
-            <numerusform>Tá tú ar tí %n saol a scriosadh.
-D’fhéadfadh na saolta seo a bheith imithe go deo (AR FEADH I bhFAD).
-
-An bhfuil tú cinnte?</numerusform>
-            <numerusform>Tá tú ar tí %n saol a scriosadh.
-D’fhéadfadh na saolta seo a bheith imithe go deo (AR FEADH I bhFAD).
-
-An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí an domhan %n a scriosadh.</numerusform>
+            <numerusform>D’fhéadfadh na domhain seo a bheith imithe go deo (AR FEADH I bhFAD).</numerusform>
+            <numerusform>An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n saol a scriosadh.</numerusform>
+            <numerusform>D’fhéadfadh na saolta seo a bheith imithe go deo (AR FEADH I bhFAD).</numerusform>
+            <numerusform>An bhfuil tú cinnte?</numerusform>
+            <numerusform>Tá tú ar tí %n saol a scriosadh.</numerusform>
+            <numerusform>D’fhéadfadh na saolta seo a bheith imithe go deo (AR FEADH I bhFAD).</numerusform>
+            <numerusform>An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>
     <message>
@@ -14776,7 +14758,7 @@ Socraigh do chuntas de réir %1 le do thoil.</translation>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Ainm úsáideora</translation>
+        <translation>Ainm úsáideora</translation>
     </message>
     <message>
         <source>Password</source>
@@ -14788,7 +14770,7 @@ Socraigh do chuntas de réir %1 le do thoil.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cealaigh</translation>
+        <translation>Cealaigh</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

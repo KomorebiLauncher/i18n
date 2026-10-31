@@ -863,12 +863,7 @@ You are now running %1 .
 Check the Prism Launcher updater log at: 
 %1
 for details.</oldsource>
-        <translation type="unfinished">अपडेट सफल हुआ है।
-
-अब आप %1 चला रहे हैं।
-
-विवरण के लिए निम्नलिखित Komorebi Launcher अपडेटर लॉग की जाँच करें:
-%1 ।</translation>
+        <translation>अपडेट सफल हुआ है।</translation>
     </message>
     <message>
         <source>Update Succeeded</source>
@@ -1090,35 +1085,35 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Authentication task succeeded.</source>
-        <translation type="unfinished">प्रमाणीकरण कार्य सफल रहा।</translation>
+        <translation>प्रमाणीकरण कार्य सफल रहा।</translation>
     </message>
     <message>
         <source>Failed to contact the authentication server.</source>
-        <translation type="unfinished">प्रमाणीकरण सर्वर से संपर्क स्थापित करने में विफल रहा।</translation>
+        <translation>प्रमाणीकरण सर्वर से संपर्क स्थापित करने में विफल रहा।</translation>
     </message>
     <message>
         <source>Client ID has changed. New session needs to be created.</source>
-        <translation type="unfinished">क्लाइंट आईडी बदल गई है। नया session बनाया जाना चाहिए।</translation>
+        <translation>क्लाइंट आईडी बदल गई है। नया session बनाया जाना चाहिए।</translation>
     </message>
     <message>
         <source>Encountered an error during authentication.</source>
-        <translation type="unfinished">प्रमाणीकरण के दौरान त्रुटि का सामना किया गया।</translation>
+        <translation>प्रमाणीकरण के दौरान त्रुटि का सामना किया गया।</translation>
     </message>
     <message>
         <source>Failed to authenticate. The session has expired.</source>
-        <translation type="unfinished">प्रमाणीकरण में विफलता हुई। Session समाप्त हो गया है।</translation>
+        <translation>प्रमाणीकरण में विफलता हुई। Session समाप्त हो गया है।</translation>
     </message>
     <message>
         <source>Failed to authenticate. The account no longer exists.</source>
-        <translation type="unfinished">प्रमाणीकरण में विफलता हुई। खाता अब मौजूद नहीं है।</translation>
+        <translation>प्रमाणीकरण में विफलता हुई। खाता अब मौजूद नहीं है।</translation>
     </message>
     <message>
         <source>...</source>
-        <translation type="unfinished">..।</translation>
+        <translation>..।</translation>
     </message>
     <message>
         <source>Unknown account task state: %1</source>
-        <translation type="unfinished">अज्ञात खाता कार्य स्थिति: %1</translation>
+        <translation>अज्ञात खाता कार्य स्थिति: %1</translation>
     </message>
 </context>
 <context>
@@ -1188,7 +1183,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">स्थापित करें</translation>
+        <translation>स्थापित करें</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -1393,7 +1388,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">उपयोगकर्ता नाम</translation>
+        <translation>उपयोगकर्ता नाम</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1864,7 +1859,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -2078,7 +2073,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">माइनक्राफ्ट %1 के लिए कोई संस्करण वर्तमान में उपलब्ध नहीं है</translation>
+        <translation>माइनक्राफ्ट %1 के लिए कोई संस्करण वर्तमान में उपलब्ध नहीं है</translation>
     </message>
 </context>
 <context>
@@ -2119,7 +2114,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -2203,7 +2198,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2405,7 +2400,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Value</source>
@@ -2448,7 +2443,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Unable to export instance</source>
@@ -2535,7 +2530,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -2558,7 +2553,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">सेटिंग्स</translation>
+        <translation>सेटिंग्स</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -2582,7 +2577,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">अपना स्वयं बनाएँ</translation>
+        <translation>अपना स्वयं बनाएँ</translation>
     </message>
     <message>
         <source>Template</source>
@@ -2675,7 +2670,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">खोजें</translation>
+        <translation>खोजें</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2775,7 +2770,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">संदर्भ मेनू</translation>
+        <translation>संदर्भ मेनू</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -2798,7 +2793,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">हटाने की आज्ञा दें</translation>
+        <translation>हटाने की आज्ञा दें</translation>
     </message>
     <message>
         <source>Confirm Delete</source>
@@ -2850,15 +2845,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;जोड़ें</translation>
+        <translation>&amp;जोड़ें</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;हटाएँ</translation>
+        <translation>&amp;हटाएँ</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2910,7 +2905,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Error while checking JProfiler install:
@@ -2975,8 +2970,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">पैक मेनिफ़ेस्ट समझ में नहीं आया:
-</translation>
+        <translation>पैक मेनिफ़ेस्ट समझ में नहीं आया:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -2992,7 +2986,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
+        <translation>तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -3000,11 +2994,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
+        <translation>मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod डाउनलोड</translation>
+        <translation>Mod डाउनलोड</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -3023,11 +3017,11 @@ Are you sure you want to do this?</source>
     <name>FTBImportAPP::FilterModel</name>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">नाम के अनुसार क्रमबद्ध करें</translation>
+        <translation>नाम के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Game Version के अनुसार क्रमबद्ध करें</translation>
+        <translation>Game Version के अनुसार क्रमबद्ध करें</translation>
     </message>
 </context>
 <context>
@@ -3042,7 +3036,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">खोजें और फ़िल्टर करें..।</translation>
+        <translation>खोजें और फ़िल्टर करें..।</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3112,7 +3106,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">अज्ञात</translation>
+        <translation>अज्ञात</translation>
     </message>
 </context>
 <context>
@@ -3120,8 +3114,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">पैक मेनिफ़ेस्ट समझ में नहीं आया:
-</translation>
+        <translation>पैक मेनिफ़ेस्ट समझ में नहीं आया:</translation>
     </message>
     <message>
         <source> (version %1)</source>
@@ -3149,15 +3142,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">%1 के लिए स्थानीय मेटाडेटा सूचकांक प्राप्त करने में विफल</translation>
+        <translation>%1 के लिए स्थानीय मेटाडेटा सूचकांक प्राप्त करने में विफल</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1 लोडर के लिए संस्करण ढूँढने में विफल</translation>
+        <translation>%1 लोडर के लिए संस्करण ढूँढने में विफल</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Modpack  के लिए कोई लोडर संस्करण सेट नहीं है!</translation>
+        <translation>Modpack  के लिए कोई लोडर संस्करण सेट नहीं है!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3191,12 +3184,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">अवरोधित (Blocked) मॉड्स पाए गए</translation>
+        <translation>अवरोधित (Blocked) मॉड्स पाए गए</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
+        <translation>तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -3208,7 +3201,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 में से %2 पूर्ण हुए</translation>
+        <translation>%1 में से %2 पूर्ण हुए</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3228,7 +3221,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
+        <translation>मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
     </message>
 </context>
 <context>
@@ -3247,7 +3240,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>CurseForge pack</source>
-        <translation type="unfinished">CurseForge पैक</translation>
+        <translation>CurseForge पैक</translation>
     </message>
 </context>
 <context>
@@ -3285,7 +3278,7 @@ Are you sure you want to do this?</source>
     <name>FlamePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">चयनित संस्करण:</translation>
+        <translation>चयनित संस्करण:</translation>
     </message>
     <message>
         <source>Search</source>
@@ -3303,7 +3296,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">खोजें और फ़िल्टर करें..।</translation>
+        <translation>खोजें और फ़िल्टर करें..।</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -3317,7 +3310,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">लोकप्रियता के अनुसार क्रमबद्ध करें</translation>
+        <translation>लोकप्रियता के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -3327,7 +3320,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">नाम के अनुसार क्रमबद्ध करें</translation>
+        <translation>नाम के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -3345,7 +3338,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source> by </source>
@@ -3388,18 +3381,18 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">नाम के अनुसार क्रमबद्ध करें</translation>
+        <translation>नाम के अनुसार क्रमबद्ध करें</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">चयनित संस्करण:</translation>
+        <translation>चयनित संस्करण:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">खोजें और फ़िल्टर करें..।</translation>
+        <translation>खोजें और फ़िल्टर करें..।</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3502,7 +3495,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">अपना स्वयं बनाएँ</translation>
+        <translation>अपना स्वयं बनाएँ</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3522,7 +3515,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">फ़ोल्डर खोलें</translation>
+        <translation>फ़ोल्डर खोलें</translation>
     </message>
     <message>
         <source>Select Icons</source>
@@ -3568,7 +3561,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -3585,7 +3578,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">Modrinth पैक</translation>
+        <translation>Modrinth पैक</translation>
     </message>
     <message>
         <source>Choose modpack</source>
@@ -3657,7 +3650,7 @@ Are you sure you want to do this?</source>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;ताज़ा करें</translation>
+        <translation>&amp;ताज़ा करें</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3718,7 +3711,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">माइनक्राफ्ट %1 के लिए कोई संस्करण वर्तमान में उपलब्ध नहीं है</translation>
+        <translation>माइनक्राफ्ट %1 के लिए कोई संस्करण वर्तमान में उपलब्ध नहीं है</translation>
     </message>
 </context>
 <context>
@@ -3813,7 +3806,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">सेटिंग्स</translation>
+        <translation>सेटिंग्स</translation>
     </message>
 </context>
 <context>
@@ -3831,11 +3824,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">छोड़कर आगे बढ़ें</translation>
+        <translation>छोड़कर आगे बढ़ें</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -3865,7 +3858,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">मदद प्राप्त करें</translation>
+        <translation>मदद प्राप्त करें</translation>
     </message>
     <message>
         <source>&amp;Launch</source>
@@ -3889,7 +3882,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">बंद करें</translation>
+        <translation>बंद करें</translation>
     </message>
     <message>
         <source>Kill the running instance</source>
@@ -3908,7 +3901,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">प्रोफ़ाइलर निरस्त कर दिया गया</translation>
+        <translation>प्रोफ़ाइलर निरस्त कर दिया गया</translation>
     </message>
 </context>
 <context>
@@ -3919,7 +3912,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">प्रोफ़ाइलर निरस्त कर दिया गया</translation>
+        <translation>प्रोफ़ाइलर निरस्त कर दिया गया</translation>
     </message>
 </context>
 <context>
@@ -3945,7 +3938,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;ताज़ा करें</translation>
+        <translation>&amp;ताज़ा करें</translation>
     </message>
     <message>
         <source>Download</source>
@@ -3957,7 +3950,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">मोजेङ्ग (गेम के निर्माता)</translation>
+        <translation>मोजेङ्ग (गेम के निर्माता)</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -3973,15 +3966,15 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Java install करें॰</translation>
+        <translation>Java install करें॰</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">java के download का प्रकार पता नहीं लगा पाया गया!</translation>
+        <translation>java के download का प्रकार पता नहीं लगा पाया गया!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
 </context>
 <context>
@@ -4055,7 +4048,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">रिफ़्रेश</translation>
+        <translation>रिफ़्रेश</translation>
     </message>
     <message>
         <source>No managed Java versions are installed</source>
@@ -4559,7 +4552,7 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
@@ -5068,12 +5061,12 @@ Please try again.</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">नाम के अनुसार क्रमबद्ध करें</translation>
+        <translation>नाम के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Game Version के अनुसार क्रमबद्ध करें</translation>
+        <translation>Game Version के अनुसार क्रमबद्ध करें</translation>
     </message>
 </context>
 <context>
@@ -5118,7 +5111,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">modpack इंस्टॉल किया जा रहा है</translation>
+        <translation>modpack इंस्टॉल किया जा रहा है</translation>
     </message>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
@@ -5134,7 +5127,7 @@ Please try again.</source>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">खोजें और फ़िल्टर करें..।</translation>
+        <translation>खोजें और फ़िल्टर करें..।</translation>
     </message>
     <message>
         <source>Search</source>
@@ -5162,11 +5155,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">चयनित संस्करण:</translation>
+        <translation>चयनित संस्करण:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -5291,7 +5284,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">खोजें</translation>
+        <translation>खोजें</translation>
     </message>
     <message>
         <source>Find</source>
@@ -5432,11 +5425,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">कृपया प्रतीक्षा करें..।</translation>
+        <translation>कृपया प्रतीक्षा करें..।</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">स्थिति</translation>
+        <translation>स्थिति</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -5456,7 +5449,7 @@ Reason:
     </message>
     <message>
         <source>Info</source>
-        <translation type="unfinished">इंफो</translation>
+        <translation>इंफो</translation>
     </message>
     <message>
         <source>Microsoft refused the application ID this build uses, not your account. Third-party server accounts are unaffected; offline profiles require a signed-in Microsoft account, which this build cannot obtain yet. An app ID registered by hand would not be approved either; sign-in stays unavailable until the review passes.</source>
@@ -5570,7 +5563,7 @@ Reason:
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">मदद प्राप्त करें</translation>
+        <translation>मदद प्राप्त करें</translation>
     </message>
     <message>
         <source>Get help with %1 or Minecraft.</source>
@@ -5854,7 +5847,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">खाते</translation>
+        <translation>खाते</translation>
     </message>
     <message>
         <source>&amp;Undo Last Instance Deletion</source>
@@ -5941,11 +5934,11 @@ Reason:
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">चेतावनियाँ</translation>
+        <translation>चेतावनियाँ</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6196,11 +6189,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">चेतावनियाँ</translation>
+        <translation>चेतावनियाँ</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6248,7 +6241,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">अपडेट असफल रहा</translation>
+        <translation>अपडेट असफल रहा</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -6264,7 +6257,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">अपडेट को आज्ञा दें</translation>
+        <translation>अपडेट को आज्ञा दें</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -6286,7 +6279,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -6695,7 +6688,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">कस्टम कमांड्स</translation>
+        <translation>कस्टम कमांड्स</translation>
     </message>
     <message>
         <source>Environment Variables</source>
@@ -6861,7 +6854,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">अज्ञात</translation>
+        <translation>अज्ञात</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -6929,14 +6922,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">सरे संस्करण</translation>
+        <translation>सरे संस्करण</translation>
     </message>
 </context>
 <context>
     <name>ModFolderModel</name>
     <message>
         <source>File</source>
-        <translation type="unfinished">फ़ाइल</translation>
+        <translation>फ़ाइल</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -6945,7 +6938,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Version</source>
@@ -6965,7 +6958,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">आखरी बार बदला गया</translation>
+        <translation>आखरी बार बदला गया</translation>
     </message>
     <message>
         <source>Size</source>
@@ -7158,7 +7151,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -7166,7 +7159,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">चेतावनियाँ</translation>
+        <translation>चेतावनियाँ</translation>
     </message>
     <message>
         <source>Mod updates are unavailable when metadata is disabled!</source>
@@ -7174,7 +7167,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">अपडेट को आज्ञा दें</translation>
+        <translation>अपडेट को आज्ञा दें</translation>
     </message>
     <message>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
@@ -7191,11 +7184,11 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">डाटा पैक अपडेट करने वाली सुविधा</translation>
+        <translation>डाटा पैक अपडेट करने वाली सुविधा</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">हटाने की आज्ञा दें</translation>
+        <translation>हटाने की आज्ञा दें</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 mods.
@@ -7226,7 +7219,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; नवीनतम है :)</translation>
+        <translation>&apos;%1&apos; नवीनतम है :)</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -7280,7 +7273,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -7309,7 +7302,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">अज्ञात</translation>
+        <translation>अज्ञात</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -7362,11 +7355,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 में से %2 पूर्ण हुए</translation>
+        <translation>%1 में से %2 पूर्ण हुए</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
+        <translation>मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -7402,7 +7395,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth पैक</translation>
+        <translation>Modrinth पैक</translation>
     </message>
 </context>
 <context>
@@ -7454,7 +7447,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source> by </source>
@@ -7503,7 +7496,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">खोजें और फ़िल्टर करें..।</translation>
+        <translation>खोजें और फ़िल्टर करें..।</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -7511,7 +7504,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">चयनित संस्करण:</translation>
+        <translation>चयनित संस्करण:</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -7587,7 +7580,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">%1 कार्यों को क्रियान्वित किया जा रहा है (%2 में से %3 पूरे हो गए हैं)</translation>
+        <translation>%1 कार्यों को क्रियान्वित किया जा रहा है (%2 में से %3 पूरे हो गए हैं)</translation>
     </message>
 </context>
 <context>
@@ -7606,7 +7599,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -7637,7 +7630,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>uid</source>
@@ -7668,11 +7661,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;नाम:</translation>
+        <translation>&amp;नाम:</translation>
     </message>
     <message>
         <source>No group</source>
-        <translation type="unfinished">कोई समूह नहीं</translation>
+        <translation>कोई समूह नहीं</translation>
     </message>
     <message>
         <source>OK</source>
@@ -7684,7 +7677,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">मदद प्राप्त करें</translation>
+        <translation>मदद प्राप्त करें</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -7715,7 +7708,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">बंद करें</translation>
+        <translation>बंद करें</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -7935,7 +7928,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">स्थापित करें</translation>
+        <translation>स्थापित करें</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -8037,11 +8030,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">खोजें</translation>
+        <translation>खोजें</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Unable to open %1 for reading: %2</source>
@@ -8089,7 +8082,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">इस लौग को नहीं दिखाया जा सकता है क्योंकि यह %l पंक्तियाँ पार कर चुका है।</translation>
+        <translation>इस लौग को नहीं दिखाया जा सकता है क्योंकि यह %l पंक्तियाँ पार कर चुका है।</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -8114,104 +8107,103 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">पैक मेनिफ़ेस्ट समझ में नहीं आया:
-</translation>
+        <translation>पैक मेनिफ़ेस्ट समझ में नहीं आया:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">असमर्थित संस्थापन मोड</translation>
+        <translation>असमर्थित संस्थापन मोड</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">&apos;%1&apos; v%2 के लिए स्थानीय मेटाडेटा अनुक्रमणिका प्राप्त करने में विफल रहा</translation>
+        <translation>&apos;%1&apos; v%2 के लिए स्थानीय मेटाडेटा अनुक्रमणिका प्राप्त करने में विफल रहा</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">मौजूदा फ़ाइलों को हटा रहे हैं..।</translation>
+        <translation>मौजूदा फ़ाइलों को हटा रहे हैं..।</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">अज्ञात mod प्रकार: %1</translation>
+        <translation>अज्ञात mod प्रकार: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">%1 के लिए स्थानीय मेटाडेटा सूचकांक प्राप्त करने में विफल</translation>
+        <translation>%1 के लिए स्थानीय मेटाडेटा सूचकांक प्राप्त करने में विफल</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1 लोडर के लिए संस्करण ढूँढने में विफल</translation>
+        <translation>%1 लोडर के लिए संस्करण ढूँढने में विफल</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Modpack  के लिए कोई लोडर संस्करण सेट नहीं है!</translation>
+        <translation>Modpack  के लिए कोई लोडर संस्करण सेट नहीं है!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">अज्ञात या अनुपलब्ध डाउनलोड प्रकार: %1</translation>
+        <translation>अज्ञात या अनुपलब्ध डाउनलोड प्रकार: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">डाउनलोडिंग कॉन्फ़िगरेशन..।</translation>
+        <translation>डाउनलोडिंग कॉन्फ़िगरेशन..।</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">कॉन्फ़िग डाउनलोड</translation>
+        <translation>कॉन्फ़िग डाउनलोड</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">कॉन्फ़िग निकाले जा रहे हैं..।</translation>
+        <translation>कॉन्फ़िग निकाले जा रहे हैं..।</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">ऑप्शनल मॉड्स चुने जा रहे हैं..।</translation>
+        <translation>ऑप्शनल मॉड्स चुने जा रहे हैं..।</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
+        <translation>मॉड्स डाउनलोड किये जा रहे हैं..।</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod डाउनलोड</translation>
+        <translation>Mod डाउनलोड</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">अज्ञात डाउनलोड प्रकार: %1</translation>
+        <translation>अज्ञात डाउनलोड प्रकार: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">अवरोधित (Blocked) मॉड्स पाए गए</translation>
+        <translation>अवरोधित (Blocked) मॉड्स पाए गए</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
+        <translation>तीसरे पक्ष के लॉन्चर में निम्नलिखित फ़ाइलें डाउनलोड के लिए उपलब्ध नहीं हैं।&lt;br/&gt;आपको इन्हें manual रूप से डाउनलोड करना होगा और उन्हें इंस्टेंस में जोड़ना होगा।</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 में से %2 पूर्ण हुए</translation>
+        <translation>%1 में से %2 पूर्ण हुए</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">मॉड्स निकालने में विफल रहे..।</translation>
+        <translation>मॉड्स निकालने में विफल रहे..।</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">मॉड्स निकाले जा रहे हैं..।</translation>
+        <translation>मॉड्स निकाले जा रहे हैं..।</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">modpack इंस्टॉल किया जा रहा है</translation>
+        <translation>modpack इंस्टॉल किया जा रहा है</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">library कॉम्पोनेंट बनाने में विफल रहा</translation>
+        <translation>library कॉम्पोनेंट बनाने में विफल रहा</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">अज्ञात लोडर प्रकार:- </translation>
+        <translation>अज्ञात लोडर प्रकार:-</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">पैक कॉम्पोनेंट बनाने में असफल रहे</translation>
+        <translation>पैक कॉम्पोनेंट बनाने में असफल रहे</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -8226,7 +8218,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Version</source>
@@ -8249,7 +8241,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">मदद प्राप्त करें</translation>
+        <translation>मदद प्राप्त करें</translation>
     </message>
 </context>
 <context>
@@ -8690,7 +8682,7 @@ HTTP Status: %2</source>
     <name>ProgressDialog</name>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">कृपया प्रतीक्षा करें..।</translation>
+        <translation>कृपया प्रतीक्षा करें..।</translation>
     </message>
     <message>
         <source>Global Task Status...</source>
@@ -8702,7 +8694,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">छोड़कर आगे बढ़ें</translation>
+        <translation>छोड़कर आगे बढ़ें</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -8724,7 +8716,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">प्रकार</translation>
+        <translation>प्रकार</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -8899,7 +8891,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (फिलहाल उपयोग में)</translation>
+        <translation>%1 (फिलहाल उपयोग में)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -9062,7 +9054,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">जावा जांचक पुस्तकालय नहीं मिल सकी। कृपया अपने स्थापना की जाँच करें।</translation>
+        <translation>जावा जांचक पुस्तकालय नहीं मिल सकी। कृपया अपने स्थापना की जाँच करें।</translation>
     </message>
     <message>
         <source>Change instance name</source>
@@ -9157,7 +9149,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">लोकप्रियता के अनुसार क्रमबद्ध करें</translation>
+        <translation>लोकप्रियता के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -9165,7 +9157,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">नाम के अनुसार क्रमबद्ध करें</translation>
+        <translation>नाम के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -9181,7 +9173,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Game Version के अनुसार क्रमबद्ध करें</translation>
+        <translation>Game Version के अनुसार क्रमबद्ध करें</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -9213,7 +9205,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">अज्ञात</translation>
+        <translation>अज्ञात</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -9246,47 +9238,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">अप्रमाणित</translation>
+        <translation>अप्रमाणित</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">ऑफ़लाइन</translation>
+        <translation>ऑफ़लाइन</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">तैयार है</translation>
+        <translation>तैयार है</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">सक्रीय</translation>
+        <translation>सक्रीय</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">त्रुटि हुई</translation>
+        <translation>त्रुटि हुई</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">खत्म हो चुका</translation>
+        <translation>खत्म हो चुका</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">अक्षम</translation>
+        <translation>अक्षम</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">गया</translation>
+        <translation>गया</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">अज्ञात</translation>
+        <translation>अज्ञात</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -9490,7 +9482,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">पहचानने में विफल</translation>
+        <translation>पहचानने में विफल</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -9582,11 +9574,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">चेतावनियाँ</translation>
+        <translation>चेतावनियाँ</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
@@ -9629,7 +9621,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -9784,7 +9776,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -9792,7 +9784,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">आखरी बार बदला गया</translation>
+        <translation>आखरी बार बदला गया</translation>
     </message>
     <message>
         <source>Version</source>
@@ -9866,7 +9858,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">फोटो</translation>
+        <translation>फोटो</translation>
     </message>
 </context>
 <context>
@@ -9881,7 +9873,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">आखरी बार बदला गया</translation>
+        <translation>आखरी बार बदला गया</translation>
     </message>
     <message>
         <source>Version</source>
@@ -9934,11 +9926,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">डाटापैक का फ़ारमैट</translation>
+        <translation>डाटापैक का फ़ारमैट</translation>
     </message>
     <message>
         <source>The name of the resource pack.</source>
@@ -9953,7 +9945,7 @@ Are you sure you want to do this?</source>
     <name>ResourcePackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">पैक डौन्लोड करें</translation>
+        <translation>पैक डौन्लोड करें</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -9969,7 +9961,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -9977,7 +9969,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">चेतावनियाँ</translation>
+        <translation>चेतावनियाँ</translation>
     </message>
     <message>
         <source>Resource pack updates are unavailable when metadata is disabled!</source>
@@ -9985,7 +9977,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">अपडेट को आज्ञा दें</translation>
+        <translation>अपडेट को आज्ञा दें</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -9995,7 +9987,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; नवीनतम है :)</translation>
+        <translation>&apos;%1&apos; नवीनतम है :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -10007,11 +9999,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">डाटा पैक अपडेट करने वाली सुविधा</translation>
+        <translation>डाटा पैक अपडेट करने वाली सुविधा</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">हटाने की आज्ञा दें</translation>
+        <translation>हटाने की आज्ञा दें</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -10031,7 +10023,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">चयनित संस्करण:</translation>
+        <translation>चयनित संस्करण:</translation>
     </message>
     <message>
         <source>Filter options</source>
@@ -10070,11 +10062,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">चेतावनियाँ</translation>
+        <translation>चेतावनियाँ</translation>
     </message>
     <message>
         <source>Checking for updates...</source>
@@ -10227,7 +10219,7 @@ Are you sure?</source>
     <name>ScreenshotsPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">कार्य</translation>
+        <translation>कार्य</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -10247,7 +10239,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">संदर्भ मेनू</translation>
+        <translation>संदर्भ मेनू</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to %2.
@@ -10395,7 +10387,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Address</source>
@@ -10415,7 +10407,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">ऑफ़लाइन</translation>
+        <translation>ऑफ़लाइन</translation>
     </message>
 </context>
 <context>
@@ -10446,7 +10438,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">कार्य</translation>
+        <translation>कार्य</translation>
     </message>
     <message>
         <source>Add</source>
@@ -10470,7 +10462,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">रिफ़्रेश</translation>
+        <translation>रिफ़्रेश</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -10478,7 +10470,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">संदर्भ मेनू</translation>
+        <translation>संदर्भ मेनू</translation>
     </message>
     <message>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
@@ -10488,7 +10480,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">हटाने की आज्ञा दें</translation>
+        <translation>हटाने की आज्ञा दें</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -10514,7 +10506,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;ताज़ा करें</translation>
+        <translation>&amp;ताज़ा करें</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -10536,7 +10528,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">पैक डौन्लोड करें</translation>
+        <translation>पैक डौन्लोड करें</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -10552,7 +10544,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -10560,7 +10552,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">चेतावनियाँ</translation>
+        <translation>चेतावनियाँ</translation>
     </message>
     <message>
         <source>Shader pack updates are unavailable when metadata is disabled!</source>
@@ -10568,7 +10560,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">अपडेट को आज्ञा दें</translation>
+        <translation>अपडेट को आज्ञा दें</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -10578,7 +10570,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; नवीनतम है :)</translation>
+        <translation>&apos;%1&apos; नवीनतम है :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -10590,11 +10582,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">डाटा पैक अपडेट करने वाली सुविधा</translation>
+        <translation>डाटा पैक अपडेट करने वाली सुविधा</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">हटाने की आज्ञा दें</translation>
+        <translation>हटाने की आज्ञा दें</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -10661,7 +10653,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">फ़ोल्डर खोलें</translation>
+        <translation>फ़ोल्डर खोलें</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -10681,7 +10673,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Skin हटाएं</translation>
+        <translation>&amp;Skin हटाएं</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -10745,15 +10737,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Skin हटाएं</translation>
+        <translation>Skin हटाएं</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">वर्तमान skin को हटाने में विफल रहा!</translation>
+        <translation>वर्तमान skin को हटाने में विफल रहा!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">संदर्भ मेनू</translation>
+        <translation>संदर्भ मेनू</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -10903,8 +10895,7 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">पैक मेनिफ़ेस्ट समझ में नहीं आया:
-</translation>
+        <translation>पैक मेनिफ़ेस्ट समझ में नहीं आया:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
@@ -10965,12 +10956,12 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">चयनित संस्करण:</translation>
+        <translation>चयनित संस्करण:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">खोजें और फ़िल्टर करें..।</translation>
+        <translation>खोजें और फ़िल्टर करें..।</translation>
     </message>
     <message>
         <source>Search</source>
@@ -10978,7 +10969,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source> by </source>
@@ -10997,11 +10988,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">आखरी बार बदला गया</translation>
+        <translation>आखरी बार बदला गया</translation>
     </message>
     <message>
         <source>Size</source>
@@ -11056,7 +11047,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">पैक डौन्लोड करें</translation>
+        <translation>पैक डौन्लोड करें</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -11076,7 +11067,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Download stopped by user.</source>
@@ -11084,7 +11075,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">चेतावनियाँ</translation>
+        <translation>चेतावनियाँ</translation>
     </message>
     <message>
         <source>Texture pack updates are unavailable when metadata is disabled!</source>
@@ -11092,7 +11083,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">अपडेट को आज्ञा दें</translation>
+        <translation>अपडेट को आज्ञा दें</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -11102,7 +11093,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; नवीनतम है :)</translation>
+        <translation>&apos;%1&apos; नवीनतम है :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -11114,11 +11105,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">डाटा पैक अपडेट करने वाली सुविधा</translation>
+        <translation>डाटा पैक अपडेट करने वाली सुविधा</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">हटाने की आज्ञा दें</translation>
+        <translation>हटाने की आज्ञा दें</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -11141,7 +11132,7 @@ Are you sure?</source>
     <name>ThemeWizardPage</name>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">देख रेक</translation>
+        <translation>देख रेक</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -11266,7 +11257,7 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">कार्य</translation>
+        <translation>कार्य</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -11318,7 +11309,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">खोजें</translation>
+        <translation>खोजें</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -11422,7 +11413,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">संदर्भ मेनू</translation>
+        <translation>संदर्भ मेनू</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -11442,11 +11433,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">हटाने की आज्ञा दें</translation>
+        <translation>हटाने की आज्ञा दें</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -11522,7 +11513,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">स्थापित करें</translation>
+        <translation>स्थापित करें</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -11560,7 +11551,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">प्रकार</translation>
+        <translation>प्रकार</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -11626,7 +11617,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Recommended</source>
-        <translation type="unfinished">अनुशंसित</translation>
+        <translation>अनुशंसित</translation>
     </message>
     <message>
         <source>Latest</source>
@@ -11653,18 +11644,18 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;ताज़ा करें</translation>
+        <translation>&amp;ताज़ा करें</translation>
     </message>
 </context>
 <context>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">खोजें</translation>
+        <translation>खोजें</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">त्रुटि</translation>
+        <translation>त्रुटि</translation>
     </message>
     <message>
         <source>List update failed:
@@ -11705,7 +11696,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">नाम</translation>
+        <translation>नाम</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -11750,7 +11741,7 @@ Canonical Path: %1</source>
     <name>WorldListPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">कार्य</translation>
+        <translation>कार्य</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11766,7 +11757,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">कॉपी करें</translation>
+        <translation>कॉपी करें</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11778,7 +11769,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">रिफ़्रेश</translation>
+        <translation>रिफ़्रेश</translation>
     </message>
     <message>
         <source>View Folder</source>
@@ -11814,7 +11805,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">संदर्भ मेनू</translation>
+        <translation>संदर्भ मेनू</translation>
     </message>
     <message>
         <source>Select a Minecraft world zip</source>
@@ -12018,7 +12009,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">उपयोगकर्ता नाम</translation>
+        <translation>उपयोगकर्ता नाम</translation>
     </message>
     <message>
         <source>Password</source>

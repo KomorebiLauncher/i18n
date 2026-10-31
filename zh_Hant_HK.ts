@@ -840,11 +840,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">安裝</translation>
+        <translation>安裝</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -1726,7 +1726,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">版本</translation>
+        <translation>版本</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2398,15 +2398,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">新增</translation>
+        <translation>新增</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">刪除</translation>
+        <translation>刪除</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名稱</translation>
+        <translation>名稱</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3059,7 +3059,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">自訂</translation>
+        <translation>自訂</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3393,11 +3393,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">略過</translation>
+        <translation>略過</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">發生錯誤！</translation>
+        <translation>發生錯誤！</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -4356,11 +4356,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">新增</translation>
+        <translation>新增</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -4810,7 +4810,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -5865,7 +5865,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">更新失敗</translation>
+        <translation>更新失敗</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -5881,7 +5881,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">確認強制更新</translation>
+        <translation>確認強制更新</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -6355,7 +6355,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">删除</translation>
+        <translation>删除</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -6363,7 +6363,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">新增</translation>
+        <translation>新增</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -7148,7 +7148,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
@@ -7532,11 +7532,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">安裝</translation>
+        <translation>安裝</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
 </context>
 <context>
@@ -7686,7 +7686,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">無法顯示此日誌，因為日誌長度超過了%1行。</translation>
+        <translation>無法顯示此日誌，因為日誌長度超過了%1行。</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -8294,7 +8294,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">強制結束</translation>
+        <translation>強制結束</translation>
     </message>
 </context>
 <context>
@@ -8804,7 +8804,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">未知</translation>
+        <translation>未知</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -9090,7 +9090,7 @@ Error message: %3</source>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">模組</translation>
+        <translation>模組</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -9103,12 +9103,12 @@ Error message: %3</source>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">資源</translation>
+        <translation>資源</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">光影包</translation>
+        <translation>光影包</translation>
     </message>
     <message>
         <source>texture packs</source>
@@ -9213,7 +9213,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">模組</translation>
+        <translation>模組</translation>
     </message>
     <message>
         <source>resource packs</source>
@@ -9225,7 +9225,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">光影包</translation>
+        <translation>光影包</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -9432,7 +9432,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">版本</translation>
+        <translation>版本</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9502,7 +9502,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">圖示</translation>
+        <translation>圖示</translation>
     </message>
 </context>
 <context>
@@ -9521,7 +9521,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">版本</translation>
+        <translation>版本</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10055,7 +10055,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">版本</translation>
+        <translation>版本</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -10063,7 +10063,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">離線</translation>
+        <translation>離線</translation>
     </message>
     <message>
         <source>Online</source>
@@ -11178,7 +11178,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">安裝</translation>
+        <translation>安裝</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -11454,7 +11454,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">外部工具</translation>
+        <translation>外部工具</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -11677,7 +11677,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">角色名稱</translation>
+        <translation>角色名稱</translation>
     </message>
     <message>
         <source>Password</source>
@@ -11689,7 +11689,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">取消</translation>
+        <translation>取消</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

@@ -1220,7 +1220,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -1917,7 +1917,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioun</translation>
+        <translation>Versioun</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2554,7 +2554,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontext Menü</translation>
+        <translation>Kontext Menü</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -2613,7 +2613,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Sichen</translation>
+        <translation>Sichen</translation>
     </message>
     <message>
         <source>Used to edit component JSON files.</source>
@@ -2637,7 +2637,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2839,8 +2839,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Konnt de Pak Manifest net verstoen:
-</translation>
+        <translation>Konnt de Pak Manifest net verstoen:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -2864,11 +2863,11 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Mods eroflueden...</translation>
+        <translation>Mods eroflueden...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod Download</translation>
+        <translation>Mod Download</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -2891,7 +2890,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sortéiren no der Spill Versioun</translation>
+        <translation>Sortéiren no der Spill Versioun</translation>
     </message>
 </context>
 <context>
@@ -2906,7 +2905,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Sichen an Filtréiren ...</translation>
+        <translation>Sichen an Filtréiren ...</translation>
     </message>
     <message>
         <source>Select FTBApp instances directory</source>
@@ -2984,8 +2983,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Konnt de Pak Manifest net verstoen:
-</translation>
+        <translation>Konnt de Pak Manifest net verstoen:</translation>
     </message>
     <message>
         <source> (version %1)</source>
@@ -3013,15 +3011,15 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Konnt de lokale Metadatenindex fir %1 net kréien</translation>
+        <translation>Konnt de lokale Metadatenindex fir %1 net kréien</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Et huet net geklappt, eng Versioun vum %1-Lader ze fannen</translation>
+        <translation>Et huet net geklappt, eng Versioun vum %1-Lader ze fannen</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Keng Lader-Versioun fir de Modpack definéiert!</translation>
+        <translation>Keng Lader-Versioun fir de Modpack definéiert!</translation>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
@@ -3034,7 +3032,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Den spezifizéierten iwwerschreiwungs Dossier (%1) fehlt. Vläit war d&apos; Modpack dchon eng Keier virdrun gestart gin?</translation>
+        <translation>Den spezifizéierten iwwerschreiwungs Dossier (%1) fehlt. Vläit war d&apos; Modpack dchon eng Keier virdrun gestart gin?</translation>
     </message>
     <message>
         <source>Unknown mod loader in manifest: %1</source>
@@ -3100,7 +3098,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Mods eroflueden...</translation>
+        <translation>Mods eroflueden...</translation>
     </message>
 </context>
 <context>
@@ -3173,7 +3171,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     <name>FlamePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Äusgewielten Versioun:</translation>
+        <translation>Äusgewielten Versioun:</translation>
     </message>
     <message>
         <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
@@ -3187,7 +3185,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Sichen an Filtréiren ...</translation>
+        <translation>Sichen an Filtréiren ...</translation>
     </message>
     <message>
         <source>Sort by Featured</source>
@@ -3197,7 +3195,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Sortéiren no der Popularitéit</translation>
+        <translation>Sortéiren no der Popularitéit</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -3225,7 +3223,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source> by </source>
@@ -3253,7 +3251,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     <message>
         <source>Failed to create folder for Minecraft binaries.</source>
         <oldsource>Failed to create folder for minecraft binaries.</oldsource>
-        <translation type="unfinished">Konnt den Dossier fir d Minecraft Binären net kreéieren.</translation>
+        <translation>Konnt den Dossier fir d Minecraft Binären net kreéieren.</translation>
     </message>
 </context>
 <context>
@@ -3261,17 +3259,17 @@ W. e. g nach eng kéier Probeieren.</translation>
     <message>
         <source>Sort by Plays</source>
         <oldsource>Sort by plays</oldsource>
-        <translation type="unfinished">Sorteieren no der Startheefegkeet</translation>
+        <translation>Sorteieren no der Startheefegkeet</translation>
     </message>
     <message>
         <source>Sort by Installs</source>
         <oldsource>Sort by installs</oldsource>
-        <translation type="unfinished">Sorteiren no den Installatiounen</translation>
+        <translation>Sorteiren no den Installatiounen</translation>
     </message>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sorteiren no dem Numm</translation>
+        <translation>Sorteiren no dem Numm</translation>
     </message>
 </context>
 <context>
@@ -3283,7 +3281,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Sichen an Filtréiren ...</translation>
+        <translation>Sichen an Filtréiren ...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3456,7 +3454,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -3507,11 +3505,11 @@ W. e. g nach eng kéier Probeieren.</translation>
     <message>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importéieren vun enger Zip</translation>
+        <translation>Importéieren vun enger Zip</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -3563,7 +3561,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -3610,7 +3608,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3859,7 +3857,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -3913,7 +3911,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zoumaachen</translation>
+        <translation>Zoumaachen</translation>
     </message>
     <message>
         <source>Kill</source>
@@ -3936,7 +3934,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiler ofgebrach</translation>
+        <translation>Profiler ofgebrach</translation>
     </message>
 </context>
 <context>
@@ -3947,7 +3945,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Profiler ofgebrach</translation>
+        <translation>Profiler ofgebrach</translation>
     </message>
 </context>
 <context>
@@ -4009,7 +4007,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
 </context>
 <context>
@@ -4101,7 +4099,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ewechhuelen</translation>
+        <translation>Ewechhuelen</translation>
     </message>
     <message>
         <source>Refresh</source>
@@ -4158,7 +4156,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Déi maximal Unzuel u Späicher déi Minecraft benotzen dearf.</translation>
+        <translation>Déi maximal Unzuel u Späicher déi Minecraft benotzen dearf.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
@@ -4250,7 +4248,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Späicher</translation>
+        <translation>Späicher</translation>
     </message>
     <message>
         <source>Memory suggestion</source>
@@ -4286,7 +4284,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">De Betrag u Späicher mat deem Minecraft gestart gëtt.</translation>
+        <translation>De Betrag u Späicher mat deem Minecraft gestart gëtt.</translation>
     </message>
     <message>
         <source>&amp;PermGen Size:</source>
@@ -4314,7 +4312,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">De Betrag vun Späicher den verfügbar ass fir gelueden Java Klassen ze späicheren.</translation>
+        <translation>De Betrag vun Späicher den verfügbar ass fir gelueden Java Klassen ze späicheren.</translation>
     </message>
     <message>
         <source>Browse</source>
@@ -4425,27 +4423,27 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">Déi maximal Unzuel u Späicher déi Minecraft benotzen dearf.</translation>
+        <translation>Déi maximal Unzuel u Späicher déi Minecraft benotzen dearf.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Minimum Späicher Bewëllegung:</translation>
+        <translation>Minimum Späicher Bewëllegung:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Maximum Späicher Bewëllegung:</translation>
+        <translation>Maximum Späicher Bewëllegung:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">De Betrag u Späicher mat deem Minecraft gestart gëtt.</translation>
+        <translation>De Betrag u Späicher mat deem Minecraft gestart gëtt.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">De Betrag vun Späicher den verfügbar ass fir gelueden Java Klassen ze späicheren.</translation>
+        <translation>De Betrag vun Späicher den verfügbar ass fir gelueden Java Klassen ze späicheren.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Sichen</translation>
+        <translation>Sichen</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
@@ -4648,7 +4646,7 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
@@ -4799,7 +4797,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Sichen</translation>
+        <translation>Sichen</translation>
     </message>
     <message>
         <source>Instance Sorting</source>
@@ -4863,7 +4861,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ewechhuelen</translation>
+        <translation>Ewechhuelen</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -5105,7 +5103,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>The wrapper command &quot;%1&quot; couldn&apos;t be found.</source>
-        <translation type="unfinished">De Wrapper Kommando &quot;%1&quot; konnt net fonnt ginn.</translation>
+        <translation>De Wrapper Kommando &quot;%1&quot; konnt net fonnt ginn.</translation>
     </message>
     <message>
         <source>Could not launch Minecraft: %1</source>
@@ -5127,7 +5125,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Iwwerpréiwen vun den FML Bibliothéiken...</translation>
+        <translation>Iwwerpréiwen vun den FML Bibliothéiken...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
@@ -5135,15 +5133,15 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Kopéieren vun den FML Bibliothéiken an d&apos;Instanz...</translation>
+        <translation>Kopéieren vun den FML Bibliothéiken an d&apos;Instanz...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">Konnt keng FML Bibliothèiken Dossieren an der Instanz kréieren.</translation>
+        <translation>Konnt keng FML Bibliothèiken Dossieren an der Instanz kréieren.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">Konnt net Forge/FML Bibliothèiken kopéieren: %1.</translation>
+        <translation>Konnt net Forge/FML Bibliothèiken kopéieren: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -5151,11 +5149,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">Konnt folgend Dateien net eroflueden:
-%1
-
-Grond:%2
-W. e. g nach eng kéier Probeieren.</translation>
+        <translation>Konnt folgend Dateien net eroflueden:</translation>
     </message>
 </context>
 <context>
@@ -5163,12 +5157,12 @@ W. e. g nach eng kéier Probeieren.</translation>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Sortéiren nom Numm</translation>
+        <translation>Sortéiren nom Numm</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Sortéiren no der Spill Versioun</translation>
+        <translation>Sortéiren no der Spill Versioun</translation>
     </message>
 </context>
 <context>
@@ -5213,7 +5207,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installatioun vum Modpacket</translation>
+        <translation>Installatioun vum Modpacket</translation>
     </message>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
@@ -5229,7 +5223,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Sichen an Filtréiren ...</translation>
+        <translation>Sichen an Filtréiren ...</translation>
     </message>
     <message>
         <source>Public</source>
@@ -5253,7 +5247,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Äusgewielten Versioun:</translation>
+        <translation>Äusgewielten Versioun:</translation>
     </message>
     <message>
         <source>FTB Legacy</source>
@@ -5261,7 +5255,7 @@ W. e. g nach eng kéier Probeieren.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>FTB private packs</source>
@@ -5997,7 +5991,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Accounts</translation>
+        <translation>Accounts</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
@@ -6110,7 +6104,7 @@ URL:
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Modpack eroflueden</translation>
+        <translation>Modpack eroflueden</translation>
     </message>
     <message>
         <source>No instance!</source>
@@ -6248,7 +6242,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Open %1 Discord guild.</source>
@@ -6303,7 +6297,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -6385,7 +6379,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -6658,7 +6652,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Sichen</translation>
+        <translation>Sichen</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -6794,7 +6788,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Benotzerdefinéiert Commanden</translation>
+        <translation>Benotzerdefinéiert Commanden</translation>
     </message>
     <message>
         <source>Environment Variables</source>
@@ -6841,7 +6835,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ewechhuelen</translation>
+        <translation>Ewechhuelen</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -7046,11 +7040,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioun</translation>
+        <translation>Versioun</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -7259,7 +7253,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -7420,7 +7414,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -7510,7 +7504,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Mods eroflueden...</translation>
+        <translation>Mods eroflueden...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -7585,11 +7579,11 @@ Please update %1!</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Sichen an Filtréiren ...</translation>
+        <translation>Sichen an Filtréiren ...</translation>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Äusgewielten Versioun:</translation>
+        <translation>Äusgewielten Versioun:</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -7611,7 +7605,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source> by </source>
@@ -7743,7 +7737,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -7774,7 +7768,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>uid</source>
@@ -7786,7 +7780,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -7801,19 +7795,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>&amp;Group:</source>
-        <translation type="unfinished">&amp;Grupp:</translation>
+        <translation>&amp;Grupp:</translation>
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Numm:</translation>
+        <translation>&amp;Numm:</translation>
     </message>
     <message>
         <source>No group</source>
-        <translation type="unfinished">Keng Grupp</translation>
+        <translation>Keng Grupp</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -7852,7 +7846,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Zoumaachen</translation>
+        <translation>Zoumaachen</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -8110,7 +8104,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -8185,7 +8179,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Unable to open %1 for reading: %2</source>
@@ -8258,80 +8252,79 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Konnt de Pak Manifest net verstoen:
-</translation>
+        <translation>Konnt de Pak Manifest net verstoen:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Installatiounsmodus net ennerstetzt</translation>
+        <translation>Installatiounsmodus net ennerstetzt</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">Ofruffen vun de lokale Metadatenindex fir &apos;%1&apos; v%2 fehlgeschloen</translation>
+        <translation>Ofruffen vun de lokale Metadatenindex fir &apos;%1&apos; v%2 fehlgeschloen</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Läscht bestehend Dateien...</translation>
+        <translation>Läscht bestehend Dateien...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Onbekannten Modtyp: %1</translation>
+        <translation>Onbekannten Modtyp: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">Konnt de lokale Metadatenindex fir %1 net kréien</translation>
+        <translation>Konnt de lokale Metadatenindex fir %1 net kréien</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">Et huet net geklappt, eng Versioun vum %1-Lader ze fannen</translation>
+        <translation>Et huet net geklappt, eng Versioun vum %1-Lader ze fannen</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Keng Lader-Versioun fir de Modpack definéiert!</translation>
+        <translation>Keng Lader-Versioun fir de Modpack definéiert!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Onbekannten oder net ënnerstëtzten Download-Typ: %1</translation>
+        <translation>Onbekannten oder net ënnerstëtzten Download-Typ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Lueden Konfiguratiounen erof...</translation>
+        <translation>Lueden Konfiguratiounen erof...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Configuration eroflueden</translation>
+        <translation>Configuration eroflueden</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Konfiguratiounen Extraihéieren...</translation>
+        <translation>Konfiguratiounen Extraihéieren...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Optional Mods auswielen...</translation>
+        <translation>Optional Mods auswielen...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Mods eroflueden...</translation>
+        <translation>Mods eroflueden...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod Download</translation>
+        <translation>Mod Download</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Konnt d&apos; Mods net extrahéieren...</translation>
+        <translation>Konnt d&apos; Mods net extrahéieren...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Extrait Mods...</translation>
+        <translation>Extrait Mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Installatioun vum Modpacket</translation>
+        <translation>Installatioun vum Modpacket</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Onbekannten Lueder Typ: </translation>
+        <translation>Onbekannten Lueder Typ:</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
@@ -8370,11 +8363,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioun</translation>
+        <translation>Versioun</translation>
     </message>
 </context>
 <context>
@@ -8777,7 +8770,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -8798,7 +8791,7 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -9297,7 +9290,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Sortéiren no der Popularitéit</translation>
+        <translation>Sortéiren no der Popularitéit</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -9321,7 +9314,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Sortéiren no der Spill Versioun</translation>
+        <translation>Sortéiren no der Spill Versioun</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -9718,7 +9711,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -9765,7 +9758,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -9920,7 +9913,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -9928,7 +9921,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioun</translation>
+        <translation>Versioun</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10009,7 +10002,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioun</translation>
+        <translation>Versioun</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10058,7 +10051,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -10093,7 +10086,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -10147,7 +10140,7 @@ Are you sure?</source>
     <name>ResourcePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Äusgewielten Versioun:</translation>
+        <translation>Äusgewielten Versioun:</translation>
     </message>
     <message>
         <source>Filter options</source>
@@ -10186,7 +10179,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -10291,7 +10284,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -10375,7 +10368,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontext Menü</translation>
+        <translation>Kontext Menü</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to %2.
@@ -10438,14 +10431,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioun</translation>
+        <translation>Versioun</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -10468,7 +10461,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioun</translation>
+        <translation>Versioun</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -10486,7 +10479,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
 </context>
 <context>
@@ -10507,7 +10500,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>Address</source>
@@ -10519,7 +10512,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioun</translation>
+        <translation>Versioun</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -10534,7 +10527,7 @@ Currently installed version: %1</source>
     <name>ServersPage</name>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>Address</source>
@@ -10566,7 +10559,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ewechhuelen</translation>
+        <translation>Ewechhuelen</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -10590,7 +10583,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontext Menü</translation>
+        <translation>Kontext Menü</translation>
     </message>
     <message>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
@@ -10664,7 +10657,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -10769,7 +10762,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Dossier opmachen</translation>
+        <translation>Dossier opmachen</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -10789,7 +10782,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Skin läschen</translation>
+        <translation>&amp;Skin läschen</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -10817,7 +10810,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -10853,15 +10846,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Skin läschen</translation>
+        <translation>Skin läschen</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">Konnt den aktuellen Skin net läschen!</translation>
+        <translation>Konnt den aktuellen Skin net läschen!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontext Menü</translation>
+        <translation>Kontext Menü</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -10986,7 +10979,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Modpack eroflueden</translation>
+        <translation>Modpack eroflueden</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
@@ -11018,8 +11011,7 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Konnt de Pak Manifest net verstoen:
-</translation>
+        <translation>Konnt de Pak Manifest net verstoen:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
@@ -11080,16 +11072,16 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Äusgewielten Versioun:</translation>
+        <translation>Äusgewielten Versioun:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Sichen an Filtréiren ...</translation>
+        <translation>Sichen an Filtréiren ...</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source> by </source>
@@ -11100,7 +11092,7 @@ inheritsFrom is missing</source>
     <name>TexturePackFolderModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -11179,7 +11171,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -11365,7 +11357,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Ewechhuelen</translation>
+        <translation>Ewechhuelen</translation>
     </message>
     <message>
         <source>Customize</source>
@@ -11517,7 +11509,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontext Menü</translation>
+        <translation>Kontext Menü</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -11537,7 +11529,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -11636,14 +11628,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioun</translation>
+        <translation>Versioun</translation>
     </message>
 </context>
 <context>
     <name>VersionProxyModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versioun</translation>
+        <translation>Versioun</translation>
     </message>
     <message>
         <source>Minecraft</source>
@@ -11732,7 +11724,7 @@ Are you sure?</source>
     <name>VersionSelectDialog</name>
     <message>
         <source>OK</source>
-        <translation type="unfinished">OK</translation>
+        <translation>OK</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11759,7 +11751,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Fehler</translation>
+        <translation>Fehler</translation>
     </message>
     <message>
         <source>List update failed:
@@ -11800,7 +11792,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Numm</translation>
+        <translation>Numm</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -11913,7 +11905,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Kontext Menü</translation>
+        <translation>Kontext Menü</translation>
     </message>
     <message>
         <source>Select a Minecraft world zip</source>
@@ -12121,7 +12113,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Passwuert</translation>
+        <translation>Passwuert</translation>
     </message>
     <message>
         <source>Sign in</source>

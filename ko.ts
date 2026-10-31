@@ -1371,11 +1371,11 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">설치</translation>
+        <translation>설치</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">취소</translation>
+        <translation>취소</translation>
     </message>
 </context>
 <context>
@@ -9873,7 +9873,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">제거</translation>
+        <translation>제거</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -11869,11 +11869,11 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">설치</translation>
+        <translation>설치</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">취소</translation>
+        <translation>취소</translation>
     </message>
 </context>
 <context>
@@ -15126,7 +15126,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">버전</translation>
+        <translation>버전</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -15134,7 +15134,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">오프라인</translation>
+        <translation>오프라인</translation>
     </message>
     <message>
         <source>Online</source>
@@ -16779,7 +16779,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">설치</translation>
+        <translation>설치</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -17582,7 +17582,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">취소</translation>
+        <translation>취소</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

@@ -935,11 +935,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Суулгах</translation>
+        <translation>Суулгах</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
 </context>
 <context>
@@ -1826,7 +1826,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Хувилбар</translation>
+        <translation>Хувилбар</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2234,7 +2234,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Өөрчилсөн</translation>
+        <translation>Өөрчилсөн</translation>
     </message>
     <message>
         <source>Template</source>
@@ -2295,7 +2295,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Export %1</source>
-        <translation type="unfinished">Экспортлох %1</translation>
+        <translation>Экспортлох %1</translation>
     </message>
     <message>
         <source>File</source>
@@ -2506,15 +2506,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Нэмэх</translation>
+        <translation>&amp;Нэмэх</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Устгах</translation>
+        <translation>&amp;Устгах</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Нэр</translation>
+        <translation>Нэр</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2566,7 +2566,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Error while checking JProfiler install:
@@ -2662,11 +2662,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Модуудыг татаж байна...</translation>
+        <translation>Модуудыг татаж байна...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Мод татах</translation>
+        <translation>Мод татах</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -2689,7 +2689,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Тоглоомын хувилбараар эрэмбэлэх</translation>
+        <translation>Тоглоомын хувилбараар эрэмбэлэх</translation>
     </message>
 </context>
 <context>
@@ -2704,7 +2704,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Хайгаад шүүх...</translation>
+        <translation>Хайгаад шүүх...</translation>
     </message>
     <message>
         <source>Select FTBApp instances directory</source>
@@ -2892,7 +2892,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Модуудыг татаж байна...</translation>
+        <translation>Модуудыг татаж байна...</translation>
     </message>
 </context>
 <context>
@@ -2911,7 +2911,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>CurseForge pack</source>
-        <translation type="unfinished">CurseForge багц</translation>
+        <translation>CurseForge багц</translation>
     </message>
 </context>
 <context>
@@ -2949,7 +2949,7 @@ Are you sure you want to do this?</source>
     <name>FlamePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Сонгогдсон хувилбар:</translation>
+        <translation>Сонгогдсон хувилбар:</translation>
     </message>
     <message>
         <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
@@ -2963,7 +2963,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Хайгаад шүүх...</translation>
+        <translation>Хайгаад шүүх...</translation>
     </message>
     <message>
         <source>Sort by Featured</source>
@@ -3001,7 +3001,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source> by </source>
@@ -3044,18 +3044,18 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Нэрээр эрэмбэлэх</translation>
+        <translation>Нэрээр эрэмбэлэх</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Сонгогдсон хувилбар:</translation>
+        <translation>Сонгогдсон хувилбар:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Хайгаад шүүх...</translation>
+        <translation>Хайгаад шүүх...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3162,7 +3162,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Өөрчилсөн</translation>
+        <translation>Өөрчилсөн</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3174,15 +3174,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Хавтасын онгойлгох</translation>
+        <translation>Хавтасын онгойлгох</translation>
     </message>
     <message>
         <source>Select Icons</source>
@@ -3228,7 +3228,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -3249,7 +3249,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">Modrinth багц</translation>
+        <translation>Modrinth багц</translation>
     </message>
     <message>
         <source>Choose modpack</source>
@@ -3281,11 +3281,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -3321,7 +3321,7 @@ Are you sure you want to do this?</source>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Сэргээх</translation>
+        <translation>&amp;Сэргээх</translation>
     </message>
     <message>
         <source>Ok</source>
@@ -3329,19 +3329,19 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
@@ -3349,11 +3349,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Install Loader</source>
@@ -3386,7 +3386,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">Одоогоор Minecraft %1 хувилбарууд байхгүй байна</translation>
+        <translation>Одоогоор Minecraft %1 хувилбарууд байхгүй байна</translation>
     </message>
 </context>
 <context>
@@ -3492,7 +3492,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Тохиргоо</translation>
+        <translation>Тохиргоо</translation>
     </message>
     <message>
         <source>Select a Java version</source>
@@ -3518,11 +3518,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Алгасах</translation>
+        <translation>Алгасах</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -3552,7 +3552,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Тусламж</translation>
+        <translation>Тусламж</translation>
     </message>
     <message>
         <source>&amp;Launch</source>
@@ -3576,7 +3576,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Хаах</translation>
+        <translation>Хаах</translation>
     </message>
     <message>
         <source>Kill the running instance</source>
@@ -3632,7 +3632,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Сэргээх</translation>
+        <translation>&amp;Сэргээх</translation>
     </message>
     <message>
         <source>Download</source>
@@ -3640,7 +3640,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>Mojang</source>
@@ -3660,7 +3660,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Java-г суулгах</translation>
+        <translation>Java-г суулгах</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
@@ -3668,7 +3668,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -3690,7 +3690,7 @@ What would you like to do with %2?</source>
     <name>Java::ManifestDownloadTask</name>
     <message>
         <source>Downloading Java</source>
-        <translation type="unfinished">Java-г татаж байна</translation>
+        <translation>Java-г татаж байна</translation>
     </message>
 </context>
 <context>
@@ -3738,7 +3738,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Download</source>
-        <translation type="unfinished">Татах</translation>
+        <translation>Татах</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -3746,7 +3746,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Сэргээх</translation>
+        <translation>Сэргээх</translation>
     </message>
     <message>
         <source>No managed Java versions are installed</source>
@@ -4186,7 +4186,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>Auth servers offline</source>
@@ -4248,7 +4248,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -4388,7 +4388,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Folders</source>
-        <translation type="unfinished">Хавтасууд</translation>
+        <translation>Хавтасууд</translation>
     </message>
     <message>
         <source>I&amp;nstances:</source>
@@ -4493,7 +4493,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Устгах</translation>
+        <translation>Устгах</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -4796,7 +4796,7 @@ Please try again.</source>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Тоглоомын хувилбараар эрэмбэлэх</translation>
+        <translation>Тоглоомын хувилбараар эрэмбэлэх</translation>
     </message>
 </context>
 <context>
@@ -4841,7 +4841,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Модын багцыг суулгаж байна</translation>
+        <translation>Модын багцыг суулгаж байна</translation>
     </message>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
@@ -4857,7 +4857,7 @@ Please try again.</source>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Хайгаад шүүх...</translation>
+        <translation>Хайгаад шүүх...</translation>
     </message>
     <message>
         <source>Public</source>
@@ -4881,11 +4881,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Сонгогдсон хувилбар:</translation>
+        <translation>Сонгогдсон хувилбар:</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -5017,7 +5017,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Хайх</translation>
+        <translation>Хайх</translation>
     </message>
     <message>
         <source>Find</source>
@@ -5158,11 +5158,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Түр хүлээнэ үү...</translation>
+        <translation>Түр хүлээнэ үү...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Статус</translation>
+        <translation>Статус</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -5190,7 +5190,7 @@ Reason:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -5296,7 +5296,7 @@ Reason:
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Тусламж</translation>
+        <translation>Тусламж</translation>
     </message>
     <message>
         <source>Get help with %1 or Minecraft.</source>
@@ -5588,7 +5588,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Бүртгэлүүд</translation>
+        <translation>Бүртгэлүүд</translation>
     </message>
     <message>
         <source>&amp;Undo Last Instance Deletion</source>
@@ -5675,11 +5675,11 @@ Reason:
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Анхааруулгууд</translation>
+        <translation>Анхааруулгууд</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -5721,7 +5721,7 @@ URL:
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Модпак татах</translation>
+        <translation>Модпак татах</translation>
     </message>
     <message>
         <source>No instance!</source>
@@ -5934,11 +5934,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Анхааруулгууд</translation>
+        <translation>Анхааруулгууд</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -5986,7 +5986,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Шинэчилэхэд алдаа гарав</translation>
+        <translation>Шинэчилэхэд алдаа гарав</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -6002,7 +6002,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Шинэлэлт баталгаажуулах</translation>
+        <translation>Шинэлэлт баталгаажуулах</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -6336,19 +6336,19 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -6491,7 +6491,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Устгах</translation>
+        <translation>Устгах</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -6522,19 +6522,19 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>Show More</source>
@@ -6542,7 +6542,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -6678,14 +6678,14 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Бүх хувилбарууд</translation>
+        <translation>Бүх хувилбарууд</translation>
     </message>
 </context>
 <context>
     <name>ModFolderModel</name>
     <message>
         <source>File</source>
-        <translation type="unfinished">Файл</translation>
+        <translation>Файл</translation>
     </message>
     <message>
         <source>
@@ -6701,7 +6701,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Хувилбар</translation>
+        <translation>Хувилбар</translation>
     </message>
     <message>
         <source>Provider</source>
@@ -6717,7 +6717,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Сүүлд өөрчлөгдсөн</translation>
+        <translation>Сүүлд өөрчлөгдсөн</translation>
     </message>
     <message>
         <source>Size</source>
@@ -6910,7 +6910,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6918,7 +6918,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Анхааруулгууд</translation>
+        <translation>Анхааруулгууд</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -6930,7 +6930,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Шинэлэлт баталгаажуулах</translation>
+        <translation>Шинэлэлт баталгаажуулах</translation>
     </message>
     <message>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
@@ -6947,7 +6947,7 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Шинэлэлт шалгагч</translation>
+        <translation>Шинэлэлт шалгагч</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -7052,7 +7052,7 @@ Are you sure you want to do this?</source>
     <name>Modrinth::ModpackListModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load modpacks.</source>
@@ -7077,7 +7077,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Суулгасангүй</translation>
+        <translation>Суулгасангүй</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -7138,7 +7138,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Модуудыг татаж байна...</translation>
+        <translation>Модуудыг татаж байна...</translation>
     </message>
     <message>
         <source>Download URL for %1 is not a correctly formatted URL</source>
@@ -7174,7 +7174,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Modrinth багц</translation>
+        <translation>Modrinth багц</translation>
     </message>
 </context>
 <context>
@@ -7213,7 +7213,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">Нийт таталттайгаар эрэмбэлэх</translation>
+        <translation>Нийт таталттайгаар эрэмбэлэх</translation>
     </message>
     <message>
         <source>Sort by Follows</source>
@@ -7222,11 +7222,11 @@ Please update %1!</source>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">Сүүлд шинэчлэгдсэнээр эрэмбэлэх</translation>
+        <translation>Сүүлд шинэчлэгдсэнээр эрэмбэлэх</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source> by </source>
@@ -7267,15 +7267,15 @@ Please update %1!</source>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Шүүлтийн тохиргоо</translation>
+        <translation>Шүүлтийн тохиргоо</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Хайгаад шүүх...</translation>
+        <translation>Хайгаад шүүх...</translation>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Сонгогдсон хувилбар:</translation>
+        <translation>Сонгогдсон хувилбар:</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -7366,11 +7366,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -7409,11 +7409,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -7436,19 +7436,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>No group</source>
-        <translation type="unfinished">Группгүй</translation>
+        <translation>Группгүй</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Тусламж</translation>
+        <translation>Тусламж</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -7479,7 +7479,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Хаах</translation>
+        <translation>Хаах</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -7703,11 +7703,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Суулгах</translation>
+        <translation>Суулгах</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
 </context>
 <context>
@@ -7730,11 +7730,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -7785,7 +7785,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>&amp;Copy</source>
-        <translation type="unfinished">&amp;Хуулах</translation>
+        <translation>&amp;Хуулах</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
@@ -7805,11 +7805,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Хайх</translation>
+        <translation>Хайх</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Unable to open %1 for reading: %2</source>
@@ -7845,7 +7845,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Устгах</translation>
+        <translation>Устгах</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -7889,43 +7889,43 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Мэдэхгүй татах горим</translation>
+        <translation>Мэдэхгүй татах горим</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Байгаа файлуудыг устгаж байна…</translation>
+        <translation>Байгаа файлуудыг устгаж байна…</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Тохиргоонуудыг татаж байна…</translation>
+        <translation>Тохиргоонуудыг татаж байна…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Тохиргоонуудыг татах</translation>
+        <translation>Тохиргоонуудыг татах</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Тохиргоонуудыг задлаж байна...</translation>
+        <translation>Тохиргоонуудыг задлаж байна...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Сонголттой модуудыг сонгож байна...</translation>
+        <translation>Сонголттой модуудыг сонгож байна...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">Модуудыг татаж байна...</translation>
+        <translation>Модуудыг татаж байна...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Мод татах</translation>
+        <translation>Мод татах</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Модуудыг задлаж байна...</translation>
+        <translation>Модуудыг задлаж байна...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Модын багцыг суулгаж байна</translation>
+        <translation>Модын багцыг суулгаж байна</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -8005,7 +8005,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Хувилбар</translation>
+        <translation>Хувилбар</translation>
     </message>
 </context>
 <context>
@@ -8020,7 +8020,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Тусламж</translation>
+        <translation>Тусламж</translation>
     </message>
     <message>
         <source>Close</source>
@@ -8404,11 +8404,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -8425,11 +8425,11 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -8465,7 +8465,7 @@ HTTP Status: %2</source>
     <name>ProgressDialog</name>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Түр хүлээнэ үү...</translation>
+        <translation>Түр хүлээнэ үү...</translation>
     </message>
     <message>
         <source>Global Task Status...</source>
@@ -8477,11 +8477,11 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Алгасах</translation>
+        <translation>Алгасах</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
 </context>
 <context>
@@ -8499,7 +8499,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Төрөл</translation>
+        <translation>Төрөл</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -8789,7 +8789,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>ms</source>
@@ -8924,15 +8924,15 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Featured</source>
-        <translation type="unfinished">Онцлохоор эрэмбэлэх</translation>
+        <translation>Онцлохоор эрэмбэлэх</translation>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Алдартайгаар эрэмбэлэх</translation>
+        <translation>Алдартайгаар эрэмбэлэх</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Сүүлд шинэчлэгдсэнээр эрэмбэлэх</translation>
+        <translation>Сүүлд шинэчлэгдсэнээр эрэмбэлэх</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -8940,7 +8940,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Author</source>
-        <translation type="unfinished">Бүтээгчээр эрэмбэлэх</translation>
+        <translation>Бүтээгчээр эрэмбэлэх</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
@@ -8952,7 +8952,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Тоглоомын хувилбараар эрэмбэлэх</translation>
+        <translation>Тоглоомын хувилбараар эрэмбэлэх</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -9022,7 +9022,7 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Офлайн</translation>
+        <translation>Офлайн</translation>
     </message>
     <message>
         <source>Ready</source>
@@ -9261,7 +9261,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Танигдахгүй</translation>
+        <translation>Танигдахгүй</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -9349,11 +9349,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Анхааруулгууд</translation>
+        <translation>Анхааруулгууд</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -9400,7 +9400,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -9517,7 +9517,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -9546,9 +9546,7 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Анхааруулга: Энэ нөөцийг бусад газраас бэлгэдлийн холбоосоор үүсгэсэн байна. Үүнийг засварлах нь эх файлыг мөн өөрчлөх болно.
-Үндсэн зам: %1</translation>
+        <translation>Анхааруулга: Энэ нөөцийг бусад газраас бэлгэдлийн холбоосоор үүсгэсэн байна. Үүнийг засварлах нь эх файлыг мөн өөрчлөх болно.</translation>
     </message>
     <message>
         <source>
@@ -9565,11 +9563,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Сүүлд өөрчлөгдсөн</translation>
+        <translation>Сүүлд өөрчлөгдсөн</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Хувилбар</translation>
+        <translation>Хувилбар</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9639,7 +9637,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Зураг</translation>
+        <translation>Зураг</translation>
     </message>
 </context>
 <context>
@@ -9654,11 +9652,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Сүүлд өөрчлөгдсөн</translation>
+        <translation>Сүүлд өөрчлөгдсөн</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Хувилбар</translation>
+        <translation>Хувилбар</translation>
     </message>
     <message>
         <source>Size</source>
@@ -9719,7 +9717,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Багцын формат</translation>
+        <translation>Багцын формат</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -9738,7 +9736,7 @@ Canonical Path: %1</source>
     <name>ResourcePackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Таталтын багцууд</translation>
+        <translation>Таталтын багцууд</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -9754,7 +9752,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -9762,7 +9760,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Анхааруулгууд</translation>
+        <translation>Анхааруулгууд</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -9774,7 +9772,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Шинэлэлт баталгаажуулах</translation>
+        <translation>Шинэлэлт баталгаажуулах</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -9796,7 +9794,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Шинэлэлт шалгагч</translation>
+        <translation>Шинэлэлт шалгагч</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -9816,11 +9814,11 @@ Are you sure?</source>
     <name>ResourcePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Сонгогдсон хувилбар:</translation>
+        <translation>Сонгогдсон хувилбар:</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Шүүлтийн тохиргоо</translation>
+        <translation>Шүүлтийн тохиргоо</translation>
     </message>
 </context>
 <context>
@@ -9855,11 +9853,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Анхааруулгууд</translation>
+        <translation>Анхааруулгууд</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -9900,7 +9898,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">Суулгасангүй</translation>
+        <translation>Суулгасангүй</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -9960,11 +9958,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -10016,11 +10014,11 @@ Are you sure?</source>
     <name>ScreenshotsPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Үйлдлүүд</translation>
+        <translation>Үйлдлүүд</translation>
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">Байршуулах</translation>
+        <translation>Байршуулах</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -10111,18 +10109,18 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Хувилбар</translation>
+        <translation>Хувилбар</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -10145,7 +10143,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Хувилбар</translation>
+        <translation>Хувилбар</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -10159,11 +10157,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
 </context>
 <context>
@@ -10196,7 +10194,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Хувилбар</translation>
+        <translation>Хувилбар</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -10204,7 +10202,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Офлайн</translation>
+        <translation>Офлайн</translation>
     </message>
 </context>
 <context>
@@ -10235,7 +10233,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Үйлдлүүд</translation>
+        <translation>Үйлдлүүд</translation>
     </message>
     <message>
         <source>Add</source>
@@ -10243,7 +10241,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Устгах</translation>
+        <translation>Устгах</translation>
     </message>
     <message>
         <source>Move Up</source>
@@ -10259,7 +10257,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Сэргээх</translation>
+        <translation>Сэргээх</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -10303,7 +10301,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Сэргээх</translation>
+        <translation>&amp;Сэргээх</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -10325,7 +10323,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Таталтын багцууд</translation>
+        <translation>Таталтын багцууд</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -10341,7 +10339,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -10349,7 +10347,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Анхааруулгууд</translation>
+        <translation>Анхааруулгууд</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10361,7 +10359,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Шинэлэлт баталгаажуулах</translation>
+        <translation>Шинэлэлт баталгаажуулах</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -10383,7 +10381,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Шинэлэлт шалгагч</translation>
+        <translation>Шинэлэлт шалгагч</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -10454,7 +10452,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Хавтасын онгойлгох</translation>
+        <translation>Хавтасын онгойлгох</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -10498,11 +10496,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -10639,7 +10637,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Цуцлагдсан</translation>
+        <translation>Цуцлагдсан</translation>
     </message>
 </context>
 <context>
@@ -10664,11 +10662,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Модпак татах</translation>
+        <translation>Модпак татах</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Модпакийг задлаж байна</translation>
+        <translation>Модпакийг задлаж байна</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -10700,7 +10698,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">Модпакийг задлаж байна</translation>
+        <translation>Модпакийг задлаж байна</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -10757,16 +10755,16 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Сонгогдсон хувилбар:</translation>
+        <translation>Сонгогдсон хувилбар:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Хайгаад шүүх...</translation>
+        <translation>Хайгаад шүүх...</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source> by </source>
@@ -10789,7 +10787,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Сүүлд өөрчлөгдсөн</translation>
+        <translation>Сүүлд өөрчлөгдсөн</translation>
     </message>
     <message>
         <source>Size</source>
@@ -10852,7 +10850,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Таталтын багцууд</translation>
+        <translation>Таталтын багцууд</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -10872,7 +10870,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -10880,7 +10878,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Анхааруулгууд</translation>
+        <translation>Анхааруулгууд</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -10892,7 +10890,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Шинэлэлт баталгаажуулах</translation>
+        <translation>Шинэлэлт баталгаажуулах</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -10914,7 +10912,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Шинэлэлт шалгагч</translation>
+        <translation>Шинэлэлт шалгагч</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -10941,7 +10939,7 @@ Are you sure?</source>
     <name>TranslationsModel</name>
     <message>
         <source>Language</source>
-        <translation type="unfinished">Хэл</translation>
+        <translation>Хэл</translation>
     </message>
     <message>
         <source>Completeness</source>
@@ -11055,11 +11053,11 @@ Please switch to one of the following Java versions for this instance:</source>
     <name>VersionPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Үйлдлүүд</translation>
+        <translation>Үйлдлүүд</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Устгах</translation>
+        <translation>Устгах</translation>
     </message>
     <message>
         <source>Customize</source>
@@ -11103,11 +11101,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Хувилбар өөрчлөх</translation>
+        <translation>Хувилбар өөрчлөх</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Хайх</translation>
+        <translation>Хайх</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -11147,7 +11145,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Install Loader</source>
-        <translation type="unfinished">Ачаалагчийг суулгах</translation>
+        <translation>Ачаалагчийг суулгах</translation>
     </message>
     <message>
         <source>Install a mod loader.</source>
@@ -11231,7 +11229,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -11311,7 +11309,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Суулгах</translation>
+        <translation>Суулгах</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -11330,14 +11328,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Хувилбар</translation>
+        <translation>Хувилбар</translation>
     </message>
 </context>
 <context>
     <name>VersionProxyModel</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Хувилбар</translation>
+        <translation>Хувилбар</translation>
     </message>
     <message>
         <source>Minecraft</source>
@@ -11349,7 +11347,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Төрөл</translation>
+        <translation>Төрөл</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -11430,7 +11428,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">ОК</translation>
+        <translation>ОК</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -11446,18 +11444,18 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Сэргээх</translation>
+        <translation>&amp;Сэргээх</translation>
     </message>
 </context>
 <context>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Хайх</translation>
+        <translation>Хайх</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Алдаа</translation>
+        <translation>Алдаа</translation>
     </message>
     <message>
         <source>List update failed:
@@ -11516,7 +11514,7 @@ Canonical Path: %1</source>
     <message>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished">Мэдээлэл</translation>
+        <translation>Мэдээлэл</translation>
     </message>
     <message>
         <source>The name of the world.</source>
@@ -11543,7 +11541,7 @@ Canonical Path: %1</source>
     <name>WorldListPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">Үйлдлүүд</translation>
+        <translation>Үйлдлүүд</translation>
     </message>
     <message>
         <source>Add</source>
@@ -11559,7 +11557,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Copy</source>
-        <translation type="unfinished">Хуулбар</translation>
+        <translation>Хуулбар</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -11571,7 +11569,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Сэргээх</translation>
+        <translation>Сэргээх</translation>
     </message>
     <message>
         <source>View Folder</source>
@@ -11823,7 +11821,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Цуцлах</translation>
+        <translation>Цуцлах</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

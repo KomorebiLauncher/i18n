@@ -859,7 +859,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <message>
         <source>Getting the asset files from %1...</source>
         <oldsource>Getting the assets files from %1...</oldsource>
-        <translation type="unfinished">சொத்து கோப்புகளை %1 இலிருந்து பெறுதல் ...</translation>
+        <translation>சொத்து கோப்புகளை %1 இலிருந்து பெறுதல் ...</translation>
     </message>
     <message>
         <source>Getting the assets files from Mojang...</source>
@@ -1099,11 +1099,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">நிறுவவும்</translation>
+        <translation>நிறுவவும்</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ரத்துசெய்</translation>
+        <translation>ரத்துசெய்</translation>
     </message>
 </context>
 <context>
@@ -1197,7 +1197,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">உள்ளக கோப்பை ஏற்றுகிறது</translation>
+        <translation>உள்ளக கோப்பை ஏற்றுகிறது</translation>
     </message>
 </context>
 <context>
@@ -1304,7 +1304,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">பயனர்பெயர்</translation>
+        <translation>பயனர்பெயர்</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1316,11 +1316,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ரத்துசெய்</translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">சரி</translation>
+        <translation>சரி</translation>
     </message>
 </context>
 <context>
@@ -2042,7 +2042,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">அளவு</translation>
+        <translation>அளவு</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2054,7 +2054,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">பதிப்பு</translation>
+        <translation>பதிப்பு</translation>
     </message>
     <message>
         <source>Update</source>
@@ -2632,7 +2632,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">தேடல்</translation>
+        <translation>தேடல்</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -2872,15 +2872,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp; சேர்</translation>
+        <translation>&amp; சேர்</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp; அகற்று</translation>
+        <translation>&amp; அகற்று</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">பெயர்</translation>
+        <translation>பெயர்</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3095,8 +3095,7 @@ Please try again.</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:
-</translation>
+        <translation>பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -3112,7 +3111,7 @@ Please try again.</source>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
+        <translation>மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -3120,11 +3119,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">மோட்சைப் பதிவிறக்குகிறது ...</translation>
+        <translation>மோட்சைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">மோட் பதிவிறக்கம்</translation>
+        <translation>மோட் பதிவிறக்கம்</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -3132,11 +3131,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">தடுக்கப்பட்ட மோட்சை நகலெடுக்கிறது ...</translation>
+        <translation>தடுக்கப்பட்ட மோட்சை நகலெடுக்கிறது ...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">தடுக்கப்பட்ட மோட்களை நகலெடுப்பது ( %2 இல் %1 செய்யப்படுகிறது)</translation>
+        <translation>தடுக்கப்பட்ட மோட்களை நகலெடுப்பது ( %2 இல் %1 செய்யப்படுகிறது)</translation>
     </message>
 </context>
 <context>
@@ -3366,11 +3365,11 @@ Please try again.</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">பழைய முரண்பட்ட கோப்புகளை அகற்றுதல் ...</translation>
+        <translation>பழைய முரண்பட்ட கோப்புகளை அகற்றுதல் ...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">பழைய முரண்பட்ட கோப்புகளை அகற்றுவதில் தோல்வி.</translation>
+        <translation>பழைய முரண்பட்ட கோப்புகளை அகற்றுவதில் தோல்வி.</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -3526,18 +3525,18 @@ Please try again.</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">பெயரால் வரிசைப்படுத்துங்கள்</translation>
+        <translation>பெயரால் வரிசைப்படுத்துங்கள்</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">பதிப்பு தேர்ந்தெடுக்கப்பட்டது:</translation>
+        <translation>பதிப்பு தேர்ந்தெடுக்கப்பட்டது:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">தேடல் மற்றும் வடிகட்டி ...</translation>
+        <translation>தேடல் மற்றும் வடிகட்டி ...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3655,7 +3654,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">தனிப்பயன்</translation>
+        <translation>தனிப்பயன்</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3822,7 +3821,7 @@ Please try again.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">சரி</translation>
+        <translation>சரி</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -3989,7 +3988,7 @@ What would you like to do with %2?</source>
     <message>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">பிற பதிவுகள்</translation>
+        <translation>பிற பதிவுகள்</translation>
     </message>
     <message>
         <source>Edit Instance (%1)</source>
@@ -4308,11 +4307,11 @@ Please make sure that the maximum memory value is lower.</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">தவிர்</translation>
+        <translation>தவிர்</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">பிழை</translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -5672,11 +5671,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">கூட்டு</translation>
+        <translation>கூட்டு</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">அகற்று</translation>
+        <translation>அகற்று</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -6067,11 +6066,11 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">எஃப்எம்எல் நூலகங்களை சரிபார்க்கிறது ...</translation>
+        <translation>எஃப்எம்எல் நூலகங்களை சரிபார்க்கிறது ...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">FML நூலகங்களை பதிவிறக்குகிறது ...</translation>
+        <translation>FML நூலகங்களை பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -6079,15 +6078,15 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">எஃப்.எம்.எல் நூலகங்களை உதாரணமாக நகலெடுக்கிறது ...</translation>
+        <translation>எஃப்.எம்.எல் நூலகங்களை உதாரணமாக நகலெடுக்கிறது ...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">நிகழ்வுக்குள் எஃப்எம்எல் நூலக கோப்புறையை உருவாக்குவது தோல்வி.</translation>
+        <translation>நிகழ்வுக்குள் எஃப்எம்எல் நூலக கோப்புறையை உருவாக்குவது தோல்வி.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">ஃபோர்ச்/எஃப்எம்எல் நூலகத்தை நகலெடுப்பதில் தோல்வி: %1.</translation>
+        <translation>ஃபோர்ச்/எஃப்எம்எல் நூலகத்தை நகலெடுப்பதில் தோல்வி: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6095,11 +6094,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">பின்வரும் கோப்புகளைப் பதிவிறக்குவதில் தோல்வி:
- %1
-
- காரணம்:%2
- மீண்டும் முயற்சிக்கவும்.</translation>
+        <translation>பின்வரும் கோப்புகளைப் பதிவிறக்குவதில் தோல்வி:</translation>
     </message>
 </context>
 <context>
@@ -6286,7 +6281,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -6355,7 +6350,7 @@ Reason:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">தேடல்</translation>
+        <translation>தேடல்</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7245,7 +7240,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> மற்றும் அதன் %n பதிவு செய்யப்பட்ட குறுக்குவழி</numerusform>
+            <numerusform>மற்றும் அதன் %n பதிவு செய்யப்பட்ட குறுக்குவழி</numerusform>
             <numerusform> மற்றும் அதன் %n பதிவு செய்யப்பட்ட குறுக்குவழிகள்</numerusform>
         </translation>
     </message>
@@ -7579,7 +7574,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">புதுப்பிப்பை உறுதிப்படுத்தவும்</translation>
+        <translation>புதுப்பிப்பை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -8166,7 +8161,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">வெளியீடு</translation>
+        <translation>வெளியீடு</translation>
     </message>
     <message>
         <source>Any</source>
@@ -8285,7 +8280,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">அகற்று</translation>
+        <translation>அகற்று</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8293,7 +8288,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">கூட்டு</translation>
+        <translation>கூட்டு</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -8617,7 +8612,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Confirm toggle</source>
-        <translation type="unfinished">மாற்றுவதை உறுதிப்படுத்தவும்</translation>
+        <translation>மாற்றுவதை உறுதிப்படுத்தவும்</translation>
     </message>
     <message>
         <source>Toggling these mod(s) will cause changes to other mods.
@@ -9153,11 +9148,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">பழைய முரண்பட்ட கோப்புகளை அகற்றுதல் ...</translation>
+        <translation>பழைய முரண்பட்ட கோப்புகளை அகற்றுதல் ...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">பழைய முரண்பட்ட கோப்புகளை அகற்றுவதில் தோல்வி.</translation>
+        <translation>பழைய முரண்பட்ட கோப்புகளை அகற்றுவதில் தோல்வி.</translation>
     </message>
 </context>
 <context>
@@ -9325,26 +9320,26 @@ Please update %1!</source>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">%1 கோருகிறது</translation>
+        <translation>%1 கோருகிறது</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">தெரியவில்லை</translation>
+        <translation>தெரியவில்லை</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 பி/வி</translation>
+        <translation>0 பி/வி</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -9394,11 +9389,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">முகவரி</translation>
+        <translation>முகவரி</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">பிழை</translation>
+        <translation>பிழை</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -9748,11 +9743,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">நிறுவவும்</translation>
+        <translation>நிறுவவும்</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ரத்துசெய்</translation>
+        <translation>ரத்துசெய்</translation>
     </message>
 </context>
 <context>
@@ -9854,7 +9849,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">தேடல்</translation>
+        <translation>தேடல்</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -9956,7 +9951,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">தெளிவான</translation>
+        <translation>தெளிவான</translation>
     </message>
     <message>
         <source>Other logs</source>
@@ -9968,104 +9963,103 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:
-</translation>
+        <translation>பேக் மேனிஃபெச்டை புரிந்து கொள்ள முடியவில்லை:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">ஆதரிக்கப்படாத நிறுவல் முறை</translation>
+        <translation>ஆதரிக்கப்படாத நிறுவல் முறை</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">&apos;%1&apos; V%2 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
+        <translation>&apos;%1&apos; V%2 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">இருக்கும் கோப்புகளை நீக்குதல் ...</translation>
+        <translation>இருக்கும் கோப்புகளை நீக்குதல் ...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">தெரியாத மோட் வகை: %1</translation>
+        <translation>தெரியாத மோட் வகை: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">%1 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
+        <translation>%1 க்கு உள்ளக மேனிலை தரவு குறியீட்டைப் பெறுவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1 ஏற்றிக்கு பதிப்பைக் கண்டுபிடிக்கத் தவறிவிட்டது</translation>
+        <translation>%1 ஏற்றிக்கு பதிப்பைக் கண்டுபிடிக்கத் தவறிவிட்டது</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!</translation>
+        <translation>மோட்பேக்கிற்கு ஏற்றி பதிப்பு அமைக்கப்படவில்லை!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
+        <translation>அறியப்படாத அல்லது ஆதரிக்கப்படாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">உள்ளமைவுகளைப் பதிவிறக்குகிறது ...</translation>
+        <translation>உள்ளமைவுகளைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">கட்டமைப்பு பதிவிறக்கம்</translation>
+        <translation>கட்டமைப்பு பதிவிறக்கம்</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...</translation>
+        <translation>உள்ளமைவுகளைப் பிரித்தெடுக்கிறது ...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...</translation>
+        <translation>விருப்ப மோட்களைத் தேர்ந்தெடுப்பது ...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">மோட்சைப் பதிவிறக்குகிறது ...</translation>
+        <translation>மோட்சைப் பதிவிறக்குகிறது ...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">மோட் பதிவிறக்கம்</translation>
+        <translation>மோட் பதிவிறக்கம்</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">தெரியாத பதிவிறக்க வகை: %1</translation>
+        <translation>தெரியாத பதிவிறக்க வகை: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">தடுக்கப்பட்ட மோட்ச் காணப்பட்டது</translation>
+        <translation>தடுக்கப்பட்ட மோட்ச் காணப்பட்டது</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
+        <translation>மூன்றாம் தரப்பு லாஞ்சர்களில் பதிவிறக்கம் செய்ய பின்வரும் கோப்புகள் கிடைக்கவில்லை. &lt;br/&gt; நீங்கள் அவற்றை கைமுறையாக பதிவிறக்கம் செய்து அவற்றை உதாரணமாக சேர்க்க வேண்டும்.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%2 இல் %1 முடிந்தது</translation>
+        <translation>%2 இல் %1 முடிந்தது</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...</translation>
+        <translation>மோட்சைப் பிரித்தெடுப்பதில் தோல்வி ...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">மோட்சைப் பிரித்தெடுக்கும் ...</translation>
+        <translation>மோட்சைப் பிரித்தெடுக்கும் ...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">மோட்பேக்கை நிறுவுதல்</translation>
+        <translation>மோட்பேக்கை நிறுவுதல்</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
+        <translation>நூலகங்களின் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">அறியப்படாத ஏற்றி வகை: </translation>
+        <translation>அறியப்படாத ஏற்றி வகை:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">பேக் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
+        <translation>பேக் கூறுகளை உருவாக்குவதில் தோல்வி</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -10715,7 +10709,7 @@ HTTP நிலை: %2</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">கருக்கலைப்பு</translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
 </context>
 <context>
@@ -10746,7 +10740,7 @@ HTTP நிலை: %2</translation>
     <message>
         <source>Use s&amp;ystem settings</source>
         <oldsource>Use S&amp;ystem Settings</oldsource>
-        <translation type="unfinished">S &amp; ystem அமைப்புகளைப் பயன்படுத்தவும்</translation>
+        <translation>S &amp; ystem அமைப்புகளைப் பயன்படுத்தவும்</translation>
     </message>
     <message>
         <source>&amp;None</source>
@@ -11318,7 +11312,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">தெரியவில்லை</translation>
+        <translation>தெரியவில்லை</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -11450,20 +11444,14 @@ New name: %2</source>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>பின்வரும் நிகழ்வு இந்த நிகழ்வில் கோப்புகளைக் குறிப்பிடலாம்: 
-
-%1 
-
-%2 இது மற்ற நிகழ்வுகளை உடைக்கக்கூடும், 
-
-நீங்கள் தொடர விரும்புகிறீர்களா?</numerusform>
-            <numerusform>பின்வரும் நிகழ்வுகள் இந்த நிகழ்வில் கோப்புகளைக் குறிப்பிடலாம்: 
-
-%1 
-
-%2 இது மற்ற நிகழ்வுகளை உடைக்கக்கூடும், 
-
-நீங்கள் தொடர விரும்புகிறீர்களா?</numerusform>
+            <numerusform>பின்வரும் நிகழ்வு இந்த நிகழ்வில் கோப்புகளைக் குறிப்பிடலாம்: </numerusform>
+            <numerusform>%1 </numerusform>
+            <numerusform>%2 இது மற்ற நிகழ்வுகளை உடைக்கக்கூடும், </numerusform>
+            <numerusform>நீங்கள் தொடர விரும்புகிறீர்களா?</numerusform>
+            <numerusform>பின்வரும் நிகழ்வுகள் இந்த நிகழ்வில் கோப்புகளைக் குறிப்பிடலாம்: </numerusform>
+            <numerusform>%1 </numerusform>
+            <numerusform>%2 இது மற்ற நிகழ்வுகளை உடைக்கக்கூடும், </numerusform>
+            <numerusform>நீங்கள் தொடர விரும்புகிறீர்களா?</numerusform>
         </translation>
     </message>
     <message>
@@ -11595,7 +11583,7 @@ Error message: %3</source>
     <message>
         <source>Data Packs</source>
         <oldsource>Data packs</oldsource>
-        <translation type="unfinished">தரவுப் பொதிகள்</translation>
+        <translation>தரவுப் பொதிகள்</translation>
     </message>
     <message>
         <source> for %1</source>
@@ -11603,7 +11591,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>%1 Developers</source>
-        <translation type="unfinished">%1 உருவாக்குபவர்கள்</translation>
+        <translation>%1 உருவாக்குபவர்கள்</translation>
     </message>
     <message>
         <source>MultiMC Developers</source>
@@ -11619,40 +11607,40 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">அங்கீகரிக்கப்படாத</translation>
+        <translation>அங்கீகரிக்கப்படாத</translation>
     </message>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">தரவுப் பொதிகள்</translation>
+        <translation>தரவுப் பொதிகள்</translation>
     </message>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">மோட்ச்</translation>
+        <translation>மோட்ச்</translation>
     </message>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">வள பொதிகள்</translation>
+        <translation>வள பொதிகள்</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">வள</translation>
+        <translation>வள</translation>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">வளங்கள்</translation>
+        <translation>வளங்கள்</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">சேடர் பொதிகள்</translation>
+        <translation>சேடர் பொதிகள்</translation>
     </message>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">அமைப்பு பொதிகள்</translation>
+        <translation>அமைப்பு பொதிகள்</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
@@ -11778,23 +11766,23 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">மோட்ச்</translation>
+        <translation>மோட்ச்</translation>
     </message>
     <message>
         <source>resource packs</source>
-        <translation type="unfinished">வள பொதிகள்</translation>
+        <translation>வள பொதிகள்</translation>
     </message>
     <message>
         <source>texture packs</source>
-        <translation type="unfinished">அமைப்பு பொதிகள்</translation>
+        <translation>அமைப்பு பொதிகள்</translation>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">சேடர் பொதிகள்</translation>
+        <translation>சேடர் பொதிகள்</translation>
     </message>
     <message>
         <source>data packs</source>
-        <translation type="unfinished">தரவுப் பொதிகள்</translation>
+        <translation>தரவுப் பொதிகள்</translation>
     </message>
     <message>
         <source>resources</source>
@@ -12055,7 +12043,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">பதிப்பு</translation>
+        <translation>பதிப்பு</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12126,7 +12114,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">படம்</translation>
+        <translation>படம்</translation>
     </message>
 </context>
 <context>
@@ -12145,7 +12133,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">பதிப்பு</translation>
+        <translation>பதிப்பு</translation>
     </message>
     <message>
         <source>Size</source>
@@ -12746,7 +12734,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">பதிப்பு</translation>
+        <translation>பதிப்பு</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -12754,7 +12742,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">இணையமில்லாமல்</translation>
+        <translation>இணையமில்லாமல்</translation>
     </message>
     <message>
         <source>Online</source>
@@ -13247,7 +13235,7 @@ Are you sure?</source>
     <name>Task</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">கருக்கலைப்பு</translation>
+        <translation>கருக்கலைப்பு</translation>
     </message>
 </context>
 <context>
@@ -13850,7 +13838,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">தேடல்</translation>
+        <translation>தேடல்</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -14061,7 +14049,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">நிறுவவும்</translation>
+        <translation>நிறுவவும்</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -14191,7 +14179,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">சரி</translation>
+        <translation>சரி</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -14362,7 +14350,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">கருவிகள்</translation>
+        <translation>கருவிகள்</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -14666,11 +14654,11 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">பயனர்பெயர்</translation>
+        <translation>பயனர்பெயர்</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">கடவுச்சொல்</translation>
+        <translation>கடவுச்சொல்</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -14678,7 +14666,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ரத்துசெய்</translation>
+        <translation>ரத்துசெய்</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

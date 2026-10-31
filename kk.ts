@@ -1098,11 +1098,11 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Көшіру</translation>
+        <translation>Көшіру</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Болдырмау</translation>
+        <translation>Болдырмау</translation>
     </message>
 </context>
 <context>
@@ -1303,7 +1303,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Пайдаланушының аты</translation>
+        <translation>Пайдаланушының аты</translation>
     </message>
     <message>
         <source>A username is valid only if it is from 3 to 16 characters in length, uses English letters, numbers, and underscores. An invalid username may prevent joining servers and singleplayer worlds.</source>
@@ -1315,7 +1315,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Болдырмау</translation>
+        <translation>Болдырмау</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1773,7 +1773,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Use a different account than the default specified.</source>
@@ -1996,7 +1996,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -2080,7 +2080,7 @@ You may solve this issue by remounting /tmp as &apos;exec&apos; or setting the j
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Қате</translation>
+        <translation>Қате</translation>
     </message>
     <message>
         <source>Warnings</source>
@@ -2238,11 +2238,11 @@ This instance cannot be launched because some libraries are missing or have not 
     <name>EnvironmentVariables</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Value</source>
@@ -2254,11 +2254,11 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">Қайта сақтау &amp;Жаһандық Баптаулар</translation>
+        <translation>Қайта сақтау &amp;Жаһандық Баптаулар</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Алып қою</translation>
+        <translation>&amp;Алып қою</translation>
     </message>
     <message>
         <source>&amp;Clear</source>
@@ -2379,7 +2379,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Параметрлер</translation>
+        <translation>Параметрлер</translation>
     </message>
     <message>
         <source>HTML</source>
@@ -2403,7 +2403,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Пайдаланушының</translation>
+        <translation>Пайдаланушының</translation>
     </message>
     <message>
         <source>Template</source>
@@ -2596,7 +2596,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Мәтінмәндік меню</translation>
+        <translation>Мәтінмәндік меню</translation>
     </message>
     <message>
         <source>Select %1</source>
@@ -2675,11 +2675,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Алып қою</translation>
+        <translation>&amp;Алып қою</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Command</source>
@@ -2796,8 +2796,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Пакет манифестін түсіну мүмкін болмады:
-</translation>
+        <translation>Пакет манифестін түсіну мүмкін болмады:</translation>
     </message>
     <message>
         <source>Resolving mods...</source>
@@ -2813,7 +2812,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. &lt;br/&gt;Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.</translation>
+        <translation>Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. &lt;br/&gt;Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.</translation>
     </message>
     <message>
         <source>Creating the instance...</source>
@@ -2825,7 +2824,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod жүктеу</translation>
+        <translation>Mod жүктеу</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
@@ -2844,11 +2843,11 @@ Are you sure you want to do this?</source>
     <name>FTBImportAPP::FilterModel</name>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Аты бойынша сұрыптау</translation>
+        <translation>Аты бойынша сұрыптау</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Ойын нұсқасы бойынша сұрыптау</translation>
+        <translation>Ойын нұсқасы бойынша сұрыптау</translation>
     </message>
 </context>
 <context>
@@ -2863,7 +2862,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Іздеу және сұрыптау...</translation>
+        <translation>Іздеу және сұрыптау...</translation>
     </message>
     <message>
         <source>Select FTBApp instances directory</source>
@@ -2929,7 +2928,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Белгісіз</translation>
+        <translation>Белгісіз</translation>
     </message>
 </context>
 <context>
@@ -2970,7 +2969,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1 жүктегіш нұсқасы табылмады</translation>
+        <translation>%1 жүктегіш нұсқасы табылмады</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
@@ -3008,12 +3007,12 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Бұғатталған модтар табылды</translation>
+        <translation>Бұғатталған модтар табылды</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
         <oldsource>The following mods were blocked on third party launchers.&lt;br/&gt;You will need to manually download them and add them to the modpack</oldsource>
-        <translation type="unfinished">Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. &lt;br/&gt;Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.</translation>
+        <translation>Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. &lt;br/&gt;Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.</translation>
     </message>
     <message>
         <source>Mod Download Flame</source>
@@ -3025,7 +3024,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%2 ішінен %1 аяқталды</translation>
+        <translation>%2 ішінен %1 аяқталды</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3102,7 +3101,7 @@ Are you sure you want to do this?</source>
     <name>FlamePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Таңдалынған нұсқа:</translation>
+        <translation>Таңдалынған нұсқа:</translation>
     </message>
     <message>
         <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
@@ -3116,7 +3115,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Іздеу және сұрыптау...</translation>
+        <translation>Іздеу және сұрыптау...</translation>
     </message>
     <message>
         <source>Sort by Featured</source>
@@ -3126,7 +3125,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Popularity</source>
         <oldsource>Sort by popularity</oldsource>
-        <translation type="unfinished">Танымалдылығы бойынша сұрыптау</translation>
+        <translation>Танымалдылығы бойынша сұрыптау</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -3136,7 +3135,7 @@ Are you sure you want to do this?</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Аты бойынша сұрыптау</translation>
+        <translation>Аты бойынша сұрыптау</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -3197,18 +3196,18 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Аты бойынша сұрыптау</translation>
+        <translation>Аты бойынша сұрыптау</translation>
     </message>
 </context>
 <context>
     <name>FtbPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Таңдалынған нұсқа:</translation>
+        <translation>Таңдалынған нұсқа:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Іздеу және сұрыптау...</translation>
+        <translation>Іздеу және сұрыптау...</translation>
     </message>
     <message>
         <source>Note: Many recent FTB modpacks are also available from CurseForge!</source>
@@ -3311,7 +3310,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Пайдаланушының</translation>
+        <translation>Пайдаланушының</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -3331,7 +3330,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Папканы Ашу</translation>
+        <translation>Папканы Ашу</translation>
     </message>
     <message>
         <source>Select Icons</source>
@@ -3466,7 +3465,7 @@ Are you sure you want to do this?</source>
     <name>InstallLoaderDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Жаңарту</translation>
+        <translation>&amp;Жаңарту</translation>
     </message>
     <message>
         <source>OK</source>
@@ -3478,23 +3477,23 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Install Loader</source>
@@ -3630,7 +3629,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Settings</source>
-        <translation type="unfinished">Параметрлер</translation>
+        <translation>Параметрлер</translation>
     </message>
 </context>
 <context>
@@ -3648,11 +3647,11 @@ What would you like to do with %2?</source>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Тастап кету</translation>
+        <translation>Тастап кету</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Қате</translation>
+        <translation>Қате</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
@@ -3706,7 +3705,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Жабу</translation>
+        <translation>Жабу</translation>
     </message>
     <message>
         <source>Kill the running instance</source>
@@ -3725,7 +3724,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Профайлер тоқтатылған</translation>
+        <translation>Профайлер тоқтатылған</translation>
     </message>
 </context>
 <context>
@@ -3736,7 +3735,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Profiler aborted</source>
-        <translation type="unfinished">Профайлер тоқтатылған</translation>
+        <translation>Профайлер тоқтатылған</translation>
     </message>
 </context>
 <context>
@@ -3762,7 +3761,7 @@ What would you like to do with %2?</source>
     <name>Java::InstallDialog</name>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Жаңарту</translation>
+        <translation>&amp;Жаңарту</translation>
     </message>
     <message>
         <source>Download</source>
@@ -3774,7 +3773,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Adoptium</source>
@@ -3790,11 +3789,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Java жүктеу</translation>
+        <translation>Java жүктеу</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">Java жүктеу нұсқасы белгісіз!</translation>
+        <translation>Java жүктеу нұсқасы белгісіз!</translation>
     </message>
     <message>
         <source>Error</source>
@@ -3914,7 +3913,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -4889,12 +4888,12 @@ Please try again.</source>
     <message>
         <source>Sort by Name</source>
         <oldsource>Sort by name</oldsource>
-        <translation type="unfinished">Аты бойынша сұрыптау</translation>
+        <translation>Аты бойынша сұрыптау</translation>
     </message>
     <message>
         <source>Sort by Game Version</source>
         <oldsource>Sort by game version</oldsource>
-        <translation type="unfinished">Ойын нұсқасы бойынша сұрыптау</translation>
+        <translation>Ойын нұсқасы бойынша сұрыптау</translation>
     </message>
 </context>
 <context>
@@ -4955,7 +4954,7 @@ Please try again.</source>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Іздеу және сұрыптау...</translation>
+        <translation>Іздеу және сұрыптау...</translation>
     </message>
     <message>
         <source>Public</source>
@@ -4979,7 +4978,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Таңдалынған нұсқа:</translation>
+        <translation>Таңдалынған нұсқа:</translation>
     </message>
     <message>
         <source>Error</source>
@@ -5149,7 +5148,7 @@ Reason:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -5241,11 +5240,11 @@ Reason:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Күте тұрыңыз...</translation>
+        <translation>Күте тұрыңыз...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Қалпы</translation>
+        <translation>Қалпы</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -5663,7 +5662,7 @@ Reason:
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Есептік жазбалар</translation>
+        <translation>Есептік жазбалар</translation>
     </message>
     <message>
         <source>&amp;Undo Last Instance Deletion</source>
@@ -6041,7 +6040,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Жаңарту сәтсіз аяқталды</translation>
+        <translation>Жаңарту сәтсіз аяқталды</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -6079,7 +6078,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -6380,23 +6379,23 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -6480,7 +6479,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Zink қолдану</translation>
+        <translation>Zink қолдану</translation>
     </message>
     <message>
         <source>Account:</source>
@@ -6558,7 +6557,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>ModFilterWidget</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -6570,19 +6569,19 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>Show More</source>
@@ -6590,7 +6589,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -6658,7 +6657,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Белгісіз</translation>
+        <translation>Белгісіз</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -6726,7 +6725,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Барлық нұсқалар</translation>
+        <translation>Барлық нұсқалар</translation>
     </message>
 </context>
 <context>
@@ -6737,7 +6736,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Version</source>
@@ -7111,7 +7110,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Белгісіз</translation>
+        <translation>Белгісіз</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
@@ -7164,7 +7163,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%2 ішінен %1 аяқталды</translation>
+        <translation>%2 ішінен %1 аяқталды</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -7301,11 +7300,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Іздеу және сұрыптау...</translation>
+        <translation>Іздеу және сұрыптау...</translation>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Таңдалынған нұсқа:</translation>
+        <translation>Таңдалынған нұсқа:</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -7381,7 +7380,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">%1 есептер орындалуда (%3 ішінен %2 жасалынды)</translation>
+        <translation>%1 есептер орындалуда (%3 ішінен %2 жасалынды)</translation>
     </message>
 </context>
 <context>
@@ -7400,7 +7399,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Қате</translation>
+        <translation>Қате</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -7431,7 +7430,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>uid</source>
@@ -7466,7 +7465,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>No group</source>
-        <translation type="unfinished">Топсыз</translation>
+        <translation>Топсыз</translation>
     </message>
     <message>
         <source>OK</source>
@@ -7509,7 +7508,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Жабу</translation>
+        <translation>Жабу</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -7737,11 +7736,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Көшіру</translation>
+        <translation>Көшіру</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Болдырмау</translation>
+        <translation>Болдырмау</translation>
     </message>
 </context>
 <context>
@@ -7916,96 +7915,95 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">Пакет манифестін түсіну мүмкін болмады:
-</translation>
+        <translation>Пакет манифестін түсіну мүмкін болмады:</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Қолдау көрсетілмейтін орнату режимі</translation>
+        <translation>Қолдау көрсетілмейтін орнату режимі</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">&quot;% 1&quot; v% 2 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
+        <translation>&quot;% 1&quot; v% 2 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Бар файлдар жойылуда...</translation>
+        <translation>Бар файлдар жойылуда...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Неизвестный тип мода: %1</translation>
+        <translation>Неизвестный тип мода: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="unfinished">% 1 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
+        <translation>% 1 үшін жергілікті метадеректер индексін алу сәтсіз аяқталды</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">%1 жүктегіш нұсқасы табылмады</translation>
+        <translation>%1 жүктегіш нұсқасы табылмады</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">Modpack үшін жүктеуші нұсқасы орнатылмаған!</translation>
+        <translation>Modpack үшін жүктеуші нұсқасы орнатылмаған!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Белгісіз немесе келіспейтін жүктеуші нұсқасы: %1</translation>
+        <translation>Белгісіз немесе келіспейтін жүктеуші нұсқасы: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Конфигурациялар жүктеліп жатыр...</translation>
+        <translation>Конфигурациялар жүктеліп жатыр...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Конфигурацияны жүктеу</translation>
+        <translation>Конфигурацияны жүктеу</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Конфигурациялар шығарылуда...</translation>
+        <translation>Конфигурациялар шығарылуда...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Қосымша модтарды таңдау...</translation>
+        <translation>Қосымша модтарды таңдау...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="unfinished">Mod жүктеу</translation>
+        <translation>Mod жүктеу</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Белгісіз жүктеу нұсқасы: %1</translation>
+        <translation>Белгісіз жүктеу нұсқасы: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">Бұғатталған модтар табылды</translation>
+        <translation>Бұғатталған модтар табылды</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished">Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. &lt;br/&gt;Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.</translation>
+        <translation>Бұл файлдарды үшінші тарап лаунчерінде жүктеуге болмайды. &lt;br/&gt;Сізге оларды қолмен жүктеп, данаға қосуыңыз қажет.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%2 ішінен %1 аяқталды</translation>
+        <translation>%2 ішінен %1 аяқталды</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">Модтарды шығару сәтсіз аяқталды...</translation>
+        <translation>Модтарды шығару сәтсіз аяқталды...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Модтарды шығару...</translation>
+        <translation>Модтарды шығару...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Кітапхана бөлігін шығаруда қате кетті</translation>
+        <translation>Кітапхана бөлігін шығаруда қате кетті</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Белгісіз жүкітегіш түрі: </translation>
+        <translation>Белгісіз жүкітегіш түрі:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Пак бөлігін құру сәтсіз аяқталды</translation>
+        <translation>Пак бөлігін құру сәтсіз аяқталды</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -8028,7 +8026,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Version</source>
@@ -8058,7 +8056,7 @@ Are you sure?</source>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -8492,7 +8490,7 @@ HTTP Status: %2</source>
     <name>ProgressDialog</name>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Күте тұрыңыз...</translation>
+        <translation>Күте тұрыңыз...</translation>
     </message>
     <message>
         <source>Global Task Status...</source>
@@ -8504,7 +8502,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Тастап кету</translation>
+        <translation>Тастап кету</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -8526,7 +8524,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Нұсқа</translation>
+        <translation>Нұсқа</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -8860,7 +8858,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">Java тексеретін кітапхана табылмады. Өтініш, жүктеу процесін тексеріңіз.</translation>
+        <translation>Java тексеретін кітапхана табылмады. Өтініш, жүктеу процесін тексеріңіз.</translation>
     </message>
     <message>
         <source>Change instance name</source>
@@ -8955,7 +8953,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Танымалдылығы бойынша сұрыптау</translation>
+        <translation>Танымалдылығы бойынша сұрыптау</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
@@ -8963,7 +8961,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Name</source>
-        <translation type="unfinished">Аты бойынша сұрыптау</translation>
+        <translation>Аты бойынша сұрыптау</translation>
     </message>
     <message>
         <source>Sort by Author</source>
@@ -8979,7 +8977,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Ойын нұсқасы бойынша сұрыптау</translation>
+        <translation>Ойын нұсқасы бойынша сұрыптау</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
@@ -9011,7 +9009,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Белгісіз</translation>
+        <translation>Белгісіз</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -9044,47 +9042,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Тексерілмеген</translation>
+        <translation>Тексерілмеген</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Желіде емес</translation>
+        <translation>Желіде емес</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Дайын</translation>
+        <translation>Дайын</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Жұмыс істеп жатыр</translation>
+        <translation>Жұмыс істеп жатыр</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Қате кетті</translation>
+        <translation>Қате кетті</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Мерзімі өткен</translation>
+        <translation>Мерзімі өткен</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Өшіп тұр</translation>
+        <translation>Өшіп тұр</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Жоғалып кетті</translation>
+        <translation>Жоғалып кетті</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Белгісіз</translation>
+        <translation>Белгісіз</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -9166,7 +9164,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Таңбаша жасау</translation>
+        <translation>Таңбаша жасау</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
@@ -9288,7 +9286,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">Таңылмаған</translation>
+        <translation>Таңылмаған</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -9582,7 +9580,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -9664,7 +9662,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Бейне</translation>
+        <translation>Бейне</translation>
     </message>
 </context>
 <context>
@@ -9732,7 +9730,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -9821,7 +9819,7 @@ Are you sure?</source>
     <name>ResourcePage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Таңдалынған нұсқа:</translation>
+        <translation>Таңдалынған нұсқа:</translation>
     </message>
     <message>
         <source>Filter options</source>
@@ -10037,7 +10035,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Мәтінмәндік меню</translation>
+        <translation>Мәтінмәндік меню</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to %2.
@@ -10181,7 +10179,7 @@ Currently installed version: %1</source>
     <name>ServersModel</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Address</source>
@@ -10201,7 +10199,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Желіде емес</translation>
+        <translation>Желіде емес</translation>
     </message>
 </context>
 <context>
@@ -10264,7 +10262,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Мәтінмәндік меню</translation>
+        <translation>Мәтінмәндік меню</translation>
     </message>
     <message>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
@@ -10300,7 +10298,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Жаңарту</translation>
+        <translation>&amp;Жаңарту</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -10443,7 +10441,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Папканы Ашу</translation>
+        <translation>Папканы Ашу</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -10535,7 +10533,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Мәтінмәндік меню</translation>
+        <translation>Мәтінмәндік меню</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -10613,7 +10611,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Форма</translation>
+        <translation>Форма</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -10747,12 +10745,12 @@ inheritsFrom is missing</source>
     <name>TechnicPage</name>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Таңдалынған нұсқа:</translation>
+        <translation>Таңдалынған нұсқа:</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Іздеу және сұрыптау...</translation>
+        <translation>Іздеу және сұрыптау...</translation>
     </message>
     <message>
         <source>Error</source>
@@ -10775,7 +10773,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Last Modified</source>
@@ -11185,7 +11183,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Мәтінмәндік меню</translation>
+        <translation>Мәтінмәндік меню</translation>
     </message>
     <message>
         <source>%1 possibly has issues.</source>
@@ -11285,7 +11283,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Көшіру</translation>
+        <translation>Көшіру</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -11323,7 +11321,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">Нұсқа</translation>
+        <translation>Нұсқа</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -11416,7 +11414,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">&amp;Жаңарту</translation>
+        <translation>&amp;Жаңарту</translation>
     </message>
 </context>
 <context>
@@ -11468,7 +11466,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Есім</translation>
+        <translation>Есім</translation>
     </message>
     <message>
         <source>Game Mode</source>
@@ -11577,7 +11575,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Мәтінмәндік меню</translation>
+        <translation>Мәтінмәндік меню</translation>
     </message>
     <message>
         <source>Select a Minecraft world zip</source>
@@ -11788,7 +11786,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Username</source>
-        <translation type="unfinished">Пайдаланушының аты</translation>
+        <translation>Пайдаланушының аты</translation>
     </message>
     <message>
         <source>Password</source>
@@ -11800,7 +11798,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Болдырмау</translation>
+        <translation>Болдырмау</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

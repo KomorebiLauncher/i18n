@@ -1339,7 +1339,7 @@ Please update both your operating system and %1.</source>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="242"/>
         <source>Invalid</source>
-        <translation type="unfinished">無效</translation>
+        <translation>無效</translation>
     </message>
     <message>
         <location filename="src/launcher/ui/pages/global/ExternalToolsPage.cpp" line="243"/>

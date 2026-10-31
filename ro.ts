@@ -1318,11 +1318,11 @@ Anumite versiuni Minecraft s-ar putea să nu se lanseze.
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalează</translation>
+        <translation>Instalează</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
@@ -3240,11 +3240,11 @@ Sunteți sigur că vreți face asta?</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
-        <translation type="unfinished">&amp;Elimină</translation>
+        <translation>&amp;Elimină</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nume</translation>
+        <translation>Nume</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3654,7 +3654,7 @@ Vă rugăm să încercați din nou.</translation>
     </message>
     <message>
         <source>Failed to fetch the old files.</source>
-        <translation type="unfinished">Nu s-au putut încărca fișierele vechi.</translation>
+        <translation>Nu s-au putut încărca fișierele vechi.</translation>
     </message>
     <message>
         <source>We couldn&apos;t fetch the old files because the task was aborted. This may cause some of the files to be duplicated. Do you want to continue?</source>
@@ -6597,7 +6597,7 @@ Ar trebui să vă reparați mod-urile, deoarece jocul încă scrie în fișiere 
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eliminaţi</translation>
+        <translation>Eliminaţi</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -7135,7 +7135,7 @@ Motiv:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8425,7 +8425,7 @@ Komorebi Launcher currently only supports modpack links such as modrinth://modpa
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> și %n comandă rapidă înregistrată a acesteia</numerusform>
+            <numerusform>și %n comandă rapidă înregistrată a acesteia</numerusform>
             <numerusform> și %n comenzi rapide înregistrate ale acestuia</numerusform>
             <numerusform> și %n comenzi rapide înregistrate ale acestuia</numerusform>
         </translation>
@@ -9216,7 +9216,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Lansate</translation>
+        <translation>Lansate</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9346,7 +9346,7 @@ Cel mai probabil va trebui să modificați calea de acces - vă rugăm să consu
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Eliminaţi</translation>
+        <translation>Eliminaţi</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -9654,7 +9654,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizează</translation>
+        <translation>Actualizează</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -9706,12 +9706,9 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n mod va fi activat
-</numerusform>
-            <numerusform>%n moduri vor fi activate
-</numerusform>
-            <numerusform>%n moduri vor fi activate
-</numerusform>
+            <numerusform>%n mod va fi activat</numerusform>
+            <numerusform>%n moduri vor fi activate</numerusform>
+            <numerusform>%n moduri vor fi activate</numerusform>
         </translation>
     </message>
     <message>
@@ -9722,12 +9719,9 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n mod va fi dezactivat
-</numerusform>
-            <numerusform>%n mod vor fi dezactivate
-</numerusform>
-            <numerusform>%n mod vor fi dezactivate
-</numerusform>
+            <numerusform>%n mod va fi dezactivat</numerusform>
+            <numerusform>%n mod vor fi dezactivate</numerusform>
+            <numerusform>%n mod vor fi dezactivate</numerusform>
         </translation>
     </message>
     <message>
@@ -10409,11 +10403,11 @@ Te rugăm actualizează %1!</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Ștergând fișiere vechi cu conflicte...</translation>
+        <translation>Ștergând fișiere vechi cu conflicte...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">Eșec la ștergerea fișierelor vechi cu conflicte.</translation>
+        <translation>Eșec la ștergerea fișierelor vechi cu conflicte.</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -10651,26 +10645,26 @@ Te rugăm actualizează %1!</translation>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">Solicitare %1</translation>
+        <translation>Solicitare %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">necunoscut</translation>
+        <translation>necunoscut</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -10683,7 +10677,7 @@ Te rugăm actualizează %1!</translation>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Limitare a frecvenței cererilor pentru %n secundă: Reîncercare după %1</numerusform>
             <numerusform>Limitare a frecvenței cererilor pentru %n secunde: Reîncercare după %1</numerusform>
             <numerusform>Limitare a frecvenței cererilor pentru %n secunde: Reîncercare după %1</numerusform>
@@ -10692,7 +10686,7 @@ Te rugăm actualizează %1!</translation>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Limită de rată: Așteptare %n secundă</numerusform>
             <numerusform>Limită de rată: Așteptare %n secunde</numerusform>
             <numerusform>Limită de rată: Așteptare %n secunde</numerusform>
@@ -11087,11 +11081,11 @@ Te rugăm actualizează %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalează</translation>
+        <translation>Instalează</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
 </context>
 <context>
@@ -12068,7 +12062,7 @@ Statul HTTP: %2</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">Renunță</translation>
+        <translation>Renunță</translation>
     </message>
 </context>
 <context>
@@ -12708,7 +12702,7 @@ Doriți să ștergeți acele fișiere de salvări existente în cadrul acestei a
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Necunoscut</translation>
+        <translation>Necunoscut</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -12840,27 +12834,18 @@ Numele nou: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>Următoarea instanță ar putea face referire la fișiere din această instanță:
-
-%1
-
-%2 acest lucru ar putea afecta funcționarea celeilalte instanțe, 
-
-Doriți să continuați?</numerusform>
-            <numerusform>Următoarele instanțe ar putea face referire la fișiere din această instanță:
-
-%1
-
-%2 acest lucru ar putea afecta funcționarea celorlalte instanțe, 
-
-Doriți să continuați?</numerusform>
-            <numerusform>Următoarele instanțe ar putea face referire la fișiere din această instanță:
-
-%1
-
-%2 acest lucru ar putea afecta funcționarea celorlalte instanțe, 
-
-Doriți să continuați?</numerusform>
+            <numerusform>Următoarea instanță ar putea face referire la fișiere din această instanță:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 acest lucru ar putea afecta funcționarea celeilalte instanțe, </numerusform>
+            <numerusform>Doriți să continuați?</numerusform>
+            <numerusform>Următoarele instanțe ar putea face referire la fișiere din această instanță:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 acest lucru ar putea afecta funcționarea celorlalte instanțe, </numerusform>
+            <numerusform>Doriți să continuați?</numerusform>
+            <numerusform>Următoarele instanțe ar putea face referire la fișiere din această instanță:</numerusform>
+            <numerusform>%1</numerusform>
+            <numerusform>%2 acest lucru ar putea afecta funcționarea celorlalte instanțe, </numerusform>
+            <numerusform>Doriți să continuați?</numerusform>
         </translation>
     </message>
     <message>
@@ -13021,39 +13006,39 @@ Mesaj de eroare: %3</translation>
     <message>
         <source>data packs</source>
         <extracomment>The plural version of &apos;data pack&apos;</extracomment>
-        <translation type="unfinished">pachete de date</translation>
+        <translation>pachete de date</translation>
     </message>
     <message>
         <source>mods</source>
         <extracomment>The plural version of &apos;mod&apos;</extracomment>
-        <translation type="unfinished">moduri</translation>
+        <translation>moduri</translation>
     </message>
     <message>
         <source>resource packs</source>
         <extracomment>The plural version of &apos;resource pack&apos;</extracomment>
-        <translation type="unfinished">pachete de resurse</translation>
+        <translation>pachete de resurse</translation>
     </message>
     <message>
         <source>resource</source>
-        <translation type="unfinished">resursă</translation>
+        <translation>resursă</translation>
     </message>
     <message>
         <source>resources</source>
-        <translation type="unfinished">resurse</translation>
+        <translation>resurse</translation>
     </message>
     <message>
         <source>shader packs</source>
         <extracomment>The plural version of &apos;shader pack&apos;</extracomment>
-        <translation type="unfinished">pachete de shadere</translation>
+        <translation>pachete de shadere</translation>
     </message>
     <message>
         <source>texture packs</source>
         <extracomment>The plural version of &apos;texture pack&apos;</extracomment>
-        <translation type="unfinished">pachete de texturi</translation>
+        <translation>pachete de texturi</translation>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">Nu s-a putut deschide fișierul %1 pentru citire: %2</translation>
+        <translation>Nu s-a putut deschide fișierul %1 pentru citire: %2</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -13183,23 +13168,23 @@ Sigur dorești să închizi acest dialog?</translation>
     </message>
     <message>
         <source>mods</source>
-        <translation type="unfinished">moduri</translation>
+        <translation>moduri</translation>
     </message>
     <message>
         <source>resource packs</source>
-        <translation type="unfinished">pachete de resurse</translation>
+        <translation>pachete de resurse</translation>
     </message>
     <message>
         <source>texture packs</source>
-        <translation type="unfinished">pachete de texturi</translation>
+        <translation>pachete de texturi</translation>
     </message>
     <message>
         <source>shader packs</source>
-        <translation type="unfinished">pachete de shadere</translation>
+        <translation>pachete de shadere</translation>
     </message>
     <message>
         <source>data packs</source>
-        <translation type="unfinished">pachete de date</translation>
+        <translation>pachete de date</translation>
     </message>
     <message>
         <source>resources</source>
@@ -13464,7 +13449,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versiune</translation>
+        <translation>Versiune</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13480,7 +13465,7 @@ Avertizare: Această resursă este legată strâns în altă parte. Editarea ei 
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizează</translation>
+        <translation>Actualizează</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -13535,7 +13520,7 @@ Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imagine</translation>
+        <translation>Imagine</translation>
     </message>
 </context>
 <context>
@@ -13554,7 +13539,7 @@ Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versiune</translation>
+        <translation>Versiune</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13570,7 +13555,7 @@ Ești sigur(ă) că vrei să faci asta?</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizează</translation>
+        <translation>Actualizează</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -14171,7 +14156,7 @@ Versiunea instalată curent: %1</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versiune</translation>
+        <translation>Versiune</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14943,7 +14928,7 @@ inheritsFrom lipsește</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualizează</translation>
+        <translation>Actualizează</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -15606,7 +15591,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instalează</translation>
+        <translation>Instalează</translation>
     </message>
     <message>
         <source>Minecraft.jar mods (*.zip *.jar)</source>
@@ -15959,7 +15944,7 @@ Locația canonică: %1</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Unelte</translation>
+        <translation>Unelte</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -16323,7 +16308,7 @@ Vă rugăm configurați-vă contul conform %1.</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Parolă</translation>
+        <translation>Parolă</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -16331,7 +16316,7 @@ Vă rugăm configurați-vă contul conform %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Anulează</translation>
+        <translation>Anulează</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

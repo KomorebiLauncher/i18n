@@ -823,7 +823,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     </message>
     <message>
         <source>&amp;Cat Pack:</source>
-        <translation type="unfinished">&amp;Cat Pack:</translation>
+        <translation>&amp;Cat Pack:</translation>
     </message>
     <message>
         <source>Reload All</source>
@@ -835,7 +835,7 @@ Si us plau, actualitzeu tant el vostre sistema operatiu com %1.</translation>
     </message>
     <message>
         <source>&amp;Icons:</source>
-        <translation type="unfinished">&amp;Icones:</translation>
+        <translation>&amp;Icones:</translation>
     </message>
     <message>
         <source>Console Font:</source>
@@ -1310,11 +1310,11 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instal·la</translation>
+        <translation>Instal·la</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
 </context>
 <context>
@@ -1408,7 +1408,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="unfinished">Localitzant fitxer local</translation>
+        <translation>Localitzant fitxer local</translation>
     </message>
 </context>
 <context>
@@ -1458,7 +1458,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Watched Folders</source>
-        <translation type="unfinished">Carpetes vigilades</translation>
+        <translation>Carpetes vigilades</translation>
     </message>
     <message>
         <source>Add Download Folder</source>
@@ -1531,7 +1531,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
 </context>
 <context>
@@ -2002,7 +2002,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Select a target to join on launch</source>
-        <translation type="unfinished">Selecciona un objectiu per unir-se a l&apos;iniciar</translation>
+        <translation>Selecciona un objectiu per unir-se a l&apos;iniciar</translation>
     </message>
     <message>
         <source>World:</source>
@@ -2022,7 +2022,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>You&apos;ll need to delete them manually if that is the case.</source>
-        <translation type="unfinished">Hauràs d&apos;eliminar-les manualment si es dona aquest cas.</translation>
+        <translation>Hauràs d&apos;eliminar-les manualment si es dona aquest cas.</translation>
     </message>
     <message>
         <source>Desktop</source>
@@ -2046,7 +2046,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>%1 - %2</source>
-        <translation type="unfinished">%1 - %2</translation>
+        <translation>%1 - %2</translation>
     </message>
     <message>
         <source>%1 - Server %2</source>
@@ -2245,7 +2245,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Pack Format</source>
@@ -2257,7 +2257,7 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Mida</translation>
+        <translation>Mida</translation>
     </message>
     <message>
         <source>File Name</source>
@@ -2269,11 +2269,11 @@ Pot resoldre aquest problema tornant a montar /tmp com a &quot;exec&quot; o esta
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versió</translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualitzar</translation>
+        <translation>Actualitzar</translation>
     </message>
     <message>
         <source>The version of the data pack.</source>
@@ -2312,7 +2312,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Is the data pack enabled? (Only valid for ZIPs)</source>
-        <translation type="unfinished">Està el data pack activat? (Només vàlid per a ZIPs)</translation>
+        <translation>Està el data pack activat? (Només vàlid per a ZIPs)</translation>
     </message>
     <message>
         <source>The name of the data pack.</source>
@@ -2347,7 +2347,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -2359,7 +2359,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avisos</translation>
+        <translation>Avisos</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -2403,7 +2403,7 @@ Vols continuar de totes maneres?</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminació</translation>
+        <translation>Confirmar Eliminació</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 data packs.
@@ -2603,7 +2603,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Override &amp;Global Settings</source>
-        <translation type="unfinished">Sobreescriure configuració global</translation>
+        <translation>Sobreescriure configuració global</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -2691,7 +2691,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>&amp;Name:</source>
-        <translation type="unfinished">&amp;Nom:</translation>
+        <translation>&amp;Nom:</translation>
     </message>
     <message>
         <source>&amp;Version:</source>
@@ -2969,7 +2969,7 @@ This instance cannot be launched because some libraries are missing or have not 
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cercar</translation>
+        <translation>Cercar</translation>
     </message>
     <message>
         <source>&amp;Add File</source>
@@ -3165,7 +3165,7 @@ Esteu segur de fer-ho?</translation>
     </message>
     <message>
         <source>&amp;Add</source>
-        <translation type="unfinished">&amp;Afegir</translation>
+        <translation>&amp;Afegir</translation>
     </message>
     <message>
         <source>&amp;Remove</source>
@@ -3173,7 +3173,7 @@ Esteu segur de fer-ho?</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3201,7 +3201,7 @@ Esteu segur de fer-ho?</translation>
     </message>
     <message>
         <source>&amp;VisualVM</source>
-        <translation type="unfinished">&amp;VisualVM</translation>
+        <translation>&amp;VisualVM</translation>
     </message>
     <message>
         <source>External Editors (leave empty for system default)</source>
@@ -3322,7 +3322,7 @@ Esteu segur de fer-ho?</translation>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Eines</translation>
+        <translation>Eines</translation>
     </message>
 </context>
 <context>
@@ -3383,7 +3383,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Failed to find pack version %1</source>
-        <translation type="unfinished">No s&apos;ha pogut trobar la versió %1 del paquet</translation>
+        <translation>No s&apos;ha pogut trobar la versió %1 del paquet</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -3424,11 +3424,11 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
-        <translation type="unfinished">Copiant mods bloquejats...</translation>
+        <translation>Copiant mods bloquejats...</translation>
     </message>
     <message>
         <source>Copying Blocked Mods (%1 out of %2 are done)</source>
-        <translation type="unfinished">Copiant mods bloquejats (%1 de %2 finalitzats)</translation>
+        <translation>Copiant mods bloquejats (%1 de %2 finalitzats)</translation>
     </message>
 </context>
 <context>
@@ -3619,15 +3619,15 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>The specified overrides folder (%1) is missing. Maybe the modpack was already used before?</source>
-        <translation type="unfinished">Falta la carpeta d&apos;anul·lacions especificada (%1). Potser el paquet de mods ja ha estat utilitzat anteriorment?</translation>
+        <translation>Falta la carpeta d&apos;anul·lacions especificada (%1). Potser el paquet de mods ja ha estat utilitzat anteriorment?</translation>
     </message>
     <message>
         <source>Unknown mod loader in manifest: %1</source>
-        <translation type="unfinished">Error desconegut mentre es carregava la instància %1</translation>
+        <translation>Error desconegut mentre es carregava la instància %1</translation>
     </message>
     <message>
         <source>Mysterious trailing dots removed from Minecraft version while importing pack.</source>
-        <translation type="unfinished">Punts finals misteriosos eliminats de la versió de Minecraft al importar el paquet.</translation>
+        <translation>Punts finals misteriosos eliminats de la versió de Minecraft al importar el paquet.</translation>
     </message>
     <message>
         <source>The recommended memory of the modpack exceeds 90% of your system RAM—reducing it from %1 MiB to %2 MiB!</source>
@@ -3639,11 +3639,11 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Eliminant fitxers conflictius antics...</translation>
+        <translation>Eliminant fitxers conflictius antics...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">No s&apos;han pogut eliminar els arxius conflictius antics.</translation>
+        <translation>No s&apos;han pogut eliminar els arxius conflictius antics.</translation>
     </message>
     <message>
         <source>Could not map recommended Forge version for Minecraft %1</source>
@@ -3652,12 +3652,11 @@ Si us plau, intenta-ho una altra vegada.</translation>
     <message>
         <source>Unable to resolve mod IDs:
 </source>
-        <translation type="unfinished">Impossible actualitzar les ID dels mods:
-</translation>
+        <translation>Impossible actualitzar les ID dels mods:</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">S&apos;han trobat mods bloquejats</translation>
+        <translation>S&apos;han trobat mods bloquejats</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
@@ -3670,7 +3669,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 de %2 completat</translation>
+        <translation>%1 de %2 completat</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3713,7 +3712,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>CurseForge pack</source>
-        <translation type="unfinished">Pack de CurseForge</translation>
+        <translation>Pack de CurseForge</translation>
     </message>
 </context>
 <context>
@@ -3797,11 +3796,11 @@ Si us plau, intenta-ho una altra vegada.</translation>
     <message>
         <source>Note: CurseForge allows creators to block access to third-party tools like Komorebi Launcher. As such, you may need to manually download some mods to be able to install a modpack.</source>
         <oldsource>Note: CurseForge allows creators to block access to third-party tools like PolyMC. As such, you may need to manually download some mods to be able to install a modpack.</oldsource>
-        <translation type="unfinished">Nota: L&apos;API de CurseForge és molt imprevisible. CurseForge i alguns autors de mods han desactivat la capacitat de llançadors de tercers com PolyMC de descarregar mods. Tanmateix, potser és necessari que descarreguis manualment alguns mods per poder instal·lar un paquet de mods.</translation>
+        <translation>Nota: L&apos;API de CurseForge és molt imprevisible. CurseForge i alguns autors de mods han desactivat la capacitat de llançadors de tercers com PolyMC de descarregar mods. Tanmateix, potser és necessari que descarreguis manualment alguns mods per poder instal·lar un paquet de mods.</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Filtrar opcions</translation>
+        <translation>Filtrar opcions</translation>
     </message>
     <message>
         <source>Search and filter...</source>
@@ -3848,7 +3847,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source> by </source>
@@ -4059,7 +4058,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Legacy</source>
-        <translation type="unfinished">Antic</translation>
+        <translation>Antic</translation>
     </message>
     <message>
         <source>Modpacks</source>
@@ -4067,7 +4066,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Custom</source>
-        <translation type="unfinished">Personalitzat</translation>
+        <translation>Personalitzat</translation>
     </message>
     <message>
         <source>Add Icon</source>
@@ -4079,11 +4078,11 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
     <message>
         <source>Open Folder</source>
@@ -4112,7 +4111,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     <message>
         <source>- CurseForge modpacks (ZIP / curseforge:// URL)</source>
         <oldsource>- CurseForge modpacks (ZIP)</oldsource>
-        <translation type="unfinished">- Paquet de mods de Curseforge (ZIP)</translation>
+        <translation>- Paquet de mods de Curseforge (ZIP)</translation>
     </message>
     <message>
         <source>- Modrinth modpacks (ZIP and mrpack)</source>
@@ -4121,7 +4120,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     <message>
         <source>- Prism Launcher, PolyMC or MultiMC exported instances (ZIP)</source>
         <oldsource>- PolyMC / MultiMC exported instances (ZIP)</oldsource>
-        <translation type="unfinished">- Instàncies exportades des de PolyMC / MultiMC (ZIP)</translation>
+        <translation>- Instàncies exportades des de PolyMC / MultiMC (ZIP)</translation>
     </message>
     <message>
         <source>- Technic modpacks (ZIP)</source>
@@ -4134,7 +4133,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     <message>
         <source>Import</source>
         <oldsource>Import from zip</oldsource>
-        <translation type="unfinished">Importa des d&apos;un fitxer .zip</translation>
+        <translation>Importa des d&apos;un fitxer .zip</translation>
     </message>
     <message>
         <source>Modrinth pack (*.mrpack)</source>
@@ -4142,7 +4141,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>The modpack %1 is blocked for third-parties! Please download it manually.</source>
@@ -4163,7 +4162,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     <message>
         <source>Modrinth pack</source>
         <extracomment>Option for filtering for *.mrpack files when importing</extracomment>
-        <translation type="unfinished">Pack de Modrinth</translation>
+        <translation>Pack de Modrinth</translation>
     </message>
     <message>
         <source>Choose modpack</source>
@@ -4194,11 +4193,11 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
 </context>
 <context>
@@ -4249,31 +4248,31 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Install Loader</source>
@@ -4306,7 +4305,7 @@ What would you like to do with %2?</source>
     <name>InstallLoaderPage</name>
     <message>
         <source>No versions are currently available for Minecraft %1</source>
-        <translation type="unfinished">No hi ha versions disponibles actualment per Minecraft %1</translation>
+        <translation>No hi ha versions disponibles actualment per Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -4525,7 +4524,7 @@ What would you like to do with %2?</source>
     <message>
         <source>Other Logs</source>
         <oldsource>Other logs</oldsource>
-        <translation type="unfinished">Altres registres</translation>
+        <translation>Altres registres</translation>
     </message>
     <message>
         <source>Edit Instance (%1)</source>
@@ -4840,19 +4839,19 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
     <name>InstanceTask</name>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">Omet</translation>
+        <translation>Omet</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Could not download game files: %1</source>
-        <translation type="unfinished">No s&apos;han pogut descarregar els fitxers del joc: %1</translation>
+        <translation>No s&apos;han pogut descarregar els fitxers del joc: %1</translation>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">Descarregant fitxers del joc</translation>
+        <translation>Descarregant fitxers del joc</translation>
     </message>
 </context>
 <context>
@@ -4890,11 +4889,11 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
     </message>
     <message>
         <source>&amp;Kill</source>
-        <translation type="unfinished">&amp;Forçar tancada</translation>
+        <translation>&amp;Forçar tancada</translation>
     </message>
     <message>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Launch Offline</source>
@@ -4998,19 +4997,19 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>Mojang</source>
-        <translation type="unfinished">Mojang</translation>
+        <translation>Mojang</translation>
     </message>
     <message>
         <source>Adoptium</source>
-        <translation type="unfinished">Adoptium</translation>
+        <translation>Adoptium</translation>
     </message>
     <message>
         <source>Azul Zulu</source>
-        <translation type="unfinished">Azul Zulu</translation>
+        <translation>Azul Zulu</translation>
     </message>
     <message>
         <source>IBM Semeru Open</source>
@@ -5018,15 +5017,15 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
     </message>
     <message>
         <source>Install Java</source>
-        <translation type="unfinished">Instal·li Java</translation>
+        <translation>Instal·li Java</translation>
     </message>
     <message>
         <source>Could not determine Java download type!</source>
-        <translation type="unfinished">No s&apos;ha pogut determinar el tipus de baixada de Java!</translation>
+        <translation>No s&apos;ha pogut determinar el tipus de baixada de Java!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -5171,7 +5170,7 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Recarrega</translation>
+        <translation>Recarrega</translation>
     </message>
     <message>
         <source>J&amp;VM arguments:</source>
@@ -5340,7 +5339,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Java Insta&amp;llation</source>
@@ -5396,7 +5395,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>Skip Java compatibility checks</source>
-        <translation type="unfinished">Saltar-se comprovacions de compatibilitat de Java</translation>
+        <translation>Saltar-se comprovacions de compatibilitat de Java</translation>
     </message>
     <message>
         <source>&amp;Allowed Java versions</source>
@@ -5424,7 +5423,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>Memor&amp;y</source>
-        <translation type="unfinished">Memòr&amp;ia</translation>
+        <translation>Memòr&amp;ia</translation>
     </message>
     <message>
         <source>Memory suggestion</source>
@@ -5448,11 +5447,11 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>(-XX:PermSize)</source>
-        <translation type="unfinished">(-XX:PermSize)</translation>
+        <translation>(-XX:PermSize)</translation>
     </message>
     <message>
         <source>(-Xmx)</source>
-        <translation type="unfinished">(-Xmx)</translation>
+        <translation>(-Xmx)</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
@@ -5468,7 +5467,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>(-Xms)</source>
-        <translation type="unfinished">(-Xms)</translation>
+        <translation>(-Xms)</translation>
     </message>
     <message>
         <source>Ma&amp;ximum Memory Usage:</source>
@@ -5508,7 +5507,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>Select a Java version</source>
-        <translation type="unfinished">Seleccionar una versió de Java</translation>
+        <translation>Seleccionar una versió de Java</translation>
     </message>
     <message>
         <source>Confirm Selection</source>
@@ -5617,7 +5616,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>No Java version selected</source>
-        <translation type="unfinished">Cap versió de Java seleccionada</translation>
+        <translation>Cap versió de Java seleccionada</translation>
     </message>
     <message>
         <source>You either didn&apos;t select a Java version or selected one that does not work.
@@ -5639,35 +5638,35 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>Memory</source>
-        <translation type="unfinished">Memòria</translation>
+        <translation>Memòria</translation>
     </message>
     <message>
         <source>The maximum amount of memory Minecraft is allowed to use.</source>
-        <translation type="unfinished">La quantitat màxima de memòria permesa per a Minecraft.</translation>
+        <translation>La quantitat màxima de memòria permesa per a Minecraft.</translation>
     </message>
     <message>
         <source>Minimum memory allocation:</source>
-        <translation type="unfinished">Assignació mínima de memòria:</translation>
+        <translation>Assignació mínima de memòria:</translation>
     </message>
     <message>
         <source>Maximum memory allocation:</source>
-        <translation type="unfinished">Assignació màxima de memòria:</translation>
+        <translation>Assignació màxima de memòria:</translation>
     </message>
     <message>
         <source>The amount of memory Minecraft is started with.</source>
-        <translation type="unfinished">La quantitat de memòria amb la qual Minecraft s&apos;inicia.</translation>
+        <translation>La quantitat de memòria amb la qual Minecraft s&apos;inicia.</translation>
     </message>
     <message>
         <source>The amount of memory available to store loaded Java classes.</source>
-        <translation type="unfinished">Quantitat de memòria disponible per emmagatzemar classes carregades de Java.</translation>
+        <translation>Quantitat de memòria disponible per emmagatzemar classes carregades de Java.</translation>
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Cerca</translation>
+        <translation>Cerca</translation>
     </message>
     <message>
         <source>Auto-download Mojang Java</source>
-        <translation type="unfinished">Baixar automàticament Java de Mojang</translation>
+        <translation>Baixar automàticament Java de Mojang</translation>
     </message>
     <message>
         <source>Auto-detect Java version</source>
@@ -5675,7 +5674,7 @@ Podràs canviar la versió de Java més tard a la configuració.
     </message>
     <message>
         <source>Autodetect Java</source>
-        <translation type="unfinished">Detectar automàticament Java</translation>
+        <translation>Detectar automàticament Java</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
@@ -6127,7 +6126,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">Cerca</translation>
+        <translation>Cerca</translation>
     </message>
     <message>
         <source>Instance Sorting</source>
@@ -6438,7 +6437,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Afegir</translation>
+        <translation>Afegir</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -6576,10 +6575,7 @@ Granting %1 access to it via Flatseal is recommended.</source>
 This is known to cause problems. After a restart the launcher might break, because it will no longer have access to that directory.
 
 Granting %1 access to it via Flatseal is recommended.</oldsource>
-        <translation type="unfinished">Estàs intentant especificar una carpeta d&apos;instància que va ser concedida temporalment per Flatpak.
-És conegut que això dona problemes. Després de reiniciar el llançador pot trencar-se i ja no tindràs accés al directori.
-
-Es recomana que li donis permisos a PolyMC a través de Flatseal.</translation>
+        <translation>Estàs intentant especificar una carpeta d&apos;instància que va ser concedida temporalment per Flatpak.</translation>
     </message>
     <message>
         <source>Do you want to proceed anyway?</source>
@@ -6696,23 +6692,23 @@ Es recomana que li donis permisos a PolyMC a través de Flatseal.</translation>
     <name>LegacyFMLLibrariesTask</name>
     <message>
         <source>Checking for FML libraries...</source>
-        <translation type="unfinished">Comprovant biblioteques FML...</translation>
+        <translation>Comprovant biblioteques FML...</translation>
     </message>
     <message>
         <source>Downloading FML libraries...</source>
-        <translation type="unfinished">Baixant biblioteques FML...</translation>
+        <translation>Baixant biblioteques FML...</translation>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">Copiant les biblioteques FML a la instància...</translation>
+        <translation>Copiant les biblioteques FML a la instància...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
-        <translation type="unfinished">No s&apos;ha pogut crear la carpeta per guardar les biblioteques FML dins de la instància.</translation>
+        <translation>No s&apos;ha pogut crear la carpeta per guardar les biblioteques FML dins de la instància.</translation>
     </message>
     <message>
         <source>Failed copying Forge/FML library: %1.</source>
-        <translation type="unfinished">No s&apos;ha pogut copiar les biblioteques de Forge/FML: %1.</translation>
+        <translation>No s&apos;ha pogut copiar les biblioteques de Forge/FML: %1.</translation>
     </message>
     <message>
         <source>Failed to download the following files:
@@ -6720,11 +6716,7 @@ Es recomana que li donis permisos a PolyMC a través de Flatseal.</translation>
 
 Reason:%2
 Please try again.</source>
-        <translation type="unfinished">No s&apos;ha pogut baixar els següents fitxers:
-%1
-
-Raó:%2
-Si us plau, intenta-ho una altra vegada.</translation>
+        <translation>No s&apos;ha pogut baixar els següents fitxers:</translation>
     </message>
 </context>
 <context>
@@ -6795,7 +6787,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     <message>
         <source>Failed to move unpacked Minecraft!</source>
         <oldsource>Failed to move unzipped Minecraft!</oldsource>
-        <translation type="unfinished">Error en moure l&apos;arxiu descomprimit de Minecraft!</translation>
+        <translation>Error en moure l&apos;arxiu descomprimit de Minecraft!</translation>
     </message>
     <message>
         <source>No installation method found!</source>
@@ -6806,7 +6798,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     <name>LegacyFTB::Page</name>
     <message>
         <source>Search and filter...</source>
-        <translation type="unfinished">Cercar i filtrar...</translation>
+        <translation>Cercar i filtrar...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -6842,7 +6834,7 @@ Si us plau, intenta-ho una altra vegada.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -6937,7 +6929,7 @@ Hauria d&apos;eliminar-se ara?</translation>
     <message>
         <source>Downloading required library files...</source>
         <oldsource>Getting the library files from Mojang...</oldsource>
-        <translation type="unfinished">Obtenint les arxius de llibreria de Mojang...</translation>
+        <translation>Obtenint les arxius de llibreria de Mojang...</translation>
     </message>
     <message>
         <source>Libraries for instance %1</source>
@@ -6976,7 +6968,7 @@ Motiu:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7046,7 +7038,7 @@ Motiu:
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cercar</translation>
+        <translation>Cercar</translation>
     </message>
     <message>
         <source>Search:</source>
@@ -7118,7 +7110,7 @@ Motiu:
     <name>LoginWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-size:14pt; font-weight:600;&quot;&gt;Add Microsoft account&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
@@ -7258,11 +7250,11 @@ Motiu:
     </message>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">Espereu-vos...</translation>
+        <translation>Espereu-vos...</translation>
     </message>
     <message>
         <source>Status</source>
-        <translation type="unfinished">Estat</translation>
+        <translation>Estat</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -7290,7 +7282,7 @@ Motiu:
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>Microsoft sign-in is not available</source>
@@ -7853,7 +7845,7 @@ Motiu:
     </message>
     <message>
         <source>Ctrl+K</source>
-        <translation type="unfinished">Ctrl+K</translation>
+        <translation>Ctrl+K</translation>
     </message>
     <message>
         <source>Edit Inst&amp;ance...</source>
@@ -8051,12 +8043,12 @@ Motiu:
     <message>
         <source>&amp;Create instance</source>
         <oldsource>Create instance</oldsource>
-        <translation type="unfinished">Crear instància</translation>
+        <translation>Crear instància</translation>
     </message>
     <message>
         <source>&amp;Delete group</source>
         <oldsource>Delete group &apos;%1&apos;</oldsource>
-        <translation type="unfinished">Eliminar grup &apos;%1&apos;</translation>
+        <translation>Eliminar grup &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
@@ -8124,7 +8116,7 @@ Si us plau, afegeix un compte de Mojang o Minecraft.</translation>
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">Descàrrega del paquet de mods</translation>
+        <translation>Descàrrega del paquet de mods</translation>
     </message>
     <message>
         <source>Group name</source>
@@ -8168,7 +8160,7 @@ Si us plau, afegeix un compte de Mojang o Minecraft.</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar eliminació</translation>
+        <translation>Confirmar eliminació</translation>
     </message>
     <message>
         <source>There are linked instances</source>
@@ -8344,7 +8336,7 @@ Per fer-ho manualment, ves a Carpetes -&gt; Veure carpeta arrel del llançador, 
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> i el seu %n enllaç directe registrat</numerusform>
+            <numerusform>i el seu %n enllaç directe registrat</numerusform>
             <numerusform> i els seus %n enllaços directes registrats</numerusform>
         </translation>
     </message>
@@ -8420,7 +8412,7 @@ Vols continuar?</translation>
     </message>
     <message>
         <source>Accounts</source>
-        <translation type="unfinished">Comptes</translation>
+        <translation>Comptes</translation>
     </message>
     <message>
         <source>Couldn&apos;t create folder for update downloads:
@@ -8497,11 +8489,11 @@ Només pots actualitzar-lo amb un arxiu en format %1
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avisos</translation>
+        <translation>Avisos</translation>
     </message>
     <message>
         <source>Task aborted</source>
@@ -8557,7 +8549,7 @@ Make sure you also trust the URL.
     </message>
     <message>
         <source>Update Failed</source>
-        <translation type="unfinished">Actualització fallida</translation>
+        <translation>Actualització fallida</translation>
     </message>
     <message>
         <source>The instance failed to update to pack version %1. Please check launcher logs for more information.</source>
@@ -8573,7 +8565,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar actualització</translation>
+        <translation>Confirmar actualització</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -8602,7 +8594,7 @@ Are you sure?</source>
     <name>Meta::Index</name>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Load meta for %1:%2</source>
@@ -8633,7 +8625,7 @@ Are you sure?</source>
     <name>MinecraftAccount</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Avortat</translation>
+        <translation>Avortat</translation>
     </message>
 </context>
 <context>
@@ -8648,7 +8640,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Ctrl+Shift+O</source>
-        <translation type="unfinished">Ctrl+Shift+O</translation>
+        <translation>Ctrl+Shift+O</translation>
     </message>
     <message>
         <source>Launch &amp;Demo</source>
@@ -8656,7 +8648,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Ctrl+Alt+O</source>
-        <translation type="unfinished">Ctrl+Alt+O</translation>
+        <translation>Ctrl+Alt+O</translation>
     </message>
     <message>
         <source>Launch &amp;As</source>
@@ -8664,7 +8656,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Profilers</source>
-        <translation type="unfinished">Perfiladors</translation>
+        <translation>Perfiladors</translation>
     </message>
     <message>
         <source>&amp;No Profiler</source>
@@ -8704,7 +8696,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Minecraft %1</source>
-        <translation type="unfinished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
     <message>
         <source>, last played on %1 for %2</source>
@@ -8968,11 +8960,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>The settings here are overrides for global settings.</source>
-        <translation type="unfinished">Aquesta configuració anul·la la configuració global.</translation>
+        <translation>Aquesta configuració anul·la la configuració global.</translation>
     </message>
     <message>
         <source>General</source>
-        <translation type="unfinished">General</translation>
+        <translation>General</translation>
     </message>
     <message>
         <source>Game &amp;Window</source>
@@ -9008,11 +9000,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Show time spent &amp;playing instances</source>
-        <translation type="unfinished">Mostrar el tem&amp;ps jugat a les instàncies</translation>
+        <translation>Mostrar el tem&amp;ps jugat a les instàncies</translation>
     </message>
     <message>
         <source>&amp;Record time spent playing instances</source>
-        <translation type="unfinished">G&amp;rabar el temps jugant les instàncies</translation>
+        <translation>G&amp;rabar el temps jugant les instàncies</translation>
     </message>
     <message>
         <source>Show the &amp;total time played across instances</source>
@@ -9044,7 +9036,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Java</source>
-        <translation type="unfinished">Java</translation>
+        <translation>Java</translation>
     </message>
     <message>
         <source>Tweaks</source>
@@ -9056,11 +9048,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emulates usages of old online services which are no longer operating.&lt;/p&gt;&lt;p&gt;Current fixes include: skin and online mode support.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula l&apos;ús de serveis en línia antics que ja no es troben operatius.&lt;/p&gt;&lt;p&gt;Les correccions inclouen: aspectes i compatibilitat amb el mode en línia.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Emula l&apos;ús de serveis en línia antics que ja no es troben operatius.&lt;/p&gt;&lt;p&gt;Les correccions inclouen: aspectes i compatibilitat amb el mode en línia.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable online fixes (experimental)</source>
-        <translation type="unfinished">Activa les correccions en línia (experimental)</translation>
+        <translation>Activa les correccions en línia (experimental)</translation>
     </message>
     <message>
         <source>&amp;Native Libraries</source>
@@ -9068,11 +9060,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
-        <translation type="unfinished">Utilitza la instal·lació de OpenAL del sistema</translation>
+        <translation>Utilitza la instal·lació de OpenAL del sistema</translation>
     </message>
     <message>
         <source>Use system installation of GLFW</source>
-        <translation type="unfinished">Utilitza la instal·lació de GLFW del sistema</translation>
+        <translation>Utilitza la instal·lació de GLFW del sistema</translation>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
@@ -9088,7 +9080,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>×</source>
-        <translation type="unfinished">×</translation>
+        <translation>×</translation>
     </message>
     <message>
         <source>pixels</source>
@@ -9154,43 +9146,43 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Fabric heretat</translation>
+        <translation>Fabric heretat</translation>
     </message>
     <message>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <source>Rift</source>
-        <translation type="unfinished">Rift</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <source>Always use the latest minecraft version</source>
@@ -9198,7 +9190,7 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">Versió estable</translation>
+        <translation>Versió estable</translation>
     </message>
     <message>
         <source>Any</source>
@@ -9226,51 +9218,51 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable Feral Interactive&apos;s GameMode, to potentially improve gaming performance.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activa GameMode de Feral Interactive per una possible millora del rendiment dels jocs.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activa GameMode de Feral Interactive per una possible millora del rendiment dels jocs.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable Feral GameMode</source>
-        <translation type="unfinished">Activar GameMode de Feral</translation>
+        <translation>Activar GameMode de Feral</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Enable MangoHud&apos;s advanced performance overlay.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activa la interfície de rendiment avançat de MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Activa la interfície de rendiment avançat de MangoHud.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Enable MangoHud</source>
-        <translation type="unfinished">Activa MangoHud</translation>
+        <translation>Activa MangoHud</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Use the discrete GPU instead of the primary GPU.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Utilitza la GPU dedicada en comptes de la GPU integrada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Utilitza la GPU dedicada en comptes de la GPU integrada.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Use discrete GPU</source>
-        <translation type="unfinished">Utilitzar GPU dedicada</translation>
+        <translation>Utilitzar GPU dedicada</translation>
     </message>
     <message>
         <source>Use Zink, a Mesa OpenGL driver that implements OpenGL on top of Vulkan. Performance may vary depending on the situation. Note: If no suitable Vulkan driver is found, software rendering will be used.</source>
-        <translation type="unfinished">Utilitza Zink, un controlador de Mesa OpenGL que implementa OpenGL per sobre de Vulkan. El rendiment pot variar depenent de la situació. Nota: si no es troba cap controlador Vulkan apte, s&apos;utilitzarà el renderitzat per programari.</translation>
+        <translation>Utilitza Zink, un controlador de Mesa OpenGL que implementa OpenGL per sobre de Vulkan. El rendiment pot variar depenent de la situació. Nota: si no es troba cap controlador Vulkan apte, s&apos;utilitzarà el renderitzat per programari.</translation>
     </message>
     <message>
         <source>Use Zink</source>
-        <translation type="unfinished">Utilitza Zink</translation>
+        <translation>Utilitza Zink</translation>
     </message>
     <message>
         <source>Account:</source>
-        <translation type="unfinished">Compte:</translation>
+        <translation>Compte:</translation>
     </message>
     <message>
         <source>Server address:</source>
-        <translation type="unfinished">Adreça del servidor:</translation>
+        <translation>Adreça del servidor:</translation>
     </message>
     <message>
         <source>Custom Commands</source>
-        <translation type="unfinished">Comandaments personalitzats</translation>
+        <translation>Comandaments personalitzats</translation>
     </message>
     <message>
         <source>Environment Variables</source>
-        <translation type="unfinished">Variables d&apos;entorn</translation>
+        <translation>Variables d&apos;entorn</translation>
     </message>
     <message>
         <source>Show time &amp;playing this instance</source>
@@ -9286,15 +9278,15 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
     </message>
     <message>
         <source>Feral Interactive&apos;s GameMode could not be found on your system.</source>
-        <translation type="unfinished">No s&apos;ha trobat el GameMode de Feral Interactive al teu sistema.</translation>
+        <translation>No s&apos;ha trobat el GameMode de Feral Interactive al teu sistema.</translation>
     </message>
     <message>
         <source>MangoHud could not be found on your system.</source>
-        <translation type="unfinished">No s&apos;ha trobat el MangoHud al teu sistema.</translation>
+        <translation>No s&apos;ha trobat el MangoHud al teu sistema.</translation>
     </message>
     <message>
         <source>Path to %1 library file</source>
-        <translation type="unfinished">Ruta a l&apos;arxiu de la biblioteca %1</translation>
+        <translation>Ruta a l&apos;arxiu de la biblioteca %1</translation>
     </message>
     <message>
         <source>Select Global Data Packs Folder</source>
@@ -9328,7 +9320,7 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">Afegir</translation>
+        <translation>Afegir</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -9383,7 +9375,7 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
     </message>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Categories</source>
@@ -9395,19 +9387,19 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>Show More</source>
@@ -9415,7 +9407,7 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
@@ -9483,7 +9475,7 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Desconegut</translation>
+        <translation>Desconegut</translation>
     </message>
     <message>
         <source>Advanced exclusions</source>
@@ -9551,7 +9543,7 @@ Probablement, hauràs de canviar la ruta. Si us plau, comprova-ho a la web del m
     </message>
     <message>
         <source>All Versions</source>
-        <translation type="unfinished">Totes les versions</translation>
+        <translation>Totes les versions</translation>
     </message>
 </context>
 <context>
@@ -9613,11 +9605,11 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Última modificació</translation>
+        <translation>Última modificació</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Mida</translation>
+        <translation>Mida</translation>
     </message>
     <message>
         <source>Side</source>
@@ -9645,11 +9637,11 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nom d&apos;arxiu</translation>
+        <translation>Nom d&apos;arxiu</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualitzar</translation>
+        <translation>Actualitzar</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -9930,7 +9922,7 @@ Ignoring them may break the game.</source>
     </message>
     <message>
         <source>Confirm Delete</source>
-        <translation type="unfinished">Confirmar Eliminació</translation>
+        <translation>Confirmar Eliminació</translation>
     </message>
     <message>
         <source>If you remove mods while the game is running it may crash your game.
@@ -9982,7 +9974,7 @@ Els vols desactivar?</translation>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar actualització</translation>
+        <translation>Confirmar actualització</translation>
     </message>
     <message>
         <source>Updating mods while the game is running may cause mod duplication and game crashes.
@@ -10005,11 +9997,11 @@ De veritat que vols continuar?</translation>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Comprovador d&apos;actualitzacions</translation>
+        <translation>Comprovador d&apos;actualitzacions</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminació</translation>
+        <translation>Confirmar Eliminació</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 mods.
@@ -10041,7 +10033,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; està actualitzat! :)</translation>
+        <translation>&apos;%1&apos; està actualitzat! :)</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -10062,7 +10054,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Mods</source>
-        <translation type="unfinished">Mods</translation>
+        <translation>Mods</translation>
     </message>
 </context>
 <context>
@@ -10348,19 +10340,19 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">No està instal·lat</translation>
+        <translation>No està instal·lat</translation>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Desconegut</translation>
+        <translation>Desconegut</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version / mod loader.</source>
-        <translation type="unfinished">No s&apos;ha trobat cap versió vàlida per a aquest recurs. Probablement no estigui disponible per a la versió actual del joc / carregador de mods.</translation>
+        <translation>No s&apos;ha trobat cap versió vàlida per a aquest recurs. Probablement no estigui disponible per a la versió actual del joc / carregador de mods.</translation>
     </message>
     <message>
         <source>No valid version found for this resource. It&apos;s probably unavailable for the current game version.</source>
-        <translation type="unfinished">No s&apos;ha trobat cap versió vàlida per a aquest recurs. Probablement no estigui disponible per a la versió actual del joc.</translation>
+        <translation>No s&apos;ha trobat cap versió vàlida per a aquest recurs. Probablement no estigui disponible per a la versió actual del joc.</translation>
     </message>
     <message>
         <source>Waiting for the API response from Modrinth...</source>
@@ -10379,7 +10371,7 @@ Si us plau, actualitza %1!</translation>
     <name>ModrinthCreationTask</name>
     <message>
         <source> (version %1)</source>
-        <translation type="unfinished"> (versió %1)</translation>
+        <translation>(versió %1)</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -10387,17 +10379,16 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>No index file.</source>
-        <translation type="unfinished">No n&apos;hi ha fitxer d&apos;índex.</translation>
+        <translation>No n&apos;hi ha fitxer d&apos;índex.</translation>
     </message>
     <message>
         <source>We couldn&apos;t find a suitable index file for the older version. This may cause some of the files to be duplicated. Do you want to continue?</source>
-        <translation type="unfinished">No hem pogut trobar un fitxer d&apos;index apropiat per a la versió anterior. Això pot causar la duplicació d&apos;alguns fitxers. Vols continuar?</translation>
+        <translation>No hem pogut trobar un fitxer d&apos;index apropiat per a la versió anterior. Això pot causar la duplicació d&apos;alguns fitxers. Vols continuar?</translation>
     </message>
     <message>
         <source>Could not rename the overrides folder:
 </source>
-        <translation type="unfinished">No hem pogut canviar el nom de la carpeta de substitucions:
-</translation>
+        <translation>No hem pogut canviar el nom de la carpeta de substitucions:</translation>
     </message>
     <message>
         <source>Could not rename the client overrides folder:
@@ -10419,7 +10410,7 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 de %2 completat</translation>
+        <translation>%1 de %2 completat</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
@@ -10427,11 +10418,11 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">Eliminant fitxers conflictius antics...</translation>
+        <translation>Eliminant fitxers conflictius antics...</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">No s&apos;han pogut eliminar els arxius conflictius antics.</translation>
+        <translation>No s&apos;han pogut eliminar els arxius conflictius antics.</translation>
     </message>
     <message>
         <source>Optional mod detected!</source>
@@ -10448,15 +10439,14 @@ Si us plau, actualitza %1!</translation>
     <message>
         <source>Could not understand pack index:
 </source>
-        <translation type="unfinished">No s&apos;ha pogut processar l&apos;índex del paquet:
-</translation>
+        <translation>No s&apos;ha pogut processar l&apos;índex del paquet:</translation>
     </message>
 </context>
 <context>
     <name>ModrinthManagedPackPage</name>
     <message>
         <source>%1 (Current)</source>
-        <translation type="unfinished">%1 (Actual)</translation>
+        <translation>%1 (Actual)</translation>
     </message>
     <message>
         <source>Fetching changelogs...</source>
@@ -10464,11 +10454,11 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Choose update file</source>
-        <translation type="unfinished">Escollir fitxer d&apos;actualització</translation>
+        <translation>Escollir fitxer d&apos;actualització</translation>
     </message>
     <message>
         <source>Modrinth pack</source>
-        <translation type="unfinished">Pack de Modrinth</translation>
+        <translation>Pack de Modrinth</translation>
     </message>
 </context>
 <context>
@@ -10498,19 +10488,19 @@ Si us plau, actualitza %1!</translation>
     <name>ModrinthPackExportTask</name>
     <message>
         <source>Searching for files...</source>
-        <translation type="unfinished">Buscant fitxer...</translation>
+        <translation>Buscant fitxer...</translation>
     </message>
     <message>
         <source>Could not search for files</source>
-        <translation type="unfinished">No s&apos;ha pogut cercar fitxers</translation>
+        <translation>No s&apos;ha pogut cercar fitxers</translation>
     </message>
     <message>
         <source>Finding file hashes...</source>
-        <translation type="unfinished">Trobant hashes de fitxers...</translation>
+        <translation>Trobant hashes de fitxers...</translation>
     </message>
     <message>
         <source>Finding versions for hashes...</source>
-        <translation type="unfinished">Trobant versions per a hashes...</translation>
+        <translation>Trobant versions per a hashes...</translation>
     </message>
     <message>
         <source>Failed to parse versions response: %1</source>
@@ -10518,19 +10508,19 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Adding files...</source>
-        <translation type="unfinished">Afegit fitxers...</translation>
+        <translation>Afegit fitxers...</translation>
     </message>
 </context>
 <context>
     <name>ModrinthPage</name>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Filtrar opcions</translation>
+        <translation>Filtrar opcions</translation>
     </message>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">Cercar i filtrar...</translation>
+        <translation>Cercar i filtrar...</translation>
     </message>
     <message>
         <source>Filter</source>
@@ -10572,7 +10562,7 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source> by </source>
@@ -10588,19 +10578,19 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Enllaços externs:</translation>
+        <translation>Enllaços externs:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problemes: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemes: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Codi font: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Codi font: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -10672,26 +10662,26 @@ Si us plau, actualitza %1!</translation>
     <name>Net::Request</name>
     <message>
         <source>Requesting %1</source>
-        <translation type="unfinished">Sol·licitant %1</translation>
+        <translation>Sol·licitant %1</translation>
     </message>
     <message>
         <source>%1 / %2</source>
         <extracomment>Current amount of bytes downloaded, out of the total amount of bytes in the download</extracomment>
-        <translation type="unfinished">%1 / %2</translation>
+        <translation>%1 / %2</translation>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">desconegut</translation>
+        <translation>desconegut</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
         <extracomment>Download speed, in bytes per second (remaining download time in parenthesis)</extracomment>
-        <translation type="unfinished">%1 /s (%2)</translation>
+        <translation>%1 /s (%2)</translation>
     </message>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished">0 B/s</translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
@@ -10712,7 +10702,7 @@ Si us plau, actualitza %1!</translation>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
-        <translation type="unfinished">
+        <translation>
             <numerusform>Freqüencia limitada: Esprant %n segon</numerusform>
             <numerusform>Freqüencia limitada: Esprant %n segons</numerusform>
         </translation>
@@ -10739,7 +10729,7 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">Executant %1 tasca(s) (%2 de %3 han finalitzat)</translation>
+        <translation>Executant %1 tasca(s) (%2 de %3 han finalitzat)</translation>
     </message>
 </context>
 <context>
@@ -10754,11 +10744,11 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>What would you like to do?</source>
@@ -10797,11 +10787,11 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
 </context>
 <context>
@@ -10828,15 +10818,15 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Ajuda</translation>
+        <translation>Ajuda</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -11126,11 +11116,11 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instal·la</translation>
+        <translation>Instal·la</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
 </context>
 <context>
@@ -11153,11 +11143,11 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
 </context>
 <context>
@@ -11172,7 +11162,7 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Scroll all the way to bottom</source>
-        <translation type="unfinished">Llisca fins a baix del tot</translation>
+        <translation>Llisca fins a baix del tot</translation>
     </message>
     <message>
         <source>&amp;Bottom</source>
@@ -11196,15 +11186,15 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Keep updating</source>
-        <translation type="unfinished">Continua actualitzant</translation>
+        <translation>Continua actualitzant</translation>
     </message>
     <message>
         <source>Wrap lines</source>
-        <translation type="unfinished">Ajustar línies</translation>
+        <translation>Ajustar línies</translation>
     </message>
     <message>
         <source>Color lines</source>
-        <translation type="unfinished">Línies de color</translation>
+        <translation>Línies de color</translation>
     </message>
     <message>
         <source>Copy the whole log into the clipboard</source>
@@ -11216,7 +11206,7 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Upload the log to the paste service configured in preferences</source>
-        <translation type="unfinished">Puja el registre al servei configurat a les preferències</translation>
+        <translation>Puja el registre al servei configurat a les preferències</translation>
     </message>
     <message>
         <source>&amp;Upload</source>
@@ -11232,7 +11222,7 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cercar</translation>
+        <translation>Cercar</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -11265,7 +11255,7 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">No es pot mostrar aquest registre, ja que sobrepassa les %1 línies.</translation>
+        <translation>No es pot mostrar aquest registre, ja que sobrepassa les %1 línies.</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -11293,7 +11283,7 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar eliminació</translation>
+        <translation>Confirmar eliminació</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -11321,7 +11311,7 @@ Vols continuar?</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Esborra</translation>
+        <translation>Esborra</translation>
     </message>
     <message>
         <source>Do you really want to delete %1?</source>
@@ -11364,75 +11354,75 @@ Vols continuar?</translation>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">Mode d&apos;instal·lació no admès</translation>
+        <translation>Mode d&apos;instal·lació no admès</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per &apos;%1&apos; v%2</translation>
+        <translation>No s&apos;ha pogut obtenir l&apos;índex de les metadades locals per &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">Eliminant fitxers existents...</translation>
+        <translation>Eliminant fitxers existents...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">Tipus de mod desconegut: %1</translation>
+        <translation>Tipus de mod desconegut: %1</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">Tipus de baixada desconeguda o no admesa: %1</translation>
+        <translation>Tipus de baixada desconeguda o no admesa: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">Baixant configuracions...</translation>
+        <translation>Baixant configuracions...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">Baixada de configuracions</translation>
+        <translation>Baixada de configuracions</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">Extraient configuracions...</translation>
+        <translation>Extraient configuracions...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">Triant mods opcionals...</translation>
+        <translation>Triant mods opcionals...</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">Tipus de baixada desconeguda: %1</translation>
+        <translation>Tipus de baixada desconeguda: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">S&apos;han trobat mods bloquejats</translation>
+        <translation>S&apos;han trobat mods bloquejats</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">%1 de %2 completat</translation>
+        <translation>%1 de %2 completat</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">No s&apos;han pogut extreure els mods...</translation>
+        <translation>No s&apos;han pogut extreure els mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">Extraient els mods...</translation>
+        <translation>Extraient els mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="unfinished">Instal·lant el paquet de mods</translation>
+        <translation>Instal·lant el paquet de mods</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">Error al crear component de les llibreries</translation>
+        <translation>Error al crear component de les llibreries</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">Tipus de carregador desconegut: </translation>
+        <translation>Tipus de carregador desconegut:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">Fallida en crear un component del paquet</translation>
+        <translation>Fallida en crear un component del paquet</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -11472,7 +11462,7 @@ Vols continuar?</translation>
     <name>PackProfile</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">Avortat</translation>
+        <translation>Avortat</translation>
     </message>
     <message>
         <source>Name</source>
@@ -11499,7 +11489,7 @@ Vols continuar?</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">Ajuda</translation>
+        <translation>Ajuda</translation>
     </message>
 </context>
 <context>
@@ -11611,7 +11601,7 @@ Missatge de l&apos;error: %3</translation>
     <name>PrismExternalUpdater</name>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Buscant actualitzacions...</translation>
+        <translation>Buscant actualitzacions...</translation>
     </message>
     <message>
         <source>Update Check Failed</source>
@@ -12004,11 +11994,11 @@ Per sobreescriure el fitxer lock i continuar amb l&apos;actualització, prem &qu
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
 </context>
 <context>
@@ -12027,11 +12017,11 @@ Elegeix un nom amb cura:</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -12458,17 +12448,17 @@ Si us plau, feu-nos saber per què i com va passar això.</translation>
     <message>
         <source>%1min %2s</source>
         <oldsource>%1m %2s</oldsource>
-        <translation type="unfinished">%1m %2s</translation>
+        <translation>%1m %2s</translation>
     </message>
     <message>
         <source>%1h %2min</source>
         <oldsource>%1h %2m</oldsource>
-        <translation type="unfinished">%1h %2m</translation>
+        <translation>%1h %2m</translation>
     </message>
     <message>
         <source>%1d %2h %3min</source>
         <oldsource>%1d %2h %3m</oldsource>
-        <translation type="unfinished">%1d %2h %3m</translation>
+        <translation>%1d %2h %3m</translation>
     </message>
     <message>
         <source>days</source>
@@ -12476,7 +12466,7 @@ Si us plau, feu-nos saber per què i com va passar això.</translation>
     </message>
     <message>
         <source>h</source>
-        <translation type="unfinished">h</translation>
+        <translation>h</translation>
     </message>
     <message>
         <source>m</source>
@@ -12484,7 +12474,7 @@ Si us plau, feu-nos saber per què i com va passar això.</translation>
     </message>
     <message>
         <source>s</source>
-        <translation type="unfinished">s</translation>
+        <translation>s</translation>
     </message>
     <message>
         <source>ms</source>
@@ -12536,7 +12526,7 @@ Aquest missatge es mostrarà fins que ho elimineu dels arguments de la JVM.</tra
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">No s&apos;ha pogut trobar la llibreria de comprovació de Java. Si us plau, revisa la teva instal·lació.</translation>
+        <translation>No s&apos;ha pogut trobar la llibreria de comprovació de Java. Si us plau, revisa la teva instal·lació.</translation>
     </message>
     <message>
         <source>Download of meta file %1</source>
@@ -12687,7 +12677,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">desconegut</translation>
+        <translation>desconegut</translation>
     </message>
     <message>
         <source>Sort by Featured</source>
@@ -12695,11 +12685,11 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Popularity</source>
-        <translation type="unfinished">Ordenar per popularitat</translation>
+        <translation>Ordenar per popularitat</translation>
     </message>
     <message>
         <source>Sort by Last Updated</source>
-        <translation type="unfinished">Ordenar per última actualització</translation>
+        <translation>Ordenar per última actualització</translation>
     </message>
     <message>
         <source>Sort by Name</source>
@@ -12707,11 +12697,11 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Author</source>
-        <translation type="unfinished">Ordenar per autor</translation>
+        <translation>Ordenar per autor</translation>
     </message>
     <message>
         <source>Sort by Downloads</source>
-        <translation type="unfinished">Ordena per nombre de descàrregues</translation>
+        <translation>Ordena per nombre de descàrregues</translation>
     </message>
     <message>
         <source>Sort by Category</source>
@@ -12719,19 +12709,19 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Sort by Game Version</source>
-        <translation type="unfinished">Ordenar per versió de joc</translation>
+        <translation>Ordenar per versió de joc</translation>
     </message>
     <message>
         <source>Sort by Relevance</source>
-        <translation type="unfinished">Ordena per rellevància</translation>
+        <translation>Ordena per rellevància</translation>
     </message>
     <message>
         <source>Sort by Follows</source>
-        <translation type="unfinished">Ordena per nombre de seguidors</translation>
+        <translation>Ordena per nombre de seguidors</translation>
     </message>
     <message>
         <source>Sort by Newest</source>
-        <translation type="unfinished">Ordenar per novetat</translation>
+        <translation>Ordenar per novetat</translation>
     </message>
     <message>
         <source>Ungrouped</source>
@@ -12751,7 +12741,7 @@ Would you like to remove those existing saves as part of this update?</source>
     </message>
     <message>
         <source>Unknown</source>
-        <translation type="unfinished">Desconegut</translation>
+        <translation>Desconegut</translation>
     </message>
     <message>
         <source>No compatible version of %1 found for %2 %3</source>
@@ -12784,47 +12774,47 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">No seleccionat</translation>
+        <translation>No seleccionat</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desconnectat</translation>
+        <translation>Desconnectat</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Llest</translation>
+        <translation>Llest</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Treballant</translation>
+        <translation>Treballant</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Fallit</translation>
+        <translation>Fallit</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Expirat</translation>
+        <translation>Expirat</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Deshabilitat</translation>
+        <translation>Deshabilitat</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desaparegut</translation>
+        <translation>Desaparegut</translation>
     </message>
     <message>
         <source>Unknown</source>
         <comment>Account status</comment>
-        <translation type="unfinished">Desconegut</translation>
+        <translation>Desconegut</translation>
     </message>
     <message>
         <source>Cannot rename instance</source>
@@ -12869,7 +12859,7 @@ New name: %2</source>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="unfinished">Hi ha instàncies enllaçades</translation>
+        <translation>Hi ha instàncies enllaçades</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -12906,11 +12896,11 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Create Shortcut</source>
-        <translation type="unfinished">Crear accés directe</translation>
+        <translation>Crear accés directe</translation>
     </message>
     <message>
         <source>The launcher is in the folder it was extracted from, therefore it cannot create shortcuts.</source>
-        <translation type="unfinished">El llançador es troba a la carpeta en què es va extreure, per tant, no es poden crear accessos directes.</translation>
+        <translation>El llançador es troba a la carpeta en què es va extreure, per tant, no es poden crear accessos directes.</translation>
     </message>
     <message>
         <source>Failed to create icon for application: %1</source>
@@ -12922,7 +12912,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Launcher is running as misconfigured AppImage? ($APPIMAGE environment variable is missing)</source>
-        <translation type="unfinished">Estàs executant el llançador com una AppImage configurada de forma incorrecta? (Falta la variable d&apos;entorn $APPIMAGE)</translation>
+        <translation>Estàs executant el llançador com una AppImage configurada de forma incorrecta? (Falta la variable d&apos;entorn $APPIMAGE)</translation>
     </message>
     <message>
         <source>Failed to create icon for shortcut: %1</source>
@@ -12930,11 +12920,11 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Failed to create icon for shortcut.</source>
-        <translation type="unfinished">No s&apos;ha pogut crear la icona per a l&apos;enllaç directe.</translation>
+        <translation>No s&apos;ha pogut crear la icona per a l&apos;enllaç directe.</translation>
     </message>
     <message>
         <source>Not supported on your platform!</source>
-        <translation type="unfinished">No és compatible amb la teva plataforma!</translation>
+        <translation>No és compatible amb la teva plataforma!</translation>
     </message>
     <message>
         <source>Failed to create %1 shortcut!</source>
@@ -12942,7 +12932,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Couldn&apos;t find desktop?!</source>
-        <translation type="unfinished">No s&apos;ha pogut trobar l&apos;escriptori?!</translation>
+        <translation>No s&apos;ha pogut trobar l&apos;escriptori?!</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1 on your desktop!</source>
@@ -12962,7 +12952,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Desktop Entries</source>
-        <translation type="unfinished">Entrades de l&apos;escriptori</translation>
+        <translation>Entrades de l&apos;escriptori</translation>
     </message>
     <message>
         <source>Created a shortcut to this %1!</source>
@@ -12982,7 +12972,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Error: %1 returned a malformed response body</source>
-        <translation type="unfinished">Error: %1 ha retornat amb un cos de resposta no vàlid</translation>
+        <translation>Error: %1 ha retornat amb un cos de resposta no vàlid</translation>
     </message>
     <message>
         <source>Failed to parse response from mclogs server: expected JSON but got an invalid response. Error: %1</source>
@@ -12990,7 +12980,7 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>Error: %1 returned an error: %2</source>
-        <translation type="unfinished">Error: %1 ha retornat amb un error: %2</translation>
+        <translation>Error: %1 ha retornat amb un error: %2</translation>
     </message>
     <message>
         <source>Failed to parse response from pasteGG server: expected JSON but got an invalid response. Error: %1</source>
@@ -12999,8 +12989,7 @@ Do you wish to proceed?</source>
     <message>
         <source>Error: %1 returned an error code: %2
 Error message: %3</source>
-        <translation type="unfinished">Error: %1 ha retornat el codi d&apos;error: %2
-Missatge de l&apos;error: %3</translation>
+        <translation>Error: %1 ha retornat el codi d&apos;error: %2</translation>
     </message>
     <message>
         <source>Unknown paste type</source>
@@ -13021,7 +13010,7 @@ Missatge de l&apos;error: %3</translation>
     </message>
     <message>
         <source>%1 Developers</source>
-        <translation type="unfinished">Desenvolupadors de %1</translation>
+        <translation>Desenvolupadors de %1</translation>
     </message>
     <message>
         <source>MultiMC Developers</source>
@@ -13037,7 +13026,7 @@ Missatge de l&apos;error: %3</translation>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">No reconegut</translation>
+        <translation>No reconegut</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -13147,11 +13136,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avisos</translation>
+        <translation>Avisos</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13159,11 +13148,11 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Buscant dependències...</translation>
+        <translation>Buscant dependències...</translation>
     </message>
     <message>
         <source>Change %1 version</source>
-        <translation type="unfinished">Canvia a la versió %1</translation>
+        <translation>Canvia a la versió %1</translation>
     </message>
     <message>
         <source>mods</source>
@@ -13198,7 +13187,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -13215,13 +13204,12 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>A network error occurred. Could not load mods.</source>
-        <translation type="unfinished">Hi ha hagut un error a la xarxa. No s&apos;han pogut carregar els mods.</translation>
+        <translation>Hi ha hagut un error a la xarxa. No s&apos;han pogut carregar els mods.</translation>
     </message>
     <message>
         <source>API version too old!
 Please update %1!</source>
-        <translation type="unfinished">La versió de l&apos;API és molt vella!
-Si us plau, actualitza %1!</translation>
+        <translation>La versió de l&apos;API és molt vella!</translation>
     </message>
 </context>
 <context>
@@ -13237,35 +13225,35 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> per </translation>
+        <translation>per</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
-        <translation type="unfinished">&lt;b&gt;S&apos;ha arxivat aquest projecte. No rebrà cap actualització més mentre l&apos;autor no decideixi desarxivar-lo.&lt;/b&gt;</translation>
+        <translation>&lt;b&gt;S&apos;ha arxivat aquest projecte. No rebrà cap actualització més mentre l&apos;autor no decideixi desarxivar-lo.&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Donate information: </source>
-        <translation type="unfinished">Donar informació: </translation>
+        <translation>Donar informació:</translation>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">Enllaços externs:</translation>
+        <translation>Enllaços externs:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Problemes: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Problemes: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Codi font: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Codi font: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>No version available for the selected pack</source>
@@ -13282,11 +13270,11 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>No valid version found.</source>
-        <translation type="unfinished">No s&apos;han trobat versions vàlides.</translation>
+        <translation>No s&apos;han trobat versions vàlides.</translation>
     </message>
     <message>
         <source>Cannot select invalid version :(</source>
-        <translation type="unfinished">No es pot seleccionar una versió invàlida :(</translation>
+        <translation>No es pot seleccionar una versió invàlida :(</translation>
     </message>
     <message>
         <source> [selected]</source>
@@ -13295,7 +13283,7 @@ Si us plau, actualitza %1!</translation>
     </message>
     <message>
         <source>Loading versions...</source>
-        <translation type="unfinished">Carregant versions...</translation>
+        <translation>Carregant versions...</translation>
     </message>
     <message>
         <source>No versions available</source>
@@ -13316,7 +13304,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -13345,19 +13333,16 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-Precaució: Aquest recurs està enllaçat simbòlicament des d&apos;una altra ubicació. Canviar-lo també modificarà l&apos;original.
-Ruta canònica: %1</translation>
+        <translation>Precaució: Aquest recurs està enllaçat simbòlicament des d&apos;una altra ubicació. Canviar-lo també modificarà l&apos;original.</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Canviar-lo també modificarà l&apos;original.</translation>
+        <translation>Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Canviar-lo també modificarà l&apos;original.</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -13365,27 +13350,27 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Última modificació</translation>
+        <translation>Última modificació</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versió</translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Mida</translation>
+        <translation>Mida</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Proveïdor</translation>
+        <translation>Proveïdor</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nom d&apos;arxiu</translation>
+        <translation>Nom d&apos;arxiu</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualitzar</translation>
+        <translation>Actualitzar</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -13439,7 +13424,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">Imatge</translation>
+        <translation>Imatge</translation>
     </message>
 </context>
 <context>
@@ -13458,27 +13443,27 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Última modificació</translation>
+        <translation>Última modificació</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versió</translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Mida</translation>
+        <translation>Mida</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Proveïdor</translation>
+        <translation>Proveïdor</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nom d&apos;arxiu</translation>
+        <translation>Nom d&apos;arxiu</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualitzar</translation>
+        <translation>Actualitzar</translation>
     </message>
     <message>
         <source>The file name of the resource pack.</source>
@@ -13521,11 +13506,11 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">Format del pack</translation>
+        <translation>Format del pack</translation>
     </message>
     <message>
         <source>Last changed</source>
@@ -13552,7 +13537,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Baixar paquets</translation>
+        <translation>Baixar paquets</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -13564,11 +13549,11 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Change a mod&apos;s version.</source>
-        <translation type="unfinished">Canvia la versió d&apos;un mod.</translation>
+        <translation>Canvia la versió d&apos;un mod.</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -13580,7 +13565,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avisos</translation>
+        <translation>Avisos</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13592,7 +13577,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar actualització</translation>
+        <translation>Confirmar actualització</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -13602,7 +13587,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; està actualitzat! :)</translation>
+        <translation>&apos;%1&apos; està actualitzat! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -13614,11 +13599,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Comprovador d&apos;actualitzacions</translation>
+        <translation>Comprovador d&apos;actualitzacions</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminació</translation>
+        <translation>Confirmar Eliminació</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -13638,11 +13623,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version selected:</source>
-        <translation type="unfinished">Versió seleccionada:</translation>
+        <translation>Versió seleccionada:</translation>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">Filtrar opcions</translation>
+        <translation>Filtrar opcions</translation>
     </message>
 </context>
 <context>
@@ -13661,11 +13646,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Mod name: %1&lt;br&gt;File name: %2&lt;br&gt;Reason: %3&lt;br&gt;&lt;br&gt;</source>
-        <translation type="unfinished">Nom del mod: %1&lt;br&gt;Nom del fitxer: %2&lt;br&gt;Raó: %3&lt;br&gt;&lt;br&gt;</translation>
+        <translation>Nom del mod: %1&lt;br&gt;Nom del fitxer: %2&lt;br&gt;Raó: %3&lt;br&gt;&lt;br&gt;</translation>
     </message>
     <message>
         <source>Metadata generation failed</source>
-        <translation type="unfinished">No s&apos;han pogut crear les metadades</translation>
+        <translation>No s&apos;han pogut crear les metadades</translation>
     </message>
     <message>
         <source>Could not generate metadata for the following resources:&lt;br&gt;Do you wish to proceed without those resources?</source>
@@ -13673,15 +13658,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates</source>
-        <translation type="unfinished">Buscant actualitzacions</translation>
+        <translation>Buscant actualitzacions</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avisos</translation>
+        <translation>Avisos</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13689,24 +13674,24 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for updates...</source>
-        <translation type="unfinished">Buscant actualitzacions...</translation>
+        <translation>Buscant actualitzacions...</translation>
     </message>
     <message>
         <source>Mod name: %1</source>
-        <translation type="unfinished">Nom del mod: %1</translation>
+        <translation>Nom del mod: %1</translation>
     </message>
     <message>
         <source>Reason: %1</source>
-        <translation type="unfinished">Raó: %1</translation>
+        <translation>Raó: %1</translation>
     </message>
     <message>
         <source>Possible solution: Getting the latest version manually:&lt;br&gt;%1&lt;br&gt;</source>
         <extracomment>%1 is the link to download it manually</extracomment>
-        <translation type="unfinished">Possible solució: descarregar la darrera versió manualment:&lt;br&gt;%1&lt;br&gt;</translation>
+        <translation>Possible solució: descarregar la darrera versió manualment:&lt;br&gt;%1&lt;br&gt;</translation>
     </message>
     <message>
         <source>Failed to check for updates</source>
-        <translation type="unfinished">No s&apos;ha pogut buscar actualitzacions</translation>
+        <translation>No s&apos;ha pogut buscar actualitzacions</translation>
     </message>
     <message>
         <source>Could not check or get the following resources for updates:&lt;br&gt;Do you wish to proceed without those resources?</source>
@@ -13718,15 +13703,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Checking for dependencies...</source>
-        <translation type="unfinished">Buscant dependències...</translation>
+        <translation>Buscant dependències...</translation>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">No està instal·lat</translation>
+        <translation>No està instal·lat</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
-        <translation type="unfinished">Buscant metadades</translation>
+        <translation>Buscant metadades</translation>
     </message>
     <message>
         <source>The resource &apos;%1&apos; does not have a metadata yet. We need to generate it in order to track relevant information on how to update this mod. To do this, please select a mod provider which we can use to check for updates for this mod.</source>
@@ -13734,44 +13719,44 @@ Are you sure?</source>
     </message>
     <message>
         <source>Generating metadata...</source>
-        <translation type="unfinished">Creant metadades...</translation>
+        <translation>Creant metadades...</translation>
     </message>
     <message>
         <source>Couldn&apos;t find a valid version on the selected mod provider(s)</source>
-        <translation type="unfinished">No s&apos;ha trobat cap versió vàlida al(s) proveïdor(s) escollit(s)</translation>
+        <translation>No s&apos;ha trobat cap versió vàlida al(s) proveïdor(s) escollit(s)</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">S&apos;ha desactivat el mod. Potser ja estava instal·lat.</translation>
+        <translation>S&apos;ha desactivat el mod. Potser ja estava instal·lat.</translation>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="unfinished">Proveïdor: %1</translation>
+        <translation>Proveïdor: %1</translation>
     </message>
     <message>
         <source>Old version: %1</source>
-        <translation type="unfinished">Versió anterior: %1</translation>
+        <translation>Versió anterior: %1</translation>
     </message>
     <message>
         <source>New version: %1</source>
-        <translation type="unfinished">Nova versió: %1</translation>
+        <translation>Nova versió: %1</translation>
     </message>
     <message>
         <source>New Version Type: %1</source>
-        <translation type="unfinished">Estat de la nova versió: %1</translation>
+        <translation>Estat de la nova versió: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="unfinished">Requerit per: %1</translation>
+        <translation>Requerit per: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="unfinished">Requerit per:</translation>
+        <translation>Requerit per:</translation>
     </message>
     <message>
         <source>Changelog of the latest version</source>
-        <translation type="unfinished">Registre de canvis de la versió anterior</translation>
+        <translation>Registre de canvis de la versió anterior</translation>
     </message>
 </context>
 <context>
@@ -13790,16 +13775,16 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
         <oldsource>Mod was disabled as it may be already instaled.</oldsource>
-        <translation type="unfinished">S&apos;ha desactivat el mod. Potser ja estava instal·lat.</translation>
+        <translation>S&apos;ha desactivat el mod. Potser ja estava instal·lat.</translation>
     </message>
     <message>
         <source>Filename: %1</source>
@@ -13807,15 +13792,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Provider: %1</source>
-        <translation type="unfinished">Proveïdor: %1</translation>
+        <translation>Proveïdor: %1</translation>
     </message>
     <message>
         <source>Required by: %1</source>
-        <translation type="unfinished">Requerit per: %1</translation>
+        <translation>Requerit per: %1</translation>
     </message>
     <message>
         <source>Required by:</source>
-        <translation type="unfinished">Requerit per:</translation>
+        <translation>Requerit per:</translation>
     </message>
     <message>
         <source>Version Type: %1</source>
@@ -13938,7 +13923,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar eliminació</translation>
+        <translation>Confirmar eliminació</translation>
     </message>
     <message>
         <source>Are you sure?</source>
@@ -13953,18 +13938,18 @@ Are you sure?</source>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versió</translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -13987,7 +13972,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versió</translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -14001,11 +13986,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
 </context>
 <context>
@@ -14038,7 +14023,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">Versió</translation>
+        <translation>Versió</translation>
     </message>
     <message>
         <source>Ping</source>
@@ -14046,7 +14031,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">Desconnectat</translation>
+        <translation>Desconnectat</translation>
     </message>
     <message>
         <source>Online</source>
@@ -14109,7 +14094,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">Recarrega</translation>
+        <translation>Recarrega</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -14127,7 +14112,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminació</translation>
+        <translation>Confirmar Eliminació</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -14179,7 +14164,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Baixar paquets</translation>
+        <translation>Baixar paquets</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -14195,7 +14180,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -14207,7 +14192,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avisos</translation>
+        <translation>Avisos</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -14219,7 +14204,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar actualització</translation>
+        <translation>Confirmar actualització</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -14229,7 +14214,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; està actualitzat! :)</translation>
+        <translation>&apos;%1&apos; està actualitzat! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -14241,11 +14226,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Comprovador d&apos;actualitzacions</translation>
+        <translation>Comprovador d&apos;actualitzacions</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminació</translation>
+        <translation>Confirmar Eliminació</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -14295,7 +14280,7 @@ Are you sure?</source>
     <name>SkinManageDialog</name>
     <message>
         <source>Skin Upload</source>
-        <translation type="unfinished">Pujar aspecte</translation>
+        <translation>Pujar aspecte</translation>
     </message>
     <message>
         <source>Model</source>
@@ -14311,7 +14296,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cape</source>
-        <translation type="unfinished">Capa</translation>
+        <translation>Capa</translation>
     </message>
     <message>
         <source>Preview Elytra</source>
@@ -14319,7 +14304,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">Obri la carpeta</translation>
+        <translation>Obri la carpeta</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -14339,7 +14324,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;Elimina Skin</translation>
+        <translation>&amp;Elimina Skin</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -14363,15 +14348,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
-        <translation type="unfinished">Selecciona la textura per l&apos;aspecte</translation>
+        <translation>Selecciona la textura per l&apos;aspecte</translation>
     </message>
     <message>
         <source>Selected file is not a valid skin</source>
@@ -14379,7 +14364,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>No Cape</source>
-        <translation type="unfinished">Sense capa</translation>
+        <translation>Sense capa</translation>
     </message>
     <message>
         <source>Download capes</source>
@@ -14391,11 +14376,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin file does not exist!</source>
-        <translation type="unfinished">L&apos;arxiu d&apos;aspecte no existeix!</translation>
+        <translation>L&apos;arxiu d&apos;aspecte no existeix!</translation>
     </message>
     <message>
         <source>Failed to upload skin!</source>
-        <translation type="unfinished">No s&apos;ha pogut pujar l&apos;aspecte!</translation>
+        <translation>No s&apos;ha pogut pujar l&apos;aspecte!</translation>
     </message>
     <message>
         <source>Reset skin</source>
@@ -14403,15 +14388,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">Esborrar Aspecte</translation>
+        <translation>Esborrar Aspecte</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">No s&apos;ha pogut eliminar la skin actual!</translation>
+        <translation>No s&apos;ha pogut eliminar la skin actual!</translation>
     </message>
     <message>
         <source>Context menu</source>
-        <translation type="unfinished">Menú contextual</translation>
+        <translation>Menú contextual</translation>
     </message>
     <message>
         <source>Delete error</source>
@@ -14423,7 +14408,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar eliminació</translation>
+        <translation>Confirmar eliminació</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -14555,7 +14540,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">Forma</translation>
+        <translation>Forma</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -14577,15 +14562,13 @@ Are you sure?</source>
     <name>TaskStepWrapper</name>
     <message>
         <source>Task aborted.</source>
-        <translation type="unfinished">Tasca avortada.</translation>
+        <translation>Tasca avortada.</translation>
     </message>
     <message>
         <source>Instance update failed because: %1
 
 </source>
-        <translation type="unfinished">L&apos;actualització de la instància ha fallat per la següent raó: %1
-
-</translation>
+        <translation>L&apos;actualització de la instància ha fallat per la següent raó: %1</translation>
     </message>
 </context>
 <context>
@@ -14739,7 +14722,7 @@ falta &quot;inheritsFrom&quot;</translation>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source> by </source>
@@ -14774,27 +14757,27 @@ falta &quot;inheritsFrom&quot;</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Nom</translation>
+        <translation>Nom</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">Última modificació</translation>
+        <translation>Última modificació</translation>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">Mida</translation>
+        <translation>Mida</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">Proveïdor</translation>
+        <translation>Proveïdor</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">Nom d&apos;arxiu</translation>
+        <translation>Nom d&apos;arxiu</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">Actualitzar</translation>
+        <translation>Actualitzar</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -14839,7 +14822,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">Baixar paquets</translation>
+        <translation>Baixar paquets</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -14859,7 +14842,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">Error</translation>
+        <translation>Error</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -14871,7 +14854,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">Avisos</translation>
+        <translation>Avisos</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -14883,7 +14866,7 @@ Precaució: Aquest recurs està enllaçat rígidament en una altra ubicació. Ca
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">Confirmar actualització</translation>
+        <translation>Confirmar actualització</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -14893,7 +14876,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; està actualitzat! :)</translation>
+        <translation>&apos;%1&apos; està actualitzat! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -14905,11 +14888,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">Comprovador d&apos;actualitzacions</translation>
+        <translation>Comprovador d&apos;actualitzacions</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminació</translation>
+        <translation>Confirmar Eliminació</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -14952,7 +14935,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Aparença</translation>
+        <translation>Aparença</translation>
     </message>
     <message>
         <source>Select theme and icons to use</source>
@@ -15097,7 +15080,7 @@ Are you sure?</source>
     <name>VanillaCreationTask</name>
     <message>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">Creant una instància des de la versió %1</translation>
+        <translation>Creant una instància des de la versió %1</translation>
     </message>
 </context>
 <context>
@@ -15364,11 +15347,11 @@ Si us plau, canvia la versió de Java a una de les següents per aquesta instàn
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cercar</translation>
+        <translation>Cercar</translation>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">Canviar Versió</translation>
+        <translation>Canviar Versió</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -15376,7 +15359,7 @@ Si us plau, canvia la versió de Java a una de les següents per aquesta instàn
     </message>
     <message>
         <source>Move Up</source>
-        <translation type="unfinished">Mou amunt</translation>
+        <translation>Mou amunt</translation>
     </message>
     <message>
         <source>Make the selected component apply sooner.</source>
@@ -15384,7 +15367,7 @@ Si us plau, canvia la versió de Java a una de les següents per aquesta instàn
     </message>
     <message>
         <source>Move Down</source>
-        <translation type="unfinished">Mou avall</translation>
+        <translation>Mou avall</translation>
     </message>
     <message>
         <source>Make the selected component apply later.</source>
@@ -15408,7 +15391,7 @@ Si us plau, canvia la versió de Java a una de les següents per aquesta instàn
     </message>
     <message>
         <source>Install Loader</source>
-        <translation type="unfinished">Instal·lar carregador</translation>
+        <translation>Instal·lar carregador</translation>
     </message>
     <message>
         <source>Install a mod loader.</source>
@@ -15500,7 +15483,7 @@ Si us plau, canvia la versió de Java a una de les següents per aquesta instàn
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">Confirmar Eliminació</translation>
+        <translation>Confirmar Eliminació</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -15584,7 +15567,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">Instal·la</translation>
+        <translation>Instal·la</translation>
     </message>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
@@ -15759,11 +15742,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">D&apos;acord</translation>
+        <translation>D&apos;acord</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -15782,7 +15765,7 @@ Are you sure?</source>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">Cercar</translation>
+        <translation>Cercar</translation>
     </message>
     <message>
         <source>Error</source>
@@ -15846,7 +15829,7 @@ Canonical Path: %1</source>
     <message>
         <source>Info</source>
         <extracomment>special warnings?</extracomment>
-        <translation type="unfinished">Informació</translation>
+        <translation>Informació</translation>
     </message>
     <message>
         <source>The name of the world.</source>
@@ -15881,7 +15864,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">Unir-se</translation>
+        <translation>Unir-se</translation>
     </message>
     <message>
         <source>Rename</source>
@@ -15897,7 +15880,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">Eliminar</translation>
+        <translation>Eliminar</translation>
     </message>
     <message>
         <source>MCEdit</source>
@@ -15925,7 +15908,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">Eines</translation>
+        <translation>Eines</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -16013,7 +15996,7 @@ Vols continuar?</translation>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">Confirmar eliminació</translation>
+        <translation>Confirmar eliminació</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -16295,7 +16278,7 @@ Configureu el vostre compte segons %1.</translation>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">Clau d&apos;accés</translation>
+        <translation>Clau d&apos;accés</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -16303,7 +16286,7 @@ Configureu el vostre compte segons %1.</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">Cancel·lar</translation>
+        <translation>Cancel·lar</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>

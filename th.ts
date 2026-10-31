@@ -1350,11 +1350,11 @@ Minecraft บางเวอร์ชันอาจไม่สามารถ�
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">ติดตั้ง</translation>
+        <translation>ติดตั้ง</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -3210,7 +3210,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">ชื่อ</translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <source>Command</source>
@@ -3297,7 +3297,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>VisualVM Executable</source>
-        <translation type="unfinished">ที่อยู่โปรแกรม VisualVM</translation>
+        <translation>ที่อยู่โปรแกรม VisualVM</translation>
     </message>
     <message>
         <source>Error while checking VisualVM install:
@@ -4267,7 +4267,7 @@ Please try again.</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -4819,7 +4819,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Downloading game files</source>
-        <translation type="unfinished">กำลังดาวน์โหลดไฟล์เกม</translation>
+        <translation>กำลังดาวน์โหลดไฟล์เกม</translation>
     </message>
 </context>
 <context>
@@ -6131,11 +6131,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">เพิ่ม</translation>
+        <translation>เพิ่ม</translation>
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">ลบ</translation>
+        <translation>ลบ</translation>
     </message>
     <message>
         <source>Mods and Modpacks</source>
@@ -6513,7 +6513,7 @@ Granting %1 access to it via Flatseal is recommended.</oldsource>
     </message>
     <message>
         <source>Copying FML libraries into the instance...</source>
-        <translation type="unfinished">กำลังคัดลอก FML libraries ไปยังอินสแตนซ์...</translation>
+        <translation>กำลังคัดลอก FML libraries ไปยังอินสแตนซ์...</translation>
     </message>
     <message>
         <source>Failed creating FML library folder inside the instance.</source>
@@ -6788,7 +6788,7 @@ Reason:
     </message>
     <message>
         <source>Upload</source>
-        <translation type="unfinished">อัปโหลด</translation>
+        <translation>อัปโหลด</translation>
     </message>
     <message>
         <source>Clear the log</source>
@@ -7857,7 +7857,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">ยืนยันการอัพเดท</translation>
+        <translation>ยืนยันการอัพเดท</translation>
     </message>
     <message>
         <source>You are about to update the modpack to version &quot;%1&quot;.
@@ -7932,7 +7932,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Launch &amp;Demo</source>
-        <translation type="unfinished">เริ่มเล่นตัว&amp;ทดลอง</translation>
+        <translation>เริ่มเล่นตัว&amp;ทดลอง</translation>
     </message>
     <message>
         <source>Ctrl+Alt+O</source>
@@ -7964,7 +7964,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>broken</source>
-        <translation type="unfinished">พัง</translation>
+        <translation>พัง</translation>
     </message>
     <message>
         <source>Minecraft %1</source>
@@ -8121,7 +8121,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>The base game only supports resolution. In order to simulate the maximized behavior the current implementation approximates the maximum display size.</source>
-        <translation type="unfinished">ตัวเกมหลักรองรับเฉพาะการตั้งค่าความละเอียดหน้าจอเท่านั้น เพื่อจำลองพฤติกรรมขณะขยายหน้าต่างให้เต็มจอ ระบบปัจจุบันจึงใช้วิธีคำนวณขนาดจอแสดงผลสูงสุดโดยประมาณ</translation>
+        <translation>ตัวเกมหลักรองรับเฉพาะการตั้งค่าความละเอียดหน้าจอเท่านั้น เพื่อจำลองพฤติกรรมขณะขยายหน้าต่างให้เต็มจอ ระบบปัจจุบันจึงใช้วิธีคำนวณขนาดจอแสดงผลสูงสุดโดยประมาณ</translation>
     </message>
     <message>
         <source>When the game window closes, quit the launcher</source>
@@ -8133,7 +8133,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;Warning&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: The maximized option may not be fully supported on all Minecraft versions.&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished">&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;คำเตือน&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: การขยายหน้าต่างสุดอาจไม่รองรับใน Minecraft เวอร์ชันอื่น&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;span style=&quot; font-weight:600; color:#f5c211;&quot;&gt;คำเตือน&lt;/span&gt;&lt;span style=&quot; color:#f5c211;&quot;&gt;: การขยายหน้าต่างสุดอาจไม่รองรับใน Minecraft เวอร์ชันอื่น&lt;/span&gt;&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Window height:</source>
@@ -8205,7 +8205,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Native Libraries</source>
-        <translation type="unfinished">&amp;Native Libraries</translation>
+        <translation>&amp;Native Libraries</translation>
     </message>
     <message>
         <source>Use system installation of OpenAL</source>
@@ -8275,7 +8275,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Browse</source>
-        <translation type="unfinished">เรียกดู</translation>
+        <translation>เรียกดู</translation>
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
@@ -8283,7 +8283,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Override &amp;Default Account</source>
-        <translation type="unfinished">ใช้แทนบัญชีดั้งเดิม</translation>
+        <translation>ใช้แทนบัญชีดั้งเดิม</translation>
     </message>
     <message>
         <source>Enable Auto-&amp;join</source>
@@ -8307,7 +8307,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>Quilt</source>
@@ -8327,15 +8327,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Legacy Fabric</translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <source>Rift</source>
-        <translation type="unfinished">Rift</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <source>Always use the latest minecraft version</source>
@@ -8343,7 +8343,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">ปล่อย</translation>
+        <translation>ปล่อย</translation>
     </message>
     <message>
         <source>Any</source>
@@ -8466,7 +8466,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">ลบ</translation>
+        <translation>ลบ</translation>
     </message>
     <message>
         <source>https://example.com/maven</source>
@@ -8474,7 +8474,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished">เพิ่ม</translation>
+        <translation>เพิ่ม</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
@@ -8500,7 +8500,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Categories</source>
-        <translation type="unfinished">หมวดหมู่</translation>
+        <translation>หมวดหมู่</translation>
     </message>
     <message>
         <source>Loaders</source>
@@ -8528,27 +8528,27 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>LiteLoader</source>
-        <translation type="unfinished">LiteLoader</translation>
+        <translation>LiteLoader</translation>
     </message>
     <message>
         <source>Babric</source>
-        <translation type="unfinished">Babric</translation>
+        <translation>Babric</translation>
     </message>
     <message>
         <source>BTA (Babric)</source>
-        <translation type="unfinished">BTA (Babric)</translation>
+        <translation>BTA (Babric)</translation>
     </message>
     <message>
         <source>Legacy Fabric</source>
-        <translation type="unfinished">Legacy Fabric</translation>
+        <translation>Legacy Fabric</translation>
     </message>
     <message>
         <source>Ornithe</source>
-        <translation type="unfinished">Ornithe</translation>
+        <translation>Ornithe</translation>
     </message>
     <message>
         <source>Rift</source>
-        <translation type="unfinished">Rift</translation>
+        <translation>Rift</translation>
     </message>
     <message>
         <source>Versions</source>
@@ -8560,11 +8560,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Environments</source>
-        <translation type="unfinished">สภาพเวดล้อม</translation>
+        <translation>สภาพเวดล้อม</translation>
     </message>
     <message>
         <source>Client</source>
-        <translation type="unfinished">ฝั่งผู้ใช้</translation>
+        <translation>ฝั่งผู้ใช้</translation>
     </message>
     <message>
         <source>Server</source>
@@ -8584,15 +8584,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Release</source>
-        <translation type="unfinished">ปล่อย</translation>
+        <translation>ปล่อย</translation>
     </message>
     <message>
         <source>Beta</source>
-        <translation type="unfinished">Beta</translation>
+        <translation>Beta</translation>
     </message>
     <message>
         <source>Alpha</source>
-        <translation type="unfinished">Alpha</translation>
+        <translation>Alpha</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -8718,7 +8718,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">แก้ไขล่าสุด</translation>
+        <translation>แก้ไขล่าสุด</translation>
     </message>
     <message>
         <source>Size</source>
@@ -8730,7 +8730,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Loaders</source>
-        <translation type="unfinished">Loaders</translation>
+        <translation>Loaders</translation>
     </message>
     <message>
         <source>Release Type</source>
@@ -8750,11 +8750,11 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">ชื่อไฟล์</translation>
+        <translation>ชื่อไฟล์</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">อัปเดต</translation>
+        <translation>อัปเดต</translation>
     </message>
     <message>
         <source>Is the mod enabled?</source>
@@ -8971,7 +8971,7 @@ Are you sure you want to do this?</oldsource>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">การตรวจสอบอัปเดต</translation>
+        <translation>การตรวจสอบอัปเดต</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -9006,7 +9006,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; อัปเดตเป็นเวอร์ชันล่าสุดแล้ว! :)</translation>
+        <translation>&apos;%1&apos; อัปเดตเป็นเวอร์ชันล่าสุดแล้ว! :)</translation>
     </message>
     <message>
         <source>Download Mods</source>
@@ -9241,11 +9241,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
-        <translation type="unfinished">กำลังลบไฟล์เก่าที่ซ้ำกันอยู่</translation>
+        <translation>กำลังลบไฟล์เก่าที่ซ้ำกันอยู่</translation>
     </message>
     <message>
         <source>Failed to remove old conflicting files.</source>
-        <translation type="unfinished">ไม่สามารถลบไฟล์เก่าที่ซ้ำกันอยู่ได้</translation>
+        <translation>ไม่สามารถลบไฟล์เก่าที่ซ้ำกันอยู่ได้</translation>
     </message>
 </context>
 <context>
@@ -9336,7 +9336,7 @@ Please update %1!</source>
     <message>
         <source>Sort by Last Updated</source>
         <oldsource>Sort by last updated</oldsource>
-        <translation type="unfinished">เรียงตามการอัพเดท</translation>
+        <translation>เรียงตามการอัพเดท</translation>
     </message>
     <message>
         <source>Error</source>
@@ -9352,19 +9352,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">ลิงค์ภายนอก:</translation>
+        <translation>ลิงค์ภายนอก:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">ปัญหา: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>ปัญหา: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">คู่มือ: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>คู่มือ: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">ซอร์สโค้ด: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>ซอร์สโค้ด: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -9373,15 +9373,15 @@ Please update %1!</source>
     <message>
         <source>Sort by Newest</source>
         <oldsource>Sort by newest</oldsource>
-        <translation type="unfinished">เรียงตามความใหม่ล่าสุด</translation>
+        <translation>เรียงตามความใหม่ล่าสุด</translation>
     </message>
     <message>
         <source>Sort by Total Downloads</source>
-        <translation type="unfinished">เรียงตามการดาวน์โหลดทั้งหมด</translation>
+        <translation>เรียงตามการดาวน์โหลดทั้งหมด</translation>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> โดย </translation>
+        <translation>โดย</translation>
     </message>
     <message>
         <source>Modrinth</source>
@@ -9419,7 +9419,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>unknown</source>
-        <translation type="unfinished">ไม่ทราบ</translation>
+        <translation>ไม่ทราบ</translation>
     </message>
     <message>
         <source>%1 /s (%2)</source>
@@ -9462,7 +9462,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Executing %1 task(s) (%2 out of %3 are done)</source>
-        <translation type="unfinished">กำลังเริ่มต้น %1 งาน (%2 จาก %3 งานเสร็จสิ้น)</translation>
+        <translation>กำลังเริ่มต้น %1 งาน (%2 จาก %3 งานเสร็จสิ้น)</translation>
     </message>
 </context>
 <context>
@@ -9477,7 +9477,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>URL</source>
-        <translation type="unfinished">URL</translation>
+        <translation>URL</translation>
     </message>
     <message>
         <source>Error</source>
@@ -9520,11 +9520,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
@@ -9551,15 +9551,15 @@ Please update %1!</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">วิธีใช้</translation>
+        <translation>วิธีใช้</translation>
     </message>
     <message>
         <source>Directory unavailable</source>
@@ -9590,7 +9590,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">ปิด</translation>
+        <translation>ปิด</translation>
     </message>
     <message>
         <source>Hide article list</source>
@@ -9825,11 +9825,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">ติดตั้ง</translation>
+        <translation>ติดตั้ง</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -9852,11 +9852,11 @@ Please update %1!</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
@@ -9931,7 +9931,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">ค้นหา</translation>
+        <translation>ค้นหา</translation>
     </message>
     <message>
         <source>Delete</source>
@@ -9955,7 +9955,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">ยืนยันการลบ</translation>
+        <translation>ยืนยันการลบ</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -9991,7 +9991,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cannot display this log since the log length surpassed %1 lines.</source>
-        <translation type="unfinished">ไม่สามารถแสดงบันทึกนี้ได้เนื่องจากความยาวบันทึกเกิน %1 บรรทัด</translation>
+        <translation>ไม่สามารถแสดงบันทึกนี้ได้เนื่องจากความยาวบันทึกเกิน %1 บรรทัด</translation>
     </message>
     <message>
         <source>Current logs</source>
@@ -10015,83 +10015,83 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="unfinished">โหมดการติดตั้งที่ไม่รองรับ</translation>
+        <translation>โหมดการติดตั้งที่ไม่รองรับ</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="unfinished">ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ &apos;%1&apos; v%2</translation>
+        <translation>ไม่สามารถรับดัชนีข้อมูลเมตาในเครื่องสำหรับ &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="unfinished">กำลังลบไฟล์ที่มีอยู่...</translation>
+        <translation>กำลังลบไฟล์ที่มีอยู่...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="unfinished">ประเภทม็อดที่ไม่รู้จัก: %1</translation>
+        <translation>ประเภทม็อดที่ไม่รู้จัก: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="unfinished">ไม่พบเวอร์ชันสำหรับตัวโหลด %1</translation>
+        <translation>ไม่พบเวอร์ชันสำหรับตัวโหลด %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="unfinished">ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
+        <translation>ไม่ได้ตั้งค่าเวอร์ชันตัวโหลดสำหรับ modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="unfinished">ประเภทการดาวน์โหลดที่ไม่รู้จักหรือไม่รองรับ: %1</translation>
+        <translation>ประเภทการดาวน์โหลดที่ไม่รู้จักหรือไม่รองรับ: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="unfinished">กำลังดาวน์โหลดค่ากำหนด...</translation>
+        <translation>กำลังดาวน์โหลดค่ากำหนด...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="unfinished">ดาวน์โหลดค่ากำหนด</translation>
+        <translation>ดาวน์โหลดค่ากำหนด</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="unfinished">กำลังแยกค่ากำหนด...</translation>
+        <translation>กำลังแยกค่ากำหนด...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="unfinished">กำลังเลือกม็อดเสริม...</translation>
+        <translation>กำลังเลือกม็อดเสริม...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="unfinished">กำลังดาวน์โหลดม็อด...</translation>
+        <translation>กำลังดาวน์โหลดม็อด...</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="unfinished">ประเภทการดาวน์โหลดที่ไม่รู้จัก: %1</translation>
+        <translation>ประเภทการดาวน์โหลดที่ไม่รู้จัก: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="unfinished">พบม็อดที่ถูกบล็อก</translation>
+        <translation>พบม็อดที่ถูกบล็อก</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="unfinished">ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
+        <translation>ติดตั้งเสร็จสิ้น %1 ไฟล์จาก %2 ไฟล์</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="unfinished">เกิดข้อผิดพลาดในการแยกม็อด...</translation>
+        <translation>เกิดข้อผิดพลาดในการแยกม็อด...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="unfinished">กำลังแยกม็อด...</translation>
+        <translation>กำลังแยกม็อด...</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="unfinished">ไม่สามารถสร้างส่วนประกอบไลบรารี</translation>
+        <translation>ไม่สามารถสร้างส่วนประกอบไลบรารี</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="unfinished">ประเภทโหลดเดอร์ที่ไม่รู้จัก: </translation>
+        <translation>ประเภทโหลดเดอร์ที่ไม่รู้จัก:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="unfinished">สร้างองค์ประกอบแพ็คไม่สำเร็จ</translation>
+        <translation>สร้างองค์ประกอบแพ็คไม่สำเร็จ</translation>
     </message>
     <message>
         <source>Could not understand pack manifest:
@@ -10123,15 +10123,15 @@ Are you sure?</source>
     <name>PackProfile</name>
     <message>
         <source>Aborted</source>
-        <translation type="unfinished">ล้มเลิก</translation>
+        <translation>ล้มเลิก</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">ชื่อ</translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">เวอร์ชัน</translation>
+        <translation>เวอร์ชัน</translation>
     </message>
 </context>
 <context>
@@ -10150,14 +10150,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>Help</source>
-        <translation type="unfinished">วิธีใช้</translation>
+        <translation>วิธีใช้</translation>
     </message>
 </context>
 <context>
     <name>PasteWizardPage</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ฟอร์ม</translation>
+        <translation>ฟอร์ม</translation>
     </message>
     <message>
         <source>The default paste service has changed to mclo.gs, please choose what you want to do with your settings.</source>
@@ -10534,11 +10534,11 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
@@ -10555,11 +10555,11 @@ Choose your name carefully:</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <source>Name is too short - must be between 3 and 16 characters long.</source>
@@ -10595,7 +10595,7 @@ HTTP Status: %2</source>
     <name>ProgressDialog</name>
     <message>
         <source>Please wait...</source>
-        <translation type="unfinished">กรุณารอสักครู่...</translation>
+        <translation>กรุณารอสักครู่...</translation>
     </message>
     <message>
         <source>Global Task Status...</source>
@@ -10607,11 +10607,11 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Skip</source>
-        <translation type="unfinished">ข้าม</translation>
+        <translation>ข้าม</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
 </context>
 <context>
@@ -10629,7 +10629,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">ประเภท</translation>
+        <translation>ประเภท</translation>
     </message>
     <message>
         <source>Uses your system&apos;s default proxy settings.</source>
@@ -10730,7 +10730,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation type="unfinished">%1 (ใช้งานอยู่)</translation>
+        <translation>%1 (ใช้งานอยู่)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -10770,7 +10770,7 @@ Proceed with truncation?</source>
     </message>
     <message>
         <source>Upload finished</source>
-        <translation type="unfinished">อัปโหลดเสร็จสิ้น</translation>
+        <translation>อัปโหลดเสร็จสิ้น</translation>
     </message>
     <message>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded log&lt;/a&gt; has been placed in your clipboard.</source>
@@ -10951,7 +10951,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation type="unfinished">ไม่พบไลบรารีตัวตรวจสอบ Java กรุณาตรวจสอบการติดตั้งของคุณ</translation>
+        <translation>ไม่พบไลบรารีตัวตรวจสอบ Java กรุณาตรวจสอบการติดตั้งของคุณ</translation>
     </message>
     <message>
         <source>Download of meta file %1</source>
@@ -11163,42 +11163,42 @@ Would you like to remove those existing saves as part of this update?</source>
     <message>
         <source>Unchecked</source>
         <comment>Account status</comment>
-        <translation type="unfinished">ยังไม่ได้ตรวจสอบ</translation>
+        <translation>ยังไม่ได้ตรวจสอบ</translation>
     </message>
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation type="unfinished">ออฟไลน์</translation>
+        <translation>ออฟไลน์</translation>
     </message>
     <message>
         <source>Ready</source>
         <comment>Account status</comment>
-        <translation type="unfinished">พร้อม</translation>
+        <translation>พร้อม</translation>
     </message>
     <message>
         <source>Working</source>
         <comment>Account status</comment>
-        <translation type="unfinished">กำลังดำเนินการ</translation>
+        <translation>กำลังดำเนินการ</translation>
     </message>
     <message>
         <source>Errored</source>
         <comment>Account status</comment>
-        <translation type="unfinished">เกิดข้อผิดพลาด</translation>
+        <translation>เกิดข้อผิดพลาด</translation>
     </message>
     <message>
         <source>Expired</source>
         <comment>Account status</comment>
-        <translation type="unfinished">หมดอายุ</translation>
+        <translation>หมดอายุ</translation>
     </message>
     <message>
         <source>Disabled</source>
         <comment>Account status</comment>
-        <translation type="unfinished">ปิดการใช้งาน</translation>
+        <translation>ปิดการใช้งาน</translation>
     </message>
     <message>
         <source>Gone</source>
         <comment>Account status</comment>
-        <translation type="unfinished">หายไปแล้ว</translation>
+        <translation>หายไปแล้ว</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -11248,7 +11248,7 @@ New name: %2</source>
     </message>
     <message>
         <source>There are linked instances</source>
-        <translation type="unfinished">มีอินสแตนซ์ที่เชื่อมอยู่</translation>
+        <translation>มีอินสแตนซ์ที่เชื่อมอยู่</translation>
     </message>
     <message numerus="yes">
         <source>The following instance(s) might reference files in this instance:
@@ -11406,7 +11406,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unrecognized</source>
-        <translation type="unfinished">ไม่รู้จัก</translation>
+        <translation>ไม่รู้จัก</translation>
     </message>
     <message>
         <source>data packs</source>
@@ -11443,7 +11443,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Could not open file %1 for reading: %2</source>
-        <translation type="unfinished">ไม่สามารถเปิดไฟล์: %1 เพื่ออ่าน: %2 ได้</translation>
+        <translation>ไม่สามารถเปิดไฟล์: %1 เพื่ออ่าน: %2 ได้</translation>
     </message>
     <message>
         <source>Choose a character</source>
@@ -11514,7 +11514,7 @@ Are you sure you want to close this dialog?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">คำเตือน</translation>
+        <translation>คำเตือน</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11561,7 +11561,7 @@ Are you sure you want to close this dialog?</source>
     <name>ResourceDownload::ResourceModel</name>
     <message>
         <source>Error</source>
-        <translation type="unfinished">ข้อผิดพลาด</translation>
+        <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
         <source>A network error occurred. Could not load project versions: %1</source>
@@ -11607,7 +11607,7 @@ Please update %1!</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> โดย </translation>
+        <translation>โดย</translation>
     </message>
     <message>
         <source>&lt;b&gt;This project has been archived. It will not receive any further updates unless the author decides to unarchive the project.&lt;/b&gt;</source>
@@ -11619,19 +11619,19 @@ Please update %1!</source>
     </message>
     <message>
         <source>External links:</source>
-        <translation type="unfinished">ลิงค์ภายนอก:</translation>
+        <translation>ลิงค์ภายนอก:</translation>
     </message>
     <message>
         <source>Issues: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">ปัญหา: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>ปัญหา: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Wiki: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">คู่มือ: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>คู่มือ: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Source code: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
-        <translation type="unfinished">ซอร์สโค้ด: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
+        <translation>ซอร์สโค้ด: &lt;a href=%1&gt;%1&lt;/a&gt;</translation>
     </message>
     <message>
         <source>Discord: &lt;a href=%1&gt;%1&lt;/a&gt;</source>
@@ -11686,7 +11686,7 @@ The author likely blocked third-party launchers.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>The resource was not found</source>
@@ -11731,19 +11731,16 @@ The author likely blocked third-party launchers.</source>
         <source>
 Warning: This resource is symbolically linked from elsewhere. Editing it will also change the original.
 Canonical Path: %1</source>
-        <translation type="unfinished">
-คำเตือน: ข้อมูลนี้ถูกเชื่อมโยงเชิงสัญลักษณ์จากที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย
-เส้นทางที่เป็นที่ยอมรับ: %1</translation>
+        <translation>คำเตือน: ข้อมูลนี้ถูกเชื่อมโยงเชิงสัญลักษณ์จากที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย</translation>
     </message>
     <message>
         <source>
 Warning: This resource is hard linked elsewhere. Editing it will also change the original.</source>
-        <translation type="unfinished">
-คำเตือน: แหล่งข้อมูลนี้มีการเชื่อมโยงโดยตรงไปยังที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย</translation>
+        <translation>คำเตือน: แหล่งข้อมูลนี้มีการเชื่อมโยงโดยตรงไปยังที่อื่น การแก้ไขจะเปลี่ยนแปลงไฟล์ต้นฉบับด้วย</translation>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">ชื่อ</translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <source>Enable</source>
@@ -11751,7 +11748,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">แก้ไขล่าสุด</translation>
+        <translation>แก้ไขล่าสุด</translation>
     </message>
     <message>
         <source>Version</source>
@@ -11759,19 +11756,19 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">ขนาด</translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">ผู้ให้บริการ</translation>
+        <translation>ผู้ให้บริการ</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">ชื่อไฟล์</translation>
+        <translation>ชื่อไฟล์</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">อัปเดต</translation>
+        <translation>อัปเดต</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -11825,7 +11822,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Image</source>
-        <translation type="unfinished">รูปภาพ</translation>
+        <translation>รูปภาพ</translation>
     </message>
 </context>
 <context>
@@ -11840,7 +11837,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">แก้ไขล่าสุด</translation>
+        <translation>แก้ไขล่าสุด</translation>
     </message>
     <message>
         <source>Version</source>
@@ -11848,15 +11845,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Size</source>
-        <translation type="unfinished">ขนาด</translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">ผู้ให้บริการ</translation>
+        <translation>ผู้ให้บริการ</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">อัปเดต</translation>
+        <translation>อัปเดต</translation>
     </message>
     <message>
         <source>The version of the resource pack.</source>
@@ -11907,15 +11904,15 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">ชื่อ</translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <source>Pack Format</source>
-        <translation type="unfinished">แพ็กฟอร์แม็ต</translation>
+        <translation>แพ็กฟอร์แม็ต</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">ชื่อไฟล์</translation>
+        <translation>ชื่อไฟล์</translation>
     </message>
     <message>
         <source>The name of the resource pack.</source>
@@ -11930,7 +11927,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     <name>ResourcePackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">ดาวน์โหลดดาตาแพ็ก</translation>
+        <translation>ดาวน์โหลดดาตาแพ็ก</translation>
     </message>
     <message>
         <source>Download resource packs from online mod platforms</source>
@@ -11946,7 +11943,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">ข้อผิดพลาด</translation>
+        <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -11958,7 +11955,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">คำเตือน</translation>
+        <translation>คำเตือน</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -11970,7 +11967,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">ยืนยันการอัพเดท</translation>
+        <translation>ยืนยันการอัพเดท</translation>
     </message>
     <message>
         <source>Updating resource packs while the game is running may cause pack duplication and game crashes.
@@ -11980,7 +11977,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; อัปเดตเป็นเวอร์ชันล่าสุดแล้ว! :)</translation>
+        <translation>&apos;%1&apos; อัปเดตเป็นเวอร์ชันล่าสุดแล้ว! :)</translation>
     </message>
     <message>
         <source>All resource packs are up-to-date! :)</source>
@@ -11992,11 +11989,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">การตรวจสอบอัปเดต</translation>
+        <translation>การตรวจสอบอัปเดต</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">ยืนยันการนำออก</translation>
+        <translation>ยืนยันการนำออก</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 resource packs.
@@ -12020,7 +12017,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Filter options</source>
-        <translation type="unfinished">ตัวเลือกตัวกรอง</translation>
+        <translation>ตัวเลือกตัวกรอง</translation>
     </message>
 </context>
 <context>
@@ -12059,7 +12056,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">คำเตือน</translation>
+        <translation>คำเตือน</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12100,7 +12097,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Not installed</source>
-        <translation type="unfinished">ยังไม่ได้ติดตั้ง</translation>
+        <translation>ยังไม่ได้ติดตั้ง</translation>
     </message>
     <message>
         <source>Looking for metadata</source>
@@ -12172,11 +12169,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <source>Mod was disabled as it may be already installed.</source>
@@ -12228,7 +12225,7 @@ Are you sure?</source>
     <name>ScreenshotsPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">คำสั่ง</translation>
+        <translation>คำสั่ง</translation>
     </message>
     <message>
         <source>Upload</source>
@@ -12236,11 +12233,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Delete</source>
-        <translation type="unfinished">ลบ</translation>
+        <translation>ลบ</translation>
     </message>
     <message>
         <source>Rename</source>
-        <translation type="unfinished">เปลี่ยนชื่อ</translation>
+        <translation>เปลี่ยนชื่อ</translation>
     </message>
     <message>
         <source>View Folder</source>
@@ -12320,25 +12317,25 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">ยืนยันการลบ</translation>
+        <translation>ยืนยันการลบ</translation>
     </message>
 </context>
 <context>
     <name>ScrollMessageBox</name>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
     <name>SelectReleaseAssetDialog</name>
     <message>
         <source>Version</source>
-        <translation type="unfinished">เวอร์ชัน</translation>
+        <translation>เวอร์ชัน</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12361,7 +12358,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Version</source>
-        <translation type="unfinished">เวอร์ชัน</translation>
+        <translation>เวอร์ชัน</translation>
     </message>
     <message>
         <source>Published Date</source>
@@ -12377,11 +12374,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
 </context>
 <context>
@@ -12422,18 +12419,18 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Offline</source>
-        <translation type="unfinished">ออฟไลน์</translation>
+        <translation>ออฟไลน์</translation>
     </message>
 </context>
 <context>
     <name>ServersPage</name>
     <message>
         <source>&amp;Name</source>
-        <translation type="unfinished">ชื่อ</translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <source>Address</source>
-        <translation type="unfinished">ที่มา</translation>
+        <translation>ที่มา</translation>
     </message>
     <message>
         <source>Reso&amp;urces</source>
@@ -12453,7 +12450,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">คำสั่ง</translation>
+        <translation>คำสั่ง</translation>
     </message>
     <message>
         <source>Add</source>
@@ -12473,11 +12470,11 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Join</source>
-        <translation type="unfinished">เข้าร่วม</translation>
+        <translation>เข้าร่วม</translation>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">รีเฟรช</translation>
+        <translation>รีเฟรช</translation>
     </message>
     <message>
         <source>Servers</source>
@@ -12495,7 +12492,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">ยืนยันการนำออก</translation>
+        <translation>ยืนยันการนำออก</translation>
     </message>
     <message>
         <source>You are about to remove &quot;%1&quot;.
@@ -12521,7 +12518,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">รีเฟรช</translation>
+        <translation>รีเฟรช</translation>
     </message>
     <message>
         <source>%1 Quick Setup</source>
@@ -12543,7 +12540,7 @@ Are you sure?</source>
     <name>ShaderPackPage</name>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">ดาวน์โหลดดาตาแพ็ก</translation>
+        <translation>ดาวน์โหลดดาตาแพ็ก</translation>
     </message>
     <message>
         <source>Download shader packs from online mod platforms</source>
@@ -12559,7 +12556,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">ข้อผิดพลาด</translation>
+        <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -12571,7 +12568,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">คำเตือน</translation>
+        <translation>คำเตือน</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -12583,7 +12580,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">ยืนยันการอัพเดท</translation>
+        <translation>ยืนยันการอัพเดท</translation>
     </message>
     <message>
         <source>Updating shader packs while the game is running may pack duplication and game crashes.
@@ -12593,7 +12590,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; อัปเดตเป็นเวอร์ชันล่าสุดแล้ว! :)</translation>
+        <translation>&apos;%1&apos; อัปเดตเป็นเวอร์ชันล่าสุดแล้ว! :)</translation>
     </message>
     <message>
         <source>All shader packs are up-to-date! :)</source>
@@ -12605,11 +12602,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">การตรวจสอบอัปเดต</translation>
+        <translation>การตรวจสอบอัปเดต</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">ยืนยันการนำออก</translation>
+        <translation>ยืนยันการนำออก</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 shader packs.
@@ -12676,7 +12673,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Open Folder</source>
-        <translation type="unfinished">เปิดโฟลเดอร์</translation>
+        <translation>เปิดโฟลเดอร์</translation>
     </message>
     <message>
         <source>Reset Skin</source>
@@ -12696,7 +12693,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Delete Skin</source>
-        <translation type="unfinished">&amp;ลบสกิน</translation>
+        <translation>&amp;ลบสกิน</translation>
     </message>
     <message>
         <source>Deletes selected skin</source>
@@ -12720,11 +12717,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <source>Select Skin Texture</source>
@@ -12760,11 +12757,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Skin Delete</source>
-        <translation type="unfinished">ลบสกิน</translation>
+        <translation>ลบสกิน</translation>
     </message>
     <message>
         <source>Failed to delete current skin!</source>
-        <translation type="unfinished">เกิดข้อผิดพลาดในการลบสกินปัจจุบัน!</translation>
+        <translation>เกิดข้อผิดพลาดในการลบสกินปัจจุบัน!</translation>
     </message>
     <message>
         <source>Context menu</source>
@@ -12780,7 +12777,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Deletion</source>
-        <translation type="unfinished">ยืนยันการลบ</translation>
+        <translation>ยืนยันการลบ</translation>
     </message>
     <message>
         <source>You are about to delete &quot;%1&quot;.
@@ -12853,7 +12850,7 @@ Are you sure?</source>
     <name>SubTaskProgressBar</name>
     <message>
         <source>Form</source>
-        <translation type="unfinished">ฟอร์ม</translation>
+        <translation>ฟอร์ม</translation>
     </message>
     <message>
         <source>Sub Task Status...</source>
@@ -12889,16 +12886,15 @@ Are you sure?</source>
     <message>
         <source>Downloading modpack:
 %1</source>
-        <translation type="unfinished">กำลังดาวน์โหลด ม็อดแพ็ค:
-%1</translation>
+        <translation>กำลังดาวน์โหลด ม็อดแพ็ค:</translation>
     </message>
     <message>
         <source>Modpack download</source>
-        <translation type="unfinished">โหลดม็อดแพ็ค</translation>
+        <translation>โหลดม็อดแพ็ค</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">กำลังแยกม็อดแพ็ค...</translation>
+        <translation>กำลังแยกม็อดแพ็ค...</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -12914,11 +12910,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">ไม่สามารถแก้ไขการอนุญาตสำหรับ %1</translation>
+        <translation>ไม่สามารถแก้ไขการอนุญาตสำหรับ %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">การนำเข้าอินสแตนซ์ถูกยกเลิก.</translation>
+        <translation>การนำเข้าอินสแตนซ์ถูกยกเลิก.</translation>
     </message>
 </context>
 <context>
@@ -12934,12 +12930,11 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="unfinished">ไม่เข้าใจรายการแพ็ค:
-</translation>
+        <translation>ไม่เข้าใจรายการแพ็ค:</translation>
     </message>
     <message>
         <source>Extracting modpack</source>
-        <translation type="unfinished">กำลังแยกม็อดแพ็ค...</translation>
+        <translation>กำลังแยกม็อดแพ็ค...</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
@@ -12951,11 +12946,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Could not fix permissions for %1</source>
-        <translation type="unfinished">ไม่สามารถแก้ไขการอนุญาตสำหรับ %1</translation>
+        <translation>ไม่สามารถแก้ไขการอนุญาตสำหรับ %1</translation>
     </message>
     <message>
         <source>Instance import has been aborted.</source>
-        <translation type="unfinished">การนำเข้าอินสแตนซ์ถูกยกเลิก.</translation>
+        <translation>การนำเข้าอินสแตนซ์ถูกยกเลิก.</translation>
     </message>
 </context>
 <context>
@@ -13005,7 +13000,7 @@ inheritsFrom is missing</source>
     <message>
         <source>Search and filter...</source>
         <oldsource>Search and filter ...</oldsource>
-        <translation type="unfinished">ค้นหาและตัวกรอง...</translation>
+        <translation>ค้นหาและตัวกรอง...</translation>
     </message>
     <message>
         <source>Search</source>
@@ -13017,7 +13012,7 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source> by </source>
-        <translation type="unfinished"> โดย </translation>
+        <translation>โดย</translation>
     </message>
 </context>
 <context>
@@ -13032,11 +13027,11 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">ชื่อ</translation>
+        <translation>ชื่อ</translation>
     </message>
     <message>
         <source>Last Modified</source>
-        <translation type="unfinished">แก้ไขล่าสุด</translation>
+        <translation>แก้ไขล่าสุด</translation>
     </message>
     <message>
         <source>Size</source>
@@ -13044,15 +13039,15 @@ inheritsFrom is missing</source>
     </message>
     <message>
         <source>Provider</source>
-        <translation type="unfinished">ผู้ให้บริการ</translation>
+        <translation>ผู้ให้บริการ</translation>
     </message>
     <message>
         <source>File Name</source>
-        <translation type="unfinished">ชื่อไฟล์</translation>
+        <translation>ชื่อไฟล์</translation>
     </message>
     <message>
         <source>Update</source>
-        <translation type="unfinished">อัปเดต</translation>
+        <translation>อัปเดต</translation>
     </message>
     <message>
         <source>The file name of the texture pack.</source>
@@ -13105,7 +13100,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Download Packs</source>
-        <translation type="unfinished">ดาวน์โหลดดาตาแพ็ก</translation>
+        <translation>ดาวน์โหลดดาตาแพ็ก</translation>
     </message>
     <message>
         <source>Download texture packs from online mod platforms</source>
@@ -13125,7 +13120,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Error</source>
-        <translation type="unfinished">ข้อผิดพลาด</translation>
+        <translation>ข้อผิดพลาด</translation>
     </message>
     <message>
         <source>Aborted</source>
@@ -13137,7 +13132,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Warnings</source>
-        <translation type="unfinished">คำเตือน</translation>
+        <translation>คำเตือน</translation>
     </message>
     <message>
         <source>Abort</source>
@@ -13149,7 +13144,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Confirm Update</source>
-        <translation type="unfinished">ยืนยันการอัพเดท</translation>
+        <translation>ยืนยันการอัพเดท</translation>
     </message>
     <message>
         <source>Updating texture packs while the game is running may cause pack duplication and game crashes.
@@ -13159,7 +13154,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>&apos;%1&apos; is up-to-date! :)</source>
-        <translation type="unfinished">&apos;%1&apos; อัปเดตเป็นเวอร์ชันล่าสุดแล้ว! :)</translation>
+        <translation>&apos;%1&apos; อัปเดตเป็นเวอร์ชันล่าสุดแล้ว! :)</translation>
     </message>
     <message>
         <source>All texture packs are up-to-date! :)</source>
@@ -13171,11 +13166,11 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Update checker</source>
-        <translation type="unfinished">การตรวจสอบอัปเดต</translation>
+        <translation>การตรวจสอบอัปเดต</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
-        <translation type="unfinished">ยืนยันการนำออก</translation>
+        <translation>ยืนยันการนำออก</translation>
     </message>
     <message>
         <source>You are about to remove the metadata for %1 texture packs.
@@ -13293,7 +13288,7 @@ Are you sure?</source>
     <name>VanillaCreationTask</name>
     <message>
         <source>Creating instance from version %1</source>
-        <translation type="unfinished">สร้างอินสแตนซ์จากเวอร์ชัน %1</translation>
+        <translation>สร้างอินสแตนซ์จากเวอร์ชัน %1</translation>
     </message>
 </context>
 <context>
@@ -13349,7 +13344,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">คำสั่ง</translation>
+        <translation>คำสั่ง</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -13397,11 +13392,11 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Change Version</source>
-        <translation type="unfinished">เปลี่ยนเวอร์ชั่น</translation>
+        <translation>เปลี่ยนเวอร์ชั่น</translation>
     </message>
     <message>
         <source>Search</source>
-        <translation type="unfinished">ค้นหา</translation>
+        <translation>ค้นหา</translation>
     </message>
     <message>
         <source>Change version of the selected component.</source>
@@ -13441,7 +13436,7 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Install Loader</source>
-        <translation type="unfinished">ติดตั้งตัวมอดโหลดเดอร์</translation>
+        <translation>ติดตั้งตัวมอดโหลดเดอร์</translation>
     </message>
     <message>
         <source>Install a mod loader.</source>
@@ -13609,7 +13604,7 @@ Please add a Microsoft account that owns Minecraft, or an account on a third-par
     </message>
     <message>
         <source>Install</source>
-        <translation type="unfinished">ติดตั้ง</translation>
+        <translation>ติดตั้ง</translation>
     </message>
     <message>
         <source>Error updating instance</source>
@@ -13647,7 +13642,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Type</source>
-        <translation type="unfinished">ประเภท</translation>
+        <translation>ประเภท</translation>
     </message>
     <message>
         <source>Architecture</source>
@@ -13713,7 +13708,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Recommended</source>
-        <translation type="unfinished">แนะนำ</translation>
+        <translation>แนะนำ</translation>
     </message>
     <message>
         <source>Latest</source>
@@ -13728,11 +13723,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>OK</source>
-        <translation type="unfinished">เสร็จสิ้น</translation>
+        <translation>เสร็จสิ้น</translation>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>Choose Version</source>
@@ -13744,14 +13739,14 @@ Are you sure?</source>
     </message>
     <message>
         <source>&amp;Refresh</source>
-        <translation type="unfinished">รีเฟรช</translation>
+        <translation>รีเฟรช</translation>
     </message>
 </context>
 <context>
     <name>VersionSelectWidget</name>
     <message>
         <source>Search</source>
-        <translation type="unfinished">ค้นหา</translation>
+        <translation>ค้นหา</translation>
     </message>
     <message>
         <source>Error</source>
@@ -13809,7 +13804,7 @@ Canonical Path: %1</source>
     <message>
         <source>Size</source>
         <extracomment>World size on disk</extracomment>
-        <translation type="unfinished">ขนาด</translation>
+        <translation>ขนาด</translation>
     </message>
     <message>
         <source>Info</source>
@@ -13841,7 +13836,7 @@ Canonical Path: %1</source>
     <name>WorldListPage</name>
     <message>
         <source>Actions</source>
-        <translation type="unfinished">คำสั่ง</translation>
+        <translation>คำสั่ง</translation>
     </message>
     <message>
         <source>Add</source>
@@ -13873,7 +13868,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Refresh</source>
-        <translation type="unfinished">รีเฟรช</translation>
+        <translation>รีเฟรช</translation>
     </message>
     <message>
         <source>View Folder</source>
@@ -13889,7 +13884,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Tools</source>
-        <translation type="unfinished">เครื่องมือ</translation>
+        <translation>เครื่องมือ</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
@@ -13970,7 +13965,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Invalid command</source>
-        <translation type="unfinished">คำสั่งไม่ถูกต้อง</translation>
+        <translation>คำสั่งไม่ถูกต้อง</translation>
     </message>
     <message>
         <source>The tool command is empty.</source>
@@ -14152,7 +14147,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Password</source>
-        <translation type="unfinished">รหัสผ่าน</translation>
+        <translation>รหัสผ่าน</translation>
     </message>
     <message>
         <source>Sign in</source>
@@ -14160,7 +14155,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Cancel</source>
-        <translation type="unfinished">ยกเลิก</translation>
+        <translation>ยกเลิก</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>
