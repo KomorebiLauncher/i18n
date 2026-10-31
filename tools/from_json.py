@@ -88,8 +88,12 @@ def rewrite(ts_path: pathlib.Path, translations: dict[str, str], known: set[str]
             if tr_m:
                 if text_of(tr_m.group(2)).strip() == wanted.strip() and (("unfinished" in tr_m.group(1)) == unfinished):
                     return message
+                new_message = message[: tr_m.start()] + replacement + message[tr_m.end() :]
+                if new_message == message:
+                    # the text differs only in ways escaping puts back: not a real change
+                    return message
                 changed += 1
-                return message[: tr_m.start()] + replacement + message[tr_m.end() :]
+                return new_message
             skipped += 1
             return message
 
