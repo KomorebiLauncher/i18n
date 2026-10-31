@@ -48,3 +48,14 @@ index_v2.json 里该语言的 sha1 与 translated 数量已经变化。少了这
 而旧文件的 sha1 仍然自洽，启动器不会报任何错——看起来就像"翻译没生效"。
 
 构建：uild.yml 在 *.ts 推送后编译语言包并发布到 gh-pages。
+
+## 更新文案（字符串提取）
+
+`.ts` 里的源串从启动器源码提取，不再依赖上游仓库：
+
+- **自动**：`update-strings.yml` 每周一运行（也可手动 `workflow_dispatch`），浅克隆启动器仓库后跑
+  `lupdate -locations none src/launcher src/libraries -ts *.ts .template.ts`，有变化就提交。
+- **本地**：在装有 Qt 工具（`qttools`，提供 `lupdate`）或 Nix 的环境里，把启动器源码放在 `src/`，执行同一条命令。
+- 提交后 `build.yml` 会在 `*.ts` 变化时重新编译语言包并发布到 gh-pages。
+
+`-locations none` 是刻意的：源码不在本仓库内，写入绝对路径会把机器路径带进目录，而相对路径又跨仓库；翻译平台不需要位置信息。

@@ -1,0 +1,39 @@
+name: Update source strings
+
+# Regenerates the catalogue from Komorebi Launcher's own source, replacing the upstream
+# PrismLauncher pipeline this fork used to carry. Runs weekly and on demand.
+on:
+  schedule:
+    - cron: '0 4 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Install Nix
+        uses: DeterminateSystems/nix-installer-action@v21
+
+      - name: Check out the launcher source
+        run: git clone --depth 1 https://github.com/KomorebiLauncher/KomorebiLauncher.git src
+
+      - name: Update the catalogue
+        run: nix develop . -c lupdate -locations none src/launcher src/libraries -ts *.ts .template.ts
+
+      - name: Commit changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "the catalogue is already current"
+          else
+            git commit -m "Update source strings"
+            git push
+          fi
