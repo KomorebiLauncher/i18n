@@ -4,7 +4,6 @@ name: Merge translations
 # This writes them into the .ts catalogue and rebuilds the language packs the launcher downloads.
 on:
   schedule:
-    # The JSON repository syncs at 04:30 on Mondays; merge half an hour later.
     - cron: '0 5 * * 1'
   workflow_dispatch:
     inputs:
@@ -15,8 +14,6 @@ on:
 
 permissions:
   contents: write
-  # A push made with GITHUB_TOKEN does not start other workflows, so the rebuild is dispatched
-  # explicitly instead of relying on build.yml's push trigger.
   actions: write
 
 jobs:
@@ -35,16 +32,15 @@ jobs:
 
       - name: Merge
         run: |
-          if [ "${{ inputs.dry_run }}" = "true" ]; then
-            python tools/from_json.py --json /tmp/json-source/json --dir . --dry-run
-          else
-            python tools/from_json.py --json /tmp/json-source/json --dir .
-          fi
+          python tools/from_json.py --json /tmp/json-source/json --dir . ${{ inputs.dry_run && '--dry-run' || '' }}
+          echo "--- diagnostics ---"
+          pwd
+          git status --porcelain=v1 | head -10
+          git diff --stat | tail -3
 
       - name: Commit changes
         if: ${{ inputs.dry_run != true }}
         run: |
-          git status --short | head -20
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A
