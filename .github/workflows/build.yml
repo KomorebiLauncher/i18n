@@ -1,4 +1,5 @@
 name: Build Pages
+# Recompiled on every push to master that touches a .ts file, and deploy to gh-pages.
 
 on:
   push:
