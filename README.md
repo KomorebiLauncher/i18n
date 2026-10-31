@@ -1,7 +1,7 @@
-# WTFLauncher 翻译源
+# KomorebiLauncher 翻译源
 
-WTF Launcher 的启动器界面翻译仓库，供启动器在运行时下载语言包使用。产出站点：
-https://wtflauncher.github.io/i18n/ ，启动器读取的入口是其中的 index_v2.json 。
+Komorebi Launcher 的启动器界面翻译仓库，供启动器在运行时下载语言包使用。产出站点：
+https://komorebilauncher.github.io/i18n/ ，启动器读取的入口是其中的 index_v2.json 。
 
 本仓库是 [PrismLauncher/Translations](https://github.com/PrismLauncher/Translations) 的 fork，
 翻译内容本身由 [Hosted Weblate](https://hosted.weblate.org/projects/prismlauncher/launcher/) 维护，
