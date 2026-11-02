@@ -12788,12 +12788,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>Følgende instans kan referere til filer i denne instans:&apos;</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 det kan ødelægge de andre instanser, </numerusform>
-            <numerusform>Ønsker du at fortsætte?</numerusform>
-            <numerusform>Følgende instanser kan referere til filer i denne instans:&apos;</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 det kan ødelægge de andre instanser, </numerusform>
-            <numerusform>Ønsker du at fortsætte?</numerusform>
         </translation>
     </message>
     <message>

@@ -13838,15 +13838,6 @@ Do you wish to proceed?</source>
             <numerusform>Následující instance může referovat na soubory této instance:</numerusform>
             <numerusform>%1</numerusform>
             <numerusform>%2 druhá instance by tím mohla být poškozena, </numerusform>
-            <numerusform>Přejete si pokračovat?</numerusform>
-            <numerusform>Následující instance mohou referovat na soubory této instance:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 druhé instance by tím mohly být poškozeny, </numerusform>
-            <numerusform>Přejete si pokračovat?</numerusform>
-            <numerusform>Následující instance mohou referovat na soubory této instance:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 druhé instance by tím mohly být poškozeny, </numerusform>
-            <numerusform>Přejete si pokračovat?</numerusform>
         </translation>
     </message>
     <message>
@@ -17369,12 +17360,6 @@ Are you sure?</source>
         <translation>
             <numerusform>Chystáte se smazat %n svět.</numerusform>
             <numerusform>Svět tím bude navždy odstraněn (FAKT HODNĚ DLOUHO).</numerusform>
-            <numerusform>Jste si jistí?</numerusform>
-            <numerusform>Chystáte se smazat %n světy.</numerusform>
-            <numerusform>Světy tím budou navždy odstraněny (FAKT HODNĚ DLOUHO).</numerusform>
-            <numerusform>Jste si jistí?</numerusform>
-            <numerusform>Chystáte se smazat %n světů.</numerusform>
-            <numerusform>Světy tím budou navždy odstraněny (FAKT HODNĚ DLOUHO).</numerusform>
             <numerusform>Jste si jistí?</numerusform>
         </translation>
     </message>

@@ -13942,12 +13942,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>Die folgende Instanz bezieht sich womöglich auf Dateien in dieser Instanz:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 es könnte die andere Instanz beschädigen, </numerusform>
-            <numerusform>Möchtest du fortfahren?</numerusform>
-            <numerusform>Die folgenden Instanzen beziehen sich womöglich auf Dateien in dieser Instanz:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 es könnte die anderen Instanzen beschädigen, </numerusform>
-            <numerusform>Möchtest du fortfahren?</numerusform>
         </translation>
     </message>
     <message>

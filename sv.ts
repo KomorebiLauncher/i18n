@@ -13646,12 +13646,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>Följande instans kan använda filer från den här instansen:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 det kan påverka den andra instansen.</numerusform>
-            <numerusform>Vill du fortsätta?</numerusform>
-            <numerusform>Följande instanser kan använda filer från den här instansen:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 det kan påverka de andra instanserna.</numerusform>
-            <numerusform>Vill du fortsätta?</numerusform>
         </translation>
     </message>
     <message>
@@ -17176,10 +17170,6 @@ Are you sure?</source>
         <translation>
             <numerusform>Du håller på att ta bort %n värld.</numerusform>
             <numerusform>Den kan försvinna för gott.</numerusform>
-            <numerusform>Vill du fortsätta?</numerusform>
-            <numerusform>Du håller på att ta bort %n världar.</numerusform>
-            <numerusform>De kan försvinna för gott.</numerusform>
-            <numerusform>Vill du fortsätta?</numerusform>
         </translation>
     </message>
     <message>

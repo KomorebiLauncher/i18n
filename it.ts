@@ -13716,12 +13716,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>La seguente istanza potrebbe contenere riferimenti a file in quest&apos;istanza:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 potrebbe danneggiare l&apos;altra istanza, </numerusform>
-            <numerusform>Vuoi procedere?</numerusform>
-            <numerusform>Le seguenti istanze potrebbero contenere riferimenti a file in quest&apos;instanza:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 potrebbe danneggiare le altre istanze, </numerusform>
-            <numerusform>Vuoi procedere?</numerusform>
         </translation>
     </message>
     <message>

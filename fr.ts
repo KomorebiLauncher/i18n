@@ -11553,16 +11553,16 @@ NOTE&#x202f;: Assurez-vous de faire une sauvegarde des données importantes de v
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>Nombre de requêtes limité pour %n seconde : Réessayez après %1</numerusform>
-            <numerusform>Nombre de requêtes limité pour %n secondes : Réessayez après %1</numerusform>
+            <numerusform>Nombre de requêtes limité pour %n seconde&#xa0;: Réessayez après %1</numerusform>
+            <numerusform>Nombre de requêtes limité pour %n secondes&#xa0;: Réessayez après %1</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>Débit du réseau limité : Attendez %n seconde</numerusform>
-            <numerusform>Débit du réseau limité : Attendez %n secondes</numerusform>
+            <numerusform>Débit du réseau limité&#xa0;: Attendez %n seconde</numerusform>
+            <numerusform>Débit du réseau limité&#xa0;: Attendez %n secondes</numerusform>
         </translation>
     </message>
 </context>
@@ -13882,14 +13882,8 @@ Nouveau nom&#xa0;: %2</translation>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>L&apos;instance suivante pourrait référencer des fichiers dans cette instance :</numerusform>
+            <numerusform>L&apos;instance suivante pourrait référencer des fichiers dans cette instance&#xa0;:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 cela pourrait endommager l&apos;autre instance.</numerusform>
-            <numerusform>Souhaitez-vous continuer ?</numerusform>
-            <numerusform>Les instances suivantes pourraient référencer des fichiers dans cette instance :</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 cela pourrait endommager les autres instances.</numerusform>
-            <numerusform>Souhaitez-vous continuer ?</numerusform>
         </translation>
     </message>
     <message>
@@ -17415,11 +17409,7 @@ These worlds may be gone forever (A LONG TIME).
 Are you sure?</source>
         <translation>
             <numerusform>Vous allez supprimer %n monde.</numerusform>
-            <numerusform>Ce monde sera peut-être perdu pour toujours (C&apos;est très long !).</numerusform>
-            <numerusform>Êtes vous sûr·e ?</numerusform>
-            <numerusform>Vous allez supprimer %n mondes.</numerusform>
-            <numerusform>Ces mondes seront peut-être perdus pour toujours (C&apos;est très long !).</numerusform>
-            <numerusform>Êtes vous sûr·e ?</numerusform>
+            <numerusform>Ce monde sera peut-être perdu pour toujours (C&apos;est très long&#x202f;!).</numerusform>
         </translation>
     </message>
     <message>

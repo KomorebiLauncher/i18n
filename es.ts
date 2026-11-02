@@ -13889,12 +13889,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>La siguiente instancia podría hacer referencia a archivos en esta instancia:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 Podría dañar la otra instancia.</numerusform>
-            <numerusform>¿Desea continuar?</numerusform>
-            <numerusform>Las siguientes instancias podrían hacer referencia a archivos en esta instancia:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 Podría dañar las demás instancias.</numerusform>
-            <numerusform>¿Desea continuar?</numerusform>
         </translation>
     </message>
     <message>
@@ -17421,10 +17415,6 @@ Are you sure?</source>
         <translation>
             <numerusform>Estás a punto de eliminar el mundo %n.</numerusform>
             <numerusform>Este mundo podría desaparecer para siempre (ESO ES MUCHO TIEMPO).</numerusform>
-            <numerusform>¿Estás seguro?</numerusform>
-            <numerusform>Estás a punto de eliminar los mundos %n.</numerusform>
-            <numerusform>Estos mundos podrían desaparecer para siempre (ESO ES MUCHO TIEMPO).</numerusform>
-            <numerusform>¿Estás seguro?</numerusform>
         </translation>
     </message>
     <message>

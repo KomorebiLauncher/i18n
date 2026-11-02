@@ -11446,12 +11446,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>பின்வரும் நிகழ்வு இந்த நிகழ்வில் கோப்புகளைக் குறிப்பிடலாம்: </numerusform>
             <numerusform>%1 </numerusform>
-            <numerusform>%2 இது மற்ற நிகழ்வுகளை உடைக்கக்கூடும், </numerusform>
-            <numerusform>நீங்கள் தொடர விரும்புகிறீர்களா?</numerusform>
-            <numerusform>பின்வரும் நிகழ்வுகள் இந்த நிகழ்வில் கோப்புகளைக் குறிப்பிடலாம்: </numerusform>
-            <numerusform>%1 </numerusform>
-            <numerusform>%2 இது மற்ற நிகழ்வுகளை உடைக்கக்கூடும், </numerusform>
-            <numerusform>நீங்கள் தொடர விரும்புகிறீர்களா?</numerusform>
         </translation>
     </message>
     <message>

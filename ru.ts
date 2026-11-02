@@ -13995,15 +13995,6 @@ Do you wish to proceed?</source>
             <numerusform>Следующий экземпляр может ссылаться на файлы в этом экземпляре:</numerusform>
             <numerusform>&lt;br/&gt; %1</numerusform>
             <numerusform>&lt;br/&gt; %2 его может повредить другой экземпляр.</numerusform>
-            <numerusform>&lt;br/&gt; Продолжить?</numerusform>
-            <numerusform>Следующие экземпляры могут ссылаться на файлы в этом экземпляре:</numerusform>
-            <numerusform>&lt;br/&gt; %1</numerusform>
-            <numerusform>&lt;br/&gt; %2 их может повредить другие экземпляры.</numerusform>
-            <numerusform>&lt;br/&gt; Продолжить?</numerusform>
-            <numerusform>Следующие экземпляры могут ссылаться на файлы в этом экземпляре:</numerusform>
-            <numerusform>&lt;br/&gt; %1</numerusform>
-            <numerusform>&lt;br/&gt; %2 их может повредить другие экземпляры.</numerusform>
-            <numerusform>&lt;br/&gt; Продолжить?</numerusform>
         </translation>
     </message>
     <message>
@@ -17538,12 +17529,6 @@ These worlds may be gone forever (A LONG TIME).
 Are you sure?</source>
         <translation>
             <numerusform>Вы собираетесь удалить %n мир.</numerusform>
-            <numerusform>Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).</numerusform>
-            <numerusform>Вы уверены?</numerusform>
-            <numerusform>Вы собираетесь удалить %n мира.</numerusform>
-            <numerusform>Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).</numerusform>
-            <numerusform>Вы уверены?</numerusform>
-            <numerusform>Вы собираетесь удалить %n миров.</numerusform>
             <numerusform>Эти миры могут исчезнуть навсегда (ОЧЕНЬ НАДОЛГО).</numerusform>
             <numerusform>Вы уверены?</numerusform>
         </translation>

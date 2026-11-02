@@ -11396,12 +11396,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>Cheste istance e podarès fâ riferiments a files di cheste istance:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 al podarès corompi chê altre istance, </numerusform>
-            <numerusform>Desideristu continuâ?</numerusform>
-            <numerusform>Chestis istancis a podaressin fâ riferiment a files di cheste istance:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 al podarès corompi chês altris istancis, </numerusform>
-            <numerusform>Desideristu continuâ?</numerusform>
         </translation>
     </message>
     <message>

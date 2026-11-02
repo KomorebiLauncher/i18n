@@ -13929,12 +13929,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>A seguinte instância pode referenciar arquivos nesta instância:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 pode fazer com que a outra instância pare de funcionar,</numerusform>
-            <numerusform>Você quer prosseguir?</numerusform>
-            <numerusform>As seguintes instâncias podem referenciar arquivos nesta instância:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 pode fazer com que as outras instâncias parem de funcionar,</numerusform>
-            <numerusform>Você quer prosseguir?</numerusform>
         </translation>
     </message>
     <message>
@@ -17465,10 +17459,6 @@ Are you sure?</source>
         <translation>
             <numerusform>Você está prestes a deletar %n world.</numerusform>
             <numerusform>Esse mundo talvez pode ser perdido para sempre (UM LONGO TEMPO).</numerusform>
-            <numerusform>Você tem certeza?</numerusform>
-            <numerusform>Você está prestes a deletar %n worlds.</numerusform>
-            <numerusform>Esses mundos talvez podem ser perdidos para sempre (UM LONGO TEMPO).</numerusform>
-            <numerusform>Você tem certeza?</numerusform>
         </translation>
     </message>
     <message>

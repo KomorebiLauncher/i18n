@@ -13278,12 +13278,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>A seguinte instância pode referenciar ficheiros nesta instância:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 pode fazer com que a outra instância pare de funcionar,</numerusform>
-            <numerusform>Pretendes prosseguir?</numerusform>
-            <numerusform>As seguintes instâncias podem referenciar ficheiros nesta instância:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 pode fazer com que as outras instâncias parem de funcionar,</numerusform>
-            <numerusform>Pretendes prosseguir?</numerusform>
         </translation>
     </message>
     <message>

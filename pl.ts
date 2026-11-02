@@ -13963,15 +13963,6 @@ Do you wish to proceed?</source>
             <numerusform>Następujące instancja może odwoływać się do plików w tej instancji:</numerusform>
             <numerusform>%1</numerusform>
             <numerusform>%2 może to uszkodzić inną instancję, </numerusform>
-            <numerusform>Czy chcesz kontynuować?</numerusform>
-            <numerusform>Następujące instancje mogą odwoływać się do plików w tej instancji:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 może to uszkodzić inną instancję, </numerusform>
-            <numerusform>Czy chcesz kontynuować?</numerusform>
-            <numerusform>Następujące instancje mogą odwoływać się do plików w tej instancji:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 może to uszkodzić inną instancję, </numerusform>
-            <numerusform>Czy chcesz kontynuować?</numerusform>
         </translation>
     </message>
     <message>

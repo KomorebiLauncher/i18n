@@ -9578,12 +9578,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>ອິນສະແຕນສ໌ຕໍ່ໄປນີ້ອາດຈະອ້າງອີງເຖິງໄຟລ໌ໃນອິນສະແຕນສ໌ນີ້:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 ມັນອາດຈະເຮັດໃຫ້ອິນສະແຕນສ໌ອື່ນເສຍຫາຍໄດ້, </numerusform>
-            <numerusform>ເຈົ້າຕ້ອງການດຳເນີນການຕໍ່ບໍ່?</numerusform>
-            <numerusform>ອິນສະແຕນສ໌ຕໍ່ໄປນີ້ອາດຈະອ້າງອີງເຖິງໄຟລ໌ໃນອິນສະແຕນສ໌ນີ້:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 ມັນອາດຈະເຮັດໃຫ້ອິນສະແຕນສ໌ອື່ນເສຍຫາຍໄດ້, </numerusform>
-            <numerusform>ເຈົ້າຕ້ອງການດຳເນີນການຕໍ່ບໍ່?</numerusform>
         </translation>
     </message>
     <message>

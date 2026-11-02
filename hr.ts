@@ -7823,6 +7823,7 @@ Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će pr
         <translation>
             <numerusform>%n mod will be enabled</numerusform>
             <numerusform>%n mods will be enabled</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -7835,6 +7836,7 @@ Upozorenje: Ovaj resurs je jako povezan negdje drugdje. Uređenje resursa će pr
         <translation>
             <numerusform>%n mod will be disabled</numerusform>
             <numerusform>%n mods will be disabled</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message>
@@ -8588,6 +8590,7 @@ Ažurirajte %1!</translation>
         <translation>
             <numerusform>Request Rate Limited for %n second: Retry After %1</numerusform>
             <numerusform>Request Rate Limited for %n seconds: Retry After %1</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
     <message numerus="yes">
@@ -8596,6 +8599,7 @@ Ažurirajte %1!</translation>
         <translation>
             <numerusform>Rate Limited: Waiting %n second</numerusform>
             <numerusform>Rate Limited: Waiting %n seconds</numerusform>
+            <numerusform></numerusform>
         </translation>
     </message>
 </context>
@@ -10550,11 +10554,6 @@ Do you wish to proceed?</source>
             <numerusform>The following instance might reference files in this instance:</numerusform>
             <numerusform>%1</numerusform>
             <numerusform>%2 it could break the other instance, </numerusform>
-            <numerusform>Do you wish to proceed?</numerusform>
-            <numerusform>The following instances might reference files in this instance:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 it could break the other instances, </numerusform>
-            <numerusform>Do you wish to proceed?</numerusform>
         </translation>
     </message>
     <message>
@@ -13480,12 +13479,6 @@ Are you sure?</source>
         <translation>
             <numerusform>Upravo ćete izbrisati %n svijet.</numerusform>
             <numerusform>Ti bi svjetovi mogli zauvijek nestati (NA DUGO VRIJEME).</numerusform>
-            <numerusform>Jeste li sigurni?</numerusform>
-            <numerusform>Upravo ćete izbrisati %n svjetova.</numerusform>
-            <numerusform>Ti bi svjetovi mogli zauvijek nestati (DUGO VREMENA).</numerusform>
-            <numerusform>Jeste li sigurni?</numerusform>
-            <numerusform>Upravo ćete izbrisati %n svjetova.</numerusform>
-            <numerusform>Ti bi svjetovi mogli zauvijek nestati (DUGO VREMENA).</numerusform>
             <numerusform>Jeste li sigurni?</numerusform>
         </translation>
     </message>

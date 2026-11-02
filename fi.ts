@@ -12897,12 +12897,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>Seuraava peli saattaa sisältää viitata tiedostoihin tässä pelissä:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 se voi rikkoa toisen pelin,</numerusform>
-            <numerusform>Haluatko jatkaa?</numerusform>
-            <numerusform>Seuraavat pelit saattavat sisältää viitata tiedostoihin tässä pelissä:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 se voi rikkoa toisia pelejä,</numerusform>
-            <numerusform>Haluatko jatkaa?</numerusform>
         </translation>
     </message>
     <message>
@@ -16309,10 +16303,6 @@ Are you sure?</source>
         <translation>
             <numerusform>Olet poistamassa maailman %n.</numerusform>
             <numerusform>Tämä maailma saattaa kadota ikuisesti (TODELLA PITKÄ AIKA).</numerusform>
-            <numerusform>Oletko varma?</numerusform>
-            <numerusform>Olet poistamassa maailmat %n.</numerusform>
-            <numerusform>Nämä maailmat saattavat kadota ikuisesti (TODELLA PITKÄ AIKA).</numerusform>
-            <numerusform>Oletko varma?</numerusform>
         </translation>
     </message>
     <message>

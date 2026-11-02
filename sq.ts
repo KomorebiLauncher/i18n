@@ -9751,12 +9751,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>Instanca e mëposhtme mund t&apos;i referohet skedarëve në këtë instancë:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 mund të prishë instancën tjetër, </numerusform>
-            <numerusform>Dëshironi të vazhdoni?</numerusform>
-            <numerusform>Instancat e mëposhtme mund t&apos;u referohen skedarëve në këtë instancë:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 mund të prishë instancat e tjera, </numerusform>
-            <numerusform>Dëshironi të vazhdoni?</numerusform>
         </translation>
     </message>
     <message>

@@ -9813,12 +9813,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>Quyidagi nusxa ushbu nusxadagi fayllarga murojaat qilishi mumkin:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 u boshqa nusxani buzib qoʻyishi mumkin, </numerusform>
-            <numerusform>Davom etishni xohlaysizmi?</numerusform>
-            <numerusform>Quyidagi nusxalar ushbu nusxadagi fayllarga murojaat qilishi mumkin:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 u boshqa nusxani buzib qoʻyishi mumkin, </numerusform>
-            <numerusform>Davom etishni xohlaysizmi?</numerusform>
         </translation>
     </message>
     <message>
@@ -12645,10 +12639,6 @@ Are you sure?</source>
         <translation>
             <numerusform>Siz %nx ta dunyoni yoʻq qilish arafasidasiz.</numerusform>
             <numerusform>Bu dunyolar butunlay yoʻqolib ketishi mumkin (JUDA UZOQ VAQTGA).</numerusform>
-            <numerusform>Ishonchingiz komilmi?</numerusform>
-            <numerusform>Siz %nx ta dunyoni yoʻq qilish arafasidasiz.</numerusform>
-            <numerusform>Bu dunyolar butunlay yoʻqolib ketishi mumkin (JUDA UZOQ VAQTGA).</numerusform>
-            <numerusform>Ishonchingiz komilmi?</numerusform>
         </translation>
     </message>
     <message>

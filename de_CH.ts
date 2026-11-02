@@ -12952,7 +12952,7 @@ Are you sure?</source>
     <name>VanillaCreationTask</name>
     <message>
         <source>Creating instance from version %1</source>
-        <translation>Erstelle Instanz von Version %1</translation>
+        <translation>Erstelle Instanz&#xa0;von Version %1</translation>
     </message>
 </context>
 <context>

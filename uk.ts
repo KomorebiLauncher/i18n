@@ -13671,15 +13671,6 @@ Do you wish to proceed?</source>
             <numerusform>Наступна збірка може посилатися на файли в цій збірці:</numerusform>
             <numerusform>&lt;br/&gt; %1</numerusform>
             <numerusform>&lt;br/&gt; %2 Це може пошкодити іншу збірку.</numerusform>
-            <numerusform>&lt;br/&gt; Бажаєте продовжити?</numerusform>
-            <numerusform>Наступні збірки можуть посилатися на файли в цій збірці:</numerusform>
-            <numerusform>&lt;br/&gt; %1</numerusform>
-            <numerusform>&lt;br/&gt; %2 Це може пошкодити інші збірки.</numerusform>
-            <numerusform>&lt;br/&gt; Бажаєте продовжити?</numerusform>
-            <numerusform>Наступні збірки можуть посилатися на файли в цій збірці:</numerusform>
-            <numerusform>&lt;br/&gt; %1</numerusform>
-            <numerusform>&lt;br/&gt; %2 Це може пошкодити інші збірки.</numerusform>
-            <numerusform>&lt;br/&gt; Бажаєте продовжити?</numerusform>
         </translation>
     </message>
     <message>

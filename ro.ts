@@ -12837,15 +12837,6 @@ Do you wish to proceed?</source>
             <numerusform>Următoarea instanță ar putea face referire la fișiere din această instanță:</numerusform>
             <numerusform>%1</numerusform>
             <numerusform>%2 acest lucru ar putea afecta funcționarea celeilalte instanțe, </numerusform>
-            <numerusform>Doriți să continuați?</numerusform>
-            <numerusform>Următoarele instanțe ar putea face referire la fișiere din această instanță:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 acest lucru ar putea afecta funcționarea celorlalte instanțe, </numerusform>
-            <numerusform>Doriți să continuați?</numerusform>
-            <numerusform>Următoarele instanțe ar putea face referire la fișiere din această instanță:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 acest lucru ar putea afecta funcționarea celorlalte instanțe, </numerusform>
-            <numerusform>Doriți să continuați?</numerusform>
         </translation>
     </message>
     <message>

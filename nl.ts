@@ -13531,12 +13531,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>De volgende instantie refereert mogelijks bestanden in deze instantie:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 dit kan de andere instantie breken,</numerusform>
-            <numerusform>Wenst u door te gaan?</numerusform>
-            <numerusform>De volgende instanties refereert mogelijks bestanden in deze instanties:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 dit kan de andere instanties breken,</numerusform>
-            <numerusform>Wenst u door te gaan?</numerusform>
         </translation>
     </message>
     <message>

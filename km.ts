@@ -395,7 +395,7 @@
     <message>
         <source>Offline</source>
         <comment>Account status</comment>
-        <translation>ក្រៅបណ្ដាញ</translation>
+        <translation type="vanished">ក្រៅបណ្ដាញ</translation>
     </message>
     <message>
         <source>Working</source>

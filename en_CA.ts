@@ -12728,12 +12728,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>The following instance might reference files in this instance:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 it could break the other instance,</numerusform>
-            <numerusform>Do you wish to proceed?</numerusform>
-            <numerusform>The following instances might reference files in this instance:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 it could break the other instances,</numerusform>
-            <numerusform>Do you wish to proceed?</numerusform>
         </translation>
     </message>
     <message>
@@ -16137,10 +16131,6 @@ Are you sure?</source>
         <translation>
             <numerusform>You are about to delete %n world.</numerusform>
             <numerusform>These worlds may be gone forever (A LONG TIME).</numerusform>
-            <numerusform>Are you sure?</numerusform>
-            <numerusform>You are about to delete %n worlds.</numerusform>
-            <numerusform>These worlds may be gone forever (A LONG TIME).</numerusform>
-            <numerusform>Are you sure?</numerusform>
         </translation>
     </message>
     <message>

@@ -11497,15 +11497,6 @@ Do you wish to proceed?</source>
             <numerusform>D’fhéadfadh an sampla seo a leanas tagairt a dhéanamh do chomhaid sa sampla seo:</numerusform>
             <numerusform>%1</numerusform>
             <numerusform>%2 d’fhéadfadh sé an sampla eile a bhriseadh,</numerusform>
-            <numerusform>Ar mhaith leat dul ar aghaidh?</numerusform>
-            <numerusform>D’fhéadfadh na samplaí seo a leanas tagairt a dhéanamh do chomhaid sa chás seo:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 d’fhéadfadh sé na samplaí eile a bhriseadh,</numerusform>
-            <numerusform>Ar mhaith leat dul ar aghaidh?</numerusform>
-            <numerusform>D’fhéadfadh na samplaí seo a leanas tagairt a dhéanamh do chomhaid sa chás seo:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 d’fhéadfadh sé na samplaí eile a bhriseadh,</numerusform>
-            <numerusform>Ar mhaith leat dul ar aghaidh?</numerusform>
         </translation>
     </message>
     <message>
@@ -14532,12 +14523,6 @@ Are you sure?</source>
         <translation>
             <numerusform>Tá tú ar tí an domhan %n a scriosadh.</numerusform>
             <numerusform>D’fhéadfadh na domhain seo a bheith imithe go deo (AR FEADH I bhFAD).</numerusform>
-            <numerusform>An bhfuil tú cinnte?</numerusform>
-            <numerusform>Tá tú ar tí %n saol a scriosadh.</numerusform>
-            <numerusform>D’fhéadfadh na saolta seo a bheith imithe go deo (AR FEADH I bhFAD).</numerusform>
-            <numerusform>An bhfuil tú cinnte?</numerusform>
-            <numerusform>Tá tú ar tí %n saol a scriosadh.</numerusform>
-            <numerusform>D’fhéadfadh na saolta seo a bheith imithe go deo (AR FEADH I bhFAD).</numerusform>
             <numerusform>An bhfuil tú cinnte?</numerusform>
         </translation>
     </message>

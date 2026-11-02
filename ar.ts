@@ -12425,24 +12425,6 @@ Do you wish to proceed?</source>
             <numerusform>هل تريد المتابعة؟</numerusform>
             <numerusform>قد يرجع النموذج الآتي إلى ملفات في هذا النموذج:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 من الممكن أن ينعطب النموذج الآخر, </numerusform>
-            <numerusform>هل تريد المتابعة؟</numerusform>
-            <numerusform>قد يرجع النموذجان الآتيان إلى ملفات في هذا النموذج:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 من الممكن أن ينعطبا النموذجان الآخران, </numerusform>
-            <numerusform>هل تريد المتابعة؟</numerusform>
-            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 من الممكن أن تنعطب النماذج الأخرى, </numerusform>
-            <numerusform>هل تريد المتابعة؟</numerusform>
-            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 من الممكن أن تنعطب النماذج الأخرى, </numerusform>
-            <numerusform>هل تريد المتابعة؟</numerusform>
-            <numerusform>قد ترجع النماذج الآتية إلى ملفات في هذا النموذج:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 من الممكن أن تنعطب النماذج الأخرى, </numerusform>
-            <numerusform>هل تريد المتابعة؟</numerusform>
         </translation>
     </message>
     <message>

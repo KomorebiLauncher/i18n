@@ -13887,12 +13887,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>The following instance might reference files in this instance:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 it could break the other instance, </numerusform>
-            <numerusform>Do you wish to proceed?</numerusform>
-            <numerusform>The following instances might reference files in this instance:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 it could break the other instances, </numerusform>
-            <numerusform>Do you wish to proceed?</numerusform>
         </translation>
     </message>
     <message>

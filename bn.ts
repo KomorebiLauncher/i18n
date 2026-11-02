@@ -8878,7 +8878,7 @@ This message will be displayed until you remove this from the JVM arguments.</so
     <message>
         <source>Java checker library could not be found. Please check your installation.</source>
         <oldsource>Java checker library could not be found. Please check your installation</oldsource>
-        <translation>জাভা চেকার লাইব্রেরি খুঁজে পাওয়া যায়নি। আপনার ইনস্টলেশন চেক করুন।</translation>
+        <translation>জাভা চেকার লাইব্রেরি খুঁজে পাওয়া যায়নি।&#xa0;আপনার ইনস্টলেশন চেক করুন।</translation>
     </message>
     <message>
         <source>Change instance name</source>

@@ -9924,12 +9924,6 @@ Do you wish to proceed?</source>
         <translation>
             <numerusform>Aşağıdakı profil bu profildəki fayllara istinad edə bilər:</numerusform>
             <numerusform>%1</numerusform>
-            <numerusform>%2 digər profilin işini poza bilər.</numerusform>
-            <numerusform>Davam etmək istəyirsiniz?</numerusform>
-            <numerusform>Aşağıdakı profillər bu profildəki fayllara istinad edə bilər:</numerusform>
-            <numerusform>%1</numerusform>
-            <numerusform>%2 digər profillərin işini poza bilər.</numerusform>
-            <numerusform>Davam etmək istəyirsiniz?</numerusform>
         </translation>
     </message>
     <message>
