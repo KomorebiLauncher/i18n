@@ -55,43 +55,43 @@
     </message>
     <message>
         <source>Download Mirrors</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеркала для скачивания</translation>
     </message>
     <message>
         <source>Only Mojang&apos;s own download hosts are redirected, and only for files the mirror actually has. Content servers such as Modrinth or CurseForge are never touched.</source>
-        <translation type="unfinished"></translation>
+        <translation>Перенаправляются только собственные хосты загрузки Mojang, и только для файлов, которые действительно есть на зеркале. Серверы контента, такие как Modrinth или CurseForge, никогда не затрагиваются.</translation>
     </message>
     <message>
         <source>Source order</source>
-        <translation type="unfinished"></translation>
+        <translation>Порядок источника</translation>
     </message>
     <message>
         <source>Mirror base URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Базовый URL зеркала</translation>
     </message>
     <message>
         <source>https://bmclapi2.bangbang93.com</source>
-        <translation type="unfinished"></translation>
+        <translation>https://bmclapi2.bangbang93.com</translation>
     </message>
     <message>
         <source>Services mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеркало сервисов</translation>
     </message>
     <message>
         <source>Optional verbatim mirror of the metadata server and the translation site. Content mirrors such as BMCLAPI do not carry them, so leave this empty unless the mirror really is a copy of those two.</source>
-        <translation type="unfinished"></translation>
+        <translation>Необязательное точное зеркало сервера метаданных и сайта переводов. Контентные зеркала вроде BMCLAPI их не содержат, поэтому оставьте это поле пустым, если только зеркало действительно не является копией этих двух.</translation>
     </message>
     <message>
         <source>Empty unless you have a verbatim mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>Пусто, если у вас нет дословного зеркала.</translation>
     </message>
     <message>
         <source>Library mirrors</source>
-        <translation type="unfinished"></translation>
+        <translation>Зеркала библиотеки</translation>
     </message>
     <message>
         <source>Tried in order for Mojang libraries, loader libraries and Maven Central, before the mirror base URL above. These mirrors carry that one tree, not the game itself.</source>
-        <translation type="unfinished"></translation>
+        <translation>По порядку проверяются библиотеки Mojang, библиотеки загрузчика и Maven Central — перед указанным выше базовым URL зеркала. Эти зеркала содержат только это одно дерево, а не саму игру.</translation>
     </message>
     <message>
         <source>Legacy FML Libraries Server</source>
@@ -124,11 +124,11 @@
     </message>
     <message>
         <source>Look blocked mods up on Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Ищите заблокированные моды на Modrinth</translation>
     </message>
     <message>
         <source>CurseForge leaves out the download link when an author does not allow third-party launchers to distribute a file. This option looks the same file up on Modrinth by hash and downloads it from there instead. Off by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge не указывает ссылку на скачивание, если автор не разрешает сторонним лаунчерам распространять файл. Эта опция ищет тот же файл на Modrinth по хешу и вместо этого скачивает его оттуда. По умолчанию выключено.</translation>
     </message>
     <message>
         <source>Enable fallback to Modrinth for blocked mods</source>
@@ -235,19 +235,19 @@
     </message>
     <message>
         <source>Official only, no mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>Только официальный источник, без зеркал.</translation>
     </message>
     <message>
         <source>Official first, fall back to the mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>Сначала официальный, при недоступности — зеркало.</translation>
     </message>
     <message>
         <source>Mirror first, fall back to the official host</source>
-        <translation type="unfinished"></translation>
+        <translation>Сначала зеркало, при недоступности — официальный хост</translation>
     </message>
     <message>
         <source>Mirror only</source>
-        <translation type="unfinished"></translation>
+        <translation>Только зеркало</translation>
     </message>
 </context>
 <context>
@@ -473,7 +473,7 @@
     <message>
         <source>Third-party</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Третья сторона</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -651,7 +651,7 @@
     </message>
     <message>
         <source>Add &amp;Third-Party</source>
-        <translation type="unfinished"></translation>
+        <translation>Добавить &amp;Сторонние</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
