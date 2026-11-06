@@ -677,10 +677,6 @@ If you&apos;re new here, you can select the &quot;Add Microsoft&quot; button to 
         <translation>منوی راست کلیک</translation>
     </message>
     <message>
-        <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;Microsoft sign-in is currently unavailable because this build&apos;s application has not been approved by Mojang, so an offline profile cannot be created yet. Third-party server accounts are not affected.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add account</source>
         <translation type="vanished">اضافه کردن حساب</translation>
     </message>
@@ -748,6 +744,10 @@ Please update both your operating system and %1.</source>
     <message>
         <source>Failed to delete current skin!</source>
         <translation type="vanished">ناتوانی در حذف پوسته فعلی!</translation>
+    </message>
+    <message>
+        <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;An offline profile is a local name for singleplayer worlds and for servers that allow offline players; it is not a way to use Minecraft without owning it. Add the Microsoft account that owns the game first, then the offline profile.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4497,6 +4497,77 @@ What would you like to do with %2?</source>
         <translation type="vanished">ناتوانی در دریافت ID مود ها:
 </translation>
     </message>
+    <message>
+        <source>The pack does not contain an mcbbs.packmeta manifest.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read the pack manifest:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The pack does not contain an HMCL modpack.json manifest.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The pack does not contain the HMCL instance manifest (minecraft/pack.json), so its game version cannot be determined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The pack manifest does not name a Minecraft version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The pack does not contain the expected %1 folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Both the archive root and the game folder contain %1; keeping the one inside the game folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not move %1 out of the pack&apos;s game folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The pack names the %1 loader but not its version, so it will not be installed automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not write mmc-pack.json into the instance folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resolving the files the pack expects from CurseForge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge returned no information about the files this pack lists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pack files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None of the files this pack lists could be downloaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 file(s) in the pack are no longer available from CurseForge and were skipped.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not download the files this pack lists:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not ask CurseForge about the files this pack lists:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InstanceList</name>
@@ -5899,10 +5970,6 @@ You may have to fix your mods because the game is still logging to files and lik
         <translation>در حال دریافت توکن دسترسی ماینکرفت</translation>
     </message>
     <message>
-        <source>This build&apos;s application is not approved by Mojang yet, so it cannot sign in to Minecraft. Third-party server accounts still work.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>مشکلی در دریافت کد دسترسی ماینکرفت به وجود آمد: %1</translation>
     </message>
@@ -5913,6 +5980,10 @@ You may have to fix your mods because the game is still logging to files and lik
     <message>
         <source>Got Minecraft access token</source>
         <translation>توکن دسترسی ماینکرفت گرفته شد</translation>
+    </message>
+    <message>
+        <source>Mojang refused this build&apos;s application ID, so it cannot sign in to Minecraft. The registration is either not approved or no longer approved; see https://aka.ms/AppRegInfo. Third-party server accounts still work.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7007,10 +7078,6 @@ Reason:
         <translation>حساب‌کاربری مایکروسافت اضافه کن</translation>
     </message>
     <message>
-        <source>Mojang has not approved this build&apos;s application yet, so signing in with a Microsoft account cannot finish. Third-party server accounts still work; offline profiles need a signed-in Microsoft account, so they cannot be created until the application is approved.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please wait...</source>
         <translation>لطفا صبر کنید...</translation>
     </message>
@@ -7039,24 +7106,8 @@ Reason:
         <translation>اطلاعات</translation>
     </message>
     <message>
-        <source>Microsoft refused the application ID this build uses, not your account. Third-party server accounts are unaffected; offline profiles require a signed-in Microsoft account, which this build cannot obtain yet. An app ID registered by hand would not be approved either; sign-in stays unavailable until the review passes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>لغو</translation>
-    </message>
-    <message>
-        <source>Microsoft sign-in is not available</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mojang has not approved this build&apos;s application yet, so signing in cannot finish. Third-party server accounts are unaffected. Try anyway?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Try anyway</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
@@ -7065,6 +7116,10 @@ Reason:
     <message>
         <source>&lt;p&gt;Please open up %1 in a browser and put in the code &lt;b&gt;%2&lt;/b&gt; to proceed with login.&lt;/p&gt;</source>
         <translation type="vanished">&lt;p&gt; برای ادامه به ورود‌، لطفاً %1 را در یک مرورگر باز کنید و کد &lt;b&gt;%2&lt;/b&gt; را در آن وارد کنید.&lt;/p&gt;</translation>
+    </message>
+    <message>
+        <source>Microsoft refused the application ID this build uses, not your account. That means the registration is misconfigured, or it no longer has access to the Minecraft services API. Third-party server accounts are unaffected.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11945,6 +12000,34 @@ Error message: %3</source>
         <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Skipped a pack entry with no download source: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The MCBBS manifest is not valid JSON: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The manifest declares the type &quot;%1&quot;, not minecraftModpack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Imported pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The MCBBS manifest does not name a Minecraft version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The HMCL modpack manifest is not valid JSON: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>minecraft/pack.json could not be read; the game version will be taken from the pack contents.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -12752,26 +12835,12 @@ Are you sure?</source>
         <translation>منوی راست کلیک</translation>
     </message>
     <message>
-        <source>You are about to upload %1 screenshots to %2.
-You should double-check for personal information.
-
-Are you sure?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>You are about to upload the selected screenshot to %1.
-You should double-check for personal information.
-
-Are you sure?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Failed to upload screenshots!</source>
         <translation>شکست در آپلود کردن تصاویر صفحه!</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>خطای ناشناس</translation>
+        <translation type="vanished">خطای ناشناس</translation>
     </message>
     <message>
         <source>Upload finished</source>
@@ -12783,11 +12852,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;لینک آپلود عکس صفحه&lt;/a&gt; در کلیپبورد شما کپی شد.</translation>
+        <translation type="vanished">&lt;a href=&quot;%1&quot;&gt;لینک آپلود عکس صفحه&lt;/a&gt; در کلیپبورد شما کپی شد.</translation>
     </message>
     <message>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;لینک آپلود آلبوم&lt;/a&gt; در کلیپبورد شما کپی شد.</translation>
+        <translation type="vanished">&lt;a href=&quot;%1&quot;&gt;لینک آپلود آلبوم&lt;/a&gt; در کلیپبورد شما کپی شد.</translation>
     </message>
     <message>
         <source>You are about to delete %1 screenshots.
@@ -12814,6 +12883,37 @@ Are you sure?</source>
     <message>
         <source>This will delete all selected screenshots.</source>
         <translation type="vanished">این همه عکس های صفحه را پاک خواهد کرد.</translation>
+    </message>
+    <message>
+        <source>ImgBB API key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploading screenshots uses ImgBB and needs an API key from your own account.
+Get one at https://api.imgbb.com/ and paste it here. It is stored on this computer only.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to upload %1 screenshots to ImgBB.
+You should double-check for personal information.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to upload the selected screenshot to ImgBB.
+You should double-check for personal information.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 links have been placed in your clipboard.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>

@@ -677,10 +677,6 @@ Jika Anda pertama kali di sini, Anda dapat klik tombol &quot;Tambahkan Microsoft
         <translation>Menu konteks</translation>
     </message>
     <message>
-        <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;Microsoft sign-in is currently unavailable because this build&apos;s application has not been approved by Mojang, so an offline profile cannot be created yet. Third-party server accounts are not affected.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Add account</source>
         <translation type="vanished">Tambahkan akun</translation>
     </message>
@@ -748,6 +744,10 @@ Dimohon untuk perbarui sistem operasi dan %1.</translation>
     <message>
         <source>Failed to delete current skin!</source>
         <translation type="vanished">Gagal menghapus skin saat ini!</translation>
+    </message>
+    <message>
+        <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;An offline profile is a local name for singleplayer worlds and for servers that allow offline players; it is not a way to use Minecraft without owning it. Add the Microsoft account that owns the game first, then the offline profile.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4592,6 +4592,77 @@ Apa yang ingin Anda lakukan terhadap %2?</translation>
         <translation type="vanished">Tidak dapat menyelesaikan ID mod:
 </translation>
     </message>
+    <message>
+        <source>The pack does not contain an mcbbs.packmeta manifest.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read the pack manifest:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The pack does not contain an HMCL modpack.json manifest.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The pack does not contain the HMCL instance manifest (minecraft/pack.json), so its game version cannot be determined.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The pack manifest does not name a Minecraft version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The pack does not contain the expected %1 folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Both the archive root and the game folder contain %1; keeping the one inside the game folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not move %1 out of the pack&apos;s game folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The pack names the %1 loader but not its version, so it will not be installed automatically.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not write mmc-pack.json into the instance folder.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Resolving the files the pack expects from CurseForge</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>CurseForge returned no information about the files this pack lists.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Pack files</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None of the files this pack lists could be downloaded.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 file(s) in the pack are no longer available from CurseForge and were skipped.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not download the files this pack lists:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not ask CurseForge about the files this pack lists:
+%1</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>InstanceList</name>
@@ -6222,10 +6293,6 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
         <translation>Mendapatkan token akses Minecraft</translation>
     </message>
     <message>
-        <source>This build&apos;s application is not approved by Mojang yet, so it cannot sign in to Minecraft. Third-party server accounts still work.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Failed to get Minecraft access token: %1</source>
         <translation>Mendapat token akses Minecraft gagal: %1</translation>
     </message>
@@ -6236,6 +6303,10 @@ Anda mungkin harus memperbaiki mod-mod Anda karena permainan masih mengelog ke b
     <message>
         <source>Got Minecraft access token</source>
         <translation>Token akses Minecraft diterima</translation>
+    </message>
+    <message>
+        <source>Mojang refused this build&apos;s application ID, so it cannot sign in to Minecraft. The registration is either not approved or no longer approved; see https://aka.ms/AppRegInfo. Third-party server accounts still work.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7436,10 +7507,6 @@ Alasan:
         <translation>Tambahkan akun Microsoft</translation>
     </message>
     <message>
-        <source>Mojang has not approved this build&apos;s application yet, so signing in with a Microsoft account cannot finish. Third-party server accounts still work; offline profiles need a signed-in Microsoft account, so they cannot be created until the application is approved.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Please wait...</source>
         <translation>Mohon tunggu...</translation>
     </message>
@@ -7468,24 +7535,8 @@ Alasan:
         <translation>Informasi</translation>
     </message>
     <message>
-        <source>Microsoft refused the application ID this build uses, not your account. Third-party server accounts are unaffected; offline profiles require a signed-in Microsoft account, which this build cannot obtain yet. An app ID registered by hand would not be approved either; sign-in stays unavailable until the review passes.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>Cancel</source>
         <translation>Batalkan</translation>
-    </message>
-    <message>
-        <source>Microsoft sign-in is not available</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Mojang has not approved this build&apos;s application yet, so signing in cannot finish. Third-party server accounts are unaffected. Try anyway?</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Try anyway</source>
-        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Open %1 or scan the QR and enter the above code if needed.</source>
@@ -7514,6 +7565,10 @@ Alasan:
     <message>
         <source>Open %1 and enter the above code.</source>
         <translation type="vanished">Buka %2 dan masukkan kode yang tertera.</translation>
+    </message>
+    <message>
+        <source>Microsoft refused the application ID this build uses, not your account. That means the registration is misconfigured, or it no longer has access to the Minecraft services API. Third-party server accounts are unaffected.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13372,6 +13427,34 @@ Pesan kesalahan: %3</translation>
         <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Skipped a pack entry with no download source: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The MCBBS manifest is not valid JSON: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The manifest declares the type &quot;%1&quot;, not minecraftModpack.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Imported pack</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The MCBBS manifest does not name a Minecraft version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The HMCL modpack manifest is not valid JSON: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>minecraft/pack.json could not be read; the game version will be taken from the pack contents.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -14313,7 +14396,7 @@ Apakah Anda yakin?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Anda akan mengunggah %1 tangkapan layar ke %2.
+        <translation type="vanished">Anda akan mengunggah %1 tangkapan layar ke %2.
 Anda sebaiknya pamastikan kembali tidak ada informasi pribadi.
 
 Apakah Anda yakin?</translation>
@@ -14323,7 +14406,7 @@ Apakah Anda yakin?</translation>
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation>Anda akan mengunggah tangkapan layar terpilih ke %1.
+        <translation type="vanished">Anda akan mengunggah tangkapan layar terpilih ke %1.
 Anda sebaiknya pastikan kembali tidak ada informasi pribadi.
 
 Apakah Anda yakin?</translation>
@@ -14334,7 +14417,7 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>Unknown error</source>
-        <translation>Error tidak diketahui</translation>
+        <translation type="vanished">Error tidak diketahui</translation>
     </message>
     <message>
         <source>Upload finished</source>
@@ -14354,11 +14437,11 @@ Apakah Anda yakin?</translation>
     </message>
     <message>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;Tautan  ke tangkapan layar yang diunggah&lt;/a&gt; telah diletakkan di dalam papan klip Anda.</translation>
+        <translation type="vanished">&lt;a href=&quot;%1&quot;&gt;Tautan  ke tangkapan layar yang diunggah&lt;/a&gt; telah diletakkan di dalam papan klip Anda.</translation>
     </message>
     <message>
         <source>The &lt;a href=&quot;%1&quot;&gt;link  to the uploaded album&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation>&lt;a href=&quot;%1&quot;&gt;Tautan  ke album yang diunggah&lt;/a&gt; telah diletakkan di dalam papan klip Anda.</translation>
+        <translation type="vanished">&lt;a href=&quot;%1&quot;&gt;Tautan  ke album yang diunggah&lt;/a&gt; telah diletakkan di dalam papan klip Anda.</translation>
     </message>
     <message>
         <source>You are about to delete %1 screenshots.
@@ -14391,6 +14474,37 @@ Apakah Anda yakin?</translation>
     <message>
         <source>This will delete all selected screenshots.</source>
         <translation type="vanished">Hal ini akan menghapus screenshot yang dipilih.</translation>
+    </message>
+    <message>
+        <source>ImgBB API key</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Uploading screenshots uses ImgBB and needs an API key from your own account.
+Get one at https://api.imgbb.com/ and paste it here. It is stored on this computer only.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to upload %1 screenshots to ImgBB.
+You should double-check for personal information.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>You are about to upload the selected screenshot to ImgBB.
+You should double-check for personal information.
+
+Are you sure?</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 links have been placed in your clipboard.</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
