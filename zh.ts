@@ -933,6 +933,26 @@ Please update both your operating system and PolyMC.</source>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] 哈人的严重性错误信息！</translation>
     </message>
+    <message>
+        <source>Background dimming</source>
+        <translation>背景压暗</translation>
+    </message>
+    <message>
+        <source>Window layout</source>
+        <translation>窗口布局</translation>
+    </message>
+    <message>
+        <source>Sidebar</source>
+        <translation>侧边栏</translation>
+    </message>
+    <message>
+        <source>Top action bar</source>
+        <translation>顶部操作条</translation>
+    </message>
+    <message>
+        <source>Icon rail</source>
+        <translation>图标栏</translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
