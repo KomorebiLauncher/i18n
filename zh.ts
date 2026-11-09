@@ -5000,7 +5000,7 @@ Proceed with caution!</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">损坏</translation>
+        <translation>损坏</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5373,11 +5373,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">清空</translation>
+        <translation>清空</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">外观</translation>
+        <translation>外观</translation>
     </message>
 </context>
 <context>
@@ -8126,7 +8126,7 @@ Reason:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">未选择实例</translation>
+        <translation>未选择实例</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>
@@ -14542,11 +14542,11 @@ Error message: %3</source>
     </message>
     <message>
         <source>Diagnosis: %1</source>
-        <translation type="unfinished">诊断：%1</translation>
+        <translation>诊断：%1</translation>
     </message>
     <message>
         <source>Suggestion: %1</source>
-        <translation type="unfinished">建议：%1</translation>
+        <translation>建议：%1</translation>
     </message>
     <message>
         <source>the Java this instance names does not exist: %1</source>

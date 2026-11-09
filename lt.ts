@@ -4658,7 +4658,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">neveikiantis</translation>
+        <translation>neveikiantis</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4995,11 +4995,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Išvalyti</translation>
+        <translation>Išvalyti</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Išvaizda</translation>
+        <translation>Išvaizda</translation>
     </message>
 </context>
 <context>

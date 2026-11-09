@@ -4873,7 +4873,7 @@ Continuați cu prudență!</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">stricat</translation>
+        <translation>stricat</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5234,11 +5234,11 @@ Vă rugăm să vă asigurați că valoarea maximă a memoriei este mai mică.</t
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Șterge</translation>
+        <translation>Șterge</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Aspect</translation>
+        <translation>Aspect</translation>
     </message>
 </context>
 <context>
@@ -7815,7 +7815,7 @@ Motiv:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Nicio Instanță Selectată</translation>
+        <translation>Nicio Instanță Selectată</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

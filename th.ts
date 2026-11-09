@@ -4714,7 +4714,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">พัง</translation>
+        <translation>พัง</translation>
     </message>
     <message>
         <source>No instances yet.</source>

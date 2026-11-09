@@ -4170,7 +4170,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">rot</translation>
+        <translation>rot</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4503,11 +4503,11 @@ Par plasê verifiche che il valôr de memorie massime al sedi plui piçul.</tran
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Nete</translation>
+        <translation>Nete</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Aspiet</translation>
+        <translation>Aspiet</translation>
     </message>
 </context>
 <context>
@@ -6861,7 +6861,7 @@ Motîf:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Nissune istance selezionade</translation>
+        <translation>Nissune istance selezionade</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

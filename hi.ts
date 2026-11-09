@@ -4080,7 +4080,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">देख रेक</translation>
+        <translation>देख रेक</translation>
     </message>
 </context>
 <context>

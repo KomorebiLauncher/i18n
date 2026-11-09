@@ -5021,7 +5021,7 @@ Proceed with caution!</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">повреждён</translation>
+        <translation>повреждён</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5394,11 +5394,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Очистить</translation>
+        <translation>Очистить</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Внешний вид</translation>
+        <translation>Внешний вид</translation>
     </message>
 </context>
 <context>
@@ -8113,7 +8113,7 @@ Reason:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Экземпляр не выбран</translation>
+        <translation>Экземпляр не выбран</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

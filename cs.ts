@@ -4971,7 +4971,7 @@ Postupujte obezřetně!</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">rozbitý</translation>
+        <translation>rozbitý</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5348,7 +5348,7 @@ Ujistěte se prosím, že maximální hodnota paměti je nižší.</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Vzhled</translation>
+        <translation>Vzhled</translation>
     </message>
 </context>
 <context>
@@ -8055,7 +8055,7 @@ Důvod:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Nebyla vybrána žádná instance</translation>
+        <translation>Nebyla vybrána žádná instance</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

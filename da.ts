@@ -4752,7 +4752,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">defekt</translation>
+        <translation>defekt</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5097,11 +5097,11 @@ Sørg for at den maksimale hukommelsesværdi er lavere.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Ryd</translation>
+        <translation>Ryd</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Udseende</translation>
+        <translation>Udseende</translation>
     </message>
 </context>
 <context>
@@ -7660,7 +7660,7 @@ Reason:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Ingen instans valgt</translation>
+        <translation>Ingen instans valgt</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

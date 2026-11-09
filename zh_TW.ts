@@ -4977,7 +4977,7 @@ Proceed with caution!</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">損壞</translation>
+        <translation>損壞</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5350,11 +5350,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">清除</translation>
+        <translation>清除</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">外觀</translation>
+        <translation>外觀</translation>
     </message>
 </context>
 <context>
@@ -8061,7 +8061,7 @@ Reason:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">沒有選擇實例</translation>
+        <translation>沒有選擇實例</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

@@ -4921,7 +4921,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">пошкоджено</translation>
+        <translation>пошкоджено</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5290,11 +5290,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Очистити</translation>
+        <translation>Очистити</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Вигляд</translation>
+        <translation>Вигляд</translation>
     </message>
 </context>
 <context>
@@ -7969,7 +7969,7 @@ Reason:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Не обрана збірка</translation>
+        <translation>Не обрана збірка</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

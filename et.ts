@@ -4773,7 +4773,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">katki</translation>
+        <translation>katki</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5130,11 +5130,11 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Tühjenda</translation>
+        <translation>Tühjenda</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Välimus</translation>
+        <translation>Välimus</translation>
     </message>
 </context>
 <context>
@@ -7624,7 +7624,7 @@ Põhjus:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Ühtegi eksemplari pole valitud</translation>
+        <translation>Ühtegi eksemplari pole valitud</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

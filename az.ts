@@ -4021,7 +4021,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">xarab olub</translation>
+        <translation>xarab olub</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4076,11 +4076,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Təmizlə</translation>
+        <translation>Təmizlə</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Görünüş</translation>
+        <translation>Görünüş</translation>
     </message>
 </context>
 <context>
@@ -5974,7 +5974,7 @@ Səbəb:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Heç bir profil seçilməyib</translation>
+        <translation>Heç bir profil seçilməyib</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

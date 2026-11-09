@@ -4708,7 +4708,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">معطوب</translation>
+        <translation>معطوب</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5053,7 +5053,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">مسح</translation>
+        <translation>مسح</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -7544,7 +7544,7 @@ Reason:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">لا يوجد نموذج محدد</translation>
+        <translation>لا يوجد نموذج محدد</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

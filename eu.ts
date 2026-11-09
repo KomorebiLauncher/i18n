@@ -4019,7 +4019,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">puskatuta</translation>
+        <translation>puskatuta</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4106,11 +4106,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Garbitu</translation>
+        <translation>Garbitu</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Itxura</translation>
+        <translation>Itxura</translation>
     </message>
 </context>
 <context>

@@ -4651,7 +4651,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Izgled</translation>
+        <translation>Izgled</translation>
     </message>
 </context>
 <context>

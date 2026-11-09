@@ -4251,7 +4251,7 @@ Cad ba mhaith leat a dhéanamh le %2?</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">briste</translation>
+        <translation>briste</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4578,7 +4578,7 @@ Déan cinnte go bhfuil an luach cuimhne uasta níos ísle.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Glan</translation>
+        <translation>Glan</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -6944,7 +6944,7 @@ Cúis:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Níor roghnaíodh aon chás</translation>
+        <translation>Níor roghnaíodh aon chás</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

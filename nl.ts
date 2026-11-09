@@ -4904,7 +4904,7 @@ Wat wilt u doen met %2?</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">defect</translation>
+        <translation>defect</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5265,11 +5265,11 @@ Zorg ervoor dat de maximumwaarde van het RAM-geheugen kleiner is dan dat.</trans
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Wissen</translation>
+        <translation>Wissen</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Uiterlijk</translation>
+        <translation>Uiterlijk</translation>
     </message>
 </context>
 <context>
@@ -7932,7 +7932,7 @@ Reden:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Geen instantie geselecteerd</translation>
+        <translation>Geen instantie geselecteerd</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

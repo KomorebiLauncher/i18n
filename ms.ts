@@ -4489,7 +4489,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">rosak</translation>
+        <translation>rosak</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4830,11 +4830,11 @@ Sila pastikan nilai memori maximum rendah.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Bersihkan</translation>
+        <translation>Bersihkan</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Tampilan</translation>
+        <translation>Tampilan</translation>
     </message>
 </context>
 <context>
@@ -7189,7 +7189,7 @@ Sebab:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Tiada pemasangan dipilih</translation>
+        <translation>Tiada pemasangan dipilih</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

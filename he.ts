@@ -4785,7 +4785,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">שבור</translation>
+        <translation>שבור</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5024,11 +5024,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">ניקוי</translation>
+        <translation>ניקוי</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">מראה</translation>
+        <translation>מראה</translation>
     </message>
 </context>
 <context>
@@ -7216,7 +7216,7 @@ Reason:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">לא נבחר אף עותק</translation>
+        <translation>לא נבחר אף עותק</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

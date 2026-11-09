@@ -4952,7 +4952,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">손상됨</translation>
+        <translation>손상됨</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5325,11 +5325,11 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">지우기</translation>
+        <translation>지우기</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">모양</translation>
+        <translation>모양</translation>
     </message>
 </context>
 <context>
@@ -8016,7 +8016,7 @@ Reason:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">선택한 인스턴스 없음</translation>
+        <translation>선택한 인스턴스 없음</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

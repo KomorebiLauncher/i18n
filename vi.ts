@@ -4868,7 +4868,7 @@ Bạn muốn làm gì với %2?</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">hỏng</translation>
+        <translation>hỏng</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5229,7 +5229,7 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Ngoại hình</translation>
+        <translation>Ngoại hình</translation>
     </message>
 </context>
 <context>
@@ -7860,7 +7860,7 @@ Lý do:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Không có phiên bản nào được chọn</translation>
+        <translation>Không có phiên bản nào được chọn</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

@@ -4955,7 +4955,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">bozuk</translation>
+        <translation>bozuk</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5328,11 +5328,11 @@ Lütfen azami bellek değerinin daha düşük olduğundan emin olun.</translatio
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Temizle</translation>
+        <translation>Temizle</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Görünüm</translation>
+        <translation>Görünüm</translation>
     </message>
 </context>
 <context>
@@ -8039,7 +8039,7 @@ Sebep:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Hiçbir profil seçilmedi</translation>
+        <translation>Hiçbir profil seçilmedi</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

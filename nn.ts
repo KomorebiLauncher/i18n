@@ -4423,7 +4423,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">øydelagd</translation>
+        <translation>øydelagd</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4635,11 +4635,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Tøm</translation>
+        <translation>Tøm</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Utsjånad</translation>
+        <translation>Utsjånad</translation>
     </message>
 </context>
 <context>
@@ -6770,7 +6770,7 @@ Grunn:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Ingen førekomst er vald</translation>
+        <translation>Ingen førekomst er vald</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

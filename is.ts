@@ -4348,7 +4348,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">bilað</translation>
+        <translation>bilað</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4435,11 +4435,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Hreinsa</translation>
+        <translation>Hreinsa</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Útlit</translation>
+        <translation>Útlit</translation>
     </message>
 </context>
 <context>

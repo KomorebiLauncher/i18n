@@ -4755,7 +4755,7 @@ Mitä haluat tehdä kohteelle %2?</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">viallinen</translation>
+        <translation>viallinen</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5100,11 +5100,11 @@ Vahvista että enimmäismuistivaraus on alempi.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Tyhjennä</translation>
+        <translation>Tyhjennä</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Ulkonäkö</translation>
+        <translation>Ulkonäkö</translation>
     </message>
 </context>
 <context>
@@ -7682,7 +7682,7 @@ Syy:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Pelipakettia ei ole valittu</translation>
+        <translation>Pelipakettia ei ole valittu</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

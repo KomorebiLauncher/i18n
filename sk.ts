@@ -4773,7 +4773,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">poškodené</translation>
+        <translation>poškodené</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5122,7 +5122,7 @@ Prosím uistite sa, že maximálna hodnota pamäte je nižšia.</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Vzhľad</translation>
+        <translation>Vzhľad</translation>
     </message>
 </context>
 <context>
@@ -7704,7 +7704,7 @@ Dôvod:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Nebola zvolená inštancia</translation>
+        <translation>Nebola zvolená inštancia</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

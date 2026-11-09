@@ -3978,7 +3978,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">i prishur</translation>
+        <translation>i prishur</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4033,7 +4033,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Pastro</translation>
+        <translation>Pastro</translation>
     </message>
     <message>
         <source>Appearance</source>
@@ -5861,7 +5861,7 @@ Arsyeja:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Nuk asht zgjedhur asnjë instancë</translation>
+        <translation>Nuk asht zgjedhur asnjë instancë</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

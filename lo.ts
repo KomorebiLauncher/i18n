@@ -3851,7 +3851,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">ເພແລ້ວ</translation>
+        <translation>ເພແລ້ວ</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -3906,7 +3906,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">ຮູບລັກສະນະ</translation>
+        <translation>ຮູບລັກສະນະ</translation>
     </message>
 </context>
 <context>
@@ -5718,7 +5718,7 @@ Reason:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">ບໍ່ໄດ້ເລືອກຕົວຢ່າງໃດ</translation>
+        <translation>ບໍ່ໄດ້ເລືອກຕົວຢ່າງໃດ</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

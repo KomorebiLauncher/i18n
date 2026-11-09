@@ -4936,7 +4936,7 @@ Var försiktig!</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">trasig</translation>
+        <translation>trasig</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5297,11 +5297,11 @@ Se till att det maximala minnesvärdet är lägre.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Rensa</translation>
+        <translation>Rensa</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Utseende</translation>
+        <translation>Utseende</translation>
     </message>
 </context>
 <context>
@@ -7995,7 +7995,7 @@ Orsak:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Ingen instans vald</translation>
+        <translation>Ingen instans vald</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

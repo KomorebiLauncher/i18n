@@ -3599,7 +3599,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">ватылган</translation>
+        <translation>ватылган</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -3650,11 +3650,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Чистарту</translation>
+        <translation>Чистарту</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Тышкы күренеш</translation>
+        <translation>Тышкы күренеш</translation>
     </message>
 </context>
 <context>

@@ -4228,7 +4228,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">brisé</translation>
+        <translation>brisé</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4561,11 +4561,11 @@ S&apos;il vous plaît vérifier si la valeur maximum de mémoire est plus basse.
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Effacer</translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Apparence</translation>
+        <translation>Apparence</translation>
     </message>
 </context>
 <context>
@@ -6553,7 +6553,7 @@ Raison :
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Aucune instance sélectionnée</translation>
+        <translation>Aucune instance sélectionnée</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

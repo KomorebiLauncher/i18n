@@ -4963,7 +4963,7 @@ Cosa vorresti fare con %2?</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">malfunzionante</translation>
+        <translation>malfunzionante</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5324,11 +5324,11 @@ Per favore assicurati che il valore della memoria massima sia minore.</translati
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Pulisci</translation>
+        <translation>Pulisci</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Aspetto</translation>
+        <translation>Aspetto</translation>
     </message>
 </context>
 <context>
@@ -8007,7 +8007,7 @@ Causa:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Nessuna istanza selezionata</translation>
+        <translation>Nessuna istanza selezionata</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

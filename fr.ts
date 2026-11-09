@@ -4997,7 +4997,7 @@ Procéder avec prudence!</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">endommagée</translation>
+        <translation>endommagée</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5370,11 +5370,11 @@ Veuillez vérifier que la valeur mémoire maximale est plus basse.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Effacer</translation>
+        <translation>Effacer</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Apparence</translation>
+        <translation>Apparence</translation>
     </message>
 </context>
 <context>
@@ -8069,7 +8069,7 @@ Raison&#xa0;:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Aucune instance sélectionnée</translation>
+        <translation>Aucune instance sélectionnée</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

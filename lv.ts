@@ -4574,7 +4574,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">bojāts</translation>
+        <translation>bojāts</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -4786,11 +4786,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Notīrīt</translation>
+        <translation>Notīrīt</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Izskats</translation>
+        <translation>Izskats</translation>
     </message>
 </context>
 <context>
@@ -6907,7 +6907,7 @@ Iemesls:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Nav specificētas instances</translation>
+        <translation>Nav specificētas instances</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

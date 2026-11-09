@@ -4657,7 +4657,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">ødelagt</translation>
+        <translation>ødelagt</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5006,11 +5006,11 @@ Sørg for at den maksimale minneverdien er lavere.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Tøm</translation>
+        <translation>Tøm</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Utseende</translation>
+        <translation>Utseende</translation>
     </message>
 </context>
 <context>
@@ -7485,7 +7485,7 @@ Grunn:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Ingen instans er valgt</translation>
+        <translation>Ingen instans er valgt</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

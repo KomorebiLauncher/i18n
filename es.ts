@@ -4974,7 +4974,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">roto</translation>
+        <translation>roto</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5351,7 +5351,7 @@ Asegúrese de que el valor máximo de memoria es inferior.</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Apariencia</translation>
+        <translation>Apariencia</translation>
     </message>
 </context>
 <context>
@@ -8067,7 +8067,7 @@ Motivo:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">No hay una instancia seleccionada</translation>
+        <translation>No hay una instancia seleccionada</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

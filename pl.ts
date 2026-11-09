@@ -5013,7 +5013,7 @@ Postępuj ostrożnie!</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">uszkodzone</translation>
+        <translation>uszkodzone</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5386,11 +5386,11 @@ Upewnij się, że wartość maksymalnej pamięci jest niższa.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Wyczyść</translation>
+        <translation>Wyczyść</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Wygląd</translation>
+        <translation>Wygląd</translation>
     </message>
 </context>
 <context>
@@ -8101,7 +8101,7 @@ Powód:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Nie wybrano instancji</translation>
+        <translation>Nie wybrano instancji</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

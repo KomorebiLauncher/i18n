@@ -4793,11 +4793,11 @@ Suriin na mas mababa ang pinakamalaking memory value.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Burahin</translation>
+        <translation>Burahin</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Hitsura</translation>
+        <translation>Hitsura</translation>
     </message>
 </context>
 <context>
@@ -7161,7 +7161,7 @@ Reason:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Walang naka-select na instance</translation>
+        <translation>Walang naka-select na instance</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

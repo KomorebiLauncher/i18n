@@ -4835,7 +4835,7 @@ Apa yang ingin Anda lakukan terhadap %2?</translation>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">rusak</translation>
+        <translation>rusak</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5188,11 +5188,11 @@ Pastikan bahwa nilai memori maksimum lebih rendah.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Bersihkan</translation>
+        <translation>Bersihkan</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Tampilan</translation>
+        <translation>Tampilan</translation>
     </message>
 </context>
 <context>
@@ -7835,7 +7835,7 @@ Alasan:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Tidak instansi yang dipilih</translation>
+        <translation>Tidak instansi yang dipilih</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

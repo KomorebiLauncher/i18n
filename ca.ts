@@ -4742,7 +4742,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">trencat</translation>
+        <translation>trencat</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5091,11 +5091,11 @@ Si us plau, assegura&apos;t que la memòria màxima és inferior.</translation>
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Esborra</translation>
+        <translation>Esborra</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Aparença</translation>
+        <translation>Aparença</translation>
     </message>
 </context>
 <context>
@@ -7636,7 +7636,7 @@ Motiu:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Cap instància seleccionada</translation>
+        <translation>Cap instància seleccionada</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>

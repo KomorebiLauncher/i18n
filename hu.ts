@@ -4941,7 +4941,7 @@ What would you like to do with %2?</source>
     <name>InstanceListPage</name>
     <message>
         <source>broken</source>
-        <translation type="unfinished">törött</translation>
+        <translation>törött</translation>
     </message>
     <message>
         <source>No instances yet.</source>
@@ -5314,11 +5314,11 @@ Győződj meg róla, hogy a maximális memóriaérték ennél alacsonyabb.</tran
     </message>
     <message>
         <source>Clear</source>
-        <translation type="unfinished">Tisztítás</translation>
+        <translation>Tisztítás</translation>
     </message>
     <message>
         <source>Appearance</source>
-        <translation type="unfinished">Megjelenés</translation>
+        <translation>Megjelenés</translation>
     </message>
 </context>
 <context>
@@ -8008,7 +8008,7 @@ Indok:
     <name>MainContentPanel</name>
     <message>
         <source>No instance selected</source>
-        <translation type="unfinished">Nincs példány kiválasztva</translation>
+        <translation>Nincs példány kiválasztva</translation>
     </message>
     <message>
         <source>Pick one on the left to get started.</source>
