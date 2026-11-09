@@ -933,6 +933,26 @@ Bitte aktualisiere macOS und PolyMC.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>FATAL] Ein fataler Fehler!</translation>
     </message>
+    <message>
+        <source>Background dimming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top action bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon rail</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -1396,10 +1416,6 @@ Manche Versionen von Minecraft starten vielleicht nicht.
 </context>
 <context>
     <name>AutoInstallJava</name>
-    <message>
-        <source>Looking for Java inside the instance was aborted.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>No Java runtime was found inside the instance, using the usual Java resolution.</source>
         <translation type="unfinished"></translation>
@@ -2530,6 +2546,13 @@ Bist du dir sicher?</translation>
     </message>
 </context>
 <context>
+    <name>DownloadQueue</name>
+    <message>
+        <source>cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EditAccountDialog</name>
     <message>
         <source>Login</source>
@@ -3641,6 +3664,49 @@ Bitte versuche es erneut.</translation>
     </message>
 </context>
 <context>
+    <name>FileDownloader</name>
+    <message>
+        <source>the download did not succeed after %1 attempts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not open %1 for writing: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not rewrite %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write to %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the server answered with HTTP %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the download wrote no file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the file&apos;s SHA-1 is %1, not the %2 the manifest asked for (from %3, %4 bytes)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the file is %1 bytes, not the %2 the manifest asked for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not replace %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not move %1 into place</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Flame::FileResolvingTask</name>
     <message>
         <source>Resolving mod IDs...</source>
@@ -4642,6 +4708,61 @@ Was möchten sie mit %2 tun?</translation>
     </message>
 </context>
 <context>
+    <name>InstanceCreator</name>
+    <message>
+        <source>Reading the list of Minecraft versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not read %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is not in the version list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creating the instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not create %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write mmc-pack.json into %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write instance.cfg into %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the files the instance needs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the assets the game uses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the asset download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InstanceImportTask</name>
     <message>
         <source>Downloading modpack:
@@ -4855,10 +4976,64 @@ Achtung beim Fortfahren!</translation>
     </message>
 </context>
 <context>
+    <name>InstanceLaunch</name>
+    <message>
+        <source>Reading the instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the files the instance needs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetching the asset index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the assets the game uses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copying the assets where this version looks for them</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpacking the native libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starting the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>java did not start: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InstanceList</name>
     <message>
         <source>%1 Instance</source>
         <translation>%1 Instanz</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceListPage</name>
+    <message>
+        <source>broken</source>
+        <translation type="unfinished">kaputt</translation>
+    </message>
+    <message>
+        <source>No instances yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Instances (core preview)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5188,6 +5363,34 @@ Achten Sie darauf, dass der maximale Speicherwert niedriger ist.</translation>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation type="vanished">Die maximale Speicherzuordnung nährt sich der Systemspeicherkapazität.</translation>
+    </message>
+    <message>
+        <source>Choose a background image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images (*.png *.jpg *.jpeg *.bmp *.webp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An image shown behind the pages of this instance&apos;s window. The file is not copied: only its location is remembered, so moving or deleting it simply leaves the window plain again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No background chosen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished">Leeren</translation>
+    </message>
+    <message>
+        <source>Appearance</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6455,6 +6658,16 @@ Install the agent into this instance now?</source>
     <message>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Dies kann diese Instanz beschädigen und sollte daher nur genutzt werden, wenn Minecraft eingefroren ist</translation>
+    </message>
+    <message>
+        <source>authlib-injector points at another server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The authlib-injector agent in this instance sends the game&apos;s authentication to %1, but this account signs in through %2. Skins and online-mode servers will not work until the agent is reinstalled for the current account.
+
+Reinstall it now?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7765,6 +7978,10 @@ Grund:
         <source>Got</source>
         <translation type="vanished">Bekam</translation>
     </message>
+    <message>
+        <source>The sign-in code expired before it was used. Sign in again to get a new one.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MSALoginDialog</name>
@@ -7881,6 +8098,17 @@ Grund:
     </message>
 </context>
 <context>
+    <name>MainContentPanel</name>
+    <message>
+        <source>No instance selected</source>
+        <translation type="unfinished">Keine Instanz ausgewählt</translation>
+    </message>
+    <message>
+        <source>Pick one on the left to get started.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>Kill</source>
@@ -7908,7 +8136,7 @@ Grund:
     </message>
     <message>
         <source>Add a new instance.</source>
-        <translation>Neue Instanz hinzufügen.</translation>
+        <translation type="vanished">Neue Instanz hinzufügen.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -7938,7 +8166,7 @@ Grund:
     </message>
     <message>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Öffne einen der zwischen den Instanzen geteilten Ordner.</translation>
+        <translation type="vanished">Öffne einen der zwischen den Instanzen geteilten Ordner.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7946,7 +8174,7 @@ Grund:
     </message>
     <message>
         <source>Change settings.</source>
-        <translation>Einstellungen ändern.</translation>
+        <translation type="vanished">Einstellungen ändern.</translation>
     </message>
     <message>
         <source>Report a Bug</source>
@@ -7993,7 +8221,7 @@ Grund:
     </message>
     <message>
         <source>Get help with %1 or Minecraft.</source>
-        <translation>Hilfe mit %1 oder Minecraft bekommen.</translation>
+        <translation type="vanished">Hilfe mit %1 oder Minecraft bekommen.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -8001,7 +8229,7 @@ Grund:
     </message>
     <message>
         <source>Check for new updates for %1.</source>
-        <translation>Nach Updates für %1 suchen.</translation>
+        <translation type="vanished">Nach Updates für %1 suchen.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -8009,7 +8237,7 @@ Grund:
     </message>
     <message>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>Es ist ein fluffiges Kätzchen :3</translation>
+        <translation type="vanished">Es ist ein fluffiges Kätzchen :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -8025,7 +8253,7 @@ Grund:
     </message>
     <message>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>Öffne den Entwicklungsblog, um weitere Neuigkeiten zu %1 zu lesen.</translation>
+        <translation type="vanished">Öffne den Entwicklungsblog, um weitere Neuigkeiten zu %1 zu lesen.</translation>
     </message>
     <message>
         <source>Kill the running instance.</source>
@@ -8639,7 +8867,7 @@ Grund:
     </message>
     <message>
         <source>Total playtime: 0s</source>
-        <translation>Gesamtspielzeit: 0s</translation>
+        <translation type="vanished">Gesamtspielzeit: 0s</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -9068,6 +9296,10 @@ Fortfahren?</translation>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">Öffne %1&apos;s Discord Chat.</translation>
+    </message>
+    <message>
+        <source>Instances (core preview)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -14231,6 +14463,62 @@ Fehlermeldung: %3</translation>
         <source>minecraft/pack.json could not be read; the game version will be taken from the pack contents.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Could not start the instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the asset %1 is missing from assets/objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not create the folder for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not replace %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not copy %1 to %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not open %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not create %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the natives jar %1 is missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The game exited with code %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagnosis: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suggestion: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Java this instance names does not exist: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no Java %1 was found on this machine</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -17876,6 +18164,10 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
         <source>Use https:// for a remote server: the password is sent to it when signing in.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The address must not contain a user name or password.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>YggdrasilStep</name>
@@ -17921,6 +18213,10 @@ Bitte richte dein Konto gemäß %1 ein.</translation>
     </message>
     <message>
         <source>Got an access token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The authentication server address contains a user name or password. Remove it and sign in again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

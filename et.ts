@@ -893,6 +893,26 @@ Palun uuenda nii opsüsteemi kui ka %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[FATAL] Hirmuäratavalt saatuslik viga!</translation>
     </message>
+    <message>
+        <source>Background dimming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top action bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon rail</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -1327,10 +1347,6 @@ Te saate selle probleem lahendada sellega, et te paigaldate uuesti /tmp &apos;ex
 </context>
 <context>
     <name>AutoInstallJava</name>
-    <message>
-        <source>Looking for Java inside the instance was aborted.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>No Java runtime was found inside the instance, using the usual Java resolution.</source>
         <translation type="unfinished"></translation>
@@ -2436,6 +2452,13 @@ Are you sure?</source>
     </message>
 </context>
 <context>
+    <name>DownloadQueue</name>
+    <message>
+        <source>cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EditAccountDialog</name>
     <message>
         <source>Login</source>
@@ -3516,6 +3539,49 @@ Palun proovi uuesti.</translation>
     </message>
 </context>
 <context>
+    <name>FileDownloader</name>
+    <message>
+        <source>the download did not succeed after %1 attempts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not open %1 for writing: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not rewrite %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write to %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the server answered with HTTP %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the download wrote no file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the file&apos;s SHA-1 is %1, not the %2 the manifest asked for (from %3, %4 bytes)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the file is %1 bytes, not the %2 the manifest asked for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not replace %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not move %1 into place</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Flame::FileResolvingTask</name>
     <message>
         <source>Resolving mod IDs...</source>
@@ -4448,6 +4514,61 @@ What would you like to do with %2?</source>
     </message>
 </context>
 <context>
+    <name>InstanceCreator</name>
+    <message>
+        <source>Reading the list of Minecraft versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not read %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is not in the version list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creating the instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not create %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write mmc-pack.json into %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write instance.cfg into %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the files the instance needs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the assets the game uses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the asset download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InstanceImportTask</name>
     <message>
         <source>Downloading modpack:
@@ -4603,10 +4724,64 @@ What would you like to do with %2?</source>
     </message>
 </context>
 <context>
+    <name>InstanceLaunch</name>
+    <message>
+        <source>Reading the instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the files the instance needs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetching the asset index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the assets the game uses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copying the assets where this version looks for them</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpacking the native libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starting the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>java did not start: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InstanceList</name>
     <message>
         <source>%1 Instance</source>
         <translation>%1 eksemplar</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceListPage</name>
+    <message>
+        <source>broken</source>
+        <translation type="unfinished">katki</translation>
+    </message>
+    <message>
+        <source>No instances yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Instances (core preview)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -4932,6 +5107,34 @@ Palun veendu, et maksimaalne mälujaotus on sellest madalam.</translation>
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation type="vanished">Sinu maksimaalne mälujaotus on peaaegu süsteemi mälujaotus.</translation>
+    </message>
+    <message>
+        <source>Choose a background image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images (*.png *.jpg *.jpeg *.bmp *.webp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An image shown behind the pages of this instance&apos;s window. The file is not copied: only its location is remembered, so moving or deleting it simply leaves the window plain again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No background chosen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished">Tühjenda</translation>
+    </message>
+    <message>
+        <source>Appearance</source>
+        <translation type="unfinished">Välimus</translation>
     </message>
 </context>
 <context>
@@ -6108,6 +6311,16 @@ Install the agent into this instance now?</source>
     <message>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>See võib eksemplari korrumpeerida ning seda peaks kasutama ainult siis, kui Minecraft on hangunud</translation>
+    </message>
+    <message>
+        <source>authlib-injector points at another server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The authlib-injector agent in this instance sends the game&apos;s authentication to %1, but this account signs in through %2. Skins and online-mode servers will not work until the agent is reinstalled for the current account.
+
+Reinstall it now?</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -7308,6 +7521,10 @@ Põhjus:
         <source>Got</source>
         <translation type="vanished">Saadud</translation>
     </message>
+    <message>
+        <source>The sign-in code expired before it was used. Sign in again to get a new one.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MSALoginDialog</name>
@@ -7404,6 +7621,17 @@ Põhjus:
     </message>
 </context>
 <context>
+    <name>MainContentPanel</name>
+    <message>
+        <source>No instance selected</source>
+        <translation type="unfinished">Ühtegi eksemplari pole valitud</translation>
+    </message>
+    <message>
+        <source>Pick one on the left to get started.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>Kill</source>
@@ -7431,7 +7659,7 @@ Põhjus:
     </message>
     <message>
         <source>Add a new instance.</source>
-        <translation>Lisa uus eksemplar.</translation>
+        <translation type="vanished">Lisa uus eksemplar.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -7461,7 +7689,7 @@ Põhjus:
     </message>
     <message>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Ava üks nendest kaustadest jagatud eksemplaride vahel.</translation>
+        <translation type="vanished">Ava üks nendest kaustadest jagatud eksemplaride vahel.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7469,7 +7697,7 @@ Põhjus:
     </message>
     <message>
         <source>Change settings.</source>
-        <translation>Muuda sätteid.</translation>
+        <translation type="vanished">Muuda sätteid.</translation>
     </message>
     <message>
         <source>Report a Bug</source>
@@ -7515,7 +7743,7 @@ Põhjus:
     </message>
     <message>
         <source>Get help with %1 or Minecraft.</source>
-        <translation>Saa abi %1 või Minecraftiga.</translation>
+        <translation type="vanished">Saa abi %1 või Minecraftiga.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -7523,7 +7751,7 @@ Põhjus:
     </message>
     <message>
         <source>Check for new updates for %1.</source>
-        <translation>Kontrolli %1 uusi uuendusi.</translation>
+        <translation type="vanished">Kontrolli %1 uusi uuendusi.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -7531,7 +7759,7 @@ Põhjus:
     </message>
     <message>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>See on kohev kiisu :3</translation>
+        <translation type="vanished">See on kohev kiisu :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -7547,7 +7775,7 @@ Põhjus:
     </message>
     <message>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>Ava arendusblogi, et lugeda rohkem teavet %1 kohta.</translation>
+        <translation type="vanished">Ava arendusblogi, et lugeda rohkem teavet %1 kohta.</translation>
     </message>
     <message>
         <source>Kill the running instance.</source>
@@ -8109,7 +8337,7 @@ Põhjus:
     </message>
     <message>
         <source>Total playtime: 0s</source>
-        <translation>Mänguaeg kokku: 0s</translation>
+        <translation type="vanished">Mänguaeg kokku: 0s</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -8460,6 +8688,10 @@ Are you sure?</source>
 %1</source>
         <translation type="vanished">Uuenduste allalaadimiseks vajaliku kausta loomine ebaõnnestus:
 %1</translation>
+    </message>
+    <message>
+        <source>Instances (core preview)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13173,6 +13405,62 @@ Error message: %3</source>
         <source>minecraft/pack.json could not be read; the game version will be taken from the pack contents.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Could not start the instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the asset %1 is missing from assets/objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not create the folder for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not replace %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not copy %1 to %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not open %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not create %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the natives jar %1 is missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The game exited with code %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagnosis: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suggestion: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Java this instance names does not exist: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no Java %1 was found on this machine</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -16527,6 +16815,10 @@ Please set up your account according to %1.</source>
         <source>Use https:// for a remote server: the password is sent to it when signing in.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The address must not contain a user name or password.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>YggdrasilStep</name>
@@ -16556,6 +16848,10 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Got an access token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The authentication server address contains a user name or password. Remove it and sign in again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>

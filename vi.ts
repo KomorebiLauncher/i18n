@@ -905,6 +905,26 @@ Hãy cập nhật cả hệ điều hành của bạn và %1.</translation>
         <source>[FATAL] A terrifying fatal error!</source>
         <translation>[THẢM KHỐC] Một đoạn lỗi THẢM KHỐC khủng khiếp!</translation>
     </message>
+    <message>
+        <source>Background dimming</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Window layout</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sidebar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Top action bar</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Icon rail</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Application</name>
@@ -1368,10 +1388,6 @@ Một số phiên bản Minecraft có thể không khởi động.
 </context>
 <context>
     <name>AutoInstallJava</name>
-    <message>
-        <source>Looking for Java inside the instance was aborted.</source>
-        <translation type="unfinished"></translation>
-    </message>
     <message>
         <source>No Java runtime was found inside the instance, using the usual Java resolution.</source>
         <translation type="unfinished"></translation>
@@ -2494,6 +2510,13 @@ Bạn có chắc không?</translation>
     </message>
 </context>
 <context>
+    <name>DownloadQueue</name>
+    <message>
+        <source>cancelled</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>EditAccountDialog</name>
     <message>
         <source>Login</source>
@@ -3553,6 +3576,49 @@ Vui lòng thử lại.</translation>
     </message>
 </context>
 <context>
+    <name>FileDownloader</name>
+    <message>
+        <source>the download did not succeed after %1 attempts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not open %1 for writing: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not rewrite %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write to %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the server answered with HTTP %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the download wrote no file</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the file&apos;s SHA-1 is %1, not the %2 the manifest asked for (from %3, %4 bytes)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the file is %1 bytes, not the %2 the manifest asked for</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not replace %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not move %1 into place</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>Flame::FileResolvingTask</name>
     <message>
         <source>Resolving mod IDs...</source>
@@ -4499,6 +4565,61 @@ Bạn muốn làm gì với %2?</translation>
     </message>
 </context>
 <context>
+    <name>InstanceCreator</name>
+    <message>
+        <source>Reading the list of Minecraft versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not read %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 is not in the version list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading Minecraft %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Creating the instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not create %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write mmc-pack.json into %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write instance.cfg into %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the files the instance needs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the assets the game uses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the asset download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InstanceImportTask</name>
     <message>
         <source>Downloading modpack:
@@ -4698,10 +4819,64 @@ Bạn muốn làm gì với %2?</translation>
     </message>
 </context>
 <context>
+    <name>InstanceLaunch</name>
+    <message>
+        <source>Reading the instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the files the instance needs</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fetching the asset index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Checking the assets the game uses</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copying the assets where this version looks for them</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Unpacking the native libraries</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Starting the game</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>java did not start: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the download failed</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>InstanceList</name>
     <message>
         <source>%1 Instance</source>
         <translation>Phiên bản %1</translation>
+    </message>
+</context>
+<context>
+    <name>InstanceListPage</name>
+    <message>
+        <source>broken</source>
+        <translation type="unfinished">hỏng</translation>
+    </message>
+    <message>
+        <source>No instances yet.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Instances (core preview)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -5027,6 +5202,34 @@ Hãy chắc rằng bộ nhớ tối đa bạn đặt là nhỏ hơn.</translatio
     <message>
         <source>Your maximum memory allocation approaches your system memory capacity.</source>
         <translation type="vanished">Dung lượng phân bố tối đa của bộ nhớ sắp bằng dung lượng bộ nhớ hệ thống.</translation>
+    </message>
+    <message>
+        <source>Choose a background image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Images (*.png *.jpg *.jpeg *.bmp *.webp)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An image shown behind the pages of this instance&apos;s window. The file is not copied: only its location is remembered, so moving or deleting it simply leaves the window plain again.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No background chosen</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose image</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Clear</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Appearance</source>
+        <translation type="unfinished">Ngoại hình</translation>
     </message>
 </context>
 <context>
@@ -6283,6 +6486,16 @@ Install the agent into this instance now?</source>
         <source>This can cause the instance to get corrupted and should only be used if Minecraft is frozen for some reason</source>
         <translation>Điều này có thể khiến phiên bản bị hỏng và chỉ nên được sử dụng nếu Minecraft bị đứng hình vì lý do nào đó</translation>
     </message>
+    <message>
+        <source>authlib-injector points at another server</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The authlib-injector agent in this instance sends the game&apos;s authentication to %1, but this account signs in through %2. Skins and online-mode servers will not work until the agent is reinstalled for the current account.
+
+Reinstall it now?</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>LaunchTask</name>
@@ -7524,6 +7737,10 @@ Lý do:
         <source>Got</source>
         <translation type="vanished">Lấy</translation>
     </message>
+    <message>
+        <source>The sign-in code expired before it was used. Sign in again to get a new one.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>MSALoginDialog</name>
@@ -7640,6 +7857,17 @@ Lý do:
     </message>
 </context>
 <context>
+    <name>MainContentPanel</name>
+    <message>
+        <source>No instance selected</source>
+        <translation type="unfinished">Không có phiên bản nào được chọn</translation>
+    </message>
+    <message>
+        <source>Pick one on the left to get started.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>MainWindow</name>
     <message>
         <source>Kill</source>
@@ -7667,7 +7895,7 @@ Lý do:
     </message>
     <message>
         <source>Add a new instance.</source>
-        <translation>Tạo một phiên bản mới.</translation>
+        <translation type="vanished">Tạo một phiên bản mới.</translation>
     </message>
     <message>
         <source>&amp;View Instance Folder</source>
@@ -7697,7 +7925,7 @@ Lý do:
     </message>
     <message>
         <source>Open one of the folders shared between instances.</source>
-        <translation>Mở một trong các thư mục được chia sẻ giữa các phiên bản.</translation>
+        <translation type="vanished">Mở một trong các thư mục được chia sẻ giữa các phiên bản.</translation>
     </message>
     <message>
         <source>Settings</source>
@@ -7705,7 +7933,7 @@ Lý do:
     </message>
     <message>
         <source>Change settings.</source>
-        <translation>Thay đổi cài đặt.</translation>
+        <translation type="vanished">Thay đổi cài đặt.</translation>
     </message>
     <message>
         <source>Report a Bug</source>
@@ -7743,7 +7971,7 @@ Lý do:
     </message>
     <message>
         <source>Get help with %1 or Minecraft.</source>
-        <translation>Cần hỗ trợ về %1 hoặc Minecraft.</translation>
+        <translation type="vanished">Cần hỗ trợ về %1 hoặc Minecraft.</translation>
     </message>
     <message>
         <source>Update</source>
@@ -7751,7 +7979,7 @@ Lý do:
     </message>
     <message>
         <source>Check for new updates for %1.</source>
-        <translation>Kiểm tra bản cập nhật mới cho %1.</translation>
+        <translation type="vanished">Kiểm tra bản cập nhật mới cho %1.</translation>
     </message>
     <message>
         <source>Meow</source>
@@ -7759,7 +7987,7 @@ Lý do:
     </message>
     <message>
         <source>It&apos;s a fluffy kitty :3</source>
-        <translation>Mèo kitty :3</translation>
+        <translation type="vanished">Mèo kitty :3</translation>
     </message>
     <message>
         <source>Manage Accounts</source>
@@ -7775,7 +8003,7 @@ Lý do:
     </message>
     <message>
         <source>Open the development blog to read more news about %1.</source>
-        <translation>Đọc tin tức từ nhà phát triển %1.</translation>
+        <translation type="vanished">Đọc tin tức từ nhà phát triển %1.</translation>
     </message>
     <message>
         <source>&amp;Edit...</source>
@@ -8271,7 +8499,7 @@ Bạn có chắc không?</translation>
     </message>
     <message>
         <source>Total playtime: 0s</source>
-        <translation>Tổng cộng thời gian chơi: 0 giây</translation>
+        <translation type="vanished">Tổng cộng thời gian chơi: 0 giây</translation>
     </message>
     <message>
         <source>Profiles</source>
@@ -8622,6 +8850,10 @@ Bạn có chắc chắn không ?</translation>
     <message>
         <source>Open %1 discord voice chat.</source>
         <translation type="vanished">Mở discord %1 khu đàm thoại.</translation>
+    </message>
+    <message>
+        <source>Instances (core preview)</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -13460,6 +13692,62 @@ Tin nhắn báo lỗi: %3</translation>
         <source>minecraft/pack.json could not be read; the game version will be taken from the pack contents.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>Could not start the instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the asset %1 is missing from assets/objects</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not create the folder for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not replace %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not copy %1 to %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not open %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not create %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the natives jar %1 is missing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The game exited with code %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Diagnosis: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Suggestion: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Java this instance names does not exist: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no Java %1 was found on this machine</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>Resource</name>
@@ -16973,6 +17261,10 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
         <source>Use https:// for a remote server: the password is sent to it when signing in.</source>
         <translation type="unfinished"></translation>
     </message>
+    <message>
+        <source>The address must not contain a user name or password.</source>
+        <translation type="unfinished"></translation>
+    </message>
 </context>
 <context>
     <name>YggdrasilStep</name>
@@ -17018,6 +17310,10 @@ Vui lòng thiết lập tài khoản của bạn theo %1.</translation>
     </message>
     <message>
         <source>Got an access token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The authentication server address contains a user name or password. Remove it and sign in again.</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
