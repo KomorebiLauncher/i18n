@@ -85,7 +85,12 @@ def rewrite(ts_path: pathlib.Path, translations: dict[str, str], known: set[str]
                 return message
             # Multi-line messages are common (crash reports, warnings): keep the whole text, the
             # newlines are written as-is inside <translation> just like lupdate does.
-            body = escape(wanted)
+            #
+            # The JSON export strips surrounding whitespace, but a few strings really start or end
+            # with a space (" MiB", "Unknown loader type: "). When the two texts only differ that
+            # way, keep the catalogue's spelling so a merge never eats those spaces.
+            current = text_of(tr_m.group(2)) if tr_m else ""
+            body = escape(current if current.strip() == wanted.strip() else wanted)
             replacement = f'<translation{" type=\'unfinished\'" if unfinished else ""}>{body}</translation>'
             if tr_m:
                 if text_of(tr_m.group(2)).strip() == wanted.strip() and (("unfinished" in tr_m.group(1)) == unfinished):
