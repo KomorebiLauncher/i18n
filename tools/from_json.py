@@ -83,7 +83,9 @@ def rewrite(ts_path: pathlib.Path, translations: dict[str, str], known: set[str]
                 # Plural entries carry several forms whose text may contain newlines; the JSON
                 # representation cannot tell them apart, so those stay as they are in the .ts.
                 return message
-            body = escape(wanted.split("\n")[0])
+            # Multi-line messages are common (crash reports, warnings): keep the whole text, the
+            # newlines are written as-is inside <translation> just like lupdate does.
+            body = escape(wanted)
             replacement = f'<translation{" type=\'unfinished\'" if unfinished else ""}>{body}</translation>'
             if tr_m:
                 if text_of(tr_m.group(2)).strip() == wanted.strip() and (("unfinished" in tr_m.group(1)) == unfinished):

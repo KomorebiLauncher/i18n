@@ -39,43 +39,43 @@
     </message>
     <message>
         <source>Download Mirrors</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードミラー</translation>
     </message>
     <message>
         <source>Only Mojang&apos;s own download hosts are redirected, and only for files the mirror actually has. Content servers such as Modrinth or CurseForge are never touched.</source>
-        <translation type="unfinished"></translation>
+        <translation>リダイレクトされるのはMojang自身のダウンロードホストのみで、しかもミラーが実際に保持しているファイルだけです。ModrinthやCurseForgeなどのコンテンツサーバーは一切変更されません。</translation>
     </message>
     <message>
         <source>Source order</source>
-        <translation type="unfinished"></translation>
+        <translation>取得元の優先順位</translation>
     </message>
     <message>
         <source>Mirror base URL</source>
-        <translation type="unfinished"></translation>
+        <translation>ミラーのベース URL</translation>
     </message>
     <message>
         <source>https://bmclapi2.bangbang93.com</source>
-        <translation type="unfinished"></translation>
+        <translation>https://bmclapi2.bangbang93.com</translation>
     </message>
     <message>
         <source>Services mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>サービスミラー</translation>
     </message>
     <message>
         <source>Optional verbatim mirror of the metadata server and the translation site. Content mirrors such as BMCLAPI do not carry them, so leave this empty unless the mirror really is a copy of those two.</source>
-        <translation type="unfinished"></translation>
+        <translation>メタデータサーバーと翻訳サイトをそのまま複製したミラー (任意) です。BMCLAPIなどのコンテンツミラーはこれらを含まないため、本当にその2つの複製である場合を除いて空のままにしてください。</translation>
     </message>
     <message>
         <source>Empty unless you have a verbatim mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>そのまま複製したミラーがある場合のみ入力</translation>
     </message>
     <message>
         <source>Library mirrors</source>
-        <translation type="unfinished"></translation>
+        <translation>ライブラリミラー</translation>
     </message>
     <message>
         <source>Tried in order for Mojang libraries, loader libraries and Maven Central, before the mirror base URL above. These mirrors carry that one tree, not the game itself.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojangのライブラリ、ローダーのライブラリ、Maven Central に対して、上記のミラーベース URL より先に順番に試されます。これらのミラーが保持するのはそのディレクトリツリーのみで、ゲーム本体は含みません。</translation>
     </message>
     <message>
         <source>Legacy FML Libraries Server</source>
@@ -108,11 +108,11 @@
     </message>
     <message>
         <source>Look blocked mods up on Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>ブロックされたModをModrinthで検索する</translation>
     </message>
     <message>
         <source>CurseForge leaves out the download link when an author does not allow third-party launchers to distribute a file. This option looks the same file up on Modrinth by hash and downloads it from there instead. Off by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>作者がサードパーティのランチャーによるファイル配布を許可していない場合、CurseForgeはダウンロードリンクを提供しません。このオプションを有効にすると、同じファイルをハッシュでModrinthから検索し、代わりにそこからダウンロードします。デフォルトでは無効です。</translation>
     </message>
     <message>
         <source>Enable fallback to Modrinth for blocked mods</source>
@@ -219,19 +219,19 @@
     </message>
     <message>
         <source>Official only, no mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>公式のみ (ミラーなし)</translation>
     </message>
     <message>
         <source>Official first, fall back to the mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>公式を優先し、失敗時はミラーを使用</translation>
     </message>
     <message>
         <source>Mirror first, fall back to the official host</source>
-        <translation type="unfinished"></translation>
+        <translation>ミラーを優先し、失敗時は公式ホストを使用</translation>
     </message>
     <message>
         <source>Mirror only</source>
-        <translation type="unfinished"></translation>
+        <translation>ミラーのみ</translation>
     </message>
 </context>
 <context>
@@ -312,7 +312,7 @@
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 内のパストラバーサルをブロックしました</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
@@ -457,7 +457,7 @@
     <message>
         <source>Third-party</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>サードパーティ</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -635,7 +635,7 @@
     </message>
     <message>
         <source>Add &amp;Third-Party</source>
-        <translation type="unfinished"></translation>
+        <translation>サードパーティを追加(&amp;T)</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
@@ -743,7 +743,7 @@ OSと%1をアップデートしてください。</translation>
     </message>
     <message>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;An offline profile is a local name for singleplayer worlds and for servers that allow offline players; it is not a way to use Minecraft without owning it. Add the Microsoft account that owns the game first, then the offline profile.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>オフラインアカウントを追加するには、先にMinecraftを所有しているMicrosoftアカウントを追加する必要があります。&lt;br&gt;&lt;br&gt;オフラインプロファイルは、シングルプレイのワールドやオフラインプレイヤーを許可しているサーバーで使用するローカルな名前であり、Minecraftを所有せずに使用するためのものではありません。まずゲームを所有しているMicrosoftアカウントを追加し、その後でオフラインプロファイルを追加してください。&lt;br&gt;&lt;br&gt;アカウントを紛失した場合は、Microsoftのサポートに問い合わせることができます。</translation>
     </message>
 </context>
 <context>
@@ -899,23 +899,23 @@ OSと%1をアップデートしてください。</translation>
     </message>
     <message>
         <source>Background dimming</source>
-        <translation type="unfinished"></translation>
+        <translation>背景の暗さ</translation>
     </message>
     <message>
         <source>Window layout</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィンドウレイアウト</translation>
     </message>
     <message>
         <source>Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>サイドバー</translation>
     </message>
     <message>
         <source>Top action bar</source>
-        <translation type="unfinished"></translation>
+        <translation>上部アクションバー</translation>
     </message>
     <message>
         <source>Icon rail</source>
-        <translation type="unfinished"></translation>
+        <translation>アイコンレール</translation>
     </message>
 </context>
 <context>
@@ -1304,66 +1304,66 @@ Minecraft のバージョンによっては起動しない場合があります�
     <name>AuthlibInjector::InstallTask</name>
     <message>
         <source>authlib-injector is only published on the download mirror, but no mirror address is set. Add one in Settings &gt; APIs, or restore the default.</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector はダウンロードミラーでのみ公開されていますが、ミラーのアドレスが設定されていません。設定 &gt; API で追加するか、デフォルトに戻してください。</translation>
     </message>
     <message>
         <source>Could not download %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 をダウンロードできませんでした: %2</translation>
     </message>
     <message>
         <source>Looking up the authlib-injector release</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector のリリースを検索中</translation>
     </message>
     <message>
         <source>The mirror did not return a usable authlib-injector release.</source>
-        <translation type="unfinished"></translation>
+        <translation>ミラーから使用可能な authlib-injector のリリースが返されませんでした。</translation>
     </message>
     <message>
         <source>the release index</source>
-        <translation type="unfinished"></translation>
+        <translation>リリースインデックス</translation>
     </message>
     <message>
         <source>Could not work out where the authlib-injector jar belongs.</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector の jar をどこに配置すればよいか判断できませんでした。</translation>
     </message>
     <message>
         <source>Downloading authlib-injector %1</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector %1 をダウンロード中</translation>
     </message>
     <message>
         <source>authlib-injector</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector</translation>
     </message>
     <message>
         <source>Could not read the downloaded authlib-injector jar.</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードした authlib-injector の jar を読み込めませんでした。</translation>
     </message>
     <message>
         <source>Could not create a temporary directory for the authlib-injector component.</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector コンポーネント用の一時ディレクトリを作成できませんでした。</translation>
     </message>
     <message>
         <source>Could not write the authlib-injector component file.</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector コンポーネントのファイルを書き込めませんでした。</translation>
     </message>
     <message>
         <source>Could not replace the authlib-injector component already in this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成に既にある authlib-injector コンポーネントを置き換えられませんでした。</translation>
     </message>
     <message>
         <source>Could not add the authlib-injector component to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成に authlib-injector コンポーネントを追加できませんでした。</translation>
     </message>
 </context>
 <context>
     <name>AuthlibInjectorDialog</name>
     <message>
         <source>Install authlib-injector</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector をインストール</translation>
     </message>
     <message>
         <source>The authentication server this instance should use. Once installed, the game sends its login, session and skin requests to that server instead of to Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成が使用する認証サーバーです。インストールすると、ゲームはログイン、セッション、スキンのリクエストをMojangではなくそのサーバーに送信します。</translation>
     </message>
     <message>
         <source>Install</source>
@@ -1378,11 +1378,11 @@ Minecraft のバージョンによっては起動しない場合があります�
     <name>AutoInstallJava</name>
     <message>
         <source>No Java runtime was found inside the instance, using the usual Java resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成内にJavaランタイムが見つからなかったため、通常の方法でJavaを選択します。</translation>
     </message>
     <message>
         <source>None of the Java runtimes inside the instance can be used by this version, using the usual Java resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成内のJavaランタイムはどれもこのバージョンでは使用できないため、通常の方法でJavaを選択します。</translation>
     </message>
     <message>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
@@ -1390,7 +1390,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>A compatible Java was found but excluded by the allowed versions &apos;%1&apos;. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>互換性のあるJavaが見つかりましたが、許可されたバージョン「%1」から除外されました。デフォルトのJavaパスを使用します。</translation>
     </message>
     <message>
         <source>No compatible Java version was found. Using the default one.</source>
@@ -1406,7 +1406,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>The allowed Java versions &apos;%1&apos; exclude every version this instance can use (%2), so no Java will be downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>許可されたJavaバージョン「%1」は、この起動構成で使用できるすべてのバージョン (%2) を除外しているため、Javaはダウンロードされません。</translation>
     </message>
     <message>
         <source>Compatible Java found at: %1.</source>
@@ -1881,182 +1881,182 @@ Minecraft のバージョンによっては起動しない場合があります�
     <name>CoreSettingsPage</name>
     <message>
         <source>Start instances with the new core</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいコアで起動構成を起動する</translation>
     </message>
     <message>
         <source>Create instances with the new wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>新しいウィザードで起動構成を作成する</translation>
     </message>
     <message>
         <source>The core reads the instance&apos;s folder and fetches what the game is missing before starting it. Turning this off falls back to the launcher&apos;s original launch path.</source>
-        <translation type="unfinished"></translation>
+        <translation>コアは起動構成のフォルダを読み取り、ゲームを起動する前に不足しているものを取得します。これを無効にすると、ランチャー本来の起動方法に戻ります。</translation>
     </message>
     <message>
         <source>The wizard asks for a name, a game version and, if wanted, a mod loader, and writes the instance through the core. Turning this off falls back to the launcher&apos;s original dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>ウィザードは名前、ゲームバージョン、必要ならModローダーを尋ね、コアを通じて起動構成を作成します。これを無効にすると、ランチャー本来のダイアログに戻ります。</translation>
     </message>
     <message>
         <source>Play as the Komorebi account</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebiアカウントでプレイする</translation>
     </message>
     <message>
         <source>A Komorebi account starts the game through the core&apos;s own Microsoft sign-in. Turning this off, or having no account here, uses the launcher&apos;s original account.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebiアカウントは、コア独自のMicrosoftサインインを通じてゲームを起動します。これを無効にするか、ここにアカウントがない場合は、ランチャー本来のアカウントを使用します。</translation>
     </message>
     <message>
         <source>Manage accounts…</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントの管理…</translation>
     </message>
     <message>
         <source>Downloads come from</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロード元</translation>
     </message>
     <message>
         <source>Official uses the addresses the version manifests name. A mirror is used where it has the file, with the original address kept as a fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>公式はバージョンマニフェストに記載されたアドレスを使用します。ミラーはファイルを保持している場合に使用され、元のアドレスはフォールバックとして残されます。</translation>
     </message>
     <message>
         <source>Komorebi</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebi</translation>
     </message>
 </context>
 <context>
     <name>CrashAnalysis</name>
     <message>
         <source>The game ran out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームのメモリが不足しました。</translation>
     </message>
     <message>
         <source>Raise this instance&apos;s maximum allocated memory, and ask less of the heap: lower the render distance, turn off fancy graphics, drop resource packs with large textures. If it still runs out with a lot of headroom, one mod is holding on to memory - take out the most recently added mods first.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成の最大メモリ割り当てを増やし、ヒープへの要求を減らしてください。描画距離を小さくし、高品質グラフィックをオフにし、大きなテクスチャを使うリソースパックを外します。それでも余裕があるのに不足する場合は、いずれかのModがメモリを解放していません。最近追加したModから順に外してください。</translation>
     </message>
     <message>
         <source>The game ran out of class space</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームのクラス空間が不足しました。</translation>
     </message>
     <message>
         <source>Metaspace holds the classes of everything that is loaded, so it fills up with the number of mods rather than the size of the heap. Add -XX:MaxMetaspaceSize=512M to this instance&apos;s Java arguments, or remove mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>メタスペースには読み込まれたすべてのクラスが格納されるため、ヒープのサイズよりもModの数によって圧迫されます。この起動構成のJava引数に -XX:MaxMetaspaceSize=512M を追加するか、Modを削除してください。</translation>
     </message>
     <message>
         <source>Raise this instance&apos;s maximum allocated memory. If the line above names something other than the heap, it is the mod that asked for the memory, not the amount.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成の最大メモリ割り当てを増やしてください。上の行にヒープ以外の名前がある場合は、問題はメモリの量ではなく、メモリを要求したModにあります。</translation>
     </message>
     <message>
         <source>The memory requested cannot be given</source>
-        <translation type="unfinished"></translation>
+        <translation>要求されたメモリを確保できません。</translation>
     </message>
     <message>
         <source>The heap this instance asks for is bigger than what this Java can hand over. Lower the maximum memory - the settings page suggests a number for this machine - and check that the Java in use is 64-bit, since a 32-bit one stops being useful somewhere above 1.5 GiB.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成が要求するヒープは、このJavaが提供できる量を超えています。最大メモリを下げ(設定ページにこのマシン向けの推奨値があります)、使用中のJavaが64ビットであることを確認してください。32ビット版は1.5 GiBを少し超えたあたりから使い物になりません。</translation>
     </message>
     <message>
         <source>Something here was compiled for %1, but this instance is launching with %2. Set a newer Java in this instance&apos;s Java settings, or remove the mod that needs it.</source>
-        <translation type="unfinished"></translation>
+        <translation>ここにある何かが %1 向けにコンパイルされていますが、この起動構成は %2 で起動しています。この起動構成のJava設定でより新しいJavaを指定するか、それを必要とするModを削除してください。</translation>
     </message>
     <message>
         <source>a newer Java</source>
-        <translation type="unfinished"></translation>
+        <translation>より新しいJava</translation>
     </message>
     <message>
         <source>Java %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1</translation>
     </message>
     <message>
         <source>an older Java</source>
-        <translation type="unfinished"></translation>
+        <translation>より古いJava</translation>
     </message>
     <message>
         <source>A mod needs a newer Java than the one in use</source>
-        <translation type="unfinished"></translation>
+        <translation>Modが使用中のものより新しいJavaを必要としています。</translation>
     </message>
     <message>
         <source>A mod failed while it was starting up</source>
-        <translation type="unfinished"></translation>
+        <translation>Modの起動中にエラーが発生しました。</translation>
     </message>
     <message>
         <source>The line above is the mod that actually failed; the class-not-found line after it is the same mod being asked for again. Scroll to the first ExceptionInInitializerError and take out the mod it names, or update it to a build for this version of the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>上の行が実際に失敗したModで、その後に続くクラスが見つからないという行は、同じModが再度要求されたものです。最初の ExceptionInInitializerError までスクロールし、そこに書かれているModを外すか、このバージョンのゲーム向けのビルドに更新してください。</translation>
     </message>
     <message>
         <source>A mod is missing something it needs</source>
-        <translation type="unfinished"></translation>
+        <translation>Modに必要なものが不足しています。</translation>
     </message>
     <message>
         <source>Install what this line names - usually a library mod that other mods sit on, or a loader new enough for the mods installed. If it is already installed, the version is not the one being asked for: match the number in this line rather than the name.</source>
-        <translation type="unfinished"></translation>
+        <translation>この行に書かれているものをインストールしてください。通常は他のModが依存するライブラリModか、インストール済みのModに対応できる新しいローダーです。すでにインストール済みの場合は、要求されているバージョンが異なります。名前ではなく、この行の番号に合わせてください。</translation>
     </message>
     <message>
         <source>The same mod is installed twice</source>
-        <translation type="unfinished"></translation>
+        <translation>同じModが二重にインストールされています。</translation>
     </message>
     <message>
         <source>Search the mods folder for each name listed and keep one file per mod, the newest. Two files with different names can still hold the same mod, which is what happens when a mod bundles a library that is also installed on its own.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modフォルダで一覧にある各名前を検索し、Modごとに最新のファイル1つだけを残してください。名前の異なる2つのファイルが同じModを含んでいることもあり、これはあるModが別途インストールされているライブラリを同梱している場合に起こります。</translation>
     </message>
     <message>
         <source>The mods installed do not agree with each other</source>
-        <translation type="unfinished"></translation>
+        <translation>インストールされているMod同士が矛盾しています。</translation>
     </message>
     <message>
         <source>Fabric writes under this line who wants what version, and often a suggested fix. Follow it: change the version of the named mod, or remove it. Guessing which of the two is at fault wastes an hour.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabricはこの行の下に、どのModがどのバージョンを要求しているか、そして多くの場合修正案を出力します。それに従い、指定されたModのバージョンを変更するか削除してください。どちらが原因かを当てずっぽうで探すと1時間を無駄にします。</translation>
     </message>
     <message>
         <source>A mod could not patch the game</source>
-        <translation type="unfinished"></translation>
+        <translation>Modがゲームにパッチを適用できませんでした。</translation>
     </message>
     <message>
         <source>A mixin is a mod rewriting the game&apos;s own code while it loads, and it fails when the code it expects is not there. The line names the mod the mixin belongs to - replace it with the build for this exact version of the game and of the loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mixinは読み込み中にゲーム自身のコードを書き換える仕組みで、期待するコードがないと失敗します。行にはそのMixinが属するModが示されています。そのゲームとローダーの正確なバージョン向けのビルドに置き換えてください。</translation>
     </message>
     <message>
         <source>The graphics driver cannot open a window</source>
-        <translation type="unfinished"></translation>
+        <translation>グラフィックドライバーがウィンドウを開けません。</translation>
     </message>
     <message>
         <source>Update the graphics driver from Intel, AMD or Nvidia&apos;s own site rather than through Windows Update. On a laptop with two GPUs, force the game onto the one that supports OpenGL; through remote desktop there is no OpenGL at all and the game cannot start.</source>
-        <translation type="unfinished"></translation>
+        <translation>グラフィックドライバーは、Windows Update ではなく Intel、AMD、Nvidia の各公式サイトから更新してください。GPUを2つ搭載したノートPCでは、OpenGLをサポートする方のGPUでゲームを実行するよう強制してください。リモートデスクトップ経由ではOpenGL自体が利用できず、ゲームを起動できません。</translation>
     </message>
     <message>
         <source>A native library was not unpacked</source>
-        <translation type="unfinished"></translation>
+        <translation>ネイティブライブラリが展開されませんでした。</translation>
     </message>
     <message>
         <source>The game&apos;s own dll and so files are unpacked into a temporary folder when it starts, and an antivirus or a full disk stops that. Let this launcher and its instance folder through the antivirus, then start again.</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲーム自身の dll および so ファイルは起動時に一時フォルダへ展開されますが、ウイルス対策ソフトやディスク容量の不足がそれを妨げます。このランチャーとその起動構成フォルダをウイルス対策ソフトの除外に追加してから、もう一度起動してください。</translation>
     </message>
     <message>
         <source>There is no room left in the texture atlas</source>
-        <translation type="unfinished"></translation>
+        <translation>テクスチャアトラスに空きがありません。</translation>
     </message>
     <message>
         <source>Everything the game draws from a texture sheet has to fit in one image. A high resolution resource pack, or a mod adding many custom items, is what overflows it - lower the pack&apos;s resolution or remove the mod that adds the most textures.</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームがテクスチャシートから描画するものは、すべて1枚の画像に収まっている必要があります。高解像度のリソースパックや、カスタムアイテムを大量に追加するModがあふれの原因です。パックの解像度を下げるか、テクスチャを最も多く追加するModを削除してください。</translation>
     </message>
     <message>
         <source>The game ran out of registration numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームの登録番号が不足しました。</translation>
     </message>
     <message>
         <source>Versions before 1.13 have a hard limit on how many blocks and items can be registered, and a large pack reaches it. Remove mods or move the pack to 1.13 or newer; there is no setting for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>1.13 より前のバージョンでは、登録できるブロックとアイテムの数に厳しい上限があり、大きなパックではそれに達します。Modを削除するか、パックを 1.13 以降に移してください。このための設定はありません。</translation>
     </message>
     <message>
         <source>The Java runtime itself crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaランタイム自体がクラッシュしました。</translation>
     </message>
     <message>
         <source>This is not a mod error: the JVM wrote a file named hs_err_pid with the details. What matters is which library the crash happened in - a graphics driver module there means update or roll back the driver, and a mod&apos;s own dll means that mod is the one to remove.</source>
-        <translation type="unfinished"></translation>
+        <translation>これはModのエラーではありません。JVMが hs_err_pid という名前のファイルに詳細を書き出しています。重要なのは、どのライブラリでクラッシュしたかです。グラフィックドライバーのモジュールであればドライバーを更新またはロールバックし、Mod独自の dll であればそのModを削除してください。</translation>
     </message>
     <message>
         <source>The game wrote a crash report</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームがクラッシュレポートを出力しました。</translation>
     </message>
     <message>
         <source>The line above names what the game was doing when it stopped. Take out the mod it blames, or ask its author - the whole report is smaller than one screenshot of the log.</source>
-        <translation type="unfinished"></translation>
+        <translation>上の行には、ゲームが停止したときに何をしていたかが示されています。原因として挙げられているModを外すか、その作者に問い合わせてください。レポート全体は、ログのスクリーンショット1枚より小さいものです。</translation>
     </message>
 </context>
 <context>
@@ -2540,7 +2540,7 @@ Are you sure?</source>
     <name>DownloadQueue</name>
     <message>
         <source>cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>キャンセル済み</translation>
     </message>
 </context>
 <context>
@@ -3396,7 +3396,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>The selected file is not executable</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したファイルは実行できません</translation>
     </message>
     <message>
         <source>JProfiler Folder</source>
@@ -3495,7 +3495,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ネイティブjar「%1」を「%2」に展開できませんでした: %3</translation>
     </message>
 </context>
 <context>
@@ -3583,7 +3583,7 @@ Please try again.</source>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 内のパストラバーサルをブロックしました</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3654,47 +3654,47 @@ Please try again.</source>
     <name>FileDownloader</name>
     <message>
         <source>the download did not succeed after %1 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 回試行してもダウンロードに成功しませんでした</translation>
     </message>
     <message>
         <source>could not open %1 for writing: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を書き込み用に開けませんでした: %2</translation>
     </message>
     <message>
         <source>could not rewrite %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を書き換えられませんでした: %2</translation>
     </message>
     <message>
         <source>could not write to %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 に書き込めませんでした: %2</translation>
     </message>
     <message>
         <source>no data arrived for %1 seconds from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%2 から %1 秒間データが届きませんでした</translation>
     </message>
     <message>
         <source>the server answered with HTTP %1</source>
-        <translation type="unfinished"></translation>
+        <translation>サーバーが HTTP %1 で応答しました</translation>
     </message>
     <message>
         <source>the download wrote no file</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードでファイルが作成されませんでした</translation>
     </message>
     <message>
         <source>the file&apos;s SHA-1 is %1, not the %2 the manifest asked for (from %3, %4 bytes)</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルのSHA-1は %1 で、マニフェストが要求した %2 ではありません (%3 から、%4 バイト)</translation>
     </message>
     <message>
         <source>the file is %1 bytes, not the %2 the manifest asked for</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルは %1 バイトで、マニフェストが要求した %2 ではありません</translation>
     </message>
     <message>
         <source>could not replace %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を置き換えられませんでした</translation>
     </message>
     <message>
         <source>could not move %1 into place</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を所定の場所に移動できませんでした</translation>
     </message>
 </context>
 <context>
@@ -3824,7 +3824,7 @@ Please try again.</source>
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>overrides に任意の場所へつながるパス (%1) が含まれています。これはセキュリティ上の危険があるため許可されません。</translation>
     </message>
     <message>
         <source>Could not rename the overrides folder:
@@ -3850,7 +3850,7 @@ Please try again.</source>
     </message>
     <message>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modパックが起動構成フォルダの外 (%1) にファイルをダウンロードしようとしています。これはセキュリティ上の危険があるため許可されません。</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
@@ -4520,19 +4520,21 @@ Please try again.</source>
         <source>%1 is known to conflict with %2, which is enabled on this instance. Having both enabled at the same time will likely break the instance.
 
 What would you like to do with %2?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 は、この起動構成で有効になっている %2 と競合することが知られています。両方を同時に有効にすると、起動構成が壊れる可能性が高いです。
+
+%2 をどうしますか？</translation>
     </message>
     <message>
         <source>Keep it</source>
-        <translation type="unfinished"></translation>
+        <translation>そのまま残す</translation>
     </message>
     <message>
         <source>Disable it</source>
-        <translation type="unfinished"></translation>
+        <translation>無効にする</translation>
     </message>
     <message>
         <source>Uninstall it</source>
-        <translation type="unfinished"></translation>
+        <translation>アンインストールする</translation>
     </message>
 </context>
 <context>
@@ -4620,123 +4622,123 @@ What would you like to do with %2?</source>
     <name>InstanceCreator</name>
     <message>
         <source>Reading the list of Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftのバージョン一覧を読み込み中</translation>
     </message>
     <message>
         <source>could not read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を読み込めませんでした</translation>
     </message>
     <message>
         <source>%1 is not in the version list</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 はバージョン一覧にありません</translation>
     </message>
     <message>
         <source>Reading Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1 を読み込み中</translation>
     </message>
     <message>
         <source>Creating the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成を作成中</translation>
     </message>
     <message>
         <source>could not create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を作成できませんでした</translation>
     </message>
     <message>
         <source>only the Fabric, Quilt, Forge and NeoForge loaders are supported so far, not %1</source>
-        <translation type="unfinished"></translation>
+        <translation>現時点で対応しているローダーは Fabric、Quilt、Forge、NeoForge のみで、%1 には対応していません</translation>
     </message>
     <message>
         <source>there is no address for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のアドレスがありません</translation>
     </message>
     <message>
         <source>Reading the %1 versions</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のバージョンを読み込み中</translation>
     </message>
     <message>
         <source>there is no %1 metadata here</source>
-        <translation type="unfinished"></translation>
+        <translation>ここに %1 のメタデータがありません</translation>
     </message>
     <message>
         <source>%1 has no release for Minecraft %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 にはMinecraft %2 向けのリリースがありません</translation>
     </message>
     <message>
         <source>Reading the %1 profile</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のプロファイルを読み込み中</translation>
     </message>
     <message>
         <source>the %1 metadata has no main class</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のメタデータにメインクラスがありません</translation>
     </message>
     <message>
         <source>Installing the %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ローダーをインストール中</translation>
     </message>
     <message>
         <source>no Forge version was given</source>
-        <translation type="unfinished"></translation>
+        <translation>Forgeのバージョンが指定されていません</translation>
     </message>
     <message>
         <source>no Java %1 was found to run the Forge installer</source>
-        <translation type="unfinished"></translation>
+        <translation>Forgeのインストーラーを実行できる Java %1 が見つかりませんでした</translation>
     </message>
     <message>
         <source>Running the %1 installer</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のインストーラーを実行中</translation>
     </message>
     <message>
         <source>the Forge installer exited with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Forgeのインストーラーが %1 で終了しました</translation>
     </message>
     <message>
         <source>the Forge installer could not be started</source>
-        <translation type="unfinished"></translation>
+        <translation>Forgeのインストーラーを開始できませんでした</translation>
     </message>
     <message>
         <source>the installer wrote no version description</source>
-        <translation type="unfinished"></translation>
+        <translation>インストーラーがバージョン情報を書き出しませんでした</translation>
     </message>
     <message>
         <source>%1 %2 is not a component name</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 はコンポーネント名ではありません</translation>
     </message>
     <message>
         <source>could not write the %1 metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のメタデータを書き込めませんでした</translation>
     </message>
     <message>
         <source>could not write the %1 index</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のインデックスを書き込めませんでした</translation>
     </message>
     <message>
         <source>Fabric does not list loader %1 for Minecraft %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabricの一覧に、Minecraft %2 向けのローダー %1 がありません</translation>
     </message>
     <message>
         <source>could not write mmc-pack.json into %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 に mmc-pack.json を書き込めませんでした</translation>
     </message>
     <message>
         <source>could not write instance.cfg into %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 に instance.cfg を書き込めませんでした</translation>
     </message>
     <message>
         <source>Checking the files the instance needs</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成に必要なファイルを確認中</translation>
     </message>
     <message>
         <source>the download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードに失敗しました</translation>
     </message>
     <message>
         <source>Checking the assets the game uses</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームが使用するアセットを確認中</translation>
     </message>
     <message>
         <source>the asset download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>アセットのダウンロードに失敗しました</translation>
     </message>
 </context>
 <context>
@@ -4836,113 +4838,116 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>The pack does not contain an mcbbs.packmeta manifest.</source>
-        <translation type="unfinished"></translation>
+        <translation>パックに mcbbs.packmeta マニフェストが含まれていません。</translation>
     </message>
     <message>
         <source>Could not read the pack manifest:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>パックのマニフェストを読み込めませんでした:
+%1</translation>
     </message>
     <message>
         <source>The pack does not contain an HMCL modpack.json manifest.</source>
-        <translation type="unfinished"></translation>
+        <translation>パックにHMCLの modpack.json マニフェストが含まれていません。</translation>
     </message>
     <message>
         <source>The pack does not contain the HMCL instance manifest (minecraft/pack.json), so its game version cannot be determined.</source>
-        <translation type="unfinished"></translation>
+        <translation>パックにHMCLの起動構成マニフェスト (minecraft/pack.json) が含まれていないため、ゲームバージョンを判別できません。</translation>
     </message>
     <message>
         <source>The pack manifest does not name a Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>パックのマニフェストにMinecraftのバージョンが記載されていません。</translation>
     </message>
     <message>
         <source>The pack does not contain the expected %1 folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>パックに必要な %1 フォルダが含まれていません。</translation>
     </message>
     <message>
         <source>Both the archive root and the game folder contain %1; keeping the one inside the game folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>アーカイブのルートとゲームフォルダの両方に %1 が含まれています。ゲームフォルダ内のものを使用します。</translation>
     </message>
     <message>
         <source>Could not move %1 out of the pack&apos;s game folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>パックのゲームフォルダから %1 を移動できませんでした。</translation>
     </message>
     <message>
         <source>The pack names the %1 loader but not its version, so it will not be installed automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>パックには %1 ローダーが指定されていますが、バージョンが指定されていないため、自動ではインストールされません。</translation>
     </message>
     <message>
         <source>Could not write mmc-pack.json into the instance folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成フォルダに mmc-pack.json を書き込めませんでした。</translation>
     </message>
     <message>
         <source>Resolving the files the pack expects from CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>パックが要求するファイルをCurseForgeで特定中</translation>
     </message>
     <message>
         <source>CurseForge returned no information about the files this pack lists.</source>
-        <translation type="unfinished"></translation>
+        <translation>このパックが一覧に挙げるファイルについての情報がCurseForgeから返されませんでした。</translation>
     </message>
     <message>
         <source>Pack files</source>
-        <translation type="unfinished"></translation>
+        <translation>パックのファイル</translation>
     </message>
     <message>
         <source>None of the files this pack lists could be downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>このパックが一覧に挙げるファイルは、どれもダウンロードできませんでした。</translation>
     </message>
     <message>
         <source>%1 file(s) in the pack are no longer available from CurseForge and were skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>パック内の %1 個のファイルはCurseForgeから入手できなくなったため、スキップされました。</translation>
     </message>
     <message>
         <source>Could not download the files this pack lists:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>このパックが一覧に挙げるファイルをダウンロードできませんでした:
+%1</translation>
     </message>
     <message>
         <source>Could not ask CurseForge about the files this pack lists:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>このパックが一覧に挙げるファイルについてCurseForgeに問い合わせできませんでした:
+%1</translation>
     </message>
 </context>
 <context>
     <name>InstanceLaunch</name>
     <message>
         <source>Reading the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成を読み込み中</translation>
     </message>
     <message>
         <source>Checking the files the instance needs</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成に必要なファイルを確認中</translation>
     </message>
     <message>
         <source>Fetching the asset index</source>
-        <translation type="unfinished"></translation>
+        <translation>アセットインデックスを取得中</translation>
     </message>
     <message>
         <source>Checking the assets the game uses</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームが使用するアセットを確認中</translation>
     </message>
     <message>
         <source>Copying the assets where this version looks for them</source>
-        <translation type="unfinished"></translation>
+        <translation>このバージョンが参照する場所にアセットをコピー中</translation>
     </message>
     <message>
         <source>Unpacking the native libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>ネイティブライブラリを展開中</translation>
     </message>
     <message>
         <source>Starting the game</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームを起動中</translation>
     </message>
     <message>
         <source>java did not start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>java を起動できませんでした: %1</translation>
     </message>
     <message>
         <source>the download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロードに失敗しました</translation>
     </message>
 </context>
 <context>
@@ -4960,11 +4965,11 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>No instances yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成がまだありません。</translation>
     </message>
     <message>
         <source>Instances (core preview)</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成 (コアプレビュー)</translation>
     </message>
 </context>
 <context>
@@ -5293,23 +5298,23 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Choose a background image</source>
-        <translation type="unfinished"></translation>
+        <translation>背景画像を選択</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.bmp *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>画像 (*.png *.jpg *.jpeg *.bmp *.webp)</translation>
     </message>
     <message>
         <source>An image shown behind the pages of this instance&apos;s window. The file is not copied: only its location is remembered, so moving or deleting it simply leaves the window plain again.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成のウィンドウで、ページの背景に表示される画像です。ファイルはコピーされず、場所だけが記憶されるため、移動または削除するとウィンドウは元の無地に戻ります。</translation>
     </message>
     <message>
         <source>No background chosen</source>
-        <translation type="unfinished"></translation>
+        <translation>背景が選択されていません</translation>
     </message>
     <message>
         <source>Choose image</source>
-        <translation type="unfinished"></translation>
+        <translation>画像を選択</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -5458,7 +5463,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>指定されたzipファイルを開けませんでした: %1</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -5536,11 +5541,11 @@ Please make sure that the maximum memory value is lower.</source>
     <name>Java::LocalJavaScanTask</name>
     <message>
         <source>Looking for Java inside the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成内のJavaを検索中</translation>
     </message>
     <message>
         <source>Java detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaの検出</translation>
     </message>
 </context>
 <context>
@@ -5577,7 +5582,7 @@ Please make sure that the maximum memory value is lower.</source>
     <name>JavaChecker</name>
     <message>
         <source>The Java checker library (JavaCheck.jar) could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>Javaチェッカーライブラリ (JavaCheck.jar) が見つかりませんでした。</translation>
     </message>
 </context>
 <context>
@@ -5899,23 +5904,23 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>&amp;Allowed Java versions</source>
-        <translation type="unfinished"></translation>
+        <translation>許可するJavaバージョン(&amp;A)</translation>
     </message>
     <message>
         <source>Restrict which Java installations the launcher may pick automatically. Leave empty for no restriction.</source>
-        <translation type="unfinished"></translation>
+        <translation>ランチャーが自動的に選択できるJavaのインストールを制限します。空欄にすると制限なしになります。</translation>
     </message>
     <message>
         <source>e.g. 8, or 8-17, or 8, 11, 17-21</source>
-        <translation type="unfinished"></translation>
+        <translation>例: 8、8-17、8, 11, 17-21</translation>
     </message>
     <message>
         <source>Look for a Java runtime inside this instance&apos;s runtime folder and prefer it. The version is verified by running the binary, not guessed from the folder name. A Java path set above takes precedence over this.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成の runtime フォルダ内にあるJavaランタイムを探して優先的に使用します。バージョンはフォルダ名から推測するのではなく、実行して確認します。上で設定したJavaパスが優先されます。</translation>
     </message>
     <message>
         <source>Use the Java &amp;runtime inside the instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成フォルダ内のJavaランタイムを使用する(&amp;R)</translation>
     </message>
     <message>
         <source>Java &amp;Executable</source>
@@ -5927,11 +5932,11 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Suggested arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>推奨引数</translation>
     </message>
     <message>
         <source>Add these &amp;arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>この引数を追加(&amp;A)</translation>
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
@@ -5979,15 +5984,15 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Memory suggestion</source>
-        <translation type="unfinished"></translation>
+        <translation>メモリの推奨値</translation>
     </message>
     <message>
         <source>Use these &amp;values</source>
-        <translation type="unfinished"></translation>
+        <translation>この値を使用(&amp;V)</translation>
     </message>
     <message>
         <source>Warn when there is not enough free memory</source>
-        <translation type="unfinished"></translation>
+        <translation>空きメモリが不足しているときに警告する</translation>
     </message>
     <message>
         <source>Java Argumen&amp;ts</source>
@@ -6031,23 +6036,23 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>%1 mods installed here, so %2 MiB of heap.</source>
-        <translation type="unfinished"></translation>
+        <translation>ここには %1 個のModがインストールされているため、ヒープは %2 MiB です。</translation>
     </message>
     <message>
         <source>This machine has %1 MiB, and three quarters of it is as much as the game should be given.</source>
-        <translation type="unfinished"></translation>
+        <translation>このマシンには %1 MiB あり、その4分の3がゲームに割り当てるべき上限です。</translation>
     </message>
     <message>
         <source>This machine has %1 MiB, so the game can have %2 MiB and still leave room for everything else.</source>
-        <translation type="unfinished"></translation>
+        <translation>このマシンには %1 MiB あるため、ゲームに %2 MiB を割り当てても、ほかに十分な余裕が残ります。</translation>
     </message>
     <message>
         <source>This machine has only %1 MiB in total. The game needs %2 MiB to start, so close what else is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>このマシンのメモリは合計 %1 MiB しかありません。ゲームの起動には %2 MiB 必要なため、ほかに実行中のものを終了してください。</translation>
     </message>
     <message>
         <source>%1 Both limits are the same number, so the heap does not have to grow while you play.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 両方の上限が同じ値なので、プレイ中にヒープを拡張する必要はありません。</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
@@ -6059,7 +6064,7 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Suggested for %1 MiB of heap: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 MiB のヒープに対する推奨値: %2</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
@@ -6205,11 +6210,11 @@ Javaのバージョンは後で設定で変更できます。
     <name>KomorebiAccountsDialog</name>
     <message>
         <source>Komorebi accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebiアカウント</translation>
     </message>
     <message>
         <source>Games started with the new launch path use the account marked as default. The launcher&apos;s original accounts keep working alongside these. An offline account can be added once a Microsoft account is here.</source>
-        <translation type="unfinished"></translation>
+        <translation>新しい起動方法で起動したゲームでは、デフォルトに設定されたアカウントが使用されます。ランチャー本来のアカウントも、これらと並行して使用できます。Microsoftアカウントがあれば、オフラインアカウントも追加できます。</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -6217,11 +6222,11 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Add offline account</source>
-        <translation type="unfinished"></translation>
+        <translation>オフラインアカウントを追加</translation>
     </message>
     <message>
         <source>Use this account</source>
-        <translation type="unfinished"></translation>
+        <translation>このアカウントを使用</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -6229,83 +6234,83 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>%1  (offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1  (オフライン)</translation>
     </message>
     <message>
         <source>  (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>  (デフォルト)</translation>
     </message>
     <message>
         <source>Play under a name that never signs in.</source>
-        <translation type="unfinished"></translation>
+        <translation>サインインしない名前でプレイします。</translation>
     </message>
     <message>
         <source>Sign in with Microsoft first: an offline name needs a Microsoft account beside it.</source>
-        <translation type="unfinished"></translation>
+        <translation>先にMicrosoftアカウントでサインインしてください。オフラインの名前を使うには、Microsoftアカウントが一緒に必要です。</translation>
     </message>
     <message>
         <source>The accounts file at %1 could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のアカウントファイルを読み込めませんでした。</translation>
     </message>
     <message>
         <source>No Komorebi accounts yet. Sign in with Microsoft to add one.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebiアカウントがまだありません。Microsoftアカウントでサインインして追加してください。</translation>
     </message>
     <message>
         <source>%1 account(s), kept in %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 個のアカウント (%2 に保存)</translation>
     </message>
     <message>
         <source>The sign-in could not be kept safely on this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>このコンピューターにサインイン情報を安全に保存できませんでした。</translation>
     </message>
     <message>
         <source>The account could not be saved at %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントを %1 に保存できませんでした。</translation>
     </message>
     <message>
         <source>Signed in as %1. It is now the account used for launching.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 としてサインインしました。このアカウントが起動に使用されます。</translation>
     </message>
     <message>
         <source>Name to play as:</source>
-        <translation type="unfinished"></translation>
+        <translation>プレイ時の名前:</translation>
     </message>
     <message>
         <source>An offline account needs a name.</source>
-        <translation type="unfinished"></translation>
+        <translation>オフラインアカウントには名前が必要です。</translation>
     </message>
     <message>
         <source>The offline account could not be saved at %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>オフラインアカウントを %1 に保存できませんでした。</translation>
     </message>
     <message>
         <source>%1 will be used for launching.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 が起動に使用されます。</translation>
     </message>
     <message>
         <source>Remove account</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントを削除</translation>
     </message>
     <message>
         <source>Remove %1 from the launcher? The account itself is not affected.</source>
-        <translation type="unfinished"></translation>
+        <translation>ランチャーから %1 を削除しますか？アカウント自体には影響しません。</translation>
     </message>
     <message>
         <source>Remove the offline accounts first: they need a Microsoft account to stand beside.</source>
-        <translation type="unfinished"></translation>
+        <translation>先にオフラインアカウントを削除してください。オフラインアカウントを使うには、Microsoftアカウントが一緒に必要です。</translation>
     </message>
     <message>
         <source>That account is not stored any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>そのアカウントはもう保存されていません。</translation>
     </message>
     <message>
         <source>The account could not be removed from %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 からアカウントを削除できませんでした。</translation>
     </message>
     <message>
         <source>Removed %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を削除しました。</translation>
     </message>
 </context>
 <context>
@@ -6316,27 +6321,27 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Open the address below in a browser and enter the code. This window will wait for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>以下のアドレスをブラウザーで開き、コードを入力してください。このウィンドウはそのまま待機します。</translation>
     </message>
     <message>
         <source>Copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>コードをコピー</translation>
     </message>
     <message>
         <source>Open page</source>
-        <translation type="unfinished"></translation>
+        <translation>ページを開く</translation>
     </message>
     <message>
         <source>Asking Microsoft for a code…</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoftにコードを要求しています…</translation>
     </message>
     <message>
         <source>Waiting for you to approve the sign-in in the browser. The code is good for %1 minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>ブラウザーでサインインを承認するのを待っています。コードは %1 分間有効です。</translation>
     </message>
     <message>
         <source>The sign-in could not finish: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>サインインを完了できませんでした: %1</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6344,18 +6349,18 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Code copied. Paste it into the browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>コードをコピーしました。ブラウザーに貼り付けてください。</translation>
     </message>
 </context>
 <context>
     <name>KomorebiNewInstanceDialog</name>
     <message>
         <source>New instance</source>
-        <translation type="unfinished"></translation>
+        <translation>新しい起動構成</translation>
     </message>
     <message>
         <source>what to call it</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成の名前</translation>
     </message>
     <message>
         <source>Name</source>
@@ -6363,7 +6368,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>reading the version list</source>
-        <translation type="unfinished"></translation>
+        <translation>バージョン一覧を読み込み中</translation>
     </message>
     <message>
         <source>Minecraft</source>
@@ -6371,47 +6376,47 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>ローダー</translation>
     </message>
     <message>
         <source>Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>ローダーのバージョン</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>作成</translation>
     </message>
     <message>
         <source>Reading the list of Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftのバージョン一覧を読み込み中</translation>
     </message>
     <message>
         <source>Could not read the version list: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>バージョン一覧を読み込めませんでした: %1</translation>
     </message>
     <message>
         <source>%1 versions. Newest release: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 個のバージョン。最新リリース: %2</translation>
     </message>
     <message>
         <source>The instance needs a name.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成には名前が必要です。</translation>
     </message>
     <message>
         <source>Choose the Minecraft version to run.</source>
-        <translation type="unfinished"></translation>
+        <translation>実行するMinecraftのバージョンを選択してください。</translation>
     </message>
     <message>
         <source>Forge needs its own version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forgeでは専用のバージョンが必要です。</translation>
     </message>
     <message>
         <source>Preparing</source>
-        <translation type="unfinished"></translation>
+        <translation>準備中</translation>
     </message>
     <message>
         <source>Could not create the instance: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成を作成できませんでした: %1</translation>
     </message>
 </context>
 <context>
@@ -6451,23 +6456,27 @@ Javaのバージョンは後で設定で変更できます。
     <name>LaunchCommand</name>
     <message>
         <source>Running %1 command: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 コマンドを実行中: %2</translation>
     </message>
     <message>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 コマンドが空のため、スキップします。</translation>
     </message>
     <message>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 コマンドがコード %2 で失敗しました。
+
+</translation>
     </message>
     <message>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 コマンドは正常に実行されました。
+
+</translation>
     </message>
 </context>
 <context>
@@ -6629,7 +6638,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Disable profiler on next launch</source>
-        <translation type="unfinished"></translation>
+        <translation>次回の起動時にプロファイラを無効化</translation>
     </message>
     <message>
         <source>&amp;Launch</source>
@@ -6669,7 +6678,7 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>In order to play Minecraft, you must have at least one account added: a Microsoft account that owns Minecraft, or an account on a third-party authentication server. Would you like to open the account manager to add an account now?</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftをプレイするには、少なくとも1つのアカウントを追加する必要があります。Minecraftを所有しているMicrosoftアカウントか、サードパーティの認証サーバーのアカウントです。今すぐアカウント管理を開いてアカウントを追加しますか？</translation>
     </message>
     <message>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
@@ -6755,25 +6764,27 @@ Do you want to play the demo?</source>
     </message>
     <message>
         <source>Sign in to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」にサインイン</translation>
     </message>
     <message>
         <source>Enter the password for &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>「%1」のパスワードを入力してください。</translation>
     </message>
     <message>
         <source>authlib-injector is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector がインストールされていません</translation>
     </message>
     <message>
         <source>This account signs in through %1, but this instance has no authlib-injector agent, so the game cannot reach that server to load skins or to join its online-mode servers.
 
 Install the agent into this instance now?</source>
-        <translation type="unfinished"></translation>
+        <translation>このアカウントは%1経由でサインインしていますが、この起動構成にはauthlib-injectorエージェントがないため、ゲームはそのサーバーに接続できず、スキンを読み込んだり、オンラインモードのサーバーに参加したりできません。
+
+今すぐこの起動構成にエージェントをインストールしますか？</translation>
     </message>
     <message>
         <source>Install authlib-injector</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injectorをインストール</translation>
     </message>
     <message>
         <source>Kill Minecraft?</source>
@@ -6785,13 +6796,15 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>authlib-injector points at another server</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injectorが別のサーバーを参照しています</translation>
     </message>
     <message>
         <source>The authlib-injector agent in this instance sends the game&apos;s authentication to %1, but this account signs in through %2. Skins and online-mode servers will not work until the agent is reinstalled for the current account.
 
 Reinstall it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成のauthlib-injectorエージェントはゲームの認証を%1に送信しますが、このアカウントは%2経由でサインインしています。現在のアカウント用にエージェントを再インストールするまで、スキンとオンラインモードのサーバーは機能しません。
+
+今すぐ再インストールしますか？</translation>
     </message>
 </context>
 <context>
@@ -6816,11 +6829,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Diagnosis: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>診断: %1</translation>
     </message>
     <message>
         <source>Suggestion: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>対処法: %1</translation>
     </message>
 </context>
 <context>
@@ -6847,7 +6860,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Mojang refused this build&apos;s application ID, so it cannot sign in to Minecraft. The registration is either not approved or no longer approved; see https://aka.ms/AppRegInfo. Third-party server accounts still work.</source>
-        <translation type="unfinished"></translation>
+        <translation>MojangがこのビルドのアプリケーションIDを拒否したため、Minecraftにサインインできません。登録が承認されていないか、承認が取り消されています。https://aka.ms/AppRegInfo を参照してください。サードパーティサーバーのアカウントは引き続き使用できます。</translation>
     </message>
 </context>
 <context>
@@ -6935,7 +6948,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Every </source>
-        <translation> </translation>
+        <translation>毎 </translation>
     </message>
     <message>
         <source>&amp;Auto Java Download:</source>
@@ -7083,19 +7096,19 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Auto Downloaded Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>自動ダウンロードしたJava(&amp;A):</translation>
     </message>
     <message>
         <source>Instance &amp;Icons:</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成のアイコン(&amp;I):</translation>
     </message>
     <message>
         <source>&amp;Mods (Quick Access):</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod (クイックアクセス)(&amp;M):</translation>
     </message>
     <message>
         <source>Additional Instance Folders</source>
-        <translation type="unfinished"></translation>
+        <translation>追加の起動構成フォルダ</translation>
     </message>
     <message>
         <source>When enabled, in addition to the downloads folder, its sub folders will also be searched when looking for resources (e.g. when looking for blocked mods on CurseForge).</source>
@@ -7193,15 +7206,15 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Opens the edit instance window on double-clicking an instance instead of running the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成をダブルクリックしたときに、起動する代わりに編集ウィンドウを開きます。</translation>
     </message>
     <message>
         <source>&amp;Open Edit window on instance double-click</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成のダブルクリックで編集ウィンドウを開く(&amp;O)</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>追加</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -7245,24 +7258,24 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Select the preferred release channel when checking for mod updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Modのアップデートを確認するときに使用するリリースチャンネルを選択します。</translation>
     </message>
     <message>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Modアップデートチャンネル:</translation>
     </message>
     <message>
         <source>All (Release, Beta, Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて (正式リリース、ベータ、アルファ)</translation>
     </message>
     <message>
         <source>Release only</source>
-        <translation type="unfinished"></translation>
+        <translation>正式リリースのみ</translation>
     </message>
     <message>
         <source>Release and Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>正式リリースとベータ</translation>
     </message>
     <message>
         <source>Instance Creation</source>
@@ -7350,19 +7363,19 @@ Flatsealを使用して%1へのアクセスを取得することを推奨しま�
     </message>
     <message>
         <source>Additional Instance Folder</source>
-        <translation type="unfinished"></translation>
+        <translation>追加の起動構成フォルダ</translation>
     </message>
     <message>
         <source>Duplicate directory</source>
-        <translation type="unfinished"></translation>
+        <translation>ディレクトリが重複しています</translation>
     </message>
     <message>
         <source>This is already your primary instance directory.</source>
-        <translation type="unfinished"></translation>
+        <translation>これはすでにメインの起動構成ディレクトリです。</translation>
     </message>
     <message>
         <source>This directory has already been added.</source>
-        <translation type="unfinished"></translation>
+        <translation>このディレクトリはすでに追加されています。</translation>
     </message>
     <message>
         <source>Icons Folder</source>
@@ -7897,7 +7910,7 @@ Reason:
     </message>
     <message>
         <source>Add a Microsoft account here, or skip this step and add an account later under Settings - Accounts.</source>
-        <translation type="unfinished"></translation>
+        <translation>ここでMicrosoftアカウントを追加するか、この手順をスキップして、後から「設定」の「アカウント」ページで追加できます。</translation>
     </message>
     <message>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
@@ -7916,19 +7929,19 @@ Reason:
     </message>
     <message>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>出力ファイルを開けませんでした: %1</translation>
     </message>
     <message>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を追加できませんでした: %2</translation>
     </message>
     <message>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 の読み取りと圧縮ができませんでした: %2</translation>
     </message>
     <message>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>出力ファイルを閉じられませんでした: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -7967,7 +7980,7 @@ Reason:
     </message>
     <message>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイル %1 を %2 に展開できませんでした: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
@@ -8026,7 +8039,7 @@ Reason:
     </message>
     <message>
         <source>The sign-in code expired before it was used. Sign in again to get a new one.</source>
-        <translation type="unfinished"></translation>
+        <translation>サインインコードが使用される前に有効期限が切れました。もう一度サインインして、新しいコードを取得してください。</translation>
     </message>
 </context>
 <context>
@@ -8093,7 +8106,7 @@ Reason:
     </message>
     <message>
         <source>Microsoft refused the application ID this build uses, not your account. That means the registration is misconfigured, or it no longer has access to the Minecraft services API. Third-party server accounts are unaffected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoftが拒否したのは、このビルドが使用するアプリケーションIDであり、あなたのアカウントではありません。登録の設定が誤っているか、MinecraftサービスAPIへのアクセス権がなくなっています。サードパーティサーバーのアカウントは影響を受けません。</translation>
     </message>
 </context>
 <context>
@@ -8147,7 +8160,7 @@ Reason:
     </message>
     <message>
         <source>Pick one on the left to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>左側から1つ選択して開始してください。</translation>
     </message>
 </context>
 <context>
@@ -8208,27 +8221,27 @@ Reason:
     </message>
     <message>
         <source>I&amp;nstances</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成(&amp;N)</translation>
     </message>
     <message>
         <source>Launcher &amp;Data</source>
-        <translation type="unfinished"></translation>
+        <translation>ランチャーのデータ(&amp;D)</translation>
     </message>
     <message>
         <source>&amp;Mods (Quick Access)</source>
-        <translation type="unfinished"></translation>
+        <translation>Mod (クイックアクセス)(&amp;M)</translation>
     </message>
     <message>
         <source>Open the mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルブラウザでModフォルダを開きます。</translation>
     </message>
     <message>
         <source>Instance &amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成のアイコン(&amp;I)</translation>
     </message>
     <message>
         <source>Launcher &amp;Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>ランチャーのログ(&amp;L)</translation>
     </message>
     <message>
         <source>Folders</source>
@@ -8483,15 +8496,15 @@ Reason:
     </message>
     <message>
         <source>I&amp;con Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>アイコンテーマ(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>猫パック(&amp;C)</translation>
     </message>
     <message>
         <source>&amp;Auto Downloaded Java</source>
-        <translation type="unfinished"></translation>
+        <translation>自動ダウンロードしたJava(&amp;A)</translation>
     </message>
     <message>
         <source>Mod List</source>
@@ -9033,21 +9046,23 @@ Do you wish to proceed?</source>
     </message>
     <message>
         <source>%1 (offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (オフライン)</translation>
     </message>
     <message>
         <source>No account</source>
-        <translation type="unfinished"></translation>
+        <translation>アカウントなし</translation>
     </message>
     <message>
         <source>Komorebi accounts…</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebiアカウント…</translation>
     </message>
     <message>
         <source>Unsupported Modrinth link.
 
 Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
-        <translation type="unfinished"></translation>
+        <translation>対応していないModrinthリンクです。
+
+Komorebi Launcherは現在、modrinth://modpack/fabulously-optimized のようなModパックのリンクにのみ対応しています。</translation>
     </message>
     <message>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
@@ -9205,7 +9220,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Instances (core preview)</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成 (コアプレビュー)</translation>
     </message>
 </context>
 <context>
@@ -9352,7 +9367,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Modパックを新しいバージョンに更新しようとしています。
+起動構成のファイルに元に戻せない変更が加えられる可能性があります。
+そのため、起動構成のバックアップコピーを作成することを強くおすすめします。
+
+本当によろしいですか？</translation>
     </message>
     <message>
         <source>Confirm Update</source>
@@ -9364,7 +9383,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>Modパックをバージョン「%1」に更新しようとしています。
+起動構成のファイルに元に戻せない変更が加えられる可能性があります。
+そのため、起動構成のバックアップコピーを作成することを強くおすすめします。
+
+本当によろしいですか？</translation>
     </message>
 </context>
 <context>
@@ -9378,7 +9401,7 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
+        <translation>サーバーが不正なステータスパケットを通知しました (%1 バイト)</translation>
     </message>
 </context>
 <context>
@@ -9412,79 +9435,79 @@ Are you sure?</source>
     <name>MicrosoftAuth</name>
     <message>
         <source>no Microsoft app id is configured</source>
-        <translation type="unfinished"></translation>
+        <translation>MicrosoftのアプリIDが設定されていません</translation>
     </message>
     <message>
         <source>Microsoft would not start a sign-in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoftがサインインを開始できませんでした: %1</translation>
     </message>
     <message>
         <source>Microsoft returned no device code</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoftからデバイスコードが返されませんでした</translation>
     </message>
     <message>
         <source>sign-in failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>サインインに失敗しました: %1</translation>
     </message>
     <message>
         <source>Microsoft returned no access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoftからアクセストークンが返されませんでした</translation>
     </message>
     <message>
         <source>there is no refresh token to use</source>
-        <translation type="unfinished"></translation>
+        <translation>使用できるリフレッシュトークンがありません</translation>
     </message>
     <message>
         <source>the sign-in could not be renewed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>サインインを更新できませんでした: %1</translation>
     </message>
     <message>
         <source>Xbox Live refused the sign-in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Liveがサインインを拒否しました: %1</translation>
     </message>
     <message>
         <source>Xbox Live returned no token</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Liveからトークンが返されませんでした</translation>
     </message>
     <message>
         <source>this Microsoft account has no Xbox profile yet; sign in to Xbox once</source>
-        <translation type="unfinished"></translation>
+        <translation>このMicrosoftアカウントにはまだXboxプロファイルがありません。一度Xboxにサインインしてください</translation>
     </message>
     <message>
         <source>this account is a child account and needs a family group</source>
-        <translation type="unfinished"></translation>
+        <translation>このアカウントは子供用アカウントであり、ファミリーグループが必要です</translation>
     </message>
     <message>
         <source>XSTS refused the sign-in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XSTSがサインインを拒否しました: %1</translation>
     </message>
     <message>
         <source>XSTS returned no token</source>
-        <translation type="unfinished"></translation>
+        <translation>XSTSからトークンが返されませんでした</translation>
     </message>
     <message>
         <source>Minecraft services refused this account</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftサービスがこのアカウントを拒否しました</translation>
     </message>
     <message>
         <source>Minecraft services refused the sign-in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftサービスがサインインを拒否しました: %1</translation>
     </message>
     <message>
         <source>Minecraft services returned no access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftサービスからアクセストークンが返されませんでした</translation>
     </message>
     <message>
         <source>this account does not own Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>このアカウントはMinecraftを所有していません</translation>
     </message>
     <message>
         <source>the Minecraft profile could not be read: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftプロファイルを読み取れませんでした: %1</translation>
     </message>
     <message>
         <source>the Minecraft profile came back without a name</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftプロファイルに名前が含まれていませんでした</translation>
     </message>
 </context>
 <context>
@@ -9529,7 +9552,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Launch &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>別のアカウントで起動(&amp;A)</translation>
     </message>
     <message>
         <source>Profilers</source>
@@ -9549,15 +9572,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>読み込み前</translation>
     </message>
     <message>
         <source>Pre-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>起動前</translation>
     </message>
     <message>
         <source>Post-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>起動後</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -10023,7 +10046,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>&amp;Count time playing this instance into total time played</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成のプレイ時間を合計プレイ時間に含める(&amp;C)</translation>
     </message>
     <message>
         <source>Override &amp;Default Account</source>
@@ -10083,7 +10106,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Always use the latest minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>常に最新のMinecraftバージョンを使用する</translation>
     </message>
     <message>
         <source>Release</source>
@@ -10091,7 +10114,7 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>すべて</translation>
     </message>
     <message>
         <source>&amp;GLFW library path:</source>
@@ -10103,11 +10126,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Use system installation of SDL</source>
-        <translation type="unfinished"></translation>
+        <translation>システムにインストールされたSDLを使用する</translation>
     </message>
     <message>
         <source>&amp;SDL library path:</source>
-        <translation type="unfinished"></translation>
+        <translation>SDLライブラリのパス(&amp;S):</translation>
     </message>
     <message>
         <source>&amp;Performance</source>
@@ -10217,11 +10240,11 @@ It is most likely you will need to change the path - please refer to the mod&apo
     <name>MirrorListEditor</name>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>上へ</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>下へ</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -10229,15 +10252,15 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>https://example.com/maven</source>
-        <translation type="unfinished"></translation>
+        <translation>https://example.com/maven</translation>
     </message>
     <message>
         <source>Add</source>
-        <translation type="unfinished"></translation>
+        <translation>追加</translation>
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>使用できるhttp(s)アドレスではありません: この項目は無視されます。</translation>
     </message>
 </context>
 <context>
@@ -10379,67 +10402,67 @@ It is most likely you will need to change the path - please refer to the mod&apo
     </message>
     <message>
         <source>Advanced exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>詳細な除外設定</translation>
     </message>
     <message>
         <source>AI content</source>
-        <translation type="unfinished"></translation>
+        <translation>AIコンテンツ</translation>
     </message>
     <message>
         <source>AI content (code)</source>
-        <translation type="unfinished"></translation>
+        <translation>AIコンテンツ (コード)</translation>
     </message>
     <message>
         <source>AI content (assets)</source>
-        <translation type="unfinished"></translation>
+        <translation>AIコンテンツ (アセット)</translation>
     </message>
     <message>
         <source>AI content (text)</source>
-        <translation type="unfinished"></translation>
+        <translation>AIコンテンツ (テキスト)</translation>
     </message>
     <message>
         <source>AI content (functionality)</source>
-        <translation type="unfinished"></translation>
+        <translation>AIコンテンツ (機能)</translation>
     </message>
     <message>
         <source>Advertisements</source>
-        <translation type="unfinished"></translation>
+        <translation>広告</translation>
     </message>
     <message>
         <source>Epilepsy triggers</source>
-        <translation type="unfinished"></translation>
+        <translation>てんかん発作の誘発</translation>
     </message>
     <message>
         <source>System interactions</source>
-        <translation type="unfinished"></translation>
+        <translation>システムとの連携</translation>
     </message>
     <message>
         <source>Telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>テレメトリー</translation>
     </message>
     <message>
         <source>Telemetry (opt-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>テレメトリー (オプトイン)</translation>
     </message>
     <message>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished"></translation>
+        <translation>テレメトリー (オプトアウト)</translation>
     </message>
     <message>
         <source>Telemetry (always active)</source>
-        <translation type="unfinished"></translation>
+        <translation>テレメトリー (常に有効)</translation>
     </message>
     <message>
         <source>Derivative work</source>
-        <translation type="unfinished"></translation>
+        <translation>二次的著作物</translation>
     </message>
     <message>
         <source>Paid features</source>
-        <translation type="unfinished"></translation>
+        <translation>有料機能</translation>
     </message>
     <message>
         <source>Archived</source>
-        <translation type="unfinished"></translation>
+        <translation>アーカイブ済み</translation>
     </message>
     <message>
         <source>All Versions</source>
@@ -10573,7 +10596,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>このModは更新すべきでしょうか？</translation>
     </message>
     <message>
         <source>Confirm toggle</source>
@@ -10595,7 +10618,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>The following mods will be enabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>以下のModが有効になります:</translation>
     </message>
     <message numerus="yes">
         <source>%n mod(s) will be disabled
@@ -10607,7 +10630,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
     </message>
     <message>
         <source>The following mods will be disabled:</source>
-        <translation type="unfinished"></translation>
+        <translation>以下のModが無効になります:</translation>
     </message>
     <message>
         <source>Do you want to automatically apply these related changes?
@@ -10905,13 +10928,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Confirm Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>バージョン変更の確認</translation>
     </message>
     <message>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームの実行中にModのバージョンを変更すると、Modの重複やゲームのクラッシュが発生する可能性があります。
+古いファイルは使用中のため削除されない場合があります。
+本当に実行しますか？</translation>
     </message>
     <message>
         <source>Missing Mod Loader</source>
@@ -10935,15 +10960,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Check for Updates (Release only)</source>
-        <translation type="unfinished"></translation>
+        <translation>アップデートを確認 (正式リリースのみ)</translation>
     </message>
     <message>
         <source>Check for Updates (Release and Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>アップデートを確認 (正式リリースとベータ)</translation>
     </message>
     <message>
         <source>Check for Updates (Release, Beta and Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>アップデートを確認 (正式リリース、ベータ、アルファ)</translation>
     </message>
     <message>
         <source>Change a mod&apos;s version.</source>
@@ -10975,7 +11000,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>The following mods depend on the mod(s) you want to remove:</source>
-        <translation type="unfinished"></translation>
+        <translation>削除しようとしているModに依存しているModは次のとおりです:</translation>
     </message>
     <message>
         <source>All mods are up-to-date! :)</source>
@@ -10999,7 +11024,7 @@ Do you want to disable them?</source>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>カスタムMinecraft jarファイルの作成に失敗しました: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
@@ -11624,15 +11649,15 @@ Please update %1!</source>
     <message>
         <source>0 B/s</source>
         <extracomment>Download speed at 0 bytes per second</extracomment>
-        <translation type="unfinished"></translation>
+        <translation>0 B/s</translation>
     </message>
     <message>
         <source>Too many redirects</source>
-        <translation type="unfinished"></translation>
+        <translation>リダイレクトが多すぎます</translation>
     </message>
     <message>
         <source>Retrying from a different source</source>
-        <translation type="unfinished"></translation>
+        <translation>別のソースから再試行しています</translation>
     </message>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
@@ -11743,7 +11768,7 @@ Please update %1!</source>
     </message>
     <message>
         <source>&amp;Location:</source>
-        <translation type="unfinished"></translation>
+        <translation>場所(&amp;L):</translation>
     </message>
     <message>
         <source>&amp;Group:</source>
@@ -11771,15 +11796,15 @@ Please update %1!</source>
     </message>
     <message>
         <source>Directory unavailable</source>
-        <translation type="unfinished"></translation>
+        <translation>ディレクトリを利用できません</translation>
     </message>
     <message>
         <source>The instance directory &quot;%1&quot; is no longer accessible. Please choose another location.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成ディレクトリ「%1」にアクセスできなくなりました。別の場所を選択してください。</translation>
     </message>
     <message>
         <source>Default (%1)</source>
-        <translation type="unfinished"></translation>
+        <translation>デフォルト (%1)</translation>
     </message>
 </context>
 <context>
@@ -11899,169 +11924,169 @@ Please update %1!</source>
     <name>OptiFine::InstallTask</name>
     <message>
         <source>Could not create a temporary directory for the OptiFine installer.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineインストーラー用の一時ディレクトリを作成できませんでした。</translation>
     </message>
     <message>
         <source>Could not create the profile file the OptiFine installer needs.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineインストーラーが必要とするプロファイルファイルを作成できませんでした。</translation>
     </message>
     <message>
         <source>Could not download %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 をダウンロードできませんでした: %2</translation>
     </message>
     <message>
         <source>Trying again to download %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 のダウンロードを再試行しています: %2</translation>
     </message>
     <message>
         <source>Looking up Minecraft %1</source>
         <comment>Finding the version OptiFine patches</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1 を検索中</translation>
     </message>
     <message>
         <source>Minecraft %1 was not found in the version manifest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1 がバージョンマニフェストに見つかりませんでした。</translation>
     </message>
     <message>
         <source>the version manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>バージョンマニフェスト</translation>
     </message>
     <message>
         <source>Downloading the Minecraft %1 metadata</source>
         <comment>The version OptiFine patches</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1 のメタデータをダウンロード中</translation>
     </message>
     <message>
         <source>Could not write the version metadata the installer needs.</source>
-        <translation type="unfinished"></translation>
+        <translation>インストーラーが必要とするバージョンメタデータを書き込めませんでした。</translation>
     </message>
     <message>
         <source>The version metadata has no client download.</source>
-        <translation type="unfinished"></translation>
+        <translation>バージョンメタデータにクライアントのダウンロード情報がありません。</translation>
     </message>
     <message>
         <source>the version metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>バージョンメタデータ</translation>
     </message>
     <message>
         <source>Downloading the Minecraft %1 client</source>
         <comment>The version OptiFine patches</comment>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1 のクライアントをダウンロード中</translation>
     </message>
     <message>
         <source>the client jar</source>
-        <translation type="unfinished"></translation>
+        <translation>クライアントjar</translation>
     </message>
     <message>
         <source>Downloading OptiFine %1</source>
         <comment>The build being installed</comment>
-        <translation type="unfinished"></translation>
+        <translation>OptiFine %1 をダウンロード中</translation>
     </message>
     <message>
         <source>OptiFine</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFine</translation>
     </message>
     <message>
         <source>Looking for a Java runtime to run the installer with</source>
-        <translation type="unfinished"></translation>
+        <translation>インストーラーの実行に使用するJavaランタイムを検索中</translation>
     </message>
     <message>
         <source>Could not start looking for a Java runtime to run the installer with.</source>
-        <translation type="unfinished"></translation>
+        <translation>インストーラーの実行に使用するJavaランタイムの検索を開始できませんでした。</translation>
     </message>
     <message>
         <source>OptiFine needs a Java runtime to install. Launch this instance once so the launcher downloads one, or set a Java path in its settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineのインストールにはJavaランタイムが必要です。この起動構成を一度起動してランチャーにダウンロードさせるか、起動構成の設定でJavaのパスを設定してください。</translation>
     </message>
     <message>
         <source>Running the OptiFine installer</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineインストーラーを実行中</translation>
     </message>
     <message>
         <source>The OptiFine runner jar is missing from this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>このビルドにはOptiFineランナーのjarが含まれていません。</translation>
     </message>
     <message>
         <source>Could not start Java to run the OptiFine installer.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineインストーラーを実行するためにJavaを起動できませんでした。</translation>
     </message>
     <message>
         <source>The OptiFine installer did not produce %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineインストーラーが%1を生成しませんでした。</translation>
     </message>
     <message>
         <source>Could not read the version json produced by the installer.</source>
-        <translation type="unfinished"></translation>
+        <translation>インストーラーが生成したバージョンjsonを読み取れませんでした。</translation>
     </message>
     <message>
         <source>The installer produced a version json that could not be parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation>インストーラーが解析できないバージョンjsonを生成しました。</translation>
     </message>
     <message>
         <source>Could not replace the %1 already in the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成内に既にある%1を置き換えられませんでした。</translation>
     </message>
     <message>
         <source>Could not copy %1 into the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1を起動構成にコピーできませんでした。</translation>
     </message>
     <message>
         <source>Could not read back the copied %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>コピーした%1を読み戻せませんでした。</translation>
     </message>
     <message>
         <source>The OptiFine installer did not extract anything.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineインストーラーは何も展開しませんでした。</translation>
     </message>
     <message>
         <source>Could not write the OptiFine component file.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineコンポーネントファイルを書き込めませんでした。</translation>
     </message>
     <message>
         <source>Could not replace the OptiFine component already in this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成に既にあるOptiFineコンポーネントを置き換えられませんでした。</translation>
     </message>
     <message>
         <source>Could not add the OptiFine component to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成にOptiFineコンポーネントを追加できませんでした。</translation>
     </message>
 </context>
 <context>
     <name>OptiFine::ListTask</name>
     <message>
         <source>Loading the OptiFine build list</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineのビルド一覧を読み込み中</translation>
     </message>
     <message>
         <source>OptiFine&apos;s builds are only published on the download mirror, but no mirror address is set. Add one in Settings &gt; APIs, or restore the default.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineのビルドはダウンロードミラーでのみ公開されていますが、ミラーのアドレスが設定されていません。「設定」の「API」ページで追加するか、デフォルトに戻してください。</translation>
     </message>
     <message>
         <source>Could not load the OptiFine build list: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineのビルド一覧を読み込めませんでした: %1</translation>
     </message>
     <message>
         <source>The mirror has no OptiFine build for Minecraft %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ミラーにMinecraft %1 用のOptiFineビルドがありません。</translation>
     </message>
 </context>
 <context>
     <name>OptiFineInstallDialog</name>
     <message>
         <source>Install OptiFine for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1 用のOptiFineをインストール</translation>
     </message>
     <message>
         <source>Choose an OptiFine build:</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineのビルドを選択:</translation>
     </message>
     <message>
         <source>preview</source>
-        <translation type="unfinished"></translation>
+        <translation>プレビュー</translation>
     </message>
     <message>
         <source>Installer note: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>インストーラーからの注意: %1</translation>
     </message>
     <message>
         <source>Install</source>
@@ -12741,7 +12766,7 @@ The updater cannot continue until you fix this problem.</source>
     </message>
     <message>
         <source>Could not read manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>マニフェストを読み取れませんでした: %1</translation>
     </message>
     <message>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
@@ -12855,7 +12880,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Failed to write changelog: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>更新履歴を書き込めませんでした: %1</translation>
     </message>
     <message>
         <source>Updating from %1 to %2</source>
@@ -13075,7 +13100,7 @@ HTTPステータス: %2</translation>
     </message>
     <message>
         <source>Abort</source>
-        <translation type="unfinished"></translation>
+        <translation>中止</translation>
     </message>
 </context>
 <context>
@@ -13233,7 +13258,7 @@ HTTPステータス: %2</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成が選択されていません</translation>
     </message>
     <message>
         <source>Confirm Upload</source>
@@ -13361,7 +13386,7 @@ Error message: %1</source>
     </message>
     <message>
         <source>Couldn&apos;t parse file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ファイルを解析できませんでした: %1</translation>
     </message>
     <message>
         <source>Invalid component file version, expected %1</source>
@@ -14044,7 +14069,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Unknown paste type</source>
-        <translation type="unfinished"></translation>
+        <translation>不明なペーストの種類</translation>
     </message>
     <message>
         <source>Invalid path to VisualVM</source>
@@ -14118,99 +14143,99 @@ Error message: %3</source>
     </message>
     <message>
         <source>Choose a character</source>
-        <translation type="unfinished"></translation>
+        <translation>キャラクターを選択</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
-        <translation type="unfinished"></translation>
+        <translation>このアカウントは複数のキャラクターでプレイできます。ランチャーはどれを使用しますか？</translation>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>komorebilauncherで使用するWindows向けのMKLINKバッチプログラム</translation>
     </message>
     <message>
         <source>Skipped a pack entry with no download source: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ダウンロード元がないパックの項目をスキップしました: %1</translation>
     </message>
     <message>
         <source>The MCBBS manifest is not valid JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MCBBSのマニフェストが有効なJSONではありません: %1</translation>
     </message>
     <message>
         <source>The manifest declares the type &quot;%1&quot;, not minecraftModpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>マニフェストの種類が「%1」であり、minecraftModpackではありません。</translation>
     </message>
     <message>
         <source>Imported pack</source>
-        <translation type="unfinished"></translation>
+        <translation>インポートしたパック</translation>
     </message>
     <message>
         <source>The MCBBS manifest does not name a Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCBBSのマニフェストにMinecraftのバージョンが記載されていません。</translation>
     </message>
     <message>
         <source>The HMCL modpack manifest is not valid JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>HMCLのModパックのマニフェストが有効なJSONではありません: %1</translation>
     </message>
     <message>
         <source>minecraft/pack.json could not be read; the game version will be taken from the pack contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>minecraft/pack.json を読み取れませんでした。ゲームのバージョンはパックの内容から取得します。</translation>
     </message>
     <message>
         <source>Could not start the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>起動構成を起動できませんでした</translation>
     </message>
     <message>
         <source>could not create the folder for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 用のフォルダを作成できませんでした</translation>
     </message>
     <message>
         <source>could not open %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を開けませんでした: %2</translation>
     </message>
     <message>
         <source>could not write %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を書き込めませんでした: %2</translation>
     </message>
     <message>
         <source>could not create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 を作成できませんでした</translation>
     </message>
     <message>
         <source>the natives jar %1 is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>ネイティブjar %1 がありません</translation>
     </message>
     <message>
         <source>The game exited with code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>ゲームがコード %1 で終了しました。</translation>
     </message>
     <message>
         <source>Diagnosis: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>診断: %1</translation>
     </message>
     <message>
         <source>Suggestion: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>対処法: %1</translation>
     </message>
     <message>
         <source>Renewing the Komorebi account&apos;s sign-in…</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebiアカウントのサインインを更新中…</translation>
     </message>
     <message>
         <source>The Komorebi account&apos;s sign-in has expired (%1); sign in again from the accounts menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebiアカウントのサインインの有効期限が切れました (%1)。アカウントメニューから再度サインインしてください。</translation>
     </message>
     <message>
         <source>the Java this instance names does not exist: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成で指定されたJavaが存在しません: %1</translation>
     </message>
     <message>
         <source>no Java %1 was found on this machine</source>
-        <translation type="unfinished"></translation>
+        <translation>このマシンにJava %1 が見つかりませんでした</translation>
     </message>
     <message>
         <source>None (vanilla)</source>
-        <translation type="unfinished"></translation>
+        <translation>なし (バニラ)</translation>
     </message>
     <message>
         <source>Fabric</source>
@@ -14218,7 +14243,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>leave empty for the newest</source>
-        <translation type="unfinished"></translation>
+        <translation>空欄の場合は最新が使用されます</translation>
     </message>
     <message>
         <source>Quilt</source>
@@ -14230,7 +14255,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>required, for example 47.4.0</source>
-        <translation type="unfinished"></translation>
+        <translation>必須 (例: 47.4.0)</translation>
     </message>
     <message>
         <source>NeoForge</source>
@@ -14501,7 +14526,7 @@ Please update %1!</source>
     <message>
         <source> [selected]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [選択中]</translation>
     </message>
     <message>
         <source>Loading versions...</source>
@@ -14676,7 +14701,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>The version of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>リソースのバージョン。</translation>
     </message>
     <message>
         <source>The date and time this resource was last changed (or added).</source>
@@ -14696,7 +14721,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>このModは更新すべきでしょうか？</translation>
     </message>
     <message>
         <source>Override Columns Visibility</source>
@@ -14755,7 +14780,7 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>このModは更新すべきでしょうか？</translation>
     </message>
     <message>
         <source>Unrecognized</source>
@@ -15002,7 +15027,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Disable unavailable mods</source>
-        <translation type="unfinished"></translation>
+        <translation>利用できないModを無効化</translation>
     </message>
     <message>
         <source>Checking for dependencies...</source>
@@ -15123,7 +15148,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Resources</source>
-        <translation type="unfinished"></translation>
+        <translation>リソース</translation>
     </message>
     <message>
         <source>Toggle Dependencies</source>
@@ -15274,34 +15299,41 @@ Are you sure?</source>
     </message>
     <message>
         <source>ImgBB API key</source>
-        <translation type="unfinished"></translation>
+        <translation>ImgBB APIキー</translation>
     </message>
     <message>
         <source>Uploading screenshots uses ImgBB and needs an API key from your own account.
 Get one at https://api.imgbb.com/ and paste it here. It is stored on this computer only.</source>
-        <translation type="unfinished"></translation>
+        <translation>スクリーンショットのアップロードにはImgBBを使用するため、ご自身のアカウントのAPIキーが必要です。
+https://api.imgbb.com/ で取得して、ここに貼り付けてください。キーはこのコンピューターにのみ保存されます。</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to ImgBB.
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>%1枚のスクリーンショットをImgBBにアップロードしようとしています。
+個人情報が含まれていないか、よく確認してください。
+
+本当にアップロードしますか？</translation>
     </message>
     <message>
         <source>You are about to upload the selected screenshot to ImgBB.
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したスクリーンショットをImgBBにアップロードしようとしています。
+個人情報が含まれていないか、よく確認してください。
+
+本当にアップロードしますか？</translation>
     </message>
     <message>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;a href=&quot;%1&quot;&gt;アップロードされたスクリーンショットへのリンク&lt;/a&gt;をクリップボードに保存しました。</translation>
     </message>
     <message>
         <source>%1 links have been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1件のリンクをクリップボードに保存しました。</translation>
     </message>
 </context>
 <context>
@@ -15380,7 +15412,7 @@ Currently installed version: %1</source>
     <name>ServerPingTask</name>
     <message>
         <source>The server did not answer within %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>サーバーが %1 秒以内に応答しませんでした</translation>
     </message>
 </context>
 <context>
@@ -15395,7 +15427,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Players</source>
-        <translation type="unfinished"></translation>
+        <translation>プレイヤー</translation>
     </message>
     <message>
         <source>Version</source>
@@ -15403,7 +15435,7 @@ Currently installed version: %1</source>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="unfinished"></translation>
+        <translation>Ping</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -15484,7 +15516,9 @@ Currently installed version: %1</source>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>選択した%1個のサーバーを削除しようとしています。この操作は元に戻せず、サーバーはリストから完全に削除されます。
+
+本当に削除しますか？</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -16022,7 +16056,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modパックの展開に失敗しました: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -16083,7 +16117,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Modパックの展開に失敗しました: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -16114,11 +16148,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>「bin/modpack.jar」ファイルを開けません: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>「fmlversion.properties」を開けません: %1</translation>
     </message>
     <message>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
@@ -16127,7 +16161,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>「forgeversion.properties」を開けません: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
@@ -16242,7 +16276,7 @@ inheritsFromがありません</translation>
     </message>
     <message>
         <source>Should this mod be updated?</source>
-        <translation type="unfinished"></translation>
+        <translation>このModは更新すべきでしょうか？</translation>
     </message>
     <message>
         <source>
@@ -16486,19 +16520,19 @@ Are you sure?</source>
     <name>UntrustedModsDialog</name>
     <message>
         <source>Easy There!</source>
-        <translation type="unfinished"></translation>
+        <translation>おっと、待ってください！</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;The modpack you are installing includes mods which are not hosted on Modrinth or CurseForge:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;インストールしようとしているModパックには、ModrinthやCurseForgeでホストされていないModが含まれています:&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;Malicious mods are often distributed through links sent on platforms such as Discord.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;We strongly recommend only importing modpacks from trusted sources.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation type="unfinished"></translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;&lt;b&gt;悪意のあるModは、Discordなどのプラットフォームで送信されるリンクを介して配布されることがよくあります。&lt;/b&gt;&lt;/p&gt;&lt;p&gt;信頼できる提供元のModパックのみをインポートすることを強くおすすめします。&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>I trust this modpack and wish to proceed regardless</source>
-        <translation type="unfinished"></translation>
+        <translation>このModパックを信頼し、そのまま続行します</translation>
     </message>
 </context>
 <context>
@@ -16919,19 +16953,19 @@ Please switch to one of the following Java versions for this instance:</source>
     </message>
     <message>
         <source>Install OptiFine</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineをインストール</translation>
     </message>
     <message>
         <source>Install OptiFine for this instance&apos;s Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成のMinecraftバージョン用のOptiFineをインストールします。</translation>
     </message>
     <message>
         <source>Install authlib-injector</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injectorをインストール</translation>
     </message>
     <message>
         <source>Point this instance at a third-party authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>この起動構成をサードパーティの認証サーバーに接続します。</translation>
     </message>
     <message>
         <source>Add an empty custom component.</source>
@@ -17038,11 +17072,12 @@ Are you sure?</source>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account that owns Minecraft, or an account on a third-party authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraftのダウンロードや起動構成のアップデートには、少なくとも1つのアカウントが必要です。
+Minecraftを所有しているMicrosoftアカウント、またはサードパーティ認証サーバーのアカウントを追加してください。</translation>
     </message>
     <message>
         <source>OptiFine can only be installed into an instance that has a Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFineはMinecraftのバージョンが設定されている起動構成にのみインストールできます。</translation>
     </message>
     <message>
         <source>Install</source>
@@ -17459,7 +17494,7 @@ Canonical Path: %1</source>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
-        <translation type="unfinished"></translation>
+        <translation>選択したワールドで外部ツールを実行します。</translation>
     </message>
     <message>
         <source>Data Packs</source>
@@ -17564,13 +17599,16 @@ Are you sure?</source>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>%n個のワールドを削除しようとしています。
+ワールドは完全に削除され、元に戻せない可能性があります。
+
+本当に削除しますか？</numerusform>
         </translation>
     </message>
     <message>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>ワールドを削除中</translation>
     </message>
     <message>
         <source>Manage Data Packs</source>
@@ -17582,11 +17620,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>No Tools Added</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールが追加されていません</translation>
     </message>
     <message>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>設定を開く</translation>
     </message>
     <message>
         <source>Invalid command</source>
@@ -17594,16 +17632,17 @@ Are you sure?</source>
     </message>
     <message>
         <source>The tool command is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールのコマンドが空です。</translation>
     </message>
     <message>
         <source>Tool failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールの起動に失敗しました！</translation>
     </message>
     <message>
         <source>The tool could not be started.
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>ツールを起動できませんでした。
+エラー: %1</translation>
     </message>
     <message>
         <source>World name</source>
@@ -17815,15 +17854,15 @@ Please set up your account according to %1.</source>
     <name>YggdrasilLoginDialog</name>
     <message>
         <source>Add a third-party account</source>
-        <translation type="unfinished"></translation>
+        <translation>サードパーティのアカウントを追加</translation>
     </message>
     <message>
         <source>Sign in to a server that answers the Yggdrasil API with a username and password. Type the authentication address the server gives its players, and the sign-in path goes below it. Instances that join an online-mode server on that account also need the authlib-injector agent, which this launcher installs on request.</source>
-        <translation type="unfinished"></translation>
+        <translation>ユーザー名とパスワードでYggdrasil APIに応答するサーバーにサインインします。サーバーがプレイヤーに案内している認証アドレスを入力すると、その下にサインイン用のパスが付加されます。そのアカウントでオンラインモードのサーバーに参加する起動構成には、authlib-injectorエージェントも必要です。このランチャーは要求に応じてインストールします。</translation>
     </message>
     <message>
         <source>Authentication server</source>
-        <translation type="unfinished"></translation>
+        <translation>認証サーバー</translation>
     </message>
     <message>
         <source>Username</source>
@@ -17835,7 +17874,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation>サインイン</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -17843,19 +17882,19 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>
-        <translation type="unfinished"></translation>
+        <translation>アドレスには、サーバーが案内するウェブアドレスのみを入力してください。スペースや他の文字は入力できません。</translation>
     </message>
     <message>
         <source>The address has to start with http:// or https://</source>
-        <translation type="unfinished"></translation>
+        <translation>アドレスはhttp://またはhttps://で始まる必要があります</translation>
     </message>
     <message>
         <source>Use https:// for a remote server: the password is sent to it when signing in.</source>
-        <translation type="unfinished"></translation>
+        <translation>リモートサーバーにはhttps://を使用してください。サインイン時にパスワードがサーバーに送信されます。</translation>
     </message>
     <message>
         <source>The address must not contain a user name or password.</source>
-        <translation type="unfinished"></translation>
+        <translation>アドレスにユーザー名やパスワードを含めることはできません。</translation>
     </message>
 </context>
 <context>
@@ -17878,35 +17917,35 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>Logging in to the authentication server</source>
-        <translation type="unfinished"></translation>
+        <translation>認証サーバーにログイン中</translation>
     </message>
     <message>
         <source>Renewing the access token</source>
-        <translation type="unfinished"></translation>
+        <translation>アクセストークンを更新中</translation>
     </message>
     <message>
         <source>Nothing answers sign-in at %1. The address should be the one the server gives its players, without the authserver part on the end.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 ではサインインに応答がありません。アドレスは、サーバーがプレイヤーに案内しているもの（末尾のauthserver部分を除く）を指定してください。</translation>
     </message>
     <message>
         <source>Failed to contact the authentication server: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>認証サーバーへの接続に失敗しました: %1</translation>
     </message>
     <message>
         <source>The authentication server sent an answer that could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>認証サーバーから理解できない応答が返されました。</translation>
     </message>
     <message>
         <source>The authentication server gave no character to play as.</source>
-        <translation type="unfinished"></translation>
+        <translation>認証サーバーから、プレイに使用するキャラクターが返されませんでした。</translation>
     </message>
     <message>
         <source>Got an access token</source>
-        <translation type="unfinished"></translation>
+        <translation>アクセストークンを取得しました</translation>
     </message>
     <message>
         <source>The authentication server address contains a user name or password. Remove it and sign in again.</source>
-        <translation type="unfinished"></translation>
+        <translation>認証サーバーのアドレスにユーザー名またはパスワードが含まれています。削除してから再度サインインしてください。</translation>
     </message>
 </context>
 </TS>

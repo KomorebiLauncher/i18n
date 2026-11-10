@@ -51,43 +51,43 @@
     </message>
     <message>
         <source>Download Mirrors</source>
-        <translation type="unfinished"></translation>
+        <translation>Download Mirrors</translation>
     </message>
     <message>
         <source>Only Mojang&apos;s own download hosts are redirected, and only for files the mirror actually has. Content servers such as Modrinth or CurseForge are never touched.</source>
-        <translation type="unfinished"></translation>
+        <translation>Only Mojang&apos;s own download hosts are redirected, and only for files the mirror actually has. Content servers such as Modrinth or CurseForge are never touched.</translation>
     </message>
     <message>
         <source>Source order</source>
-        <translation type="unfinished"></translation>
+        <translation>Source order</translation>
     </message>
     <message>
         <source>Mirror base URL</source>
-        <translation type="unfinished"></translation>
+        <translation>Mirror base URL</translation>
     </message>
     <message>
         <source>https://bmclapi2.bangbang93.com</source>
-        <translation type="unfinished"></translation>
+        <translation>https://bmclapi2.bangbang93.com</translation>
     </message>
     <message>
         <source>Services mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>Services mirror</translation>
     </message>
     <message>
         <source>Optional verbatim mirror of the metadata server and the translation site. Content mirrors such as BMCLAPI do not carry them, so leave this empty unless the mirror really is a copy of those two.</source>
-        <translation type="unfinished"></translation>
+        <translation>Optional verbatim mirror of the metadata server and the translation site. Content mirrors such as BMCLAPI do not carry them, so leave this empty unless the mirror really is a copy of those two.</translation>
     </message>
     <message>
         <source>Empty unless you have a verbatim mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>Empty unless you have a verbatim mirror</translation>
     </message>
     <message>
         <source>Library mirrors</source>
-        <translation type="unfinished"></translation>
+        <translation>Library mirrors</translation>
     </message>
     <message>
         <source>Tried in order for Mojang libraries, loader libraries and Maven Central, before the mirror base URL above. These mirrors carry that one tree, not the game itself.</source>
-        <translation type="unfinished"></translation>
+        <translation>Tried in order for Mojang libraries, loader libraries and Maven Central, before the mirror base URL above. These mirrors carry that one tree, not the game itself.</translation>
     </message>
     <message>
         <source>Legacy FML Libraries Server</source>
@@ -120,11 +120,11 @@
     </message>
     <message>
         <source>Look blocked mods up on Modrinth</source>
-        <translation type="unfinished"></translation>
+        <translation>Look blocked mods up on Modrinth</translation>
     </message>
     <message>
         <source>CurseForge leaves out the download link when an author does not allow third-party launchers to distribute a file. This option looks the same file up on Modrinth by hash and downloads it from there instead. Off by default.</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge leaves out the download link when an author does not allow third-party launchers to distribute a file. This option looks the same file up on Modrinth by hash and downloads it from there instead. Off by default.</translation>
     </message>
     <message>
         <source>Enable fallback to Modrinth for blocked mods</source>
@@ -231,19 +231,19 @@
     </message>
     <message>
         <source>Official only, no mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>Official only, no mirror</translation>
     </message>
     <message>
         <source>Official first, fall back to the mirror</source>
-        <translation type="unfinished"></translation>
+        <translation>Official first, fall back to the mirror</translation>
     </message>
     <message>
         <source>Mirror first, fall back to the official host</source>
-        <translation type="unfinished"></translation>
+        <translation>Mirror first, fall back to the official host</translation>
     </message>
     <message>
         <source>Mirror only</source>
-        <translation type="unfinished"></translation>
+        <translation>Mirror only</translation>
     </message>
 </context>
 <context>
@@ -324,7 +324,7 @@
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocked path traversal in %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
@@ -469,7 +469,7 @@
     <message>
         <source>Third-party</source>
         <comment>Account type</comment>
-        <translation type="unfinished"></translation>
+        <translation>Third-party</translation>
     </message>
     <message>
         <source>Unknown</source>
@@ -647,7 +647,7 @@
     </message>
     <message>
         <source>Add &amp;Third-Party</source>
-        <translation type="unfinished"></translation>
+        <translation>Add &amp;Third-Party</translation>
     </message>
     <message>
         <source>&amp;Refresh</source>
@@ -771,7 +771,7 @@ Please update both your operating system and PolyMC.</translation>
     </message>
     <message>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;An offline profile is a local name for singleplayer worlds and for servers that allow offline players; it is not a way to use Minecraft without owning it. Add the Microsoft account that owns the game first, then the offline profile.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;An offline profile is a local name for singleplayer worlds and for servers that allow offline players; it is not a way to use Minecraft without owning it. Add the Microsoft account that owns the game first, then the offline profile.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</translation>
     </message>
 </context>
 <context>
@@ -927,23 +927,23 @@ Please update both your operating system and PolyMC.</translation>
     </message>
     <message>
         <source>Background dimming</source>
-        <translation type="unfinished"></translation>
+        <translation>Background dimming</translation>
     </message>
     <message>
         <source>Window layout</source>
-        <translation type="unfinished"></translation>
+        <translation>Window layout</translation>
     </message>
     <message>
         <source>Sidebar</source>
-        <translation type="unfinished"></translation>
+        <translation>Sidebar</translation>
     </message>
     <message>
         <source>Top action bar</source>
-        <translation type="unfinished"></translation>
+        <translation>Top action bar</translation>
     </message>
     <message>
         <source>Icon rail</source>
-        <translation type="unfinished"></translation>
+        <translation>Icon rail</translation>
     </message>
 </context>
 <context>
@@ -1336,66 +1336,66 @@ Some versions of Minecraft may not launch.
     <name>AuthlibInjector::InstallTask</name>
     <message>
         <source>authlib-injector is only published on the download mirror, but no mirror address is set. Add one in Settings &gt; APIs, or restore the default.</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector is only published on the download mirror, but no mirror address is set. Add one in Settings &gt; APIs, or restore the default.</translation>
     </message>
     <message>
         <source>Could not download %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not download %1: %2</translation>
     </message>
     <message>
         <source>Looking up the authlib-injector release</source>
-        <translation type="unfinished"></translation>
+        <translation>Looking up the authlib-injector release</translation>
     </message>
     <message>
         <source>The mirror did not return a usable authlib-injector release.</source>
-        <translation type="unfinished"></translation>
+        <translation>The mirror did not return a usable authlib-injector release.</translation>
     </message>
     <message>
         <source>the release index</source>
-        <translation type="unfinished"></translation>
+        <translation>the release index</translation>
     </message>
     <message>
         <source>Could not work out where the authlib-injector jar belongs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not work out where the authlib-injector jar belongs.</translation>
     </message>
     <message>
         <source>Downloading authlib-injector %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloading authlib-injector %1</translation>
     </message>
     <message>
         <source>authlib-injector</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector</translation>
     </message>
     <message>
         <source>Could not read the downloaded authlib-injector jar.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not read the downloaded authlib-injector jar.</translation>
     </message>
     <message>
         <source>Could not create a temporary directory for the authlib-injector component.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not create a temporary directory for the authlib-injector component.</translation>
     </message>
     <message>
         <source>Could not write the authlib-injector component file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not write the authlib-injector component file.</translation>
     </message>
     <message>
         <source>Could not replace the authlib-injector component already in this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not replace the authlib-injector component already in this instance.</translation>
     </message>
     <message>
         <source>Could not add the authlib-injector component to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not add the authlib-injector component to the instance.</translation>
     </message>
 </context>
 <context>
     <name>AuthlibInjectorDialog</name>
     <message>
         <source>Install authlib-injector</source>
-        <translation type="unfinished"></translation>
+        <translation>Install authlib-injector</translation>
     </message>
     <message>
         <source>The authentication server this instance should use. Once installed, the game sends its login, session and skin requests to that server instead of to Mojang.</source>
-        <translation type="unfinished"></translation>
+        <translation>The authentication server this instance should use. Once installed, the game sends its login, session and skin requests to that server instead of to Mojang.</translation>
     </message>
     <message>
         <source>Install</source>
@@ -1410,11 +1410,11 @@ Some versions of Minecraft may not launch.
     <name>AutoInstallJava</name>
     <message>
         <source>No Java runtime was found inside the instance, using the usual Java resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation>No Java runtime was found inside the instance, using the usual Java resolution.</translation>
     </message>
     <message>
         <source>None of the Java runtimes inside the instance can be used by this version, using the usual Java resolution.</source>
-        <translation type="unfinished"></translation>
+        <translation>None of the Java runtimes inside the instance can be used by this version, using the usual Java resolution.</translation>
     </message>
     <message>
         <source>The automatic Java mechanism detected a 32-bit installation of Java.</source>
@@ -1422,7 +1422,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>A compatible Java was found but excluded by the allowed versions &apos;%1&apos;. Using the default Java path.</source>
-        <translation type="unfinished"></translation>
+        <translation>A compatible Java was found but excluded by the allowed versions &apos;%1&apos;. Using the default Java path.</translation>
     </message>
     <message>
         <source>No compatible Java version was found. Using the default one.</source>
@@ -1438,7 +1438,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>The allowed Java versions &apos;%1&apos; exclude every version this instance can use (%2), so no Java will be downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>The allowed Java versions &apos;%1&apos; exclude every version this instance can use (%2), so no Java will be downloaded.</translation>
     </message>
     <message>
         <source>Compatible Java found at: %1.</source>
@@ -1925,182 +1925,182 @@ Some versions of Minecraft may not launch.
     <name>CoreSettingsPage</name>
     <message>
         <source>Start instances with the new core</source>
-        <translation type="unfinished"></translation>
+        <translation>Start instances with the new core</translation>
     </message>
     <message>
         <source>Create instances with the new wizard</source>
-        <translation type="unfinished"></translation>
+        <translation>Create instances with the new wizard</translation>
     </message>
     <message>
         <source>The core reads the instance&apos;s folder and fetches what the game is missing before starting it. Turning this off falls back to the launcher&apos;s original launch path.</source>
-        <translation type="unfinished"></translation>
+        <translation>The core reads the instance&apos;s folder and fetches what the game is missing before starting it. Turning this off falls back to the launcher&apos;s original launch path.</translation>
     </message>
     <message>
         <source>The wizard asks for a name, a game version and, if wanted, a mod loader, and writes the instance through the core. Turning this off falls back to the launcher&apos;s original dialog.</source>
-        <translation type="unfinished"></translation>
+        <translation>The wizard asks for a name, a game version and, if wanted, a mod loader, and writes the instance through the core. Turning this off falls back to the launcher&apos;s original dialog.</translation>
     </message>
     <message>
         <source>Play as the Komorebi account</source>
-        <translation type="unfinished"></translation>
+        <translation>Play as the Komorebi account</translation>
     </message>
     <message>
         <source>A Komorebi account starts the game through the core&apos;s own Microsoft sign-in. Turning this off, or having no account here, uses the launcher&apos;s original account.</source>
-        <translation type="unfinished"></translation>
+        <translation>A Komorebi account starts the game through the core&apos;s own Microsoft sign-in. Turning this off, or having no account here, uses the launcher&apos;s original account.</translation>
     </message>
     <message>
         <source>Manage accounts…</source>
-        <translation type="unfinished"></translation>
+        <translation>Manage accounts…</translation>
     </message>
     <message>
         <source>Downloads come from</source>
-        <translation type="unfinished"></translation>
+        <translation>Downloads come from</translation>
     </message>
     <message>
         <source>Official uses the addresses the version manifests name. A mirror is used where it has the file, with the original address kept as a fallback.</source>
-        <translation type="unfinished"></translation>
+        <translation>Official uses the addresses the version manifests name. A mirror is used where it has the file, with the original address kept as a fallback.</translation>
     </message>
     <message>
         <source>Komorebi</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebi</translation>
     </message>
 </context>
 <context>
     <name>CrashAnalysis</name>
     <message>
         <source>The game ran out of memory</source>
-        <translation type="unfinished"></translation>
+        <translation>The game ran out of memory</translation>
     </message>
     <message>
         <source>Raise this instance&apos;s maximum allocated memory, and ask less of the heap: lower the render distance, turn off fancy graphics, drop resource packs with large textures. If it still runs out with a lot of headroom, one mod is holding on to memory - take out the most recently added mods first.</source>
-        <translation type="unfinished"></translation>
+        <translation>Raise this instance&apos;s maximum allocated memory, and ask less of the heap: lower the render distance, turn off fancy graphics, drop resource packs with large textures. If it still runs out with a lot of headroom, one mod is holding on to memory - take out the most recently added mods first.</translation>
     </message>
     <message>
         <source>The game ran out of class space</source>
-        <translation type="unfinished"></translation>
+        <translation>The game ran out of class space</translation>
     </message>
     <message>
         <source>Metaspace holds the classes of everything that is loaded, so it fills up with the number of mods rather than the size of the heap. Add -XX:MaxMetaspaceSize=512M to this instance&apos;s Java arguments, or remove mods.</source>
-        <translation type="unfinished"></translation>
+        <translation>Metaspace holds the classes of everything that is loaded, so it fills up with the number of mods rather than the size of the heap. Add -XX:MaxMetaspaceSize=512M to this instance&apos;s Java arguments, or remove mods.</translation>
     </message>
     <message>
         <source>Raise this instance&apos;s maximum allocated memory. If the line above names something other than the heap, it is the mod that asked for the memory, not the amount.</source>
-        <translation type="unfinished"></translation>
+        <translation>Raise this instance&apos;s maximum allocated memory. If the line above names something other than the heap, it is the mod that asked for the memory, not the amount.</translation>
     </message>
     <message>
         <source>The memory requested cannot be given</source>
-        <translation type="unfinished"></translation>
+        <translation>The memory requested cannot be given</translation>
     </message>
     <message>
         <source>The heap this instance asks for is bigger than what this Java can hand over. Lower the maximum memory - the settings page suggests a number for this machine - and check that the Java in use is 64-bit, since a 32-bit one stops being useful somewhere above 1.5 GiB.</source>
-        <translation type="unfinished"></translation>
+        <translation>The heap this instance asks for is bigger than what this Java can hand over. Lower the maximum memory - the settings page suggests a number for this machine - and check that the Java in use is 64-bit, since a 32-bit one stops being useful somewhere above 1.5 GiB.</translation>
     </message>
     <message>
         <source>Something here was compiled for %1, but this instance is launching with %2. Set a newer Java in this instance&apos;s Java settings, or remove the mod that needs it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Something here was compiled for %1, but this instance is launching with %2. Set a newer Java in this instance&apos;s Java settings, or remove the mod that needs it.</translation>
     </message>
     <message>
         <source>a newer Java</source>
-        <translation type="unfinished"></translation>
+        <translation>a newer Java</translation>
     </message>
     <message>
         <source>Java %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Java %1</translation>
     </message>
     <message>
         <source>an older Java</source>
-        <translation type="unfinished"></translation>
+        <translation>an older Java</translation>
     </message>
     <message>
         <source>A mod needs a newer Java than the one in use</source>
-        <translation type="unfinished"></translation>
+        <translation>A mod needs a newer Java than the one in use</translation>
     </message>
     <message>
         <source>A mod failed while it was starting up</source>
-        <translation type="unfinished"></translation>
+        <translation>A mod failed while it was starting up</translation>
     </message>
     <message>
         <source>The line above is the mod that actually failed; the class-not-found line after it is the same mod being asked for again. Scroll to the first ExceptionInInitializerError and take out the mod it names, or update it to a build for this version of the game.</source>
-        <translation type="unfinished"></translation>
+        <translation>The line above is the mod that actually failed; the class-not-found line after it is the same mod being asked for again. Scroll to the first ExceptionInInitializerError and take out the mod it names, or update it to a build for this version of the game.</translation>
     </message>
     <message>
         <source>A mod is missing something it needs</source>
-        <translation type="unfinished"></translation>
+        <translation>A mod is missing something it needs</translation>
     </message>
     <message>
         <source>Install what this line names - usually a library mod that other mods sit on, or a loader new enough for the mods installed. If it is already installed, the version is not the one being asked for: match the number in this line rather than the name.</source>
-        <translation type="unfinished"></translation>
+        <translation>Install what this line names - usually a library mod that other mods sit on, or a loader new enough for the mods installed. If it is already installed, the version is not the one being asked for: match the number in this line rather than the name.</translation>
     </message>
     <message>
         <source>The same mod is installed twice</source>
-        <translation type="unfinished"></translation>
+        <translation>The same mod is installed twice</translation>
     </message>
     <message>
         <source>Search the mods folder for each name listed and keep one file per mod, the newest. Two files with different names can still hold the same mod, which is what happens when a mod bundles a library that is also installed on its own.</source>
-        <translation type="unfinished"></translation>
+        <translation>Search the mods folder for each name listed and keep one file per mod, the newest. Two files with different names can still hold the same mod, which is what happens when a mod bundles a library that is also installed on its own.</translation>
     </message>
     <message>
         <source>The mods installed do not agree with each other</source>
-        <translation type="unfinished"></translation>
+        <translation>The mods installed do not agree with each other</translation>
     </message>
     <message>
         <source>Fabric writes under this line who wants what version, and often a suggested fix. Follow it: change the version of the named mod, or remove it. Guessing which of the two is at fault wastes an hour.</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric writes under this line who wants what version, and often a suggested fix. Follow it: change the version of the named mod, or remove it. Guessing which of the two is at fault wastes an hour.</translation>
     </message>
     <message>
         <source>A mod could not patch the game</source>
-        <translation type="unfinished"></translation>
+        <translation>A mod could not patch the game</translation>
     </message>
     <message>
         <source>A mixin is a mod rewriting the game&apos;s own code while it loads, and it fails when the code it expects is not there. The line names the mod the mixin belongs to - replace it with the build for this exact version of the game and of the loader.</source>
-        <translation type="unfinished"></translation>
+        <translation>A mixin is a mod rewriting the game&apos;s own code while it loads, and it fails when the code it expects is not there. The line names the mod the mixin belongs to - replace it with the build for this exact version of the game and of the loader.</translation>
     </message>
     <message>
         <source>The graphics driver cannot open a window</source>
-        <translation type="unfinished"></translation>
+        <translation>The graphics driver cannot open a window</translation>
     </message>
     <message>
         <source>Update the graphics driver from Intel, AMD or Nvidia&apos;s own site rather than through Windows Update. On a laptop with two GPUs, force the game onto the one that supports OpenGL; through remote desktop there is no OpenGL at all and the game cannot start.</source>
-        <translation type="unfinished"></translation>
+        <translation>Update the graphics driver from Intel, AMD or Nvidia&apos;s own site rather than through Windows Update. On a laptop with two GPUs, force the game onto the one that supports OpenGL; through remote desktop there is no OpenGL at all and the game cannot start.</translation>
     </message>
     <message>
         <source>A native library was not unpacked</source>
-        <translation type="unfinished"></translation>
+        <translation>A native library was not unpacked</translation>
     </message>
     <message>
         <source>The game&apos;s own dll and so files are unpacked into a temporary folder when it starts, and an antivirus or a full disk stops that. Let this launcher and its instance folder through the antivirus, then start again.</source>
-        <translation type="unfinished"></translation>
+        <translation>The game&apos;s own dll and so files are unpacked into a temporary folder when it starts, and an antivirus or a full disk stops that. Let this launcher and its instance folder through the antivirus, then start again.</translation>
     </message>
     <message>
         <source>There is no room left in the texture atlas</source>
-        <translation type="unfinished"></translation>
+        <translation>There is no room left in the texture atlas</translation>
     </message>
     <message>
         <source>Everything the game draws from a texture sheet has to fit in one image. A high resolution resource pack, or a mod adding many custom items, is what overflows it - lower the pack&apos;s resolution or remove the mod that adds the most textures.</source>
-        <translation type="unfinished"></translation>
+        <translation>Everything the game draws from a texture sheet has to fit in one image. A high resolution resource pack, or a mod adding many custom items, is what overflows it - lower the pack&apos;s resolution or remove the mod that adds the most textures.</translation>
     </message>
     <message>
         <source>The game ran out of registration numbers</source>
-        <translation type="unfinished"></translation>
+        <translation>The game ran out of registration numbers</translation>
     </message>
     <message>
         <source>Versions before 1.13 have a hard limit on how many blocks and items can be registered, and a large pack reaches it. Remove mods or move the pack to 1.13 or newer; there is no setting for this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Versions before 1.13 have a hard limit on how many blocks and items can be registered, and a large pack reaches it. Remove mods or move the pack to 1.13 or newer; there is no setting for this.</translation>
     </message>
     <message>
         <source>The Java runtime itself crashed</source>
-        <translation type="unfinished"></translation>
+        <translation>The Java runtime itself crashed</translation>
     </message>
     <message>
         <source>This is not a mod error: the JVM wrote a file named hs_err_pid with the details. What matters is which library the crash happened in - a graphics driver module there means update or roll back the driver, and a mod&apos;s own dll means that mod is the one to remove.</source>
-        <translation type="unfinished"></translation>
+        <translation>This is not a mod error: the JVM wrote a file named hs_err_pid with the details. What matters is which library the crash happened in - a graphics driver module there means update or roll back the driver, and a mod&apos;s own dll means that mod is the one to remove.</translation>
     </message>
     <message>
         <source>The game wrote a crash report</source>
-        <translation type="unfinished"></translation>
+        <translation>The game wrote a crash report</translation>
     </message>
     <message>
         <source>The line above names what the game was doing when it stopped. Take out the mod it blames, or ask its author - the whole report is smaller than one screenshot of the log.</source>
-        <translation type="unfinished"></translation>
+        <translation>The line above names what the game was doing when it stopped. Take out the mod it blames, or ask its author - the whole report is smaller than one screenshot of the log.</translation>
     </message>
 </context>
 <context>
@@ -2584,7 +2584,7 @@ Are you sure?</translation>
     <name>DownloadQueue</name>
     <message>
         <source>cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>cancelled</translation>
     </message>
 </context>
 <context>
@@ -3543,7 +3543,7 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t extract native jar &apos;%1&apos; to destination &apos;%2&apos;: %3</translation>
     </message>
 </context>
 <context>
@@ -3631,7 +3631,7 @@ Please try again.</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Blocked path traversal in %1</translation>
     </message>
     <message>
         <source>Copying Blocked Mods...</source>
@@ -3702,47 +3702,47 @@ Please try again.</translation>
     <name>FileDownloader</name>
     <message>
         <source>the download did not succeed after %1 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>the download did not succeed after %1 attempts</translation>
     </message>
     <message>
         <source>could not open %1 for writing: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>could not open %1 for writing: %2</translation>
     </message>
     <message>
         <source>could not rewrite %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>could not rewrite %1: %2</translation>
     </message>
     <message>
         <source>could not write to %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>could not write to %1: %2</translation>
     </message>
     <message>
         <source>no data arrived for %1 seconds from %2</source>
-        <translation type="unfinished"></translation>
+        <translation>no data arrived for %1 seconds from %2</translation>
     </message>
     <message>
         <source>the server answered with HTTP %1</source>
-        <translation type="unfinished"></translation>
+        <translation>the server answered with HTTP %1</translation>
     </message>
     <message>
         <source>the download wrote no file</source>
-        <translation type="unfinished"></translation>
+        <translation>the download wrote no file</translation>
     </message>
     <message>
         <source>the file&apos;s SHA-1 is %1, not the %2 the manifest asked for (from %3, %4 bytes)</source>
-        <translation type="unfinished"></translation>
+        <translation>the file&apos;s SHA-1 is %1, not the %2 the manifest asked for (from %3, %4 bytes)</translation>
     </message>
     <message>
         <source>the file is %1 bytes, not the %2 the manifest asked for</source>
-        <translation type="unfinished"></translation>
+        <translation>the file is %1 bytes, not the %2 the manifest asked for</translation>
     </message>
     <message>
         <source>could not replace %1</source>
-        <translation type="unfinished"></translation>
+        <translation>could not replace %1</translation>
     </message>
     <message>
         <source>could not move %1 into place</source>
-        <translation type="unfinished"></translation>
+        <translation>could not move %1 into place</translation>
     </message>
 </context>
 <context>
@@ -3892,7 +3892,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>The overrides has a path that leads to an arbitrary location (%1). This is a security risk and isn&apos;t allowed.</translation>
     </message>
     <message>
         <source>Could not rename the overrides folder:
@@ -3918,7 +3918,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</source>
-        <translation type="unfinished"></translation>
+        <translation>The modpack is trying to download a file outside of the instance folder (%1). This is a security risk and isn&apos;t allowed.</translation>
     </message>
     <message>
         <source>Removing old conflicting files...</source>
@@ -4750,123 +4750,123 @@ What would you like to do with %2?</translation>
     <name>InstanceCreator</name>
     <message>
         <source>Reading the list of Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Reading the list of Minecraft versions</translation>
     </message>
     <message>
         <source>could not read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>could not read %1</translation>
     </message>
     <message>
         <source>%1 is not in the version list</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 is not in the version list</translation>
     </message>
     <message>
         <source>Reading Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Reading Minecraft %1</translation>
     </message>
     <message>
         <source>Creating the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Creating the instance</translation>
     </message>
     <message>
         <source>could not create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>could not create %1</translation>
     </message>
     <message>
         <source>only the Fabric, Quilt, Forge and NeoForge loaders are supported so far, not %1</source>
-        <translation type="unfinished"></translation>
+        <translation>only the Fabric, Quilt, Forge and NeoForge loaders are supported so far, not %1</translation>
     </message>
     <message>
         <source>there is no address for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>there is no address for %1</translation>
     </message>
     <message>
         <source>Reading the %1 versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Reading the %1 versions</translation>
     </message>
     <message>
         <source>there is no %1 metadata here</source>
-        <translation type="unfinished"></translation>
+        <translation>there is no %1 metadata here</translation>
     </message>
     <message>
         <source>%1 has no release for Minecraft %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 has no release for Minecraft %2</translation>
     </message>
     <message>
         <source>Reading the %1 profile</source>
-        <translation type="unfinished"></translation>
+        <translation>Reading the %1 profile</translation>
     </message>
     <message>
         <source>the %1 metadata has no main class</source>
-        <translation type="unfinished"></translation>
+        <translation>the %1 metadata has no main class</translation>
     </message>
     <message>
         <source>Installing the %1 loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Installing the %1 loader</translation>
     </message>
     <message>
         <source>no Forge version was given</source>
-        <translation type="unfinished"></translation>
+        <translation>no Forge version was given</translation>
     </message>
     <message>
         <source>no Java %1 was found to run the Forge installer</source>
-        <translation type="unfinished"></translation>
+        <translation>no Java %1 was found to run the Forge installer</translation>
     </message>
     <message>
         <source>Running the %1 installer</source>
-        <translation type="unfinished"></translation>
+        <translation>Running the %1 installer</translation>
     </message>
     <message>
         <source>the Forge installer exited with %1</source>
-        <translation type="unfinished"></translation>
+        <translation>the Forge installer exited with %1</translation>
     </message>
     <message>
         <source>the Forge installer could not be started</source>
-        <translation type="unfinished"></translation>
+        <translation>the Forge installer could not be started</translation>
     </message>
     <message>
         <source>the installer wrote no version description</source>
-        <translation type="unfinished"></translation>
+        <translation>the installer wrote no version description</translation>
     </message>
     <message>
         <source>%1 %2 is not a component name</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 %2 is not a component name</translation>
     </message>
     <message>
         <source>could not write the %1 metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>could not write the %1 metadata</translation>
     </message>
     <message>
         <source>could not write the %1 index</source>
-        <translation type="unfinished"></translation>
+        <translation>could not write the %1 index</translation>
     </message>
     <message>
         <source>Fabric does not list loader %1 for Minecraft %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Fabric does not list loader %1 for Minecraft %2</translation>
     </message>
     <message>
         <source>could not write mmc-pack.json into %1</source>
-        <translation type="unfinished"></translation>
+        <translation>could not write mmc-pack.json into %1</translation>
     </message>
     <message>
         <source>could not write instance.cfg into %1</source>
-        <translation type="unfinished"></translation>
+        <translation>could not write instance.cfg into %1</translation>
     </message>
     <message>
         <source>Checking the files the instance needs</source>
-        <translation type="unfinished"></translation>
+        <translation>Checking the files the instance needs</translation>
     </message>
     <message>
         <source>the download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>the download failed</translation>
     </message>
     <message>
         <source>Checking the assets the game uses</source>
-        <translation type="unfinished"></translation>
+        <translation>Checking the assets the game uses</translation>
     </message>
     <message>
         <source>the asset download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>the asset download failed</translation>
     </message>
 </context>
 <context>
@@ -4998,113 +4998,116 @@ What would you like to do with %2?</translation>
     </message>
     <message>
         <source>The pack does not contain an mcbbs.packmeta manifest.</source>
-        <translation type="unfinished"></translation>
+        <translation>The pack does not contain an mcbbs.packmeta manifest.</translation>
     </message>
     <message>
         <source>Could not read the pack manifest:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not read the pack manifest:
+%1</translation>
     </message>
     <message>
         <source>The pack does not contain an HMCL modpack.json manifest.</source>
-        <translation type="unfinished"></translation>
+        <translation>The pack does not contain an HMCL modpack.json manifest.</translation>
     </message>
     <message>
         <source>The pack does not contain the HMCL instance manifest (minecraft/pack.json), so its game version cannot be determined.</source>
-        <translation type="unfinished"></translation>
+        <translation>The pack does not contain the HMCL instance manifest (minecraft/pack.json), so its game version cannot be determined.</translation>
     </message>
     <message>
         <source>The pack manifest does not name a Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>The pack manifest does not name a Minecraft version.</translation>
     </message>
     <message>
         <source>The pack does not contain the expected %1 folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>The pack does not contain the expected %1 folder.</translation>
     </message>
     <message>
         <source>Both the archive root and the game folder contain %1; keeping the one inside the game folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Both the archive root and the game folder contain %1; keeping the one inside the game folder.</translation>
     </message>
     <message>
         <source>Could not move %1 out of the pack&apos;s game folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not move %1 out of the pack&apos;s game folder.</translation>
     </message>
     <message>
         <source>The pack names the %1 loader but not its version, so it will not be installed automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>The pack names the %1 loader but not its version, so it will not be installed automatically.</translation>
     </message>
     <message>
         <source>Could not write mmc-pack.json into the instance folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not write mmc-pack.json into the instance folder.</translation>
     </message>
     <message>
         <source>Resolving the files the pack expects from CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>Resolving the files the pack expects from CurseForge</translation>
     </message>
     <message>
         <source>CurseForge returned no information about the files this pack lists.</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge returned no information about the files this pack lists.</translation>
     </message>
     <message>
         <source>Pack files</source>
-        <translation type="unfinished"></translation>
+        <translation>Pack files</translation>
     </message>
     <message>
         <source>None of the files this pack lists could be downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>None of the files this pack lists could be downloaded.</translation>
     </message>
     <message>
         <source>%1 file(s) in the pack are no longer available from CurseForge and were skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 file(s) in the pack are no longer available from CurseForge and were skipped.</translation>
     </message>
     <message>
         <source>Could not download the files this pack lists:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not download the files this pack lists:
+%1</translation>
     </message>
     <message>
         <source>Could not ask CurseForge about the files this pack lists:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not ask CurseForge about the files this pack lists:
+%1</translation>
     </message>
 </context>
 <context>
     <name>InstanceLaunch</name>
     <message>
         <source>Reading the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Reading the instance</translation>
     </message>
     <message>
         <source>Checking the files the instance needs</source>
-        <translation type="unfinished"></translation>
+        <translation>Checking the files the instance needs</translation>
     </message>
     <message>
         <source>Fetching the asset index</source>
-        <translation type="unfinished"></translation>
+        <translation>Fetching the asset index</translation>
     </message>
     <message>
         <source>Checking the assets the game uses</source>
-        <translation type="unfinished"></translation>
+        <translation>Checking the assets the game uses</translation>
     </message>
     <message>
         <source>Copying the assets where this version looks for them</source>
-        <translation type="unfinished"></translation>
+        <translation>Copying the assets where this version looks for them</translation>
     </message>
     <message>
         <source>Unpacking the native libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>Unpacking the native libraries</translation>
     </message>
     <message>
         <source>Starting the game</source>
-        <translation type="unfinished"></translation>
+        <translation>Starting the game</translation>
     </message>
     <message>
         <source>java did not start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>java did not start: %1</translation>
     </message>
     <message>
         <source>the download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>the download failed</translation>
     </message>
 </context>
 <context>
@@ -5122,11 +5125,11 @@ What would you like to do with %2?</translation>
     </message>
     <message>
         <source>No instances yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>No instances yet.</translation>
     </message>
     <message>
         <source>Instances (core preview)</source>
-        <translation type="unfinished"></translation>
+        <translation>Instances (core preview)</translation>
     </message>
 </context>
 <context>
@@ -5471,23 +5474,23 @@ Please make sure that the maximum memory value is lower.</translation>
     </message>
     <message>
         <source>Choose a background image</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose a background image</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.bmp *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>Images (*.png *.jpg *.jpeg *.bmp *.webp)</translation>
     </message>
     <message>
         <source>An image shown behind the pages of this instance&apos;s window. The file is not copied: only its location is remembered, so moving or deleting it simply leaves the window plain again.</source>
-        <translation type="unfinished"></translation>
+        <translation>An image shown behind the pages of this instance&apos;s window. The file is not copied: only its location is remembered, so moving or deleting it simply leaves the window plain again.</translation>
     </message>
     <message>
         <source>No background chosen</source>
-        <translation type="unfinished"></translation>
+        <translation>No background chosen</translation>
     </message>
     <message>
         <source>Choose image</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose image</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -5636,7 +5639,7 @@ Please make sure that the maximum memory value is lower.</translation>
     </message>
     <message>
         <source>Unable to open supplied zip file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open supplied zip file: %1</translation>
     </message>
     <message>
         <source>Extracting Java (Progress is not reported for tar archives)</source>
@@ -5714,11 +5717,11 @@ Please make sure that the maximum memory value is lower.</translation>
     <name>Java::LocalJavaScanTask</name>
     <message>
         <source>Looking for Java inside the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Looking for Java inside the instance</translation>
     </message>
     <message>
         <source>Java detection</source>
-        <translation type="unfinished"></translation>
+        <translation>Java detection</translation>
     </message>
 </context>
 <context>
@@ -5755,7 +5758,7 @@ Please make sure that the maximum memory value is lower.</translation>
     <name>JavaChecker</name>
     <message>
         <source>The Java checker library (JavaCheck.jar) could not be found.</source>
-        <translation type="unfinished"></translation>
+        <translation>The Java checker library (JavaCheck.jar) could not be found.</translation>
     </message>
 </context>
 <context>
@@ -6089,23 +6092,23 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>&amp;Allowed Java versions</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Allowed Java versions</translation>
     </message>
     <message>
         <source>Restrict which Java installations the launcher may pick automatically. Leave empty for no restriction.</source>
-        <translation type="unfinished"></translation>
+        <translation>Restrict which Java installations the launcher may pick automatically. Leave empty for no restriction.</translation>
     </message>
     <message>
         <source>e.g. 8, or 8-17, or 8, 11, 17-21</source>
-        <translation type="unfinished"></translation>
+        <translation>e.g. 8, or 8-17, or 8, 11, 17-21</translation>
     </message>
     <message>
         <source>Look for a Java runtime inside this instance&apos;s runtime folder and prefer it. The version is verified by running the binary, not guessed from the folder name. A Java path set above takes precedence over this.</source>
-        <translation type="unfinished"></translation>
+        <translation>Look for a Java runtime inside this instance&apos;s runtime folder and prefer it. The version is verified by running the binary, not guessed from the folder name. A Java path set above takes precedence over this.</translation>
     </message>
     <message>
         <source>Use the Java &amp;runtime inside the instance folder</source>
-        <translation type="unfinished"></translation>
+        <translation>Use the Java &amp;runtime inside the instance folder</translation>
     </message>
     <message>
         <source>Java &amp;Executable</source>
@@ -6117,11 +6120,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Suggested arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>Suggested arguments</translation>
     </message>
     <message>
         <source>Add these &amp;arguments</source>
-        <translation type="unfinished"></translation>
+        <translation>Add these &amp;arguments</translation>
     </message>
     <message>
         <source>Warn when there is not enough memory available</source>
@@ -6169,11 +6172,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Memory suggestion</source>
-        <translation type="unfinished"></translation>
+        <translation>Memory suggestion</translation>
     </message>
     <message>
         <source>Use these &amp;values</source>
-        <translation type="unfinished"></translation>
+        <translation>Use these &amp;values</translation>
     </message>
     <message>
         <source>Warn when there is not enough free memory</source>
@@ -6221,23 +6224,23 @@ Please make sure that the maximum memory value is lower.</translation>
     </message>
     <message>
         <source>%1 mods installed here, so %2 MiB of heap.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 mods installed here, so %2 MiB of heap.</translation>
     </message>
     <message>
         <source>This machine has %1 MiB, and three quarters of it is as much as the game should be given.</source>
-        <translation type="unfinished"></translation>
+        <translation>This machine has %1 MiB, and three quarters of it is as much as the game should be given.</translation>
     </message>
     <message>
         <source>This machine has %1 MiB, so the game can have %2 MiB and still leave room for everything else.</source>
-        <translation type="unfinished"></translation>
+        <translation>This machine has %1 MiB, so the game can have %2 MiB and still leave room for everything else.</translation>
     </message>
     <message>
         <source>This machine has only %1 MiB in total. The game needs %2 MiB to start, so close what else is running.</source>
-        <translation type="unfinished"></translation>
+        <translation>This machine has only %1 MiB in total. The game needs %2 MiB to start, so close what else is running.</translation>
     </message>
     <message>
         <source>%1 Both limits are the same number, so the heap does not have to grow while you play.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 Both limits are the same number, so the heap does not have to grow while you play.</translation>
     </message>
     <message>
         <source>Your maximum memory allocation exceeds your system memory capacity.</source>
@@ -6249,7 +6252,7 @@ Please make sure that the maximum memory value is lower.</translation>
     </message>
     <message>
         <source>Suggested for %1 MiB of heap: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Suggested for %1 MiB of heap: %2</translation>
     </message>
     <message>
         <source>Your maximum memory allocation is below the minimum memory allocation.</source>
@@ -6395,11 +6398,11 @@ You can change the Java version in the settings later.
     <name>KomorebiAccountsDialog</name>
     <message>
         <source>Komorebi accounts</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebi accounts</translation>
     </message>
     <message>
         <source>Games started with the new launch path use the account marked as default. The launcher&apos;s original accounts keep working alongside these. An offline account can be added once a Microsoft account is here.</source>
-        <translation type="unfinished"></translation>
+        <translation>Games started with the new launch path use the account marked as default. The launcher&apos;s original accounts keep working alongside these. An offline account can be added once a Microsoft account is here.</translation>
     </message>
     <message>
         <source>Sign in with Microsoft</source>
@@ -6407,11 +6410,11 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Add offline account</source>
-        <translation type="unfinished"></translation>
+        <translation>Add offline account</translation>
     </message>
     <message>
         <source>Use this account</source>
-        <translation type="unfinished"></translation>
+        <translation>Use this account</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -6419,83 +6422,83 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>%1  (offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1  (offline)</translation>
     </message>
     <message>
         <source>  (default)</source>
-        <translation type="unfinished"></translation>
+        <translation>  (default)</translation>
     </message>
     <message>
         <source>Play under a name that never signs in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Play under a name that never signs in.</translation>
     </message>
     <message>
         <source>Sign in with Microsoft first: an offline name needs a Microsoft account beside it.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sign in with Microsoft first: an offline name needs a Microsoft account beside it.</translation>
     </message>
     <message>
         <source>The accounts file at %1 could not be read.</source>
-        <translation type="unfinished"></translation>
+        <translation>The accounts file at %1 could not be read.</translation>
     </message>
     <message>
         <source>No Komorebi accounts yet. Sign in with Microsoft to add one.</source>
-        <translation type="unfinished"></translation>
+        <translation>No Komorebi accounts yet. Sign in with Microsoft to add one.</translation>
     </message>
     <message>
         <source>%1 account(s), kept in %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 account(s), kept in %2</translation>
     </message>
     <message>
         <source>The sign-in could not be kept safely on this computer.</source>
-        <translation type="unfinished"></translation>
+        <translation>The sign-in could not be kept safely on this computer.</translation>
     </message>
     <message>
         <source>The account could not be saved at %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>The account could not be saved at %1.</translation>
     </message>
     <message>
         <source>Signed in as %1. It is now the account used for launching.</source>
-        <translation type="unfinished"></translation>
+        <translation>Signed in as %1. It is now the account used for launching.</translation>
     </message>
     <message>
         <source>Name to play as:</source>
-        <translation type="unfinished"></translation>
+        <translation>Name to play as:</translation>
     </message>
     <message>
         <source>An offline account needs a name.</source>
-        <translation type="unfinished"></translation>
+        <translation>An offline account needs a name.</translation>
     </message>
     <message>
         <source>The offline account could not be saved at %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>The offline account could not be saved at %1.</translation>
     </message>
     <message>
         <source>%1 will be used for launching.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 will be used for launching.</translation>
     </message>
     <message>
         <source>Remove account</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove account</translation>
     </message>
     <message>
         <source>Remove %1 from the launcher? The account itself is not affected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove %1 from the launcher? The account itself is not affected.</translation>
     </message>
     <message>
         <source>Remove the offline accounts first: they need a Microsoft account to stand beside.</source>
-        <translation type="unfinished"></translation>
+        <translation>Remove the offline accounts first: they need a Microsoft account to stand beside.</translation>
     </message>
     <message>
         <source>That account is not stored any more.</source>
-        <translation type="unfinished"></translation>
+        <translation>That account is not stored any more.</translation>
     </message>
     <message>
         <source>The account could not be removed from %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>The account could not be removed from %1.</translation>
     </message>
     <message>
         <source>Removed %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Removed %1.</translation>
     </message>
 </context>
 <context>
@@ -6506,27 +6509,27 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Open the address below in a browser and enter the code. This window will wait for you.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the address below in a browser and enter the code. This window will wait for you.</translation>
     </message>
     <message>
         <source>Copy code</source>
-        <translation type="unfinished"></translation>
+        <translation>Copy code</translation>
     </message>
     <message>
         <source>Open page</source>
-        <translation type="unfinished"></translation>
+        <translation>Open page</translation>
     </message>
     <message>
         <source>Asking Microsoft for a code…</source>
-        <translation type="unfinished"></translation>
+        <translation>Asking Microsoft for a code…</translation>
     </message>
     <message>
         <source>Waiting for you to approve the sign-in in the browser. The code is good for %1 minutes.</source>
-        <translation type="unfinished"></translation>
+        <translation>Waiting for you to approve the sign-in in the browser. The code is good for %1 minutes.</translation>
     </message>
     <message>
         <source>The sign-in could not finish: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>The sign-in could not finish: %1</translation>
     </message>
     <message>
         <source>Close</source>
@@ -6534,18 +6537,18 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Code copied. Paste it into the browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Code copied. Paste it into the browser.</translation>
     </message>
 </context>
 <context>
     <name>KomorebiNewInstanceDialog</name>
     <message>
         <source>New instance</source>
-        <translation type="unfinished"></translation>
+        <translation>New instance</translation>
     </message>
     <message>
         <source>what to call it</source>
-        <translation type="unfinished"></translation>
+        <translation>what to call it</translation>
     </message>
     <message>
         <source>Name</source>
@@ -6553,7 +6556,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>reading the version list</source>
-        <translation type="unfinished"></translation>
+        <translation>reading the version list</translation>
     </message>
     <message>
         <source>Minecraft</source>
@@ -6561,47 +6564,47 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Loader</source>
-        <translation type="unfinished"></translation>
+        <translation>Loader</translation>
     </message>
     <message>
         <source>Loader version</source>
-        <translation type="unfinished"></translation>
+        <translation>Loader version</translation>
     </message>
     <message>
         <source>Create</source>
-        <translation type="unfinished"></translation>
+        <translation>Create</translation>
     </message>
     <message>
         <source>Reading the list of Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>Reading the list of Minecraft versions</translation>
     </message>
     <message>
         <source>Could not read the version list: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not read the version list: %1</translation>
     </message>
     <message>
         <source>%1 versions. Newest release: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 versions. Newest release: %2</translation>
     </message>
     <message>
         <source>The instance needs a name.</source>
-        <translation type="unfinished"></translation>
+        <translation>The instance needs a name.</translation>
     </message>
     <message>
         <source>Choose the Minecraft version to run.</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose the Minecraft version to run.</translation>
     </message>
     <message>
         <source>Forge needs its own version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Forge needs its own version.</translation>
     </message>
     <message>
         <source>Preparing</source>
-        <translation type="unfinished"></translation>
+        <translation>Preparing</translation>
     </message>
     <message>
         <source>Could not create the instance: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not create the instance: %1</translation>
     </message>
 </context>
 <context>
@@ -6645,19 +6648,23 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>%1 command is empty, skipping.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 command is empty, skipping.</translation>
     </message>
     <message>
         <source>%1 command failed with code %2.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 command failed with code %2.
+
+</translation>
     </message>
     <message>
         <source>%1 command ran successfully.
 
 </source>
-        <translation type="unfinished"></translation>
+        <translation>%1 command ran successfully.
+
+</translation>
     </message>
 </context>
 <context>
@@ -6859,7 +6866,7 @@ Do you want to play the demo?</translation>
     </message>
     <message>
         <source>In order to play Minecraft, you must have at least one account added: a Microsoft account that owns Minecraft, or an account on a third-party authentication server. Would you like to open the account manager to add an account now?</source>
-        <translation type="unfinished"></translation>
+        <translation>In order to play Minecraft, you must have at least one account added: a Microsoft account that owns Minecraft, or an account on a third-party authentication server. Would you like to open the account manager to add an account now?</translation>
     </message>
     <message>
         <source>An error occurred while refreshing &apos;%1&apos;</source>
@@ -6945,25 +6952,27 @@ Do you want to play the demo?</translation>
     </message>
     <message>
         <source>Sign in to &apos;%1&apos;</source>
-        <translation type="unfinished"></translation>
+        <translation>Sign in to &apos;%1&apos;</translation>
     </message>
     <message>
         <source>Enter the password for &apos;%1&apos;.</source>
-        <translation type="unfinished"></translation>
+        <translation>Enter the password for &apos;%1&apos;.</translation>
     </message>
     <message>
         <source>authlib-injector is not installed</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector is not installed</translation>
     </message>
     <message>
         <source>This account signs in through %1, but this instance has no authlib-injector agent, so the game cannot reach that server to load skins or to join its online-mode servers.
 
 Install the agent into this instance now?</source>
-        <translation type="unfinished"></translation>
+        <translation>This account signs in through %1, but this instance has no authlib-injector agent, so the game cannot reach that server to load skins or to join its online-mode servers.
+
+Install the agent into this instance now?</translation>
     </message>
     <message>
         <source>Install authlib-injector</source>
-        <translation type="unfinished"></translation>
+        <translation>Install authlib-injector</translation>
     </message>
     <message>
         <source>Kill Minecraft?</source>
@@ -6975,13 +6984,15 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>authlib-injector points at another server</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector points at another server</translation>
     </message>
     <message>
         <source>The authlib-injector agent in this instance sends the game&apos;s authentication to %1, but this account signs in through %2. Skins and online-mode servers will not work until the agent is reinstalled for the current account.
 
 Reinstall it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>The authlib-injector agent in this instance sends the game&apos;s authentication to %1, but this account signs in through %2. Skins and online-mode servers will not work until the agent is reinstalled for the current account.
+
+Reinstall it now?</translation>
     </message>
 </context>
 <context>
@@ -7006,11 +7017,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Diagnosis: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnosis: %1</translation>
     </message>
     <message>
         <source>Suggestion: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Suggestion: %1</translation>
     </message>
 </context>
 <context>
@@ -7037,7 +7048,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Mojang refused this build&apos;s application ID, so it cannot sign in to Minecraft. The registration is either not approved or no longer approved; see https://aka.ms/AppRegInfo. Third-party server accounts still work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang refused this build&apos;s application ID, so it cannot sign in to Minecraft. The registration is either not approved or no longer approved; see https://aka.ms/AppRegInfo. Third-party server accounts still work.</translation>
     </message>
 </context>
 <context>
@@ -7334,7 +7345,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Auto Downloaded Java:</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Auto Downloaded Java:</translation>
     </message>
     <message>
         <source>Instance &amp;Icons:</source>
@@ -7342,7 +7353,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>&amp;Mods (Quick Access):</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods (Quick Access):</translation>
     </message>
     <message>
         <source>Additional Instance Folders</source>
@@ -7500,12 +7511,12 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Select the preferred release channel when checking for mod updates.</source>
-        <translation type="unfinished"></translation>
+        <translation>Select the preferred release channel when checking for mod updates.</translation>
     </message>
     <message>
         <source>Mod Update Channel:</source>
         <oldsource>Mod update channel:</oldsource>
-        <translation type="unfinished"></translation>
+        <translation>Mod Update Channel:</translation>
     </message>
     <message>
         <source>All (Release, Beta, Alpha)</source>
@@ -7513,11 +7524,11 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Release only</source>
-        <translation type="unfinished"></translation>
+        <translation>Release only</translation>
     </message>
     <message>
         <source>Release and Beta</source>
-        <translation type="unfinished"></translation>
+        <translation>Release and Beta</translation>
     </message>
     <message>
         <source>Instance Creation</source>
@@ -8152,7 +8163,7 @@ Reason:
     </message>
     <message>
         <source>Add a Microsoft account here, or skip this step and add an account later under Settings - Accounts.</source>
-        <translation type="unfinished"></translation>
+        <translation>Add a Microsoft account here, or skip this step and add an account later under Settings - Accounts.</translation>
     </message>
     <message>
         <source>In order to play Minecraft, you must have at least one Microsoft account logged in. Do you want to log in now?</source>
@@ -8171,19 +8182,19 @@ Reason:
     </message>
     <message>
         <source>Failed to open output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to open output file: %1</translation>
     </message>
     <message>
         <source>Could not add %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not add %1: %2</translation>
     </message>
     <message>
         <source>Could not read and compress %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not read and compress %1: %2</translation>
     </message>
     <message>
         <source>Failed to close output file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to close output file: %1</translation>
     </message>
     <message>
         <source>Could not create file</source>
@@ -8222,7 +8233,7 @@ Reason:
     </message>
     <message>
         <source>Failed to extract file %1 to %2: %3</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to extract file %1 to %2: %3</translation>
     </message>
     <message>
         <source>Failed to parse file %1</source>
@@ -8281,7 +8292,7 @@ Reason:
     </message>
     <message>
         <source>The sign-in code expired before it was used. Sign in again to get a new one.</source>
-        <translation type="unfinished"></translation>
+        <translation>The sign-in code expired before it was used. Sign in again to get a new one.</translation>
     </message>
 </context>
 <context>
@@ -8352,7 +8363,7 @@ Reason:
     </message>
     <message>
         <source>Microsoft refused the application ID this build uses, not your account. That means the registration is misconfigured, or it no longer has access to the Minecraft services API. Third-party server accounts are unaffected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft refused the application ID this build uses, not your account. That means the registration is misconfigured, or it no longer has access to the Minecraft services API. Third-party server accounts are unaffected.</translation>
     </message>
 </context>
 <context>
@@ -8406,7 +8417,7 @@ Reason:
     </message>
     <message>
         <source>Pick one on the left to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>Pick one on the left to get started.</translation>
     </message>
 </context>
 <context>
@@ -8745,15 +8756,15 @@ Reason:
     </message>
     <message>
         <source>I&amp;con Themes</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;con Themes</translation>
     </message>
     <message>
         <source>&amp;Cat Packs</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Cat Packs</translation>
     </message>
     <message>
         <source>&amp;Auto Downloaded Java</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Auto Downloaded Java</translation>
     </message>
     <message>
         <source>I&amp;con Theme</source>
@@ -8822,27 +8833,27 @@ Reason:
     </message>
     <message>
         <source>I&amp;nstances</source>
-        <translation type="unfinished"></translation>
+        <translation>I&amp;nstances</translation>
     </message>
     <message>
         <source>Launcher &amp;Data</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher &amp;Data</translation>
     </message>
     <message>
         <source>&amp;Mods (Quick Access)</source>
-        <translation type="unfinished"></translation>
+        <translation>&amp;Mods (Quick Access)</translation>
     </message>
     <message>
         <source>Open the mods folder in a file browser.</source>
-        <translation type="unfinished"></translation>
+        <translation>Open the mods folder in a file browser.</translation>
     </message>
     <message>
         <source>Instance &amp;Icons</source>
-        <translation type="unfinished"></translation>
+        <translation>Instance &amp;Icons</translation>
     </message>
     <message>
         <source>Launcher &amp;Logs</source>
-        <translation type="unfinished"></translation>
+        <translation>Launcher &amp;Logs</translation>
     </message>
     <message>
         <source>Themes</source>
@@ -9399,21 +9410,23 @@ Are you sure?</translation>
     </message>
     <message>
         <source>%1 (offline)</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 (offline)</translation>
     </message>
     <message>
         <source>No account</source>
-        <translation type="unfinished"></translation>
+        <translation>No account</translation>
     </message>
     <message>
         <source>Komorebi accounts…</source>
-        <translation type="unfinished"></translation>
+        <translation>Komorebi accounts…</translation>
     </message>
     <message>
         <source>Unsupported Modrinth link.
 
 Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
-        <translation type="unfinished"></translation>
+        <translation>Unsupported Modrinth link.
+
+Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</translation>
     </message>
     <message>
         <source>Invalid import link: missing &apos;url&apos; parameter.</source>
@@ -9604,7 +9617,7 @@ Are you sure?</translation>
     </message>
     <message>
         <source>Instances (core preview)</source>
-        <translation type="unfinished"></translation>
+        <translation>Instances (core preview)</translation>
     </message>
 </context>
 <context>
@@ -9751,7 +9764,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>You are about to update the modpack to a new version.
+Irreversible changes may be made to the instance&apos;s files.
+As such, it is strongly recommended to create a backup copy of the instance.
+
+Are you sure?</translation>
     </message>
     <message>
         <source>Confirm Update</source>
@@ -9763,7 +9780,11 @@ Irreversible changes may be made to the instance&apos;s files.
 As such, it is strongly recommended to create a backup copy of the instance.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>You are about to update the modpack to version &quot;%1&quot;.
+Irreversible changes may be made to the instance&apos;s files.
+As such, it is strongly recommended to create a backup copy of the instance.
+
+Are you sure?</translation>
     </message>
 </context>
 <context>
@@ -9777,7 +9798,7 @@ Are you sure?</source>
     <name>McClient</name>
     <message>
         <source>The server announced an impossible status packet (%1 bytes)</source>
-        <translation type="unfinished"></translation>
+        <translation>The server announced an impossible status packet (%1 bytes)</translation>
     </message>
 </context>
 <context>
@@ -9811,79 +9832,79 @@ Are you sure?</source>
     <name>MicrosoftAuth</name>
     <message>
         <source>no Microsoft app id is configured</source>
-        <translation type="unfinished"></translation>
+        <translation>no Microsoft app id is configured</translation>
     </message>
     <message>
         <source>Microsoft would not start a sign-in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft would not start a sign-in: %1</translation>
     </message>
     <message>
         <source>Microsoft returned no device code</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft returned no device code</translation>
     </message>
     <message>
         <source>sign-in failed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>sign-in failed: %1</translation>
     </message>
     <message>
         <source>Microsoft returned no access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft returned no access token</translation>
     </message>
     <message>
         <source>there is no refresh token to use</source>
-        <translation type="unfinished"></translation>
+        <translation>there is no refresh token to use</translation>
     </message>
     <message>
         <source>the sign-in could not be renewed: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>the sign-in could not be renewed: %1</translation>
     </message>
     <message>
         <source>Xbox Live refused the sign-in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live refused the sign-in: %1</translation>
     </message>
     <message>
         <source>Xbox Live returned no token</source>
-        <translation type="unfinished"></translation>
+        <translation>Xbox Live returned no token</translation>
     </message>
     <message>
         <source>this Microsoft account has no Xbox profile yet; sign in to Xbox once</source>
-        <translation type="unfinished"></translation>
+        <translation>this Microsoft account has no Xbox profile yet; sign in to Xbox once</translation>
     </message>
     <message>
         <source>this account is a child account and needs a family group</source>
-        <translation type="unfinished"></translation>
+        <translation>this account is a child account and needs a family group</translation>
     </message>
     <message>
         <source>XSTS refused the sign-in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>XSTS refused the sign-in: %1</translation>
     </message>
     <message>
         <source>XSTS returned no token</source>
-        <translation type="unfinished"></translation>
+        <translation>XSTS returned no token</translation>
     </message>
     <message>
         <source>Minecraft services refused this account</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft services refused this account</translation>
     </message>
     <message>
         <source>Minecraft services refused the sign-in: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft services refused the sign-in: %1</translation>
     </message>
     <message>
         <source>Minecraft services returned no access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft services returned no access token</translation>
     </message>
     <message>
         <source>this account does not own Minecraft</source>
-        <translation type="unfinished"></translation>
+        <translation>this account does not own Minecraft</translation>
     </message>
     <message>
         <source>the Minecraft profile could not be read: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>the Minecraft profile could not be read: %1</translation>
     </message>
     <message>
         <source>the Minecraft profile came back without a name</source>
-        <translation type="unfinished"></translation>
+        <translation>the Minecraft profile came back without a name</translation>
     </message>
 </context>
 <context>
@@ -9928,7 +9949,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Launch &amp;As</source>
-        <translation type="unfinished"></translation>
+        <translation>Launch &amp;As</translation>
     </message>
     <message>
         <source>Profilers</source>
@@ -9948,15 +9969,15 @@ Are you sure?</source>
     </message>
     <message>
         <source>Pre-Load</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-Load</translation>
     </message>
     <message>
         <source>Pre-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Pre-Launch</translation>
     </message>
     <message>
         <source>Post-Launch</source>
-        <translation type="unfinished"></translation>
+        <translation>Post-Launch</translation>
     </message>
     <message>
         <source>&lt;CLIENT TOKEN&gt;</source>
@@ -10502,7 +10523,7 @@ It is most likely you will need to change the path—please refer to the mod&apo
     </message>
     <message>
         <source>Always use the latest minecraft version</source>
-        <translation type="unfinished"></translation>
+        <translation>Always use the latest minecraft version</translation>
     </message>
     <message>
         <source>Release</source>
@@ -10510,7 +10531,7 @@ It is most likely you will need to change the path—please refer to the mod&apo
     </message>
     <message>
         <source>Any</source>
-        <translation type="unfinished"></translation>
+        <translation>Any</translation>
     </message>
     <message>
         <source>&amp;GLFW library path:</source>
@@ -10636,11 +10657,11 @@ It is most likely you will need to change the path—please refer to the mod&apo
     <name>MirrorListEditor</name>
     <message>
         <source>Up</source>
-        <translation type="unfinished"></translation>
+        <translation>Up</translation>
     </message>
     <message>
         <source>Down</source>
-        <translation type="unfinished"></translation>
+        <translation>Down</translation>
     </message>
     <message>
         <source>Remove</source>
@@ -10648,7 +10669,7 @@ It is most likely you will need to change the path—please refer to the mod&apo
     </message>
     <message>
         <source>https://example.com/maven</source>
-        <translation type="unfinished"></translation>
+        <translation>https://example.com/maven</translation>
     </message>
     <message>
         <source>Add</source>
@@ -10656,7 +10677,7 @@ It is most likely you will need to change the path—please refer to the mod&apo
     </message>
     <message>
         <source>Not a usable http(s) address: this entry will be ignored.</source>
-        <translation type="unfinished"></translation>
+        <translation>Not a usable http(s) address: this entry will be ignored.</translation>
     </message>
 </context>
 <context>
@@ -10827,67 +10848,67 @@ It is most likely you will need to change the path—please refer to the mod&apo
     </message>
     <message>
         <source>Advanced exclusions</source>
-        <translation type="unfinished"></translation>
+        <translation>Advanced exclusions</translation>
     </message>
     <message>
         <source>AI content</source>
-        <translation type="unfinished"></translation>
+        <translation>AI content</translation>
     </message>
     <message>
         <source>AI content (code)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI content (code)</translation>
     </message>
     <message>
         <source>AI content (assets)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI content (assets)</translation>
     </message>
     <message>
         <source>AI content (text)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI content (text)</translation>
     </message>
     <message>
         <source>AI content (functionality)</source>
-        <translation type="unfinished"></translation>
+        <translation>AI content (functionality)</translation>
     </message>
     <message>
         <source>Advertisements</source>
-        <translation type="unfinished"></translation>
+        <translation>Advertisements</translation>
     </message>
     <message>
         <source>Epilepsy triggers</source>
-        <translation type="unfinished"></translation>
+        <translation>Epilepsy triggers</translation>
     </message>
     <message>
         <source>System interactions</source>
-        <translation type="unfinished"></translation>
+        <translation>System interactions</translation>
     </message>
     <message>
         <source>Telemetry</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetry</translation>
     </message>
     <message>
         <source>Telemetry (opt-in)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetry (opt-in)</translation>
     </message>
     <message>
         <source>Telemetry (opt-out)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetry (opt-out)</translation>
     </message>
     <message>
         <source>Telemetry (always active)</source>
-        <translation type="unfinished"></translation>
+        <translation>Telemetry (always active)</translation>
     </message>
     <message>
         <source>Derivative work</source>
-        <translation type="unfinished"></translation>
+        <translation>Derivative work</translation>
     </message>
     <message>
         <source>Paid features</source>
-        <translation type="unfinished"></translation>
+        <translation>Paid features</translation>
     </message>
     <message>
         <source>Archived</source>
-        <translation type="unfinished"></translation>
+        <translation>Archived</translation>
     </message>
     <message>
         <source>All Versions</source>
@@ -11369,13 +11390,15 @@ Are you sure?</translation>
     </message>
     <message>
         <source>Confirm Change Version</source>
-        <translation type="unfinished"></translation>
+        <translation>Confirm Change Version</translation>
     </message>
     <message>
         <source>Changing version of mods while the game is running may cause mod duplication and game crashes.
 The old files may not be deleted as they are in use.
 Are you sure you want to do this?</source>
-        <translation type="unfinished"></translation>
+        <translation>Changing version of mods while the game is running may cause mod duplication and game crashes.
+The old files may not be deleted as they are in use.
+Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>Missing Mod Loader</source>
@@ -11399,15 +11422,15 @@ Are you sure you want to do this?</source>
     </message>
     <message>
         <source>Check for Updates (Release only)</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for Updates (Release only)</translation>
     </message>
     <message>
         <source>Check for Updates (Release and Beta)</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for Updates (Release and Beta)</translation>
     </message>
     <message>
         <source>Check for Updates (Release, Beta and Alpha)</source>
-        <translation type="unfinished"></translation>
+        <translation>Check for Updates (Release, Beta and Alpha)</translation>
     </message>
     <message>
         <source>Change a mod&apos;s version.</source>
@@ -11463,7 +11486,7 @@ Do you want to disable them?</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to create the custom Minecraft jar file: %1</translation>
     </message>
     <message>
         <source>Failed to create the custom Minecraft jar file.</source>
@@ -12265,7 +12288,7 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     </message>
     <message>
         <source>Retrying from a different source</source>
-        <translation type="unfinished"></translation>
+        <translation>Retrying from a different source</translation>
     </message>
     <message numerus="yes">
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
@@ -12534,169 +12557,169 @@ NOTE: Make sure you made a backup of your important instance data before updatin
     <name>OptiFine::InstallTask</name>
     <message>
         <source>Could not create a temporary directory for the OptiFine installer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not create a temporary directory for the OptiFine installer.</translation>
     </message>
     <message>
         <source>Could not create the profile file the OptiFine installer needs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not create the profile file the OptiFine installer needs.</translation>
     </message>
     <message>
         <source>Could not download %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not download %1: %2</translation>
     </message>
     <message>
         <source>Trying again to download %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>Trying again to download %1: %2</translation>
     </message>
     <message>
         <source>Looking up Minecraft %1</source>
         <comment>Finding the version OptiFine patches</comment>
-        <translation type="unfinished"></translation>
+        <translation>Looking up Minecraft %1</translation>
     </message>
     <message>
         <source>Minecraft %1 was not found in the version manifest.</source>
-        <translation type="unfinished"></translation>
+        <translation>Minecraft %1 was not found in the version manifest.</translation>
     </message>
     <message>
         <source>the version manifest</source>
-        <translation type="unfinished"></translation>
+        <translation>the version manifest</translation>
     </message>
     <message>
         <source>Downloading the Minecraft %1 metadata</source>
         <comment>The version OptiFine patches</comment>
-        <translation type="unfinished"></translation>
+        <translation>Downloading the Minecraft %1 metadata</translation>
     </message>
     <message>
         <source>Could not write the version metadata the installer needs.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not write the version metadata the installer needs.</translation>
     </message>
     <message>
         <source>The version metadata has no client download.</source>
-        <translation type="unfinished"></translation>
+        <translation>The version metadata has no client download.</translation>
     </message>
     <message>
         <source>the version metadata</source>
-        <translation type="unfinished"></translation>
+        <translation>the version metadata</translation>
     </message>
     <message>
         <source>Downloading the Minecraft %1 client</source>
         <comment>The version OptiFine patches</comment>
-        <translation type="unfinished"></translation>
+        <translation>Downloading the Minecraft %1 client</translation>
     </message>
     <message>
         <source>the client jar</source>
-        <translation type="unfinished"></translation>
+        <translation>the client jar</translation>
     </message>
     <message>
         <source>Downloading OptiFine %1</source>
         <comment>The build being installed</comment>
-        <translation type="unfinished"></translation>
+        <translation>Downloading OptiFine %1</translation>
     </message>
     <message>
         <source>OptiFine</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFine</translation>
     </message>
     <message>
         <source>Looking for a Java runtime to run the installer with</source>
-        <translation type="unfinished"></translation>
+        <translation>Looking for a Java runtime to run the installer with</translation>
     </message>
     <message>
         <source>Could not start looking for a Java runtime to run the installer with.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not start looking for a Java runtime to run the installer with.</translation>
     </message>
     <message>
         <source>OptiFine needs a Java runtime to install. Launch this instance once so the launcher downloads one, or set a Java path in its settings.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFine needs a Java runtime to install. Launch this instance once so the launcher downloads one, or set a Java path in its settings.</translation>
     </message>
     <message>
         <source>Running the OptiFine installer</source>
-        <translation type="unfinished"></translation>
+        <translation>Running the OptiFine installer</translation>
     </message>
     <message>
         <source>The OptiFine runner jar is missing from this build.</source>
-        <translation type="unfinished"></translation>
+        <translation>The OptiFine runner jar is missing from this build.</translation>
     </message>
     <message>
         <source>Could not start Java to run the OptiFine installer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not start Java to run the OptiFine installer.</translation>
     </message>
     <message>
         <source>The OptiFine installer did not produce %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>The OptiFine installer did not produce %1.</translation>
     </message>
     <message>
         <source>Could not read the version json produced by the installer.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not read the version json produced by the installer.</translation>
     </message>
     <message>
         <source>The installer produced a version json that could not be parsed.</source>
-        <translation type="unfinished"></translation>
+        <translation>The installer produced a version json that could not be parsed.</translation>
     </message>
     <message>
         <source>Could not replace the %1 already in the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not replace the %1 already in the instance.</translation>
     </message>
     <message>
         <source>Could not copy %1 into the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not copy %1 into the instance.</translation>
     </message>
     <message>
         <source>Could not read back the copied %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not read back the copied %1.</translation>
     </message>
     <message>
         <source>The OptiFine installer did not extract anything.</source>
-        <translation type="unfinished"></translation>
+        <translation>The OptiFine installer did not extract anything.</translation>
     </message>
     <message>
         <source>Could not write the OptiFine component file.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not write the OptiFine component file.</translation>
     </message>
     <message>
         <source>Could not replace the OptiFine component already in this instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not replace the OptiFine component already in this instance.</translation>
     </message>
     <message>
         <source>Could not add the OptiFine component to the instance.</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not add the OptiFine component to the instance.</translation>
     </message>
 </context>
 <context>
     <name>OptiFine::ListTask</name>
     <message>
         <source>Loading the OptiFine build list</source>
-        <translation type="unfinished"></translation>
+        <translation>Loading the OptiFine build list</translation>
     </message>
     <message>
         <source>OptiFine&apos;s builds are only published on the download mirror, but no mirror address is set. Add one in Settings &gt; APIs, or restore the default.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFine&apos;s builds are only published on the download mirror, but no mirror address is set. Add one in Settings &gt; APIs, or restore the default.</translation>
     </message>
     <message>
         <source>Could not load the OptiFine build list: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not load the OptiFine build list: %1</translation>
     </message>
     <message>
         <source>The mirror has no OptiFine build for Minecraft %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>The mirror has no OptiFine build for Minecraft %1.</translation>
     </message>
 </context>
 <context>
     <name>OptiFineInstallDialog</name>
     <message>
         <source>Install OptiFine for Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Install OptiFine for Minecraft %1</translation>
     </message>
     <message>
         <source>Choose an OptiFine build:</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose an OptiFine build:</translation>
     </message>
     <message>
         <source>preview</source>
-        <translation type="unfinished"></translation>
+        <translation>preview</translation>
     </message>
     <message>
         <source>Installer note: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Installer note: %1</translation>
     </message>
     <message>
         <source>Install</source>
@@ -13376,7 +13399,7 @@ The updater cannot continue until you fix this problem.</translation>
     </message>
     <message>
         <source>Could not read manifest: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not read manifest: %1</translation>
     </message>
     <message>
         <source>Manifest empty, making best guess of the directory contents of %1</source>
@@ -13490,7 +13513,7 @@ To overwrite this lock and proceed with this update anyway, select &quot;Ignore&
     </message>
     <message>
         <source>Failed to write changelog: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to write changelog: %1</translation>
     </message>
     <message>
         <source>Updating from %1 to %2</source>
@@ -13889,7 +13912,7 @@ HTTP Status: %2</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
-        <translation type="unfinished"></translation>
+        <translation>No Instance Selected</translation>
     </message>
     <message>
         <source>Confirm Upload</source>
@@ -14017,7 +14040,7 @@ Error message: %1</translation>
     </message>
     <message>
         <source>Couldn&apos;t parse file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Couldn&apos;t parse file: %1</translation>
     </message>
     <message>
         <source>Invalid component file version, expected %1</source>
@@ -14715,7 +14738,7 @@ Error message: %3</translation>
     </message>
     <message>
         <source>Unknown paste type</source>
-        <translation type="unfinished"></translation>
+        <translation>Unknown paste type</translation>
     </message>
     <message>
         <source>Invalid path to VisualVM</source>
@@ -14789,99 +14812,99 @@ Error message: %3</translation>
     </message>
     <message>
         <source>Choose a character</source>
-        <translation type="unfinished"></translation>
+        <translation>Choose a character</translation>
     </message>
     <message>
         <source>This account may play as more than one character. Which one should the launcher use?</source>
-        <translation type="unfinished"></translation>
+        <translation>This account may play as more than one character. Which one should the launcher use?</translation>
     </message>
     <message>
         <source>a batch MKLINK program for windows to be used with komorebilauncher</source>
-        <translation type="unfinished"></translation>
+        <translation>a batch MKLINK program for windows to be used with komorebilauncher</translation>
     </message>
     <message>
         <source>Skipped a pack entry with no download source: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Skipped a pack entry with no download source: %1</translation>
     </message>
     <message>
         <source>The MCBBS manifest is not valid JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>The MCBBS manifest is not valid JSON: %1</translation>
     </message>
     <message>
         <source>The manifest declares the type &quot;%1&quot;, not minecraftModpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>The manifest declares the type &quot;%1&quot;, not minecraftModpack.</translation>
     </message>
     <message>
         <source>Imported pack</source>
-        <translation type="unfinished"></translation>
+        <translation>Imported pack</translation>
     </message>
     <message>
         <source>The MCBBS manifest does not name a Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>The MCBBS manifest does not name a Minecraft version.</translation>
     </message>
     <message>
         <source>The HMCL modpack manifest is not valid JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>The HMCL modpack manifest is not valid JSON: %1</translation>
     </message>
     <message>
         <source>minecraft/pack.json could not be read; the game version will be taken from the pack contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>minecraft/pack.json could not be read; the game version will be taken from the pack contents.</translation>
     </message>
     <message>
         <source>Could not start the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>Could not start the instance</translation>
     </message>
     <message>
         <source>could not create the folder for %1</source>
-        <translation type="unfinished"></translation>
+        <translation>could not create the folder for %1</translation>
     </message>
     <message>
         <source>could not open %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>could not open %1: %2</translation>
     </message>
     <message>
         <source>could not write %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>could not write %1: %2</translation>
     </message>
     <message>
         <source>could not create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>could not create %1</translation>
     </message>
     <message>
         <source>the natives jar %1 is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>the natives jar %1 is missing</translation>
     </message>
     <message>
         <source>The game exited with code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>The game exited with code %1.</translation>
     </message>
     <message>
         <source>Diagnosis: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Diagnosis: %1</translation>
     </message>
     <message>
         <source>Suggestion: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Suggestion: %1</translation>
     </message>
     <message>
         <source>Renewing the Komorebi account&apos;s sign-in…</source>
-        <translation type="unfinished"></translation>
+        <translation>Renewing the Komorebi account&apos;s sign-in…</translation>
     </message>
     <message>
         <source>The Komorebi account&apos;s sign-in has expired (%1); sign in again from the accounts menu.</source>
-        <translation type="unfinished"></translation>
+        <translation>The Komorebi account&apos;s sign-in has expired (%1); sign in again from the accounts menu.</translation>
     </message>
     <message>
         <source>the Java this instance names does not exist: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>the Java this instance names does not exist: %1</translation>
     </message>
     <message>
         <source>no Java %1 was found on this machine</source>
-        <translation type="unfinished"></translation>
+        <translation>no Java %1 was found on this machine</translation>
     </message>
     <message>
         <source>None (vanilla)</source>
-        <translation type="unfinished"></translation>
+        <translation>None (vanilla)</translation>
     </message>
     <message>
         <source>Fabric</source>
@@ -14889,7 +14912,7 @@ Error message: %3</translation>
     </message>
     <message>
         <source>leave empty for the newest</source>
-        <translation type="unfinished"></translation>
+        <translation>leave empty for the newest</translation>
     </message>
     <message>
         <source>Quilt</source>
@@ -14901,7 +14924,7 @@ Error message: %3</translation>
     </message>
     <message>
         <source>required, for example 47.4.0</source>
-        <translation type="unfinished"></translation>
+        <translation>required, for example 47.4.0</translation>
     </message>
     <message>
         <source>NeoForge</source>
@@ -15176,7 +15199,7 @@ Please update %1!</translation>
     <message>
         <source> [selected]</source>
         <comment>Mod version select</comment>
-        <translation type="unfinished"></translation>
+        <translation> [selected]</translation>
     </message>
     <message>
         <source>Loading versions...</source>
@@ -15351,7 +15374,7 @@ Are you sure you want to do this?</translation>
     </message>
     <message>
         <source>The version of the resource.</source>
-        <translation type="unfinished"></translation>
+        <translation>The version of the resource.</translation>
     </message>
     <message>
         <source>The date and time this resource was last changed (or added).</source>
@@ -15961,34 +15984,41 @@ Are you sure?</translation>
     </message>
     <message>
         <source>ImgBB API key</source>
-        <translation type="unfinished"></translation>
+        <translation>ImgBB API key</translation>
     </message>
     <message>
         <source>Uploading screenshots uses ImgBB and needs an API key from your own account.
 Get one at https://api.imgbb.com/ and paste it here. It is stored on this computer only.</source>
-        <translation type="unfinished"></translation>
+        <translation>Uploading screenshots uses ImgBB and needs an API key from your own account.
+Get one at https://api.imgbb.com/ and paste it here. It is stored on this computer only.</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to ImgBB.
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>You are about to upload %1 screenshots to ImgBB.
+You should double-check for personal information.
+
+Are you sure?</translation>
     </message>
     <message>
         <source>You are about to upload the selected screenshot to ImgBB.
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>You are about to upload the selected screenshot to ImgBB.
+You should double-check for personal information.
+
+Are you sure?</translation>
     </message>
     <message>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</translation>
     </message>
     <message>
         <source>%1 links have been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>%1 links have been placed in your clipboard.</translation>
     </message>
 </context>
 <context>
@@ -16067,7 +16097,7 @@ Currently installed version: %1</translation>
     <name>ServerPingTask</name>
     <message>
         <source>The server did not answer within %1 seconds</source>
-        <translation type="unfinished"></translation>
+        <translation>The server did not answer within %1 seconds</translation>
     </message>
 </context>
 <context>
@@ -16082,7 +16112,7 @@ Currently installed version: %1</translation>
     </message>
     <message>
         <source>Players</source>
-        <translation type="unfinished"></translation>
+        <translation>Players</translation>
     </message>
     <message>
         <source>Version</source>
@@ -16090,7 +16120,7 @@ Currently installed version: %1</translation>
     </message>
     <message>
         <source>Ping</source>
-        <translation type="unfinished"></translation>
+        <translation>Ping</translation>
     </message>
     <message>
         <source>Offline</source>
@@ -16171,7 +16201,9 @@ Currently installed version: %1</translation>
         <source>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>You are about to remove the %1 selected servers.This is permanent and the servers will be gone from your list forever (A LONG TIME).
+
+Are you sure?</translation>
     </message>
     <message>
         <source>Confirm Removal</source>
@@ -16709,7 +16741,7 @@ Are you sure?</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to extract modpack: %1</translation>
     </message>
     <message>
         <source>Unable to open supplied modpack zip file.</source>
@@ -16770,7 +16802,7 @@ Are you sure?</translation>
     </message>
     <message>
         <source>Failed to extract modpack: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to extract modpack: %1</translation>
     </message>
     <message>
         <source>Failed to extract modpack</source>
@@ -16801,11 +16833,11 @@ Are you sure?</translation>
     </message>
     <message>
         <source>Unable to open &quot;bin/modpack.jar&quot; file: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;bin/modpack.jar&quot; file: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;fmlversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;fmlversion.properties&quot;: %1</translation>
     </message>
     <message>
         <source>Could not find &quot;version.json&quot; inside &quot;bin/modpack.jar&quot;, but Minecraft version is unknown</source>
@@ -16814,7 +16846,7 @@ Are you sure?</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Unable to open &quot;forgeversion.properties&quot;: %1</translation>
     </message>
     <message>
         <source>Unable to open &quot;forgeversion.properties&quot;</source>
@@ -17610,19 +17642,19 @@ Please switch to one of the following Java versions for this instance:</translat
     </message>
     <message>
         <source>Install OptiFine</source>
-        <translation type="unfinished"></translation>
+        <translation>Install OptiFine</translation>
     </message>
     <message>
         <source>Install OptiFine for this instance&apos;s Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>Install OptiFine for this instance&apos;s Minecraft version.</translation>
     </message>
     <message>
         <source>Install authlib-injector</source>
-        <translation type="unfinished"></translation>
+        <translation>Install authlib-injector</translation>
     </message>
     <message>
         <source>Point this instance at a third-party authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Point this instance at a third-party authentication server.</translation>
     </message>
     <message>
         <source>Add an empty custom component.</source>
@@ -17729,11 +17761,12 @@ Are you sure?</translation>
     <message>
         <source>Cannot download Minecraft or update instances unless you have at least one account added.
 Please add a Microsoft account that owns Minecraft, or an account on a third-party authentication server.</source>
-        <translation type="unfinished"></translation>
+        <translation>Cannot download Minecraft or update instances unless you have at least one account added.
+Please add a Microsoft account that owns Minecraft, or an account on a third-party authentication server.</translation>
     </message>
     <message>
         <source>OptiFine can only be installed into an instance that has a Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>OptiFine can only be installed into an instance that has a Minecraft version.</translation>
     </message>
     <message>
         <source>Install</source>
@@ -18150,7 +18183,7 @@ Canonical Path: %1</translation>
     </message>
     <message>
         <source>Run an external tool on the selected world.</source>
-        <translation type="unfinished"></translation>
+        <translation>Run an external tool on the selected world.</translation>
     </message>
     <message>
         <source>Data Packs</source>
@@ -18255,14 +18288,20 @@ Are you sure?</translation>
 These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
-        <translation type="unfinished">
-            <numerusform></numerusform>
-            <numerusform></numerusform>
+        <translation>
+            <numerusform>You are about to delete %n world.
+These worlds may be gone forever (A LONG TIME).
+
+Are you sure?</numerusform>
+            <numerusform>You are about to delete %n worlds.
+These worlds may be gone forever (A LONG TIME).
+
+Are you sure?</numerusform>
         </translation>
     </message>
     <message>
         <source>Deleting worlds</source>
-        <translation type="unfinished"></translation>
+        <translation>Deleting worlds</translation>
     </message>
     <message>
         <source>Manage Data Packs</source>
@@ -18274,11 +18313,11 @@ Are you sure?</source>
     </message>
     <message>
         <source>No Tools Added</source>
-        <translation type="unfinished"></translation>
+        <translation>No Tools Added</translation>
     </message>
     <message>
         <source>Open Settings</source>
-        <translation type="unfinished"></translation>
+        <translation>Open Settings</translation>
     </message>
     <message>
         <source>Invalid command</source>
@@ -18286,16 +18325,17 @@ Are you sure?</source>
     </message>
     <message>
         <source>The tool command is empty.</source>
-        <translation type="unfinished"></translation>
+        <translation>The tool command is empty.</translation>
     </message>
     <message>
         <source>Tool failed to start!</source>
-        <translation type="unfinished"></translation>
+        <translation>Tool failed to start!</translation>
     </message>
     <message>
         <source>The tool could not be started.
 Error: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>The tool could not be started.
+Error: %1</translation>
     </message>
     <message>
         <source>World name</source>
@@ -18515,15 +18555,15 @@ Please set up your account according to %1.</translation>
     <name>YggdrasilLoginDialog</name>
     <message>
         <source>Add a third-party account</source>
-        <translation type="unfinished"></translation>
+        <translation>Add a third-party account</translation>
     </message>
     <message>
         <source>Sign in to a server that answers the Yggdrasil API with a username and password. Type the authentication address the server gives its players, and the sign-in path goes below it. Instances that join an online-mode server on that account also need the authlib-injector agent, which this launcher installs on request.</source>
-        <translation type="unfinished"></translation>
+        <translation>Sign in to a server that answers the Yggdrasil API with a username and password. Type the authentication address the server gives its players, and the sign-in path goes below it. Instances that join an online-mode server on that account also need the authlib-injector agent, which this launcher installs on request.</translation>
     </message>
     <message>
         <source>Authentication server</source>
-        <translation type="unfinished"></translation>
+        <translation>Authentication server</translation>
     </message>
     <message>
         <source>Username</source>
@@ -18535,7 +18575,7 @@ Please set up your account according to %1.</translation>
     </message>
     <message>
         <source>Sign in</source>
-        <translation type="unfinished"></translation>
+        <translation>Sign in</translation>
     </message>
     <message>
         <source>Cancel</source>
@@ -18543,19 +18583,19 @@ Please set up your account according to %1.</translation>
     </message>
     <message>
         <source>The address has to be only the web address the server gives, with no spaces or other text.</source>
-        <translation type="unfinished"></translation>
+        <translation>The address has to be only the web address the server gives, with no spaces or other text.</translation>
     </message>
     <message>
         <source>The address has to start with http:// or https://</source>
-        <translation type="unfinished"></translation>
+        <translation>The address has to start with http:// or https://</translation>
     </message>
     <message>
         <source>Use https:// for a remote server: the password is sent to it when signing in.</source>
-        <translation type="unfinished"></translation>
+        <translation>Use https:// for a remote server: the password is sent to it when signing in.</translation>
     </message>
     <message>
         <source>The address must not contain a user name or password.</source>
-        <translation type="unfinished"></translation>
+        <translation>The address must not contain a user name or password.</translation>
     </message>
 </context>
 <context>
@@ -18578,35 +18618,35 @@ Please set up your account according to %1.</translation>
     </message>
     <message>
         <source>Logging in to the authentication server</source>
-        <translation type="unfinished"></translation>
+        <translation>Logging in to the authentication server</translation>
     </message>
     <message>
         <source>Renewing the access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Renewing the access token</translation>
     </message>
     <message>
         <source>Nothing answers sign-in at %1. The address should be the one the server gives its players, without the authserver part on the end.</source>
-        <translation type="unfinished"></translation>
+        <translation>Nothing answers sign-in at %1. The address should be the one the server gives its players, without the authserver part on the end.</translation>
     </message>
     <message>
         <source>Failed to contact the authentication server: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>Failed to contact the authentication server: %1</translation>
     </message>
     <message>
         <source>The authentication server sent an answer that could not be understood.</source>
-        <translation type="unfinished"></translation>
+        <translation>The authentication server sent an answer that could not be understood.</translation>
     </message>
     <message>
         <source>The authentication server gave no character to play as.</source>
-        <translation type="unfinished"></translation>
+        <translation>The authentication server gave no character to play as.</translation>
     </message>
     <message>
         <source>Got an access token</source>
-        <translation type="unfinished"></translation>
+        <translation>Got an access token</translation>
     </message>
     <message>
         <source>The authentication server address contains a user name or password. Remove it and sign in again.</source>
-        <translation type="unfinished"></translation>
+        <translation>The authentication server address contains a user name or password. Remove it and sign in again.</translation>
     </message>
 </context>
 </TS>
