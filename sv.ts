@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Kunde inte tolka paketmanifestet:
+        <translation>Kunde inte tolka paketmanifestet:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Misslyckades med att hämta lokalt metadata-index för %1</translation>
+        <translation>Misslyckades med att hämta lokalt metadata-index för %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Misslyckades med att hämta lokalt metadata-index för &apos;%1&apos; v%2</translation>
+        <translation>Misslyckades med att hämta lokalt metadata-index för &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Installationsläget stöds inte</translation>
+        <translation>Installationsläget stöds inte</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Raderar befintliga filer...</translation>
+        <translation>Raderar befintliga filer...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Okänd modtyp: %1</translation>
+        <translation>Okänd modtyp: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Misslyckades med att hitta versionen för %1-inläsaren</translation>
+        <translation>Misslyckades med att hitta versionen för %1-inläsaren</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Ingen inläsar-version angiven för modpaketet!</translation>
+        <translation>Ingen inläsar-version angiven för modpaketet!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Okänd eller ostödd nedladdningstyp: %1</translation>
+        <translation>Okänd eller ostödd nedladdningstyp: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Laddar ned konfigurationsfiler…</translation>
+        <translation>Laddar ned konfigurationsfiler…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Konfigurationsnedladdning</translation>
+        <translation>Konfigurationsnedladdning</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Extraherar konfigurationer…</translation>
+        <translation>Extraherar konfigurationer…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Väljer valfria mods…</translation>
+        <translation>Väljer valfria mods…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Laddar ned mods...</translation>
+        <translation>Laddar ned mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Modnedladdning</translation>
+        <translation>Modnedladdning</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,47 +308,47 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Okänd nedladdningstyp: %1</translation>
+        <translation>Okänd nedladdningstyp: %1</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="obsolete">Blockerade en osäker sökväg i %1</translation>
+        <translation type="unfinished">Blockerade en osäker sökväg i %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Blockerade mods hittades</translation>
+        <translation>Blockerade mods hittades</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Följande filer är inte tillgängliga för nedladdning i tredjepartslaunchers.&lt;br/&gt;Du kommer behöva manuellt ladda ner och lägga till dem i instansen.</translation>
+        <translation>Följande filer är inte tillgängliga för nedladdning i tredjepartslaunchers.&lt;br/&gt;Du kommer behöva manuellt ladda ner och lägga till dem i instansen.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 av %2 slutförda</translation>
+        <translation>%1 av %2 slutförda</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Misslyckades med att extrahera mods…</translation>
+        <translation>Misslyckades med att extrahera mods…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Extraherar mods…</translation>
+        <translation>Extraherar mods…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Installerar modpaket</translation>
+        <translation>Installerar modpaket</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Misslyckades med att skapa bibliotekskomponent</translation>
+        <translation>Misslyckades med att skapa bibliotekskomponent</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Okänd laddare-typ: </translation>
+        <translation>Okänd laddare-typ: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Misslyckades med att skapa paketkomponent</translation>
+        <translation>Misslyckades med att skapa paketkomponent</translation>
     </message>
 </context>
 <context>
@@ -1472,7 +1472,7 @@ Vissa versioner av Minecraft kanske inte startar.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Läser in lokal fil</translation>
+        <translation type="vanished">Läser in lokal fil</translation>
     </message>
 </context>
 <context>
@@ -1878,7 +1878,7 @@ Vissa versioner av Minecraft kanske inte startar.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation>Det gick inte att kopiera världen.</translation>
+        <translation type="vanished">Det gick inte att kopiera världen.</translation>
     </message>
 </context>
 <context>
@@ -1890,6 +1890,49 @@ Vissa versioner av Minecraft kanske inte startar.
     <message>
         <source>Core Mods</source>
         <translation>Kärnmoddar</translation>
+    </message>
+</context>
+<context>
+    <name>CoreSettingsPage</name>
+    <message>
+        <source>Start instances with the new core</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create instances with the new wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The core reads the instance&apos;s folder and fetches what the game is missing before starting it. Turning this off falls back to the launcher&apos;s original launch path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The wizard asks for a name, a game version and, if wanted, a mod loader, and writes the instance through the core. Turning this off falls back to the launcher&apos;s original dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play as the Komorebi account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A Komorebi account starts the game through the core&apos;s own Microsoft sign-in. Turning this off, or having no account here, uses the launcher&apos;s original account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloads come from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Official uses the addresses the version manifests name. A mirror is used where it has the file, with the original address kept as a fallback.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Komorebi</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2474,7 +2517,7 @@ Vill du fortsätta?</translation>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation>Det gick inte att ta bort världen.</translation>
+        <translation type="vanished">Det gick inte att ta bort världen.</translation>
     </message>
 </context>
 <context>
@@ -3598,7 +3641,7 @@ Försök igen.</translation>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3628,6 +3671,10 @@ Försök igen.</translation>
     </message>
     <message>
         <source>could not write to %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no data arrived for %1 seconds from %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4558,7 +4605,7 @@ Vad vill du göra med %2?</translation>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation>Det gick inte att importera världen.</translation>
+        <translation type="vanished">Det gick inte att importera världen.</translation>
     </message>
 </context>
 <context>
@@ -4651,7 +4698,75 @@ Vad vill du göra med %2?</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>could not write %1</source>
+        <source>only the Fabric, Quilt, Forge and NeoForge loaders are supported so far, not %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>there is no address for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading the %1 versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>there is no %1 metadata here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has no release for Minecraft %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading the %1 profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the %1 metadata has no main class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing the %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no Forge version was given</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no Java %1 was found to run the Forge installer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running the %1 installer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Forge installer exited with %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Forge installer could not be started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the installer wrote no version description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2 is not a component name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write the %1 metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write the %1 index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fabric does not list loader %1 for Minecraft %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6198,6 +6313,219 @@ Du kan ändra Java-version senare i inställningarna.
     </message>
 </context>
 <context>
+    <name>KomorebiAccountsDialog</name>
+    <message>
+        <source>Komorebi accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Games started with the new launch path use the account marked as default. The launcher&apos;s original accounts keep working alongside these. An offline account can be added once a Microsoft account is here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in with Microsoft</source>
+        <translation type="unfinished">Logga in med Microsoft</translation>
+    </message>
+    <message>
+        <source>Add offline account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Ta bort</translation>
+    </message>
+    <message>
+        <source>%1  (offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>  (default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play under a name that never signs in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in with Microsoft first: an offline name needs a Microsoft account beside it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The accounts file at %1 could not be read.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Komorebi accounts yet. Sign in with Microsoft to add one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 account(s), kept in %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sign-in could not be kept safely on this computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account could not be saved at %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signed in as %1. It is now the account used for launching.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name to play as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An offline account needs a name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The offline account could not be saved at %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 will be used for launching.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove %1 from the launcher? The account itself is not affected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove the offline accounts first: they need a Microsoft account to stand beside.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That account is not stored any more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account could not be removed from %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removed %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KomorebiDeviceCodeDialog</name>
+    <message>
+        <source>Sign in with Microsoft</source>
+        <translation type="unfinished">Logga in med Microsoft</translation>
+    </message>
+    <message>
+        <source>Open the address below in a browser and enter the code. This window will wait for you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Asking Microsoft for a code…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for you to approve the sign-in in the browser. The code is good for %1 minutes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sign-in could not finish: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Stäng</translation>
+    </message>
+    <message>
+        <source>Code copied. Paste it into the browser.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KomorebiNewInstanceDialog</name>
+    <message>
+        <source>New instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>what to call it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Namn</translation>
+    </message>
+    <message>
+        <source>reading the version list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft</source>
+        <translation type="unfinished">Minecraft</translation>
+    </message>
+    <message>
+        <source>Loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loader version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading the list of Minecraft versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read the version list: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 versions. Newest release: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The instance needs a name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose the Minecraft version to run.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forge needs its own version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not create the instance: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LanguagePage</name>
     <message>
         <source>Language</source>
@@ -7595,7 +7923,7 @@ Orsak:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8759,7 +9087,7 @@ Detta kan vara permanent och kommer att helt radera instansen.
     </message>
     <message>
         <source>Ctrl+%1</source>
-        <translation>Ctrl+%1</translation>
+        <translation type="vanished">Ctrl+%1</translation>
     </message>
     <message>
         <source>No Default Account</source>
@@ -8905,6 +9233,18 @@ Vill du fortsätta?</numerusform>
     <message>
         <source>&amp;Rename group</source>
         <translation>&amp;Byt namn på grupp</translation>
+    </message>
+    <message>
+        <source>%1 (offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Komorebi accounts…</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsupported Modrinth link.
@@ -9299,7 +9639,7 @@ Vill du fortsätta?</translation>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">Laddar lokal fil</translation>
+        <translation>Laddar lokal fil</translation>
     </message>
 </context>
 <context>
@@ -9320,6 +9660,85 @@ Vill du fortsätta?</translation>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation>Laddar metaindex för %1</translation>
+    </message>
+</context>
+<context>
+    <name>MicrosoftAuth</name>
+    <message>
+        <source>no Microsoft app id is configured</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft would not start a sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft returned no device code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sign-in failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft returned no access token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>there is no refresh token to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the sign-in could not be renewed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xbox Live refused the sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xbox Live returned no token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>this Microsoft account has no Xbox profile yet; sign in to Xbox once</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>this account is a child account and needs a family group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XSTS refused the sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XSTS returned no token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft services refused this account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft services refused the sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft services returned no access token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>this account does not own Minecraft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Minecraft profile could not be read: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Minecraft profile came back without a name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -12296,108 +12715,108 @@ Detta kan vara permanent och filen försvinner från loggmappen.
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>Kunde inte tolka paketmanifestet:
+        <translation type="vanished">Kunde inte tolka paketmanifestet:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Installationsläget stöds inte</translation>
+        <translation type="vanished">Installationsläget stöds inte</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Kunde inte hämta lokalt metadataindex för &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Kunde inte hämta lokalt metadataindex för &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Tar bort befintliga filer...</translation>
+        <translation type="vanished">Tar bort befintliga filer...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Okänd modtyp: %1</translation>
+        <translation type="vanished">Okänd modtyp: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Kunde inte hämta lokalt metadataindex för %1</translation>
+        <translation type="vanished">Kunde inte hämta lokalt metadataindex för %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Kunde inte hitta version för modladdaren %1</translation>
+        <translation type="vanished">Kunde inte hitta version för modladdaren %1</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Ingen modladdarversion har angetts för modpaketet!</translation>
+        <translation type="vanished">Ingen modladdarversion har angetts för modpaketet!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Okänd eller ostödd nedladdningstyp: %1</translation>
+        <translation type="vanished">Okänd eller ostödd nedladdningstyp: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Laddar ned konfigurationsfiler...</translation>
+        <translation type="vanished">Laddar ned konfigurationsfiler...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Konfigurationsnedladdning</translation>
+        <translation type="vanished">Konfigurationsnedladdning</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Packar upp konfigurationer...</translation>
+        <translation type="vanished">Packar upp konfigurationer...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Väljer valfria moddar...</translation>
+        <translation type="vanished">Väljer valfria moddar...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Laddar ned moddar...</translation>
+        <translation type="vanished">Laddar ned moddar...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Modnedladdning</translation>
+        <translation type="vanished">Modnedladdning</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Okänd nedladdningstyp: %1</translation>
+        <translation type="vanished">Okänd nedladdningstyp: %1</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation>Blockerade en osäker sökväg i %1</translation>
+        <translation type="vanished">Blockerade en osäker sökväg i %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Blockerade moddar hittades</translation>
+        <translation type="vanished">Blockerade moddar hittades</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>Följande filer kan inte laddas ned via startprogram från tredje part.&lt;br/&gt;Du behöver ladda ned dem själv och lägga till dem i instansen.</translation>
+        <translation type="vanished">Följande filer kan inte laddas ned via startprogram från tredje part.&lt;br/&gt;Du behöver ladda ned dem själv och lägga till dem i instansen.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 av %2 slutförda</translation>
+        <translation type="vanished">%1 av %2 slutförda</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Kunde inte packa upp moddar...</translation>
+        <translation type="vanished">Kunde inte packa upp moddar...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Packar upp moddar...</translation>
+        <translation type="vanished">Packar upp moddar...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Installerar modpaket</translation>
+        <translation type="vanished">Installerar modpaket</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Kunde inte skapa bibliotekskomponent</translation>
+        <translation type="vanished">Kunde inte skapa bibliotekskomponent</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Okänd modladdartyp: </translation>
+        <translation type="vanished">Okänd modladdartyp: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Kunde inte skapa paketkomponent</translation>
+        <translation type="vanished">Kunde inte skapa paketkomponent</translation>
     </message>
 </context>
 <context>
@@ -13225,7 +13644,7 @@ HTTP Status: %2</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (används)</translation>
+        <translation type="vanished">%1 (används)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -14172,19 +14591,7 @@ Felmeddelande: %3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>the asset %1 is missing from assets/objects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>could not create the folder for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>could not replace %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>could not copy %1 to %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -14216,12 +14623,48 @@ Felmeddelande: %3</translation>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Renewing the Komorebi account&apos;s sign-in…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Komorebi account&apos;s sign-in has expired (%1); sign in again from the accounts menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>the Java this instance names does not exist: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>no Java %1 was found on this machine</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None (vanilla)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fabric</source>
+        <translation type="unfinished">Fabric</translation>
+    </message>
+    <message>
+        <source>leave empty for the newest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quilt</source>
+        <translation type="unfinished">Quilt</translation>
+    </message>
+    <message>
+        <source>Forge</source>
+        <translation type="unfinished">Forge</translation>
+    </message>
+    <message>
+        <source>required, for example 47.4.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NeoForge</source>
+        <translation type="unfinished">NeoForge</translation>
     </message>
 </context>
 <context>
@@ -16465,7 +16908,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 översatt
 %3 oklart
 %4 totalt</translation>

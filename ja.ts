@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">パックのマニフェストを解釈できませんでした:
+        <translation>パックのマニフェストを解釈できませんでした:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">%1 のローカル メタデータインデックスの取得に失敗しました</translation>
+        <translation>%1 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
+        <translation>&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">非対応のインストールモードです</translation>
+        <translation>非対応のインストールモードです</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">既存ファイルを削除中…</translation>
+        <translation>既存ファイルを削除中…</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">不明なModの種類:%1</translation>
+        <translation>不明なModの種類:%1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">%1ローダーのバージョンを見つけられませんでした</translation>
+        <translation>%1ローダーのバージョンを見つけられませんでした</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">ModパックにModローダーのバージョンが設定されていません！</translation>
+        <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">不明または非対応なダウンロードの種類です: %1</translation>
+        <translation>不明または非対応なダウンロードの種類です: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">コンフィグをダウンロード中…</translation>
+        <translation>コンフィグをダウンロード中…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">構成データのダウンロード</translation>
+        <translation>構成データのダウンロード</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">コンフィグを展開中…</translation>
+        <translation>コンフィグを展開中…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">オプションのModを選択中…</translation>
+        <translation>オプションのModを選択中…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Modをダウンロード中…</translation>
+        <translation>Modをダウンロード中…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Mod のダウンロード</translation>
+        <translation>Mod のダウンロード</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,43 +308,47 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">不明なダウンロードの種類です: %1</translation>
+        <translation>不明なダウンロードの種類です: %1</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">ブロックされたModが見つかりました</translation>
+        <translation>ブロックされたModが見つかりました</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
+        <translation>以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">%1 / %2 完了</translation>
+        <translation>%1 / %2 完了</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Modの展開に失敗しました…</translation>
+        <translation>Modの展開に失敗しました…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Modを展開中…</translation>
+        <translation>Modを展開中…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Modパックをインストール中</translation>
+        <translation>Modパックをインストール中</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">ライブラリコンポーネントの作成に失敗しました</translation>
+        <translation>ライブラリコンポーネントの作成に失敗しました</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">不明なModローダーの種類です: </translation>
+        <translation>不明なModローダーの種類です: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">パックコンポーネントの作成に失敗しました</translation>
+        <translation>パックコンポーネントの作成に失敗しました</translation>
     </message>
 </context>
 <context>
@@ -1457,7 +1461,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>ローカルファイルを読み込み中</translation>
+        <translation type="vanished">ローカルファイルを読み込み中</translation>
     </message>
 </context>
 <context>
@@ -1859,7 +1863,7 @@ Minecraft のバージョンによっては起動しない場合があります�
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation>ワールドのコピーに失敗しました。</translation>
+        <translation type="vanished">ワールドのコピーに失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -1871,6 +1875,49 @@ Minecraft のバージョンによっては起動しない場合があります�
     <message>
         <source>Core Mods</source>
         <translation>コアMod</translation>
+    </message>
+</context>
+<context>
+    <name>CoreSettingsPage</name>
+    <message>
+        <source>Start instances with the new core</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create instances with the new wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The core reads the instance&apos;s folder and fetches what the game is missing before starting it. Turning this off falls back to the launcher&apos;s original launch path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The wizard asks for a name, a game version and, if wanted, a mod loader, and writes the instance through the core. Turning this off falls back to the launcher&apos;s original dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play as the Komorebi account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A Komorebi account starts the game through the core&apos;s own Microsoft sign-in. Turning this off, or having no account here, uses the launcher&apos;s original account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloads come from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Official uses the addresses the version manifests name. A mirror is used where it has the file, with the original address kept as a fallback.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Komorebi</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2469,7 +2516,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation>ワールドの削除に失敗しました。</translation>
+        <translation type="vanished">ワールドの削除に失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -3589,7 +3636,7 @@ Please try again.</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3619,6 +3666,10 @@ Please try again.</source>
     </message>
     <message>
         <source>could not write to %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no data arrived for %1 seconds from %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4499,7 +4550,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation>ワールドのインポートに失敗しました。</translation>
+        <translation type="vanished">ワールドのインポートに失敗しました。</translation>
     </message>
 </context>
 <context>
@@ -4592,7 +4643,75 @@ What would you like to do with %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>could not write %1</source>
+        <source>only the Fabric, Quilt, Forge and NeoForge loaders are supported so far, not %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>there is no address for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading the %1 versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>there is no %1 metadata here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has no release for Minecraft %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading the %1 profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the %1 metadata has no main class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing the %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no Forge version was given</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no Java %1 was found to run the Forge installer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running the %1 installer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Forge installer exited with %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Forge installer could not be started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the installer wrote no version description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2 is not a component name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write the %1 metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write the %1 index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fabric does not list loader %1 for Minecraft %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -6083,6 +6202,219 @@ Javaのバージョンは後で設定で変更できます。
     </message>
 </context>
 <context>
+    <name>KomorebiAccountsDialog</name>
+    <message>
+        <source>Komorebi accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Games started with the new launch path use the account marked as default. The launcher&apos;s original accounts keep working alongside these. An offline account can be added once a Microsoft account is here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in with Microsoft</source>
+        <translation type="unfinished">Microsoftアカウントにサインイン</translation>
+    </message>
+    <message>
+        <source>Add offline account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">削除</translation>
+    </message>
+    <message>
+        <source>%1  (offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>  (default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play under a name that never signs in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in with Microsoft first: an offline name needs a Microsoft account beside it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The accounts file at %1 could not be read.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Komorebi accounts yet. Sign in with Microsoft to add one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 account(s), kept in %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sign-in could not be kept safely on this computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account could not be saved at %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signed in as %1. It is now the account used for launching.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name to play as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An offline account needs a name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The offline account could not be saved at %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 will be used for launching.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove %1 from the launcher? The account itself is not affected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove the offline accounts first: they need a Microsoft account to stand beside.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That account is not stored any more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account could not be removed from %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removed %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KomorebiDeviceCodeDialog</name>
+    <message>
+        <source>Sign in with Microsoft</source>
+        <translation type="unfinished">Microsoftアカウントにサインイン</translation>
+    </message>
+    <message>
+        <source>Open the address below in a browser and enter the code. This window will wait for you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Asking Microsoft for a code…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for you to approve the sign-in in the browser. The code is good for %1 minutes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sign-in could not finish: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">閉じる</translation>
+    </message>
+    <message>
+        <source>Code copied. Paste it into the browser.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KomorebiNewInstanceDialog</name>
+    <message>
+        <source>New instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>what to call it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">名前</translation>
+    </message>
+    <message>
+        <source>reading the version list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft</source>
+        <translation type="unfinished">Minecraft</translation>
+    </message>
+    <message>
+        <source>Loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loader version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading the list of Minecraft versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read the version list: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 versions. Newest release: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The instance needs a name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose the Minecraft version to run.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forge needs its own version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not create the instance: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
     <name>LanguagePage</name>
     <message>
         <source>Language</source>
@@ -7415,7 +7747,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -8543,7 +8875,7 @@ Are you sure?</oldsource>
     </message>
     <message>
         <source>Ctrl+%1</source>
-        <translation>Ctrl+%1</translation>
+        <translation type="vanished">Ctrl+%1</translation>
     </message>
     <message>
         <source>No Default Account</source>
@@ -8698,6 +9030,18 @@ Do you wish to proceed?</source>
     <message>
         <source>&amp;Rename group</source>
         <translation>グループの名前を変更(&amp;R)</translation>
+    </message>
+    <message>
+        <source>%1 (offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Komorebi accounts…</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Unsupported Modrinth link.
@@ -9041,7 +9385,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">ローカルファイルを読み込み中</translation>
+        <translation>ローカルファイルを読み込み中</translation>
     </message>
 </context>
 <context>
@@ -9062,6 +9406,85 @@ Are you sure?</source>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation>%1 のメタ情報を読み込みます</translation>
+    </message>
+</context>
+<context>
+    <name>MicrosoftAuth</name>
+    <message>
+        <source>no Microsoft app id is configured</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft would not start a sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft returned no device code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sign-in failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft returned no access token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>there is no refresh token to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the sign-in could not be renewed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xbox Live refused the sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xbox Live returned no token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>this Microsoft account has no Xbox profile yet; sign in to Xbox once</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>this account is a child account and needs a family group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XSTS refused the sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XSTS returned no token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft services refused this account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft services refused the sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft services returned no access token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>this account does not own Minecraft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Minecraft profile could not be read: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Minecraft profile came back without a name</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -11881,108 +12304,104 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>パックのマニフェストを解釈できませんでした:
+        <translation type="vanished">パックのマニフェストを解釈できませんでした:
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>非対応のインストールモードです</translation>
+        <translation type="vanished">非対応のインストールモードです</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
+        <translation type="vanished">&apos;%1&apos; v%2 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>既存ファイルを削除中…</translation>
+        <translation type="vanished">既存ファイルを削除中…</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>不明なModの種類: %1</translation>
+        <translation type="vanished">不明なModの種類: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>%1 のローカル メタデータインデックスの取得に失敗しました</translation>
+        <translation type="vanished">%1 のローカル メタデータインデックスの取得に失敗しました</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>%1ローダーのバージョンが見つかりませんでした</translation>
+        <translation type="vanished">%1ローダーのバージョンが見つかりませんでした</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>ModパックにModローダーのバージョンが設定されていません！</translation>
+        <translation type="vanished">ModパックにModローダーのバージョンが設定されていません！</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>不明または非対応なダウンロードの種類です: %1</translation>
+        <translation type="vanished">不明または非対応なダウンロードの種類です: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>コンフィグをダウンロード中…</translation>
+        <translation type="vanished">コンフィグをダウンロード中…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>コンフィグのダウンロード</translation>
+        <translation type="vanished">コンフィグのダウンロード</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>コンフィグを展開中…</translation>
+        <translation type="vanished">コンフィグを展開中…</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>オプションのModを選択中…</translation>
+        <translation type="vanished">オプションのModを選択中…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Modをダウンロード中...</translation>
+        <translation type="vanished">Modをダウンロード中...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Modのダウンロード</translation>
+        <translation type="vanished">Modのダウンロード</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>不明なダウンロードの種類です: %1</translation>
+        <translation type="vanished">不明なダウンロードの種類です: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>ブロックされたModが見つかりました</translation>
+        <translation type="vanished">ブロックされたModが見つかりました</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
+        <translation type="vanished">以下のファイルはサードパーティ製のランチャーではダウンロードできません。&lt;br/&gt;手動でダウンロードし、起動構成に追加する必要があります。</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>%1 / %2 完了</translation>
+        <translation type="vanished">%1 / %2 完了</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Modの展開に失敗しました…</translation>
+        <translation type="vanished">Modの展開に失敗しました…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Modを展開中…</translation>
+        <translation type="vanished">Modを展開中…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Modパックをインストール中</translation>
+        <translation type="vanished">Modパックをインストール中</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>ライブラリコンポーネントの作成に失敗しました</translation>
+        <translation type="vanished">ライブラリコンポーネントの作成に失敗しました</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>不明なModローダーの種類です: </translation>
+        <translation type="vanished">不明なModローダーの種類です: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>パックコンポーネントの作成に失敗しました</translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">パックコンポーネントの作成に失敗しました</translation>
     </message>
 </context>
 <context>
@@ -12810,7 +13229,7 @@ HTTPステータス: %2</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (使用中)</translation>
+        <translation type="vanished">%1 (使用中)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -13742,19 +14161,7 @@ Error message: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>the asset %1 is missing from assets/objects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>could not create the folder for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>could not replace %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>could not copy %1 to %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -13786,12 +14193,48 @@ Error message: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Renewing the Komorebi account&apos;s sign-in…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Komorebi account&apos;s sign-in has expired (%1); sign in again from the accounts menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>the Java this instance names does not exist: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>no Java %1 was found on this machine</source>
         <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None (vanilla)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fabric</source>
+        <translation type="unfinished">Fabric</translation>
+    </message>
+    <message>
+        <source>leave empty for the newest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quilt</source>
+        <translation type="unfinished">Quilt</translation>
+    </message>
+    <message>
+        <source>Forge</source>
+        <translation type="unfinished">Forge</translation>
+    </message>
+    <message>
+        <source>required, for example 47.4.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NeoForge</source>
+        <translation type="unfinished">NeoForge</translation>
     </message>
 </context>
 <context>
@@ -16017,7 +16460,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 翻訳済み %2
 要確認 %3
 全体 %4</translation>

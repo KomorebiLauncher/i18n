@@ -251,52 +251,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">无法解析包清单：
+        <translation>无法解析包清单：
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">无法获取 %1 的本地元数据索引</translation>
+        <translation>无法获取 %1 的本地元数据索引</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">无法获取 %1(v%2) 的本地元数据索引</translation>
+        <translation>无法获取 %1(v%2) 的本地元数据索引</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">不支持的安装模式</translation>
+        <translation>不支持的安装模式</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">正在删除现有文件...</translation>
+        <translation>正在删除现有文件...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">未知的 Mod 类型：%1</translation>
+        <translation>未知的 Mod 类型：%1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">无法找到 %1 加载器的合适版本</translation>
+        <translation>无法找到 %1 加载器的合适版本</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">没有为整合包设置 Mod 加载器版本！</translation>
+        <translation>没有为整合包设置 Mod 加载器版本！</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">未知或不支持的下载类型：%1</translation>
+        <translation>未知或不支持的下载类型：%1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">正在下载配置文件…</translation>
+        <translation>正在下载配置文件…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">下载配置文件</translation>
+        <translation>下载配置文件</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">正在解压配置文件…</translation>
+        <translation>正在解压配置文件…</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -304,15 +304,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">正在选择可选 Mod…</translation>
+        <translation>正在选择可选 Mod…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">下载 Mod 中…</translation>
+        <translation>下载 Mod 中…</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Mod 下载</translation>
+        <translation>Mod 下载</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -320,47 +320,47 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">未知的下载类型：%1</translation>
+        <translation>未知的下载类型：%1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">发现被屏蔽的 Mod</translation>
+        <translation>发现被屏蔽的 Mod</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将其添加到实例中。</translation>
+        <translation>以下文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载它们并将其添加到实例中。</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">已完成 %1/%2</translation>
+        <translation>已完成 %1/%2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Mod 解压失败…</translation>
+        <translation>Mod 解压失败…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">正在解压 Mod…</translation>
+        <translation>正在解压 Mod…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">正在安装整合包</translation>
+        <translation>正在安装整合包</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">无法创建库组件</translation>
+        <translation>无法创建库组件</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">未知的加载器类型： </translation>
+        <translation>未知的加载器类型： </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">无法创建包组件</translation>
+        <translation>无法创建包组件</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation type="vanished">已拦截 %1 中的路径穿越</translation>
+        <translation>已拦截 %1 中的路径穿越</translation>
     </message>
 </context>
 <context>
@@ -779,7 +779,7 @@ Please update both your operating system and PolyMC.</source>
     </message>
     <message>
         <source>You must add a Microsoft account that owns Minecraft before you can add an offline account.&lt;br&gt;&lt;br&gt;An offline profile is a local name for singleplayer worlds and for servers that allow offline players; it is not a way to use Minecraft without owning it. Add the Microsoft account that owns the game first, then the offline profile.&lt;br&gt;&lt;br&gt;If you have lost your account you can contact Microsoft for support.</source>
-        <translation type="unfinished"></translation>
+        <translation>需要先添加拥有 Minecraft 的 Microsoft 账户，才能添加离线账户。&lt;br&gt;&lt;br&gt;离线档案只是用于单人世界和允许离线玩家的服务器的本地名称，并不是不拥有正版就玩 Minecraft 的途径。请先添加拥有游戏的 Microsoft 账户，再添加离线档案。&lt;br&gt;&lt;br&gt;如果账户已丢失，可以联系 Microsoft 支持。</translation>
     </message>
 </context>
 <context>
@@ -1504,7 +1504,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>正在加载本地文件</translation>
+        <translation type="vanished">正在加载本地文件</translation>
     </message>
 </context>
 <context>
@@ -1918,7 +1918,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation>无法复制世界。</translation>
+        <translation type="vanished">无法复制世界。</translation>
     </message>
 </context>
 <context>
@@ -1930,6 +1930,49 @@ Some versions of Minecraft may not launch.
     <message>
         <source>Core Mods</source>
         <translation>核心 Mod</translation>
+    </message>
+</context>
+<context>
+    <name>CoreSettingsPage</name>
+    <message>
+        <source>Start instances with the new core</source>
+        <translation>使用新核心启动实例</translation>
+    </message>
+    <message>
+        <source>Create instances with the new wizard</source>
+        <translation>使用新向导创建实例</translation>
+    </message>
+    <message>
+        <source>The core reads the instance&apos;s folder and fetches what the game is missing before starting it. Turning this off falls back to the launcher&apos;s original launch path.</source>
+        <translation>核心会读取实例文件夹，并在启动前补齐游戏缺少的文件。关闭后将回退到启动器原有的启动方式。</translation>
+    </message>
+    <message>
+        <source>The wizard asks for a name, a game version and, if wanted, a mod loader, and writes the instance through the core. Turning this off falls back to the launcher&apos;s original dialog.</source>
+        <translation>向导会询问名称、游戏版本，并可选 Mod 加载器，然后通过核心写入实例。关闭后将回退到启动器原有的对话框。</translation>
+    </message>
+    <message>
+        <source>Play as the Komorebi account</source>
+        <translation>使用 Komorebi 账户游玩</translation>
+    </message>
+    <message>
+        <source>A Komorebi account starts the game through the core&apos;s own Microsoft sign-in. Turning this off, or having no account here, uses the launcher&apos;s original account.</source>
+        <translation>Komorebi 账户通过核心自带的 Microsoft 登录来启动游戏。关闭此项或此处没有账户时，将使用启动器原有的账户。</translation>
+    </message>
+    <message>
+        <source>Manage accounts…</source>
+        <translation>管理账户…</translation>
+    </message>
+    <message>
+        <source>Downloads come from</source>
+        <translation>下载来源</translation>
+    </message>
+    <message>
+        <source>Official uses the addresses the version manifests name. A mirror is used where it has the file, with the original address kept as a fallback.</source>
+        <translation>官方：使用版本清单中给出的地址。镜像：在镜像有该文件时使用镜像，并保留原地址作为回退。</translation>
+    </message>
+    <message>
+        <source>Komorebi</source>
+        <translation>Komorebi</translation>
     </message>
 </context>
 <context>
@@ -2528,7 +2571,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation>无法删除世界。</translation>
+        <translation type="vanished">无法删除世界。</translation>
     </message>
 </context>
 <context>
@@ -2552,7 +2595,7 @@ Are you sure?</source>
     <name>DownloadQueue</name>
     <message>
         <source>cancelled</source>
-        <translation type="unfinished"></translation>
+        <translation>已取消</translation>
     </message>
 </context>
 <context>
@@ -3652,7 +3695,7 @@ Please try again.</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3670,43 +3713,47 @@ Please try again.</source>
     <name>FileDownloader</name>
     <message>
         <source>the download did not succeed after %1 attempts</source>
-        <translation type="unfinished"></translation>
+        <translation>重试 %1 次后下载仍未成功</translation>
     </message>
     <message>
         <source>could not open %1 for writing: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法以写入方式打开 %1：%2</translation>
     </message>
     <message>
         <source>could not rewrite %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法重写 %1：%2</translation>
     </message>
     <message>
         <source>could not write to %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入 %1：%2</translation>
+    </message>
+    <message>
+        <source>no data arrived for %1 seconds from %2</source>
+        <translation>%2 在 %1 秒内没有传来任何数据</translation>
     </message>
     <message>
         <source>the server answered with HTTP %1</source>
-        <translation type="unfinished"></translation>
+        <translation>服务器返回了 HTTP %1</translation>
     </message>
     <message>
         <source>the download wrote no file</source>
-        <translation type="unfinished"></translation>
+        <translation>下载没有写出任何文件</translation>
     </message>
     <message>
         <source>the file&apos;s SHA-1 is %1, not the %2 the manifest asked for (from %3, %4 bytes)</source>
-        <translation type="unfinished"></translation>
+        <translation>文件的 SHA-1 是 %1，但清单要求的是 %2（来自 %3，%4 字节）</translation>
     </message>
     <message>
         <source>the file is %1 bytes, not the %2 the manifest asked for</source>
-        <translation type="unfinished"></translation>
+        <translation>文件为 %1 字节，但清单要求的是 %2 字节</translation>
     </message>
     <message>
         <source>could not replace %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法替换 %1</translation>
     </message>
     <message>
         <source>could not move %1 into place</source>
-        <translation type="unfinished"></translation>
+        <translation>无法把 %1 移到目标位置</translation>
     </message>
 </context>
 <context>
@@ -4616,7 +4663,7 @@ What would you like to do with %2?</source>
     </message>
     <message>
         <source>Failed to import world.</source>
-        <translation>无法导入世界。</translation>
+        <translation type="vanished">无法导入世界。</translation>
     </message>
 </context>
 <context>
@@ -4686,55 +4733,123 @@ What would you like to do with %2?</source>
     <name>InstanceCreator</name>
     <message>
         <source>Reading the list of Minecraft versions</source>
-        <translation type="unfinished"></translation>
+        <translation>正在读取 Minecraft 版本列表</translation>
     </message>
     <message>
         <source>could not read %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取 %1</translation>
     </message>
     <message>
         <source>%1 is not in the version list</source>
-        <translation type="unfinished"></translation>
+        <translation>版本列表中没有 %1</translation>
     </message>
     <message>
         <source>Reading Minecraft %1</source>
-        <translation type="unfinished"></translation>
+        <translation>正在读取 Minecraft %1</translation>
     </message>
     <message>
         <source>Creating the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>正在创建实例</translation>
     </message>
     <message>
         <source>could not create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建 %1</translation>
     </message>
     <message>
-        <source>could not write %1</source>
-        <translation type="unfinished"></translation>
+        <source>only the Fabric, Quilt, Forge and NeoForge loaders are supported so far, not %1</source>
+        <translation>目前仅支持 Fabric、Quilt、Forge 和 NeoForge 加载器，不支持 %1</translation>
+    </message>
+    <message>
+        <source>there is no address for %1</source>
+        <translation>找不到 %1 的地址</translation>
+    </message>
+    <message>
+        <source>Reading the %1 versions</source>
+        <translation>正在读取 %1 版本</translation>
+    </message>
+    <message>
+        <source>there is no %1 metadata here</source>
+        <translation>这里没有 %1 的元数据</translation>
+    </message>
+    <message>
+        <source>%1 has no release for Minecraft %2</source>
+        <translation>%1 没有适用于 Minecraft %2 的发布版本</translation>
+    </message>
+    <message>
+        <source>Reading the %1 profile</source>
+        <translation>正在读取 %1 配置文件</translation>
+    </message>
+    <message>
+        <source>the %1 metadata has no main class</source>
+        <translation>%1 元数据中没有主类</translation>
+    </message>
+    <message>
+        <source>Installing the %1 loader</source>
+        <translation>正在安装 %1 加载器</translation>
+    </message>
+    <message>
+        <source>no Forge version was given</source>
+        <translation>没有指定 Forge 版本</translation>
+    </message>
+    <message>
+        <source>no Java %1 was found to run the Forge installer</source>
+        <translation>找不到可用于运行 Forge 安装器的 Java %1</translation>
+    </message>
+    <message>
+        <source>Running the %1 installer</source>
+        <translation>正在运行 %1 安装器</translation>
+    </message>
+    <message>
+        <source>the Forge installer exited with %1</source>
+        <translation>Forge 安装器退出，代码为 %1</translation>
+    </message>
+    <message>
+        <source>the Forge installer could not be started</source>
+        <translation>无法启动 Forge 安装器</translation>
+    </message>
+    <message>
+        <source>the installer wrote no version description</source>
+        <translation>安装器没有写出任何版本描述</translation>
+    </message>
+    <message>
+        <source>%1 %2 is not a component name</source>
+        <translation>%1 %2 不是组件名称</translation>
+    </message>
+    <message>
+        <source>could not write the %1 metadata</source>
+        <translation>无法写入 %1 元数据</translation>
+    </message>
+    <message>
+        <source>could not write the %1 index</source>
+        <translation>无法写入 %1 索引</translation>
+    </message>
+    <message>
+        <source>Fabric does not list loader %1 for Minecraft %2</source>
+        <translation>Fabric 没有列出适用于 Minecraft %2 的加载器 %1</translation>
     </message>
     <message>
         <source>could not write mmc-pack.json into %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法把 mmc-pack.json 写入 %1</translation>
     </message>
     <message>
         <source>could not write instance.cfg into %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法把 instance.cfg 写入 %1</translation>
     </message>
     <message>
         <source>Checking the files the instance needs</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检查实例所需的文件</translation>
     </message>
     <message>
         <source>the download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>下载失败</translation>
     </message>
     <message>
         <source>Checking the assets the game uses</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检查游戏使用的资源文件</translation>
     </message>
     <message>
         <source>the asset download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>资源文件下载失败</translation>
     </message>
 </context>
 <context>
@@ -4880,113 +4995,116 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>The pack does not contain an mcbbs.packmeta manifest.</source>
-        <translation type="unfinished"></translation>
+        <translation>整合包中没有 mcbbs.packmeta 清单。</translation>
     </message>
     <message>
         <source>Could not read the pack manifest:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取整合包清单：
+%1</translation>
     </message>
     <message>
         <source>The pack does not contain an HMCL modpack.json manifest.</source>
-        <translation type="unfinished"></translation>
+        <translation>整合包中没有 HMCL 的 modpack.json 清单。</translation>
     </message>
     <message>
         <source>The pack does not contain the HMCL instance manifest (minecraft/pack.json), so its game version cannot be determined.</source>
-        <translation type="unfinished"></translation>
+        <translation>整合包中没有 HMCL 实例清单（minecraft/pack.json），因此无法确定其游戏版本。</translation>
     </message>
     <message>
         <source>The pack manifest does not name a Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>整合包清单没有指明 Minecraft 版本。</translation>
     </message>
     <message>
         <source>The pack does not contain the expected %1 folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>整合包中没有预期的 %1 文件夹。</translation>
     </message>
     <message>
         <source>Both the archive root and the game folder contain %1; keeping the one inside the game folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>压缩包根目录和游戏文件夹中都有 %1；保留游戏文件夹中的那一份。</translation>
     </message>
     <message>
         <source>Could not move %1 out of the pack&apos;s game folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法把 %1 移出整合包的游戏文件夹。</translation>
     </message>
     <message>
         <source>The pack names the %1 loader but not its version, so it will not be installed automatically.</source>
-        <translation type="unfinished"></translation>
+        <translation>整合包指明了 %1 加载器但没有指明版本，因此不会自动安装。</translation>
     </message>
     <message>
         <source>Could not write mmc-pack.json into the instance folder.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法把 mmc-pack.json 写入实例文件夹。</translation>
     </message>
     <message>
         <source>Resolving the files the pack expects from CurseForge</source>
-        <translation type="unfinished"></translation>
+        <translation>正在解析整合包从 CurseForge 引用的文件</translation>
     </message>
     <message>
         <source>CurseForge returned no information about the files this pack lists.</source>
-        <translation type="unfinished"></translation>
+        <translation>CurseForge 没有返回该整合包所列文件的信息。</translation>
     </message>
     <message>
         <source>Pack files</source>
-        <translation type="unfinished"></translation>
+        <translation>整合包文件</translation>
     </message>
     <message>
         <source>None of the files this pack lists could be downloaded.</source>
-        <translation type="unfinished"></translation>
+        <translation>该整合包列出的文件全部无法下载。</translation>
     </message>
     <message>
         <source>%1 file(s) in the pack are no longer available from CurseForge and were skipped.</source>
-        <translation type="unfinished"></translation>
+        <translation>整合包中有 %1 个文件已无法从 CurseForge 获取，已跳过。</translation>
     </message>
     <message>
         <source>Could not download the files this pack lists:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法下载该整合包列出的文件：
+%1</translation>
     </message>
     <message>
         <source>Could not ask CurseForge about the files this pack lists:
 %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法向 CurseForge 查询该整合包列出的文件：
+%1</translation>
     </message>
 </context>
 <context>
     <name>InstanceLaunch</name>
     <message>
         <source>Reading the instance</source>
-        <translation type="unfinished"></translation>
+        <translation>正在读取实例</translation>
     </message>
     <message>
         <source>Checking the files the instance needs</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检查实例所需的文件</translation>
     </message>
     <message>
         <source>Fetching the asset index</source>
-        <translation type="unfinished"></translation>
+        <translation>正在获取资源索引</translation>
     </message>
     <message>
         <source>Checking the assets the game uses</source>
-        <translation type="unfinished"></translation>
+        <translation>正在检查游戏使用的资源文件</translation>
     </message>
     <message>
         <source>Copying the assets where this version looks for them</source>
-        <translation type="unfinished"></translation>
+        <translation>正在把资源文件复制到此版本查找的位置</translation>
     </message>
     <message>
         <source>Unpacking the native libraries</source>
-        <translation type="unfinished"></translation>
+        <translation>正在解压本地库</translation>
     </message>
     <message>
         <source>Starting the game</source>
-        <translation type="unfinished"></translation>
+        <translation>正在启动游戏</translation>
     </message>
     <message>
         <source>java did not start: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>java 未能启动：%1</translation>
     </message>
     <message>
         <source>the download failed</source>
-        <translation type="unfinished"></translation>
+        <translation>下载失败</translation>
     </message>
 </context>
 <context>
@@ -5004,11 +5122,11 @@ Proceed with caution!</source>
     </message>
     <message>
         <source>No instances yet.</source>
-        <translation type="unfinished"></translation>
+        <translation>还没有实例。</translation>
     </message>
     <message>
         <source>Instances (core preview)</source>
-        <translation type="unfinished"></translation>
+        <translation>实例（核心预览）</translation>
     </message>
 </context>
 <context>
@@ -5353,23 +5471,23 @@ Please make sure that the maximum memory value is lower.</source>
     </message>
     <message>
         <source>Choose a background image</source>
-        <translation type="unfinished"></translation>
+        <translation>选择背景图片</translation>
     </message>
     <message>
         <source>Images (*.png *.jpg *.jpeg *.bmp *.webp)</source>
-        <translation type="unfinished"></translation>
+        <translation>图片 (*.png *.jpg *.jpeg *.bmp *.webp)</translation>
     </message>
     <message>
         <source>An image shown behind the pages of this instance&apos;s window. The file is not copied: only its location is remembered, so moving or deleting it simply leaves the window plain again.</source>
-        <translation type="unfinished"></translation>
+        <translation>在此实例窗口的各页面背后显示的图片。文件不会被复制：只记住它的位置，因此移动或删除该文件后，窗口会恢复为纯色。</translation>
     </message>
     <message>
         <source>No background chosen</source>
-        <translation type="unfinished"></translation>
+        <translation>未选择背景</translation>
     </message>
     <message>
         <source>Choose image</source>
-        <translation type="unfinished"></translation>
+        <translation>选择图片</translation>
     </message>
     <message>
         <source>Clear</source>
@@ -6274,6 +6392,219 @@ You can change the Java version in the settings later.
     </message>
 </context>
 <context>
+    <name>KomorebiAccountsDialog</name>
+    <message>
+        <source>Komorebi accounts</source>
+        <translation>Komorebi 账户</translation>
+    </message>
+    <message>
+        <source>Games started with the new launch path use the account marked as default. The launcher&apos;s original accounts keep working alongside these. An offline account can be added once a Microsoft account is here.</source>
+        <translation>通过新启动方式启动的游戏会使用标记为默认的账户。启动器原有的账户仍可照常使用。在已有 Microsoft 账户后，才能添加离线账户。</translation>
+    </message>
+    <message>
+        <source>Sign in with Microsoft</source>
+        <translation>用Microsoft账户登录</translation>
+    </message>
+    <message>
+        <source>Add offline account</source>
+        <translation>添加离线账户</translation>
+    </message>
+    <message>
+        <source>Use this account</source>
+        <translation>使用此账户</translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation>删除</translation>
+    </message>
+    <message>
+        <source>%1  (offline)</source>
+        <translation>%1  （离线）</translation>
+    </message>
+    <message>
+        <source>  (default)</source>
+        <translation>  （默认）</translation>
+    </message>
+    <message>
+        <source>Play under a name that never signs in.</source>
+        <translation>使用一个永不登录的名称游玩。</translation>
+    </message>
+    <message>
+        <source>Sign in with Microsoft first: an offline name needs a Microsoft account beside it.</source>
+        <translation>请先用 Microsoft 账户登录：离线名称需要一个 Microsoft 账户与之并存。</translation>
+    </message>
+    <message>
+        <source>The accounts file at %1 could not be read.</source>
+        <translation>无法读取 %1 处的账户文件。</translation>
+    </message>
+    <message>
+        <source>No Komorebi accounts yet. Sign in with Microsoft to add one.</source>
+        <translation>还没有 Komorebi 账户。请用 Microsoft 账户登录来添加。</translation>
+    </message>
+    <message>
+        <source>%1 account(s), kept in %2</source>
+        <translation>%1 个账户，保存在 %2</translation>
+    </message>
+    <message>
+        <source>The sign-in could not be kept safely on this computer.</source>
+        <translation>无法在此计算机上安全保存登录信息。</translation>
+    </message>
+    <message>
+        <source>The account could not be saved at %1.</source>
+        <translation>无法把账户保存到 %1。</translation>
+    </message>
+    <message>
+        <source>Signed in as %1. It is now the account used for launching.</source>
+        <translation>已以 %1 登录。现在用它来启动游戏。</translation>
+    </message>
+    <message>
+        <source>Name to play as:</source>
+        <translation>游玩名称：</translation>
+    </message>
+    <message>
+        <source>An offline account needs a name.</source>
+        <translation>离线账户需要名称。</translation>
+    </message>
+    <message>
+        <source>The offline account could not be saved at %1.</source>
+        <translation>无法把离线账户保存到 %1。</translation>
+    </message>
+    <message>
+        <source>%1 will be used for launching.</source>
+        <translation>将使用 %1 启动游戏。</translation>
+    </message>
+    <message>
+        <source>Remove account</source>
+        <translation>删除账户</translation>
+    </message>
+    <message>
+        <source>Remove %1 from the launcher? The account itself is not affected.</source>
+        <translation>要从启动器中删除 %1 吗？账户本身不受影响。</translation>
+    </message>
+    <message>
+        <source>Remove the offline accounts first: they need a Microsoft account to stand beside.</source>
+        <translation>请先删除离线账户：它们需要一个 Microsoft 账户与之并存。</translation>
+    </message>
+    <message>
+        <source>That account is not stored any more.</source>
+        <translation>该账户已不再存储。</translation>
+    </message>
+    <message>
+        <source>The account could not be removed from %1.</source>
+        <translation>无法从 %1 中删除该账户。</translation>
+    </message>
+    <message>
+        <source>Removed %1.</source>
+        <translation>已删除 %1。</translation>
+    </message>
+</context>
+<context>
+    <name>KomorebiDeviceCodeDialog</name>
+    <message>
+        <source>Sign in with Microsoft</source>
+        <translation>用Microsoft账户登录</translation>
+    </message>
+    <message>
+        <source>Open the address below in a browser and enter the code. This window will wait for you.</source>
+        <translation>在浏览器中打开下面的地址并输入代码。此窗口会等待你完成。</translation>
+    </message>
+    <message>
+        <source>Copy code</source>
+        <translation>复制代码</translation>
+    </message>
+    <message>
+        <source>Open page</source>
+        <translation>打开页面</translation>
+    </message>
+    <message>
+        <source>Asking Microsoft for a code…</source>
+        <translation>正在向 Microsoft 请求代码…</translation>
+    </message>
+    <message>
+        <source>Waiting for you to approve the sign-in in the browser. The code is good for %1 minutes.</source>
+        <translation>正在等待你在浏览器中批准登录。代码 %1 分钟内有效。</translation>
+    </message>
+    <message>
+        <source>The sign-in could not finish: %1</source>
+        <translation>登录未能完成：%1</translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation>关闭</translation>
+    </message>
+    <message>
+        <source>Code copied. Paste it into the browser.</source>
+        <translation>代码已复制。请粘贴到浏览器中。</translation>
+    </message>
+</context>
+<context>
+    <name>KomorebiNewInstanceDialog</name>
+    <message>
+        <source>New instance</source>
+        <translation>新建实例</translation>
+    </message>
+    <message>
+        <source>what to call it</source>
+        <translation>给它起个名字</translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation>名称</translation>
+    </message>
+    <message>
+        <source>reading the version list</source>
+        <translation>正在读取版本列表</translation>
+    </message>
+    <message>
+        <source>Minecraft</source>
+        <translation>Minecraft</translation>
+    </message>
+    <message>
+        <source>Loader</source>
+        <translation>加载器</translation>
+    </message>
+    <message>
+        <source>Loader version</source>
+        <translation>加载器版本</translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation>创建</translation>
+    </message>
+    <message>
+        <source>Reading the list of Minecraft versions</source>
+        <translation>正在读取 Minecraft 版本列表</translation>
+    </message>
+    <message>
+        <source>Could not read the version list: %1</source>
+        <translation>无法读取版本列表：%1</translation>
+    </message>
+    <message>
+        <source>%1 versions. Newest release: %2</source>
+        <translation>%1 个版本。最新正式版：%2</translation>
+    </message>
+    <message>
+        <source>The instance needs a name.</source>
+        <translation>实例需要名称。</translation>
+    </message>
+    <message>
+        <source>Choose the Minecraft version to run.</source>
+        <translation>选择要运行的 Minecraft 版本。</translation>
+    </message>
+    <message>
+        <source>Forge needs its own version.</source>
+        <translation>Forge 需要自己的版本号。</translation>
+    </message>
+    <message>
+        <source>Preparing</source>
+        <translation>正在准备</translation>
+    </message>
+    <message>
+        <source>Could not create the instance: %1</source>
+        <translation>无法创建实例：%1</translation>
+    </message>
+</context>
+<context>
     <name>LanguagePage</name>
     <message>
         <source>Language</source>
@@ -6654,13 +6985,15 @@ Install the agent into this instance now?</source>
     </message>
     <message>
         <source>authlib-injector points at another server</source>
-        <translation type="unfinished"></translation>
+        <translation>authlib-injector 指向了另一个服务器</translation>
     </message>
     <message>
         <source>The authlib-injector agent in this instance sends the game&apos;s authentication to %1, but this account signs in through %2. Skins and online-mode servers will not work until the agent is reinstalled for the current account.
 
 Reinstall it now?</source>
-        <translation type="unfinished"></translation>
+        <translation>此实例中的 authlib-injector 代理把游戏的验证发往 %1，但此账户是通过 %2 登录的。在为当前账户重新安装该代理之前，皮肤和正版验证服务器都无法正常工作。
+
+现在重新安装吗？</translation>
     </message>
 </context>
 <context>
@@ -6718,7 +7051,7 @@ You may have to fix your mods because the game is still logging to files and lik
     </message>
     <message>
         <source>Mojang refused this build&apos;s application ID, so it cannot sign in to Minecraft. The registration is either not approved or no longer approved; see https://aka.ms/AppRegInfo. Third-party server accounts still work.</source>
-        <translation type="unfinished"></translation>
+        <translation>Mojang 拒绝了这个版本的应用程序 ID，因此无法登录 Minecraft。该注册可能未获批准或已不再获准；参见 https://aka.ms/AppRegInfo。第三方服务器账户仍可正常使用。</translation>
     </message>
 </context>
 <context>
@@ -7695,7 +8028,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7977,7 +8310,7 @@ Reason:
     </message>
     <message>
         <source>The sign-in code expired before it was used. Sign in again to get a new one.</source>
-        <translation type="unfinished"></translation>
+        <translation>登录代码在使用前已过期。请重新登录以获取新代码。</translation>
     </message>
 </context>
 <context>
@@ -8076,7 +8409,7 @@ Reason:
     </message>
     <message>
         <source>Microsoft refused the application ID this build uses, not your account. That means the registration is misconfigured, or it no longer has access to the Minecraft services API. Third-party server accounts are unaffected.</source>
-        <translation type="unfinished"></translation>
+        <translation>Microsoft 拒绝了这个版本使用的应用程序 ID，而不是你的账户。这意味着该注册配置有误，或已无权访问 Minecraft 服务 API。第三方服务器账户不受影响。</translation>
     </message>
 </context>
 <context>
@@ -8130,7 +8463,7 @@ Reason:
     </message>
     <message>
         <source>Pick one on the left to get started.</source>
-        <translation type="unfinished"></translation>
+        <translation>从左侧选择一个开始。</translation>
     </message>
 </context>
 <context>
@@ -8938,7 +9271,7 @@ Reason:
     </message>
     <message>
         <source>Ctrl+%1</source>
-        <translation>Ctrl+%1</translation>
+        <translation type="vanished">Ctrl+%1</translation>
     </message>
     <message>
         <source>No Default Account</source>
@@ -9127,6 +9460,18 @@ Are you sure?</source>
         <translation>重命名群组 (&amp;R)</translation>
     </message>
     <message>
+        <source>%1 (offline)</source>
+        <translation>%1（离线）</translation>
+    </message>
+    <message>
+        <source>No account</source>
+        <translation>未登录</translation>
+    </message>
+    <message>
+        <source>Komorebi accounts…</source>
+        <translation>Komorebi 账户…</translation>
+    </message>
+    <message>
         <source>Unsupported Modrinth link.
 
 Komorebi Launcher currently only supports modpack links such as modrinth://modpack/fabulously-optimized.</source>
@@ -9217,7 +9562,7 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     <message numerus="yes">
         <source> and its %n registered shortcut(s)</source>
         <translation>
-            <numerusform> 以及它 %n 个注册的快捷方式</numerusform>
+            <numerusform> 及其 %n 个已注册的快捷方式</numerusform>
         </translation>
     </message>
     <message>
@@ -9326,7 +9671,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Instances (core preview)</source>
-        <translation type="unfinished"></translation>
+        <translation>实例（核心预览）</translation>
     </message>
 </context>
 <context>
@@ -9514,7 +9859,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="vanished">正在加载本地文件</translation>
+        <translation>正在加载本地文件</translation>
     </message>
 </context>
 <context>
@@ -9535,6 +9880,85 @@ Are you sure?</source>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
         <translation>加载 %1 的元数据</translation>
+    </message>
+</context>
+<context>
+    <name>MicrosoftAuth</name>
+    <message>
+        <source>no Microsoft app id is configured</source>
+        <translation>未配置 Microsoft 应用 ID</translation>
+    </message>
+    <message>
+        <source>Microsoft would not start a sign-in: %1</source>
+        <translation>Microsoft 未能开始登录：%1</translation>
+    </message>
+    <message>
+        <source>Microsoft returned no device code</source>
+        <translation>Microsoft 没有返回设备代码</translation>
+    </message>
+    <message>
+        <source>sign-in failed: %1</source>
+        <translation>登录失败：%1</translation>
+    </message>
+    <message>
+        <source>Microsoft returned no access token</source>
+        <translation>Microsoft 没有返回访问令牌</translation>
+    </message>
+    <message>
+        <source>there is no refresh token to use</source>
+        <translation>没有可用的刷新令牌</translation>
+    </message>
+    <message>
+        <source>the sign-in could not be renewed: %1</source>
+        <translation>无法续期登录：%1</translation>
+    </message>
+    <message>
+        <source>Xbox Live refused the sign-in: %1</source>
+        <translation>Xbox Live 拒绝了登录：%1</translation>
+    </message>
+    <message>
+        <source>Xbox Live returned no token</source>
+        <translation>Xbox Live 没有返回令牌</translation>
+    </message>
+    <message>
+        <source>this Microsoft account has no Xbox profile yet; sign in to Xbox once</source>
+        <translation>此 Microsoft 账户还没有 Xbox 档案；请先登录一次 Xbox</translation>
+    </message>
+    <message>
+        <source>this account is a child account and needs a family group</source>
+        <translation>此账户是儿童账户，需要加入家庭组</translation>
+    </message>
+    <message>
+        <source>XSTS refused the sign-in: %1</source>
+        <translation>XSTS 拒绝了登录：%1</translation>
+    </message>
+    <message>
+        <source>XSTS returned no token</source>
+        <translation>XSTS 没有返回令牌</translation>
+    </message>
+    <message>
+        <source>Minecraft services refused this account</source>
+        <translation>Minecraft 服务拒绝了此账户</translation>
+    </message>
+    <message>
+        <source>Minecraft services refused the sign-in: %1</source>
+        <translation>Minecraft 服务拒绝了登录：%1</translation>
+    </message>
+    <message>
+        <source>Minecraft services returned no access token</source>
+        <translation>Minecraft 服务没有返回访问令牌</translation>
+    </message>
+    <message>
+        <source>this account does not own Minecraft</source>
+        <translation>此账户未拥有 Minecraft</translation>
+    </message>
+    <message>
+        <source>the Minecraft profile could not be read: %1</source>
+        <translation>无法读取 Minecraft 档案：%1</translation>
+    </message>
+    <message>
+        <source>the Minecraft profile came back without a name</source>
+        <translation>返回的 Minecraft 档案没有名称</translation>
     </message>
 </context>
 <context>
@@ -10688,7 +11112,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be enabled
 </source>
         <translation>
-            <numerusform>%n 个 Mod 将会被启用
+            <numerusform>将启用 %n 个 Mod
 </numerusform>
         </translation>
     </message>
@@ -10700,7 +11124,7 @@ Warning: This resource is hard linked elsewhere. Editing it will also change the
         <source>%n mod(s) will be disabled
 </source>
         <translation>
-            <numerusform>%n 个 Mod 将会被禁用
+            <numerusform>将禁用 %n 个 Mod
 </numerusform>
         </translation>
     </message>
@@ -11900,14 +12324,14 @@ NOTE: Make sure you made a backup of your important instance data before updatin
         <source>Request Rate Limited for %n second(s): Retry After %1</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>请求频率过高，持续 %n 秒：请在 %1 之后重试</numerusform>
+            <numerusform>请求受到速率限制 %n 秒：请在 %1 后重试</numerusform>
         </translation>
     </message>
     <message numerus="yes">
         <source>Rate Limited: Waiting %n second(s)</source>
         <comment>seconds</comment>
         <translation>
-            <numerusform>请求频率过高：等待 %n 秒后自动重试</numerusform>
+            <numerusform>受到速率限制：等待 %n 秒</numerusform>
         </translation>
     </message>
     <message>
@@ -12605,108 +13029,108 @@ Are you sure?</source>
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation>无法解析包清单：
+        <translation type="vanished">无法解析包清单：
 </translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>不支持的安装模式</translation>
+        <translation type="vanished">不支持的安装模式</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>无法获取 %1(v%2) 的本地元数据索引</translation>
+        <translation type="vanished">无法获取 %1(v%2) 的本地元数据索引</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>正在删除现有文件...</translation>
+        <translation type="vanished">正在删除现有文件...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>未知的 Mod 类型：%1</translation>
+        <translation type="vanished">未知的 Mod 类型：%1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>无法获取 %1 的本地元数据索引</translation>
+        <translation type="vanished">无法获取 %1 的本地元数据索引</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>无法找到 %1 加载器的合适版本</translation>
+        <translation type="vanished">无法找到 %1 加载器的合适版本</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>尚未设置整合包所使用的加载器版本！</translation>
+        <translation type="vanished">尚未设置整合包所使用的加载器版本！</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>未知或不支持的下载类型：%1</translation>
+        <translation type="vanished">未知或不支持的下载类型：%1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>正在下载配置文件…</translation>
+        <translation type="vanished">正在下载配置文件…</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>下载配置文件</translation>
+        <translation type="vanished">下载配置文件</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>正在解压配置文件…</translation>
+        <translation type="vanished">正在解压配置文件…</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>正在选择可选 Mod…</translation>
+        <translation type="vanished">正在选择可选 Mod…</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>正在下载 Mod...</translation>
+        <translation type="vanished">正在下载 Mod...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Mod 下载</translation>
+        <translation type="vanished">Mod 下载</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>未知的下载类型：%1</translation>
+        <translation type="vanished">未知的下载类型：%1</translation>
     </message>
     <message>
         <source>Blocked path traversal in %1</source>
-        <translation>已阻止对 %1 进行路径遍历的行为</translation>
+        <translation type="vanished">已阻止对 %1 进行路径遍历的行为</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>发现被屏蔽的 Mod</translation>
+        <translation type="vanished">发现被屏蔽的 Mod</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation>下列文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载并将它们添加到实例中。</translation>
+        <translation type="vanished">下列文件无法在第三方启动器中下载。&lt;br/&gt;你需要手动下载并将它们添加到实例中。</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation>已完成 %1/%2</translation>
+        <translation type="vanished">已完成 %1/%2</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Mod 解压失败…</translation>
+        <translation type="vanished">Mod 解压失败…</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>正在解压 Mod…</translation>
+        <translation type="vanished">正在解压 Mod…</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>正在安装整合包</translation>
+        <translation type="vanished">正在安装整合包</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>无法创建库组件</translation>
+        <translation type="vanished">无法创建库组件</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>未知的加载器类型： </translation>
+        <translation type="vanished">未知的加载器类型： </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>无法创建包组件</translation>
+        <translation type="vanished">无法创建包组件</translation>
     </message>
 </context>
 <context>
@@ -13549,7 +13973,7 @@ HTTP 状态码：%2</translation>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 （使用中）</translation>
+        <translation type="vanished">%1 （使用中）</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -14255,13 +14679,13 @@ New name: %2</source>
 
 Do you wish to proceed?</source>
         <translation>
-            <numerusform>下列实例可能引用了这个实例的文件：
+            <numerusform>以下实例可能引用了此实例中的文件：
 
 %1
 
-%2 这可能会损坏其他的实例， 
+%2 可能会破坏其他实例，
 
-你是否仍要继续？</numerusform>
+要继续吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -14474,71 +14898,59 @@ Error message: %3</source>
     </message>
     <message>
         <source>Skipped a pack entry with no download source: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>已跳过没有下载来源的整合包条目：%1</translation>
     </message>
     <message>
         <source>The MCBBS manifest is not valid JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>MCBBS 清单不是有效的 JSON：%1</translation>
     </message>
     <message>
         <source>The manifest declares the type &quot;%1&quot;, not minecraftModpack.</source>
-        <translation type="unfinished"></translation>
+        <translation>清单声明的类型是“%1”，而不是 minecraftModpack。</translation>
     </message>
     <message>
         <source>Imported pack</source>
-        <translation type="unfinished"></translation>
+        <translation>已导入的整合包</translation>
     </message>
     <message>
         <source>The MCBBS manifest does not name a Minecraft version.</source>
-        <translation type="unfinished"></translation>
+        <translation>MCBBS 清单没有指明 Minecraft 版本。</translation>
     </message>
     <message>
         <source>The HMCL modpack manifest is not valid JSON: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>HMCL 整合包清单不是有效的 JSON：%1</translation>
     </message>
     <message>
         <source>minecraft/pack.json could not be read; the game version will be taken from the pack contents.</source>
-        <translation type="unfinished"></translation>
+        <translation>无法读取 minecraft/pack.json；游戏版本将根据整合包内容确定。</translation>
     </message>
     <message>
         <source>Could not start the instance</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>the asset %1 is missing from assets/objects</source>
-        <translation type="unfinished"></translation>
+        <translation>无法启动实例</translation>
     </message>
     <message>
         <source>could not create the folder for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>could not replace %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>could not copy %1 to %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法为 %1 创建文件夹</translation>
     </message>
     <message>
         <source>could not open %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法打开 %1：%2</translation>
     </message>
     <message>
         <source>could not write %1: %2</source>
-        <translation type="unfinished"></translation>
+        <translation>无法写入 %1：%2</translation>
     </message>
     <message>
         <source>could not create %1</source>
-        <translation type="unfinished"></translation>
+        <translation>无法创建 %1</translation>
     </message>
     <message>
         <source>the natives jar %1 is missing</source>
-        <translation type="unfinished"></translation>
+        <translation>缺少本地库 jar %1</translation>
     </message>
     <message>
         <source>The game exited with code %1.</source>
-        <translation type="unfinished"></translation>
+        <translation>游戏已退出，代码为 %1。</translation>
     </message>
     <message>
         <source>Diagnosis: %1</source>
@@ -14549,12 +14961,48 @@ Error message: %3</source>
         <translation>建议：%1</translation>
     </message>
     <message>
+        <source>Renewing the Komorebi account&apos;s sign-in…</source>
+        <translation>正在续期 Komorebi 账户的登录…</translation>
+    </message>
+    <message>
+        <source>The Komorebi account&apos;s sign-in has expired (%1); sign in again from the accounts menu.</source>
+        <translation>Komorebi 账户的登录已过期（%1）；请从账户菜单重新登录。</translation>
+    </message>
+    <message>
         <source>the Java this instance names does not exist: %1</source>
-        <translation type="unfinished"></translation>
+        <translation>此实例指定的 Java 不存在：%1</translation>
     </message>
     <message>
         <source>no Java %1 was found on this machine</source>
-        <translation type="unfinished"></translation>
+        <translation>此计算机上找不到 Java %1</translation>
+    </message>
+    <message>
+        <source>None (vanilla)</source>
+        <translation>无（原版）</translation>
+    </message>
+    <message>
+        <source>Fabric</source>
+        <translation>Fabric</translation>
+    </message>
+    <message>
+        <source>leave empty for the newest</source>
+        <translation>留空以使用最新版本</translation>
+    </message>
+    <message>
+        <source>Quilt</source>
+        <translation>Quilt</translation>
+    </message>
+    <message>
+        <source>Forge</source>
+        <translation>Forge</translation>
+    </message>
+    <message>
+        <source>required, for example 47.4.0</source>
+        <translation>必填，例如 47.4.0</translation>
+    </message>
+    <message>
+        <source>NeoForge</source>
+        <translation>NeoForge</translation>
     </message>
 </context>
 <context>
@@ -15610,34 +16058,41 @@ Are you sure?</source>
     </message>
     <message>
         <source>ImgBB API key</source>
-        <translation type="unfinished"></translation>
+        <translation>ImgBB API 密钥</translation>
     </message>
     <message>
         <source>Uploading screenshots uses ImgBB and needs an API key from your own account.
 Get one at https://api.imgbb.com/ and paste it here. It is stored on this computer only.</source>
-        <translation type="unfinished"></translation>
+        <translation>上传截图使用 ImgBB，需要你自己账户的 API 密钥。
+请在 https://api.imgbb.com/ 获取一个并粘贴到这里。它只保存在此计算机上。</translation>
     </message>
     <message>
         <source>You are about to upload %1 screenshots to ImgBB.
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>即将把 %1 张截图上传到 ImgBB。
+请仔细检查是否包含个人信息。
+
+确定吗？</translation>
     </message>
     <message>
         <source>You are about to upload the selected screenshot to ImgBB.
 You should double-check for personal information.
 
 Are you sure?</source>
-        <translation type="unfinished"></translation>
+        <translation>即将把所选截图上传到 ImgBB。
+请仔细检查是否包含个人信息。
+
+确定吗？</translation>
     </message>
     <message>
         <source>The &lt;a href=&quot;%1&quot;&gt;link to the uploaded screenshot&lt;/a&gt; has been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>已把&lt;a href=&quot;%1&quot;&gt;上传截图的链接&lt;/a&gt;复制到剪贴板。</translation>
     </message>
     <message>
         <source>%1 links have been placed in your clipboard.</source>
-        <translation type="unfinished"></translation>
+        <translation>已把 %1 个链接复制到剪贴板。</translation>
     </message>
 </context>
 <context>
@@ -16798,7 +17253,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1：
+        <translation>%1：
 %2 已翻译
 %3 模糊
 %4 总计</translation>
@@ -17912,10 +18367,10 @@ These worlds may be gone forever (A LONG TIME).
 
 Are you sure?</source>
         <translation>
-            <numerusform>你将要删除 %n 个世界。
-世界将会永久消失（真的很久）。
+            <numerusform>即将删除 %n 个世界。
+这些世界可能会永远消失（很久很久）。
 
-你确定要这样做吗？</numerusform>
+确定吗？</numerusform>
         </translation>
     </message>
     <message>
@@ -18222,7 +18677,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>The address must not contain a user name or password.</source>
-        <translation type="unfinished"></translation>
+        <translation>地址中不能包含用户名或密码。</translation>
     </message>
 </context>
 <context>
@@ -18277,7 +18732,7 @@ Please set up your account according to %1.</source>
     </message>
     <message>
         <source>The authentication server address contains a user name or password. Remove it and sign in again.</source>
-        <translation type="unfinished"></translation>
+        <translation>验证服务器地址中包含用户名或密码。请去掉后重新登录。</translation>
     </message>
 </context>
 </TS>

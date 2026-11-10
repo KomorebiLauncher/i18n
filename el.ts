@@ -239,52 +239,52 @@
     <message>
         <source>Could not understand pack manifest:
 </source>
-        <translation type="vanished">Αδυναμία αναγνώρισης του pack manifest:
+        <translation>Αδυναμία αναγνώρισης του pack manifest:
 </translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation type="vanished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για %1</translation>
+        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation type="vanished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
+        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Unsupported installation mode</source>
-        <translation type="vanished">Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
+        <translation>Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation type="vanished">Διαγραφή υπαρχόντων αρχείων...</translation>
+        <translation>Διαγραφή υπαρχόντων αρχείων...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation type="vanished">Άγνωστος τύπος mod: %1</translation>
+        <translation>Άγνωστος τύπος mod: %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation type="vanished">Απέτυχε η εύρεση έκδοσης για %1 loader</translation>
+        <translation>Απέτυχε η εύρεση έκδοσης για %1 loader</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation type="vanished">Δεν έχει οριστεί έκδοση loader για το modpack!</translation>
+        <translation>Δεν έχει οριστεί έκδοση loader για το modpack!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation type="vanished">Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
+        <translation>Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation type="vanished">Γίνεται λήψη ρυθμίσεων...</translation>
+        <translation>Γίνεται λήψη ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation type="vanished">Λήψη ρυθμίσεων</translation>
+        <translation>Λήψη ρυθμίσεων</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation type="vanished">Εξαγωγή ρυθμίσεων...</translation>
+        <translation>Εξαγωγή ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Failed to open pack configs %1!</source>
@@ -292,15 +292,15 @@
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation type="vanished">Επιλογή προαιρετικών mod...</translation>
+        <translation>Επιλογή προαιρετικών mod...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation type="vanished">Λήψη mods...</translation>
+        <translation>Λήψη mods...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation type="vanished">Λήψη Mod</translation>
+        <translation>Λήψη Mod</translation>
     </message>
     <message>
         <source>Unsupported download type: %1</source>
@@ -308,43 +308,47 @@
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation type="vanished">Άγνωστος τύπος λήψης: %1</translation>
+        <translation>Άγνωστος τύπος λήψης: %1</translation>
+    </message>
+    <message>
+        <source>Blocked path traversal in %1</source>
+        <translation type="unfinished"></translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation type="vanished">Μπλοκαρισμένα mods βρέθηκαν</translation>
+        <translation>Μπλοκαρισμένα mods βρέθηκαν</translation>
     </message>
     <message>
         <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="vanished">Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε τρίτους εκκινητές. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην instance.</translation>
+        <translation>Τα παρακάτω αρχεία δεν είναι διαθέσιμα για λήψη σε τρίτους εκκινητές. &lt;br/&gt;Θα χρειαστεί να τα κατεβάσετε χειροκίνητα και να τα προσθέσετε στην instance.</translation>
     </message>
     <message>
         <source>%1 out of %2 complete</source>
-        <translation type="vanished">Ολοκληρώθηκε 1% από 2%</translation>
+        <translation>Ολοκληρώθηκε 1% από 2%</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation type="vanished">Αδυναμία εξαγωγής mods...</translation>
+        <translation>Αδυναμία εξαγωγής mods...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation type="vanished">Εξαγωγή mods...</translation>
+        <translation>Εξαγωγή mods...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation type="vanished">Εγκατάσταση modpack</translation>
+        <translation>Εγκατάσταση modpack</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
+        <translation>Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation type="vanished">Άγνωστος τύπος φορτωτή: </translation>
+        <translation>Άγνωστος τύπος φορτωτή: </translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
+        <translation>Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
     </message>
 </context>
 <context>
@@ -1417,7 +1421,7 @@ Some versions of Minecraft may not launch.
     <name>BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation>Γίνεται φόρτωση τοπικού αρχείου</translation>
+        <translation type="vanished">Γίνεται φόρτωση τοπικού αρχείου</translation>
     </message>
 </context>
 <context>
@@ -1818,7 +1822,7 @@ Some versions of Minecraft may not launch.
     </message>
     <message>
         <source>Failed to copy world.</source>
-        <translation>Αποτυχία αντιγραφής του κόσμου.</translation>
+        <translation type="vanished">Αποτυχία αντιγραφής του κόσμου.</translation>
     </message>
 </context>
 <context>
@@ -1830,6 +1834,49 @@ Some versions of Minecraft may not launch.
     <message>
         <source>Core Mods</source>
         <translation>Βασικές Τροποποιήσεις</translation>
+    </message>
+</context>
+<context>
+    <name>CoreSettingsPage</name>
+    <message>
+        <source>Start instances with the new core</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create instances with the new wizard</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The core reads the instance&apos;s folder and fetches what the game is missing before starting it. Turning this off falls back to the launcher&apos;s original launch path.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The wizard asks for a name, a game version and, if wanted, a mod loader, and writes the instance through the core. Turning this off falls back to the launcher&apos;s original dialog.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play as the Komorebi account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>A Komorebi account starts the game through the core&apos;s own Microsoft sign-in. Turning this off, or having no account here, uses the launcher&apos;s original account.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Manage accounts…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Downloads come from</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Official uses the addresses the version manifests name. A mirror is used where it has the file, with the original address kept as a fallback.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Komorebi</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -2410,7 +2457,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Failed to delete world.</source>
-        <translation>Αποτυχία διαγραφής του κόσμου.</translation>
+        <translation type="vanished">Αποτυχία διαγραφής του κόσμου.</translation>
     </message>
 </context>
 <context>
@@ -3392,7 +3439,7 @@ Please try again.</source>
     <name>FTBImportAPP::ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation type="vanished">Minecraft %1</translation>
+        <translation>Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -3422,6 +3469,10 @@ Please try again.</source>
     </message>
     <message>
         <source>could not write to %1: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no data arrived for %1 seconds from %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -4268,10 +4319,6 @@ What would you like to do with %2?</source>
         <source>Importing world...</source>
         <translation type="unfinished"></translation>
     </message>
-    <message>
-        <source>Failed to import world.</source>
-        <translation type="unfinished"></translation>
-    </message>
 </context>
 <context>
     <name>InstanceCardWidget</name>
@@ -4363,7 +4410,75 @@ What would you like to do with %2?</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>could not write %1</source>
+        <source>only the Fabric, Quilt, Forge and NeoForge loaders are supported so far, not %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>there is no address for %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading the %1 versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>there is no %1 metadata here</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 has no release for Minecraft %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading the %1 profile</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the %1 metadata has no main class</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Installing the %1 loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no Forge version was given</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>no Java %1 was found to run the Forge installer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Running the %1 installer</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Forge installer exited with %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Forge installer could not be started</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the installer wrote no version description</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 %2 is not a component name</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write the %1 metadata</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>could not write the %1 index</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fabric does not list loader %1 for Minecraft %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -5540,6 +5655,219 @@ You can change the Java version in the settings later.
     <message>
         <source>You are exceeding the maximum allocation supported by 32-bit installations of Java.</source>
         <translation>Υπερβαίνετε το μέγιστο όριο που υποστηρίζεται από τις εγκαταστάσεις «Java 32-bit».</translation>
+    </message>
+</context>
+<context>
+    <name>KomorebiAccountsDialog</name>
+    <message>
+        <source>Komorebi accounts</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Games started with the new launch path use the account marked as default. The launcher&apos;s original accounts keep working alongside these. An offline account can be added once a Microsoft account is here.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in with Microsoft</source>
+        <translation type="unfinished">Σύνδεση μέσω «Microsoft»</translation>
+    </message>
+    <message>
+        <source>Add offline account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Use this account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove</source>
+        <translation type="unfinished">Αφαίρεση</translation>
+    </message>
+    <message>
+        <source>%1  (offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>  (default)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Play under a name that never signs in.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Sign in with Microsoft first: an offline name needs a Microsoft account beside it.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The accounts file at %1 could not be read.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No Komorebi accounts yet. Sign in with Microsoft to add one.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 account(s), kept in %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sign-in could not be kept safely on this computer.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account could not be saved at %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Signed in as %1. It is now the account used for launching.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name to play as:</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>An offline account needs a name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The offline account could not be saved at %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 will be used for launching.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove %1 from the launcher? The account itself is not affected.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Remove the offline accounts first: they need a Microsoft account to stand beside.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>That account is not stored any more.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The account could not be removed from %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Removed %1.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KomorebiDeviceCodeDialog</name>
+    <message>
+        <source>Sign in with Microsoft</source>
+        <translation type="unfinished">Σύνδεση μέσω «Microsoft»</translation>
+    </message>
+    <message>
+        <source>Open the address below in a browser and enter the code. This window will wait for you.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Copy code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Open page</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Asking Microsoft for a code…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Waiting for you to approve the sign-in in the browser. The code is good for %1 minutes.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The sign-in could not finish: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Close</source>
+        <translation type="unfinished">Κλείσιμο</translation>
+    </message>
+    <message>
+        <source>Code copied. Paste it into the browser.</source>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>KomorebiNewInstanceDialog</name>
+    <message>
+        <source>New instance</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>what to call it</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Name</source>
+        <translation type="unfinished">Όνομα</translation>
+    </message>
+    <message>
+        <source>reading the version list</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft</source>
+        <translation type="unfinished">Minecraft</translation>
+    </message>
+    <message>
+        <source>Loader</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Loader version</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Create</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Reading the list of Minecraft versions</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not read the version list: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 versions. Newest release: %2</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The instance needs a name.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Choose the Minecraft version to run.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Forge needs its own version.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Preparing</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Could not create the instance: %1</source>
+        <translation type="unfinished"></translation>
     </message>
 </context>
 <context>
@@ -6733,7 +7061,7 @@ Reason:
     <name>ListModel</name>
     <message>
         <source>Minecraft %1</source>
-        <translation>Minecraft %1</translation>
+        <translation type="vanished">Minecraft %1</translation>
     </message>
 </context>
 <context>
@@ -7683,10 +8011,6 @@ Reason:
         <translation>Δεν έχουν προστεθεί λογαριασμοί!</translation>
     </message>
     <message>
-        <source>Ctrl+%1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>No Default Account</source>
         <translation>Δεν υπάρχει προεπιλεγμένος λογαριασμός</translation>
     </message>
@@ -7814,6 +8138,18 @@ To clear the metadata cache manually, press Folders -&gt; View Launcher Root Fol
     </message>
     <message>
         <source>&amp;Rename group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>%1 (offline)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>No account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Komorebi accounts…</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -8051,7 +8387,7 @@ Are you sure?</source>
     <name>Meta::BaseEntityLoadTask</name>
     <message>
         <source>Loading local file</source>
-        <translation type="obsolete">Γίνεται φόρτωση τοπικού αρχείου</translation>
+        <translation type="unfinished">Γίνεται φόρτωση τοπικού αρχείου</translation>
     </message>
 </context>
 <context>
@@ -8071,6 +8407,85 @@ Are you sure?</source>
     <message>
         <source>Load meta for %1</source>
         <comment>This is for the task name that loads the meta index.</comment>
+        <translation type="unfinished"></translation>
+    </message>
+</context>
+<context>
+    <name>MicrosoftAuth</name>
+    <message>
+        <source>no Microsoft app id is configured</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft would not start a sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft returned no device code</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>sign-in failed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Microsoft returned no access token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>there is no refresh token to use</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the sign-in could not be renewed: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xbox Live refused the sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Xbox Live returned no token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>this Microsoft account has no Xbox profile yet; sign in to Xbox once</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>this account is a child account and needs a family group</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XSTS refused the sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>XSTS returned no token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft services refused this account</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft services refused the sign-in: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Minecraft services returned no access token</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>this account does not own Minecraft</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Minecraft profile could not be read: %1</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>the Minecraft profile came back without a name</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -10196,108 +10611,91 @@ Are you sure?</source>
     <name>PackInstallTask</name>
     <message>
         <source>Unsupported installation mode</source>
-        <translation>Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
+        <translation type="vanished">Μη υποστηριζόμενη λειτουργία εγκατάστασης</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for &apos;%1&apos; v%2</source>
-        <translation>Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
+        <translation type="vanished">Αποτυχία ανάγνωσης του τοπικού ευρετηρίου μεταδεδομένων για το &apos;%1&apos; v%2</translation>
     </message>
     <message>
         <source>Deleting existing files...</source>
-        <translation>Διαγραφή υπαρχόντων αρχείων...</translation>
+        <translation type="vanished">Διαγραφή υπαρχόντων αρχείων...</translation>
     </message>
     <message>
         <source>Unknown mod type: %1</source>
-        <translation>Άγνωστος τύπος τροποποιήσης: %1</translation>
+        <translation type="vanished">Άγνωστος τύπος τροποποιήσης: %1</translation>
     </message>
     <message>
         <source>Failed to get local metadata index for %1</source>
-        <translation>Δεν κατέστη δυνατή η απόκτηση τοπικού ευρετηρίου μεταδεδομένων για το %1</translation>
+        <translation type="vanished">Δεν κατέστη δυνατή η απόκτηση τοπικού ευρετηρίου μεταδεδομένων για το %1</translation>
     </message>
     <message>
         <source>Failed to find version for %1 loader</source>
-        <translation>Απέτυχε η εύρεση έκδοσης για %1 φορτωτή</translation>
+        <translation type="vanished">Απέτυχε η εύρεση έκδοσης για %1 φορτωτή</translation>
     </message>
     <message>
         <source>No loader version set for modpack!</source>
-        <translation>Δεν έχει οριστεί έκδοση φορτωτή για το πακέτο τροποποιήσεων!</translation>
+        <translation type="vanished">Δεν έχει οριστεί έκδοση φορτωτή για το πακέτο τροποποιήσεων!</translation>
     </message>
     <message>
         <source>Unknown or unsupported download type: %1</source>
-        <translation>Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
+        <translation type="vanished">Άγνωστος ή μη υποστηριζόμενος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Downloading configs...</source>
-        <translation>Γίνεται λήψη ρυθμίσεων...</translation>
+        <translation type="vanished">Γίνεται λήψη ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Config download</source>
-        <translation>Λήψη ρυθμίσεων</translation>
+        <translation type="vanished">Λήψη ρυθμίσεων</translation>
     </message>
     <message>
         <source>Extracting configs...</source>
-        <translation>Εξαγωγή ρυθμίσεων...</translation>
+        <translation type="vanished">Εξαγωγή ρυθμίσεων...</translation>
     </message>
     <message>
         <source>Selecting optional mods...</source>
-        <translation>Επιλογή προαιρετικών τροποποιήσεων...</translation>
+        <translation type="vanished">Επιλογή προαιρετικών τροποποιήσεων...</translation>
     </message>
     <message>
         <source>Downloading mods...</source>
-        <translation>Λήψη τροποποιήσεων...</translation>
+        <translation type="vanished">Λήψη τροποποιήσεων...</translation>
     </message>
     <message>
         <source>Mod download</source>
-        <translation>Λήψη Τροποποίησης</translation>
+        <translation type="vanished">Λήψη Τροποποίησης</translation>
     </message>
     <message>
         <source>Unknown download type: %1</source>
-        <translation>Άγνωστος τύπος λήψης: %1</translation>
+        <translation type="vanished">Άγνωστος τύπος λήψης: %1</translation>
     </message>
     <message>
         <source>Blocked mods found</source>
-        <translation>Βρέθηκαν μπλοκαρισμένες τροποποιήσεις</translation>
+        <translation type="vanished">Βρέθηκαν μπλοκαρισμένες τροποποιήσεις</translation>
     </message>
     <message>
         <source>Failed to extract mods...</source>
-        <translation>Η εξαγωγή των τροποποιήσεων απέτυχε...</translation>
+        <translation type="vanished">Η εξαγωγή των τροποποιήσεων απέτυχε...</translation>
     </message>
     <message>
         <source>Extracting mods...</source>
-        <translation>Εξαγωγή τροποποιήσεων...</translation>
+        <translation type="vanished">Εξαγωγή τροποποιήσεων...</translation>
     </message>
     <message>
         <source>Installing modpack</source>
-        <translation>Εγκατάσταση πακέτου τροποποιήσεων</translation>
+        <translation type="vanished">Εγκατάσταση πακέτου τροποποιήσεων</translation>
     </message>
     <message>
         <source>Failed to create libraries component</source>
-        <translation>Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
+        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου βιβλιοθηκών</translation>
     </message>
     <message>
         <source>Unknown loader type: </source>
-        <translation>Άγνωστος τύπος φορτωτή:</translation>
+        <translation type="vanished">Άγνωστος τύπος φορτωτή:</translation>
     </message>
     <message>
         <source>Failed to create pack component</source>
-        <translation>Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
-    </message>
-    <message>
-        <source>Could not understand pack manifest:
-</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>Blocked path traversal in %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>The following files are not available for download in third party launchers.&lt;br/&gt;You will need to manually download them and add them to the instance.</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>%1 out of %2 complete</source>
-        <translation type="unfinished"></translation>
+        <translation type="vanished">Αποτυχία δημιουργίας στοιχείου πακέτου</translation>
     </message>
 </context>
 <context>
@@ -10993,7 +11391,7 @@ HTTP Status: %2</source>
     </message>
     <message>
         <source>%1 (in use)</source>
-        <translation>%1 (σε χρήση)</translation>
+        <translation type="vanished">%1 (σε χρήση)</translation>
     </message>
     <message>
         <source>No Instance Selected</source>
@@ -11821,19 +12219,7 @@ Error message: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <source>the asset %1 is missing from assets/objects</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
         <source>could not create the folder for %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>could not replace %1</source>
-        <translation type="unfinished"></translation>
-    </message>
-    <message>
-        <source>could not copy %1 to %2</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
@@ -11865,11 +12251,47 @@ Error message: %3</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
+        <source>Renewing the Komorebi account&apos;s sign-in…</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>The Komorebi account&apos;s sign-in has expired (%1); sign in again from the accounts menu.</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
         <source>the Java this instance names does not exist: %1</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
         <source>no Java %1 was found on this machine</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>None (vanilla)</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Fabric</source>
+        <translation type="unfinished">«Fabric»</translation>
+    </message>
+    <message>
+        <source>leave empty for the newest</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>Quilt</source>
+        <translation type="unfinished">«Quilt»</translation>
+    </message>
+    <message>
+        <source>Forge</source>
+        <translation type="unfinished">«Forge»</translation>
+    </message>
+    <message>
+        <source>required, for example 47.4.0</source>
+        <translation type="unfinished"></translation>
+    </message>
+    <message>
+        <source>NeoForge</source>
         <translation type="unfinished"></translation>
     </message>
 </context>
@@ -13707,7 +14129,7 @@ Are you sure?</source>
 %2 translated
 %3 fuzzy
 %4 total</source>
-        <translation type="vanished">%1:
+        <translation>%1:
 %2 μεταφράστηκε
 %3 ασαφής
 %4 συνολικά</translation>
