@@ -6218,7 +6218,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished">Microsoftアカウントにサインイン</translation>
+        <translation>Microsoftアカウントにサインイン</translation>
     </message>
     <message>
         <source>Add offline account</source>
@@ -6230,7 +6230,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">削除</translation>
+        <translation>削除</translation>
     </message>
     <message>
         <source>%1  (offline)</source>
@@ -6317,7 +6317,7 @@ Javaのバージョンは後で設定で変更できます。
     <name>KomorebiDeviceCodeDialog</name>
     <message>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished">Microsoftアカウントにサインイン</translation>
+        <translation>Microsoftアカウントにサインイン</translation>
     </message>
     <message>
         <source>Open the address below in a browser and enter the code. This window will wait for you.</source>
@@ -6345,7 +6345,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">閉じる</translation>
+        <translation>閉じる</translation>
     </message>
     <message>
         <source>Code copied. Paste it into the browser.</source>
@@ -6364,7 +6364,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">名前</translation>
+        <translation>名前</translation>
     </message>
     <message>
         <source>reading the version list</source>
@@ -6372,7 +6372,7 @@ Javaのバージョンは後で設定で変更できます。
     </message>
     <message>
         <source>Minecraft</source>
-        <translation type="unfinished">Minecraft</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <source>Loader</source>
@@ -14239,7 +14239,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>leave empty for the newest</source>
@@ -14247,11 +14247,11 @@ Error message: %3</source>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>required, for example 47.4.0</source>
@@ -14259,7 +14259,7 @@ Error message: %3</source>
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
 </context>
 <context>

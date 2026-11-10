@@ -6063,7 +6063,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished">Sign in with Microsoft</translation>
+        <translation>Sign in with Microsoft</translation>
     </message>
     <message>
         <source>Add offline account</source>
@@ -6075,7 +6075,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Remove</source>
-        <translation type="unfinished">Remove</translation>
+        <translation>Remove</translation>
     </message>
     <message>
         <source>%1  (offline)</source>
@@ -6162,7 +6162,7 @@ You can change the Java version in the settings later.
     <name>KomorebiDeviceCodeDialog</name>
     <message>
         <source>Sign in with Microsoft</source>
-        <translation type="unfinished">Sign in with Microsoft</translation>
+        <translation>Sign in with Microsoft</translation>
     </message>
     <message>
         <source>Open the address below in a browser and enter the code. This window will wait for you.</source>
@@ -6190,7 +6190,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Close</source>
-        <translation type="unfinished">Close</translation>
+        <translation>Close</translation>
     </message>
     <message>
         <source>Code copied. Paste it into the browser.</source>
@@ -6209,7 +6209,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Name</source>
-        <translation type="unfinished">Name</translation>
+        <translation>Name</translation>
     </message>
     <message>
         <source>reading the version list</source>
@@ -6217,7 +6217,7 @@ You can change the Java version in the settings later.
     </message>
     <message>
         <source>Minecraft</source>
-        <translation type="unfinished">Minecraft</translation>
+        <translation>Minecraft</translation>
     </message>
     <message>
         <source>Loader</source>
@@ -13733,7 +13733,7 @@ Error message: %3</translation>
     </message>
     <message>
         <source>Fabric</source>
-        <translation type="unfinished">Fabric</translation>
+        <translation>Fabric</translation>
     </message>
     <message>
         <source>leave empty for the newest</source>
@@ -13741,11 +13741,11 @@ Error message: %3</translation>
     </message>
     <message>
         <source>Quilt</source>
-        <translation type="unfinished">Quilt</translation>
+        <translation>Quilt</translation>
     </message>
     <message>
         <source>Forge</source>
-        <translation type="unfinished">Forge</translation>
+        <translation>Forge</translation>
     </message>
     <message>
         <source>required, for example 47.4.0</source>
@@ -13753,7 +13753,7 @@ Error message: %3</translation>
     </message>
     <message>
         <source>NeoForge</source>
-        <translation type="unfinished">NeoForge</translation>
+        <translation>NeoForge</translation>
     </message>
 </context>
 <context>
